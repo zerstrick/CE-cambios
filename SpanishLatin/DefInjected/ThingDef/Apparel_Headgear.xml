@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_Bascinet.label>bascinet</Apparel_Bascinet.label>
+  <Apparel_Bascinet.description>A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy.</Apparel_Bascinet.description>
+
+  <Apparel_GasMask.label>gas mask</Apparel_GasMask.label>
+  <Apparel_GasMask.description>Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins</Apparel_GasMask.description>
+
+  <Apparel_ImprovGasMask.label>improvised gas mask</Apparel_ImprovGasMask.label>
+  <Apparel_ImprovGasMask.description>Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins</Apparel_ImprovGasMask.description>
+
+
+</LanguageData>

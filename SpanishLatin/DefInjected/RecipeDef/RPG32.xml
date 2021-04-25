@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_RPG32Rocket_HEAT.label>make RPG-32 HEAT rockets x5</MakeAmmo_RPG32Rocket_HEAT.label>
+  <MakeAmmo_RPG32Rocket_HEAT.description>Craft 5 RPG-32 HEAT rockets.</MakeAmmo_RPG32Rocket_HEAT.description>
+  <MakeAmmo_RPG32Rocket_HEAT.jobString>Making RPG-32 HEAT rockets.</MakeAmmo_RPG32Rocket_HEAT.jobString>
+
+  <MakeAmmo_RPG32Rocket_Thermobaric.label>make RPG-32 thermobaric rockets x5</MakeAmmo_RPG32Rocket_Thermobaric.label>
+  <MakeAmmo_RPG32Rocket_Thermobaric.description>Craft 5 RPG-32 thermobaric rockets.</MakeAmmo_RPG32Rocket_Thermobaric.description>
+  <MakeAmmo_RPG32Rocket_Thermobaric.jobString>Making RPG-32 thermobaric rockets.</MakeAmmo_RPG32Rocket_Thermobaric.jobString>
+
+
+</LanguageData>

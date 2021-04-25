@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_41Rimfire_FMJ.label>make .41 Rimfire cartridge x500</MakeAmmo_41Rimfire_FMJ.label>
+  <MakeAmmo_41Rimfire_FMJ.description>Craft 500 .41 Rimfire cartridges.</MakeAmmo_41Rimfire_FMJ.description>
+  <MakeAmmo_41Rimfire_FMJ.jobString>Making .41 Rimfire cartridges.</MakeAmmo_41Rimfire_FMJ.jobString>
+
+  <MakeAmmo_41Rimfire_AP.label>make .41 Rimfire (AP) cartridge x500</MakeAmmo_41Rimfire_AP.label>
+  <MakeAmmo_41Rimfire_AP.description>Craft 500 .41 Rimfire (AP) cartridges.</MakeAmmo_41Rimfire_AP.description>
+  <MakeAmmo_41Rimfire_AP.jobString>Making .41 Rimfire (AP) cartridges.</MakeAmmo_41Rimfire_AP.jobString>
+
+  <MakeAmmo_41Rimfire_HP.label>make .41 Rimfire (HP) cartridge x500</MakeAmmo_41Rimfire_HP.label>
+  <MakeAmmo_41Rimfire_HP.description>Craft 500 .41 Rimfire (HP) cartridges.</MakeAmmo_41Rimfire_HP.description>
+  <MakeAmmo_41Rimfire_HP.jobString>Making .41 Rimfire (HP) cartridges.</MakeAmmo_41Rimfire_HP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <AmmoBench.label>loading bench</AmmoBench.label>
+  <AmmoBench.description>A workstation for handloading ammo.</AmmoBench.description>
+  <AmmoBench_Blueprint.label>loading bench (blueprint)</AmmoBench_Blueprint.label>
+  <AmmoBench_Blueprint_Install.label>loading bench (blueprint)</AmmoBench_Blueprint_Install.label>
+  <AmmoBench_Frame.label>loading bench (building)</AmmoBench_Frame.label>
+  <AmmoBench_Frame.description>A workstation for handloading ammo.</AmmoBench_Frame.description>
+
+
+</LanguageData>

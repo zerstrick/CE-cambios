@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Ammo_50mmType89MortarShell_HE.label>
+  <Ammo_50mmType89MortarShell_HE.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Bullet_50mmType89MortarShell_HE.label>
+
+
+</LanguageData>

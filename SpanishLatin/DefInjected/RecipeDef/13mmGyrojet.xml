@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_13mmGyrojet_FMJ.label>make 13mm Gyrojet (FMJ) rocket x500</MakeAmmo_13mmGyrojet_FMJ.label>
+  <MakeAmmo_13mmGyrojet_FMJ.description>Craft 500 13mm Gyrojet (FMJ) rockets.</MakeAmmo_13mmGyrojet_FMJ.description>
+  <MakeAmmo_13mmGyrojet_FMJ.jobString>Making 13mm Gyrojet (FMJ) rockets.</MakeAmmo_13mmGyrojet_FMJ.jobString>
+
+  <MakeAmmo_13mmGyrojet_AP.label>make 13mm Gyrojet (AP) rocket x500</MakeAmmo_13mmGyrojet_AP.label>
+  <MakeAmmo_13mmGyrojet_AP.description>Craft 500 13mm Gyrojet (AP) rockets.</MakeAmmo_13mmGyrojet_AP.description>
+  <MakeAmmo_13mmGyrojet_AP.jobString>Making 13mm Gyrojet (AP) rockets.</MakeAmmo_13mmGyrojet_AP.jobString>
+
+  <MakeAmmo_13mmGyrojet_HP.label>make 13mm Gyrojet (HP) rocket x500</MakeAmmo_13mmGyrojet_HP.label>
+  <MakeAmmo_13mmGyrojet_HP.description>Craft 500 13mm Gyrojet (HP) rockets.</MakeAmmo_13mmGyrojet_HP.description>
+  <MakeAmmo_13mmGyrojet_HP.jobString>Making 13mm Gyrojet (HP) rockets.</MakeAmmo_13mmGyrojet_HP.jobString>
+
+
+</LanguageData>

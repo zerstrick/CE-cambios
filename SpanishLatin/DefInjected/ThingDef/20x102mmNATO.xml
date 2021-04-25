@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x102mmNATO_FMJ.label>20x102mm NATO cartridge (FMJ)</Ammo_20x102mmNATO_FMJ.label>
+  <Ammo_20x102mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_FMJ.description>
+
+  <Ammo_20x102mmNATO_Incendiary.label>20x102mm NATO cartridge (AP-I)</Ammo_20x102mmNATO_Incendiary.label>
+  <Ammo_20x102mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Incendiary.description>
+
+  <Ammo_20x102mmNATO_HE.label>20x102mm NATO cartridge (HE)</Ammo_20x102mmNATO_HE.label>
+  <Ammo_20x102mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_HE.description>
+
+  <Ammo_20x102mmNATO_Sabot.label>20x102mm NATO cartridge (Sabot)</Ammo_20x102mmNATO_Sabot.label>
+  <Ammo_20x102mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x102mmNATO_FMJ.label>20x102mm NATO bullet (FMJ)</Bullet_20x102mmNATO_FMJ.label>
+  <Bullet_20x102mmNATO_Incendiary.label>20x102mm NATO bullet (AP-I)</Bullet_20x102mmNATO_Incendiary.label>
+  <Bullet_20x102mmNATO_HE.label>20x102mm NATO bullet (HE)</Bullet_20x102mmNATO_HE.label>
+  <Bullet_20x102mmNATO_Sabot.label>20x102mm NATO bullet (Sabot)</Bullet_20x102mmNATO_Sabot.label>
+
+
+</LanguageData>

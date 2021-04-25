@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_132x92mmSRTuF_FMJ.label>13.2x92mmSR TuF cartridge (FMJ)</Ammo_132x92mmSRTuF_FMJ.label>
+  <Ammo_132x92mmSRTuF_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_FMJ.description>
+
+  <Ammo_132x92mmSRTuF_Incendiary.label>13.2x92mmSR TuF cartridge (AP-I)</Ammo_132x92mmSRTuF_Incendiary.label>
+  <Ammo_132x92mmSRTuF_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Incendiary.description>
+
+  <Ammo_132x92mmSRTuF_HE.label>13.2x92mmSR TuF cartridge (HE)</Ammo_132x92mmSRTuF_HE.label>
+  <Ammo_132x92mmSRTuF_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_HE.description>
+
+  <Ammo_132x92mmSRTuF_Sabot.label>13.2x92mmSR TuF cartridge (Sabot)</Ammo_132x92mmSRTuF_Sabot.label>
+  <Ammo_132x92mmSRTuF_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_132x92mmSRTuF_FMJ.label>13.2mm TuF bullet (FMJ)</Bullet_132x92mmSRTuF_FMJ.label>
+  <Bullet_132x92mmSRTuF_Incendiary.label>13.2x92mmSR TuF bullet (AP-I)</Bullet_132x92mmSRTuF_Incendiary.label>
+  <Bullet_132x92mmSRTuF_HE.label>13.2x92mmSR TuF bullet (HE)</Bullet_132x92mmSRTuF_HE.label>
+  <Bullet_132x92mmSRTuF_Sabot.label>13.2x92mmSR TuF bullet (Sabot)</Bullet_132x92mmSRTuF_Sabot.label>
+
+
+</LanguageData>

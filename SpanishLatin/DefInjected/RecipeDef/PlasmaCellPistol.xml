@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_PlasmaCellPistol.label>make Plasma Pistol Power Cells</MakeAmmo_PlasmaCellPistol.label>
+  <MakeAmmo_PlasmaCellPistol.description>Craft 500 shots' worth of Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol.description>
+  <MakeAmmo_PlasmaCellPistol.jobString>Making Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol.jobString>
+
+
+</LanguageData>

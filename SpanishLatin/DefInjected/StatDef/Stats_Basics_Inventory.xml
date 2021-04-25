@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bulk.label>bulk</Bulk.label>
+  <Bulk.description>The amount of inventory space an item takes up when carried in bag or pocket.</Bulk.description>
+
+  <AmmoCaliber.label>caliber</AmmoCaliber.label>
+  <AmmoCaliber.description>The guns which accept this type of ammo.</AmmoCaliber.description>
+
+
+</LanguageData>

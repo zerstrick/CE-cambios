@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x50mmRLebel_FMJ.label>8x50mmR Lebel cartridge (FMJ)</Ammo_8x50mmRLebel_FMJ.label>
+  <Ammo_8x50mmRLebel_FMJ.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_FMJ.description>
+
+  <Ammo_8x50mmRLebel_AP.label>8x50mmR Lebel cartridge (AP)</Ammo_8x50mmRLebel_AP.label>
+  <Ammo_8x50mmRLebel_AP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_AP.description>
+
+  <Ammo_8x50mmRLebel_HP.label>8x50mmR Lebel cartridge (HP)</Ammo_8x50mmRLebel_HP.label>
+  <Ammo_8x50mmRLebel_HP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HP.description>
+
+  <Ammo_8x50mmRLebel_Incendiary.label>8x50mmR Lebel cartridge (AP-I)</Ammo_8x50mmRLebel_Incendiary.label>
+  <Ammo_8x50mmRLebel_Incendiary.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Incendiary.description>
+
+  <Ammo_8x50mmRLebel_HE.label>8x50mmR Lebel cartridge (HE)</Ammo_8x50mmRLebel_HE.label>
+  <Ammo_8x50mmRLebel_HE.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_HE.description>
+
+  <Ammo_8x50mmRLebel_Sabot.label>8x50mmR Lebel cartridge (Sabot)</Ammo_8x50mmRLebel_Sabot.label>
+  <Ammo_8x50mmRLebel_Sabot.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_8x50mmRLebel_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x50mmRLebel_FMJ.label>8mmR Lebel bullet (FMJ)</Bullet_8x50mmRLebel_FMJ.label>
+  <Bullet_8x50mmRLebel_AP.label>8mmR Lebel bullet (AP)</Bullet_8x50mmRLebel_AP.label>
+  <Bullet_8x50mmRLebel_HP.label>8mmR Lebel bullet (HP)</Bullet_8x50mmRLebel_HP.label>
+  <Bullet_8x50mmRLebel_Incendiary.label>8mmR Lebel bullet (AP-I)</Bullet_8x50mmRLebel_Incendiary.label>
+  <Bullet_8x50mmRLebel_HE.label>8mmR Lebel bullet (HE)</Bullet_8x50mmRLebel_HE.label>
+  <Bullet_8x50mmRLebel_Sabot.label>8mmR Lebel bullet (Sabot)</Bullet_8x50mmRLebel_Sabot.label>
+
+
+</LanguageData>

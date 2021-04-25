@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_88mmRPzB_HEAT.label>88mm RPzB Rocket (HEAT)</Ammo_88mmRPzB_HEAT.label>
+  <Ammo_88mmRPzB_HEAT.description>Outdated 88mm rocket.</Ammo_88mmRPzB_HEAT.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_88mmRPzB_HEAT.label>88mm RPzB rocket (HEAT)</Bullet_88mmRPzB_HEAT.label>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeDamage.label>melee damage</MeleeDamage.label>
+  <MeleeDamage.description>Damage ranges for each of this weapon's tools.</MeleeDamage.description>
+
+  <MeleePenetrationFactor.label>melee armor penetration factor</MeleePenetrationFactor.label>
+  <MeleePenetrationFactor.description>Capability to penetrate armor on a melee strike. This multiplier is applied to all melee attacks made with this weapon.\n\nThe base value is determined by the tool used.</MeleePenetrationFactor.description>
+
+
+  <!-- <StatDef ParentName="MeleeArmorPenetrationBase">
+    <defName>MeleeArmorPenetration_Weapon</defName>
+    <category>Weapon</category>
+    <displayPriorityInCategory>897</displayPriorityInCategory>
+  </StatDef> -->
+
+  <MeleeCounterParryBonus.label>melee counter parry bonus</MeleeCounterParryBonus.label>
+  <MeleeCounterParryBonus.description>When attacking an opponent with this weapon, the opponent's parry chance is divided by this value.\n\nThis is applied prior to determining the final parry chance.</MeleeCounterParryBonus.description>
+
+
+</LanguageData>

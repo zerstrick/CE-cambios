@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BallistaBolt.label>Ballista Bolt</BallistaBolt.label>
+  <BallistaBolt.description>A steel tip attached to a long and fletched wooden pole, packing a very strong punch against scarcely armored targets.</BallistaBolt.description>
+
+  <BallistaBoltHeavy.label>Heavy Ballista Bolt</BallistaBoltHeavy.label>
+  <BallistaBoltHeavy.description>Fitted with a heavy steel tip to defeat the toughest of targets.</BallistaBoltHeavy.description>
+
+  <BallistaBoltArmorPiercing.label>Armor-Piercing Ballista Bolt</BallistaBoltArmorPiercing.label>
+  <BallistaBoltArmorPiercing.description>Fitted with a streamlined and hardened steel tip to punch through armored targets.</BallistaBoltArmorPiercing.description>
+
+
+</LanguageData>

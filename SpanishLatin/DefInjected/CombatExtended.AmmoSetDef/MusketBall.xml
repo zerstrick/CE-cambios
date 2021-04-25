@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- High Velocity -->
+
+  <AmmoSet_FastMusketBall.label>Musket Ball</AmmoSet_FastMusketBall.label>
+
+
+  <!-- Low Velocity -->
+
+  <AmmoSet_SlowMusketBall.label>Musket Ball</AmmoSet_SlowMusketBall.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x365mmBofors_HE.label>40x365mm Bofors cartridge (HE)</Ammo_40x365mmBofors_HE.label>
+  <Ammo_40x365mmBofors_HE.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_HE.description>
+
+  <Ammo_40x365mmBofors_AP.label>40x365mm Bofors cartridge (AP)</Ammo_40x365mmBofors_AP.label>
+  <Ammo_40x365mmBofors_AP.description>Large caliber cartridge used by autocannons and anti-aircraft cannons.</Ammo_40x365mmBofors_AP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x365mmBofors_HE.label>40x365mm Bofors bullet (HE)</Bullet_40x365mmBofors_HE.label>
+  <Bullet_40x365mmBofors_AP.label>40x365mm Bofors bullet (AP)</Bullet_40x365mmBofors_AP.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_762x385mmRCannonShell_HE.label>make 76.2x385mmR HE cannon shells x5</MakeAmmo_762x385mmRCannonShell_HE.label>
+  <MakeAmmo_762x385mmRCannonShell_HE.description>Craft 5 76.2x385mmR HE cannon shells.</MakeAmmo_762x385mmRCannonShell_HE.description>
+  <MakeAmmo_762x385mmRCannonShell_HE.jobString>Making 76.2x385mmR HE cannon shells.</MakeAmmo_762x385mmRCannonShell_HE.jobString>
+
+  <MakeAmmo_762x385mmRCannonShell_EMP.label>make 76.2x385mmR EMP cannon shells x5</MakeAmmo_762x385mmRCannonShell_EMP.label>
+  <MakeAmmo_762x385mmRCannonShell_EMP.description>Craft 5 76.2x385mmR EMP cannon shells.</MakeAmmo_762x385mmRCannonShell_EMP.description>
+  <MakeAmmo_762x385mmRCannonShell_EMP.jobString>Making 76.2x385mmR EMP cannon shells.</MakeAmmo_762x385mmRCannonShell_EMP.jobString>
+
+
+</LanguageData>

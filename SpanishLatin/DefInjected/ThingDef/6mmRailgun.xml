@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_6mmRailgun_Sabot.label>6mm Railgun cartridge (Sabot)</Ammo_6mmRailgun_Sabot.label>
+  <Ammo_6mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_6mmRailgun_Sabot.label>6mm Railgun bullet (Sabot)</Bullet_6mmRailgun_Sabot.label>
+
+
+</LanguageData>

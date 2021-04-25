@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_155mmHowitzerShell_HE.label>make 155mm HE Howitzer shells x1</MakeAmmo_155mmHowitzerShell_HE.label>
+  <MakeAmmo_155mmHowitzerShell_HE.description>Craft 1 155mm HE Howitzer shells.</MakeAmmo_155mmHowitzerShell_HE.description>
+  <MakeAmmo_155mmHowitzerShell_HE.jobString>Making 155mm HE Howitzer shells.</MakeAmmo_155mmHowitzerShell_HE.jobString>
+
+
+</LanguageData>

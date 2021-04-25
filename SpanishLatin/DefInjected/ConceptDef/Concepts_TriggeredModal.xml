@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught in modal dialogs -->
+
+  <CE_AmmoSettings.label>Ammo settings changed</CE_AmmoSettings.label>
+  <CE_AmmoSettings.helpText>WARNING: You have changed the ammo settings. It is highly recommended you start a new colony with these settings.\n\nChanging the ammo settings on an existing colony is not supported and might result in game-breaking bugs, do so at your own risk.</CE_AmmoSettings.helpText>
+
+
+</LanguageData>

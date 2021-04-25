@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_338Lapua_FMJ.label>make .338 Lapua Magnum (FMJ) cartridge x200</MakeAmmo_338Lapua_FMJ.label>
+  <MakeAmmo_338Lapua_FMJ.description>Craft 200 .338 Lapua Magnum (FMJ) cartridges.</MakeAmmo_338Lapua_FMJ.description>
+  <MakeAmmo_338Lapua_FMJ.jobString>Making .338 Lapua Magnum (FMJ) cartridges.</MakeAmmo_338Lapua_FMJ.jobString>
+
+
+  <!-- <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_338Lapua_HP</defName>
+    <label>make .338 Lapua Magnum (HP) cartridge x200</label>
+    <description>Craft 200 .338 Lapua Magnum (HP) cartridges.</description>
+    <jobString>Making .338 Lapua Magnum (HP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_338Lapua_HP>200</Ammo_338Lapua_HP>
+    </products>
+    <workAmount>2000</workAmount>
+  </RecipeDef> -->
+
+  <MakeAmmo_338Lapua_Incendiary.label>make .338 Lapua Magnum (AP-I) cartridge x200</MakeAmmo_338Lapua_Incendiary.label>
+  <MakeAmmo_338Lapua_Incendiary.description>Craft 200 .338 Lapua Magnum (AP-I) cartridges.</MakeAmmo_338Lapua_Incendiary.description>
+  <MakeAmmo_338Lapua_Incendiary.jobString>Making .338 Lapua Magnum (AP-I) cartridges.</MakeAmmo_338Lapua_Incendiary.jobString>
+
+  <MakeAmmo_338Lapua_HE.label>make .338 Lapua Magnum (HE) cartridge x200</MakeAmmo_338Lapua_HE.label>
+  <MakeAmmo_338Lapua_HE.description>Craft 200 .338 Lapua Magnum (HE) cartridges.</MakeAmmo_338Lapua_HE.description>
+  <MakeAmmo_338Lapua_HE.jobString>Making .338 Lapua Magnum (HE) cartridges.</MakeAmmo_338Lapua_HE.jobString>
+
+  <MakeAmmo_338Lapua_Sabot.label>make .338 Lapua Magnum (Sabot) cartridge x200</MakeAmmo_338Lapua_Sabot.label>
+  <MakeAmmo_338Lapua_Sabot.description>Craft 200 .338 Lapua Magnum (Sabot) cartridges.</MakeAmmo_338Lapua_Sabot.description>
+  <MakeAmmo_338Lapua_Sabot.jobString>Making .338 Lapua Magnum (Sabot) cartridges.</MakeAmmo_338Lapua_Sabot.jobString>
+
+
+</LanguageData>

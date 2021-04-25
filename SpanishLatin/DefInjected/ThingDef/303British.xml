@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_303British_FMJ.label>.303 British cartridge (FMJ)</Ammo_303British_FMJ.label>
+  <Ammo_303British_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_FMJ.description>
+
+  <Ammo_303British_AP.label>.303 British cartridge (AP)</Ammo_303British_AP.label>
+  <Ammo_303British_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_AP.description>
+
+  <Ammo_303British_HP.label>.303 British cartridge (HP)</Ammo_303British_HP.label>
+  <Ammo_303British_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HP.description>
+
+  <Ammo_303British_Incendiary.label>.303 British cartridge (AP-I)</Ammo_303British_Incendiary.label>
+  <Ammo_303British_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Incendiary.description>
+
+  <Ammo_303British_HE.label>.303 British cartridge (HE)</Ammo_303British_HE.label>
+  <Ammo_303British_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HE.description>
+
+  <Ammo_303British_Sabot.label>.303 British cartridge (Sabot)</Ammo_303British_Sabot.label>
+  <Ammo_303British_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_303British_FMJ.label>.303 British bullet (FMJ)</Bullet_303British_FMJ.label>
+  <Bullet_303British_AP.label>.303 British bullet (AP)</Bullet_303British_AP.label>
+  <Bullet_303British_HP.label>.303 British bullet (HP)</Bullet_303British_HP.label>
+  <Bullet_303British_Incendiary.label>.303 British bullet (AP-I)</Bullet_303British_Incendiary.label>
+  <Bullet_303British_HE.label>.303 British bullet (HE)</Bullet_303British_HE.label>
+  <Bullet_303British_Sabot.label>.303 British bullet (Sabot)</Bullet_303British_Sabot.label>
+
+
+</LanguageData>

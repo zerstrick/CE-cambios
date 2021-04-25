@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_338Lapua_FMJ.label>.338 Lapua Magnum cartridge (FMJ)</Ammo_338Lapua_FMJ.label>
+  <Ammo_338Lapua_FMJ.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_FMJ.description>
+
+
+  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Ammo338LapuaBase">
+    <defName>Ammo_338Lapua_HP</defName>
+    <label>.338 Lapua Magnum cartridge (HP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/HighCaliber/HE</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.2</MarketValue>
+    </statBases>
+    <ammoClass>HollowPoint</ammoClass>
+    <cookOffProjectile>Bullet_338Lapua_HP</cookOffProjectile>
+  </ThingDef> -->
+
+  <Ammo_338Lapua_Incendiary.label>.338 Lapua Magnum cartridge (AP-I)</Ammo_338Lapua_Incendiary.label>
+  <Ammo_338Lapua_Incendiary.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Incendiary.description>
+
+  <Ammo_338Lapua_HE.label>.338 Lapua Magnum cartridge (HE)</Ammo_338Lapua_HE.label>
+  <Ammo_338Lapua_HE.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_HE.description>
+
+  <Ammo_338Lapua_Sabot.label>.338 Lapua Magnum cartridge (Sabot)</Ammo_338Lapua_Sabot.label>
+  <Ammo_338Lapua_Sabot.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_338Lapua_FMJ.label>.338 Lapua Magnum bullet (FMJ)</Bullet_338Lapua_FMJ.label>
+
+
+  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Base338LapuaBullet">
+    <defName>Bullet_338Lapua_HP</defName>
+    <label>.338 Lapua Magnum bullet (HP)</label>
+    <projectile Class="CombatExtended.ProjectilePropertiesCE">
+      <damageAmountBase>33</damageAmountBase>
+      <armorPenetrationSharp>6</armorPenetrationSharp>
+      <armorPenetrationBlunt>134.160</armorPenetrationBlunt>
+    </projectile>
+  </ThingDef> -->
+
+  <Bullet_338Lapua_Incendiary.label>.338 Lapua Magnum bullet (AP-I)</Bullet_338Lapua_Incendiary.label>
+  <Bullet_338Lapua_HE.label>.338 Lapua Magnum bullet (HE)</Bullet_338Lapua_HE.label>
+  <Bullet_338Lapua_Sabot.label>.338 Lapua Magnum bullet (Sabot)</Bullet_338Lapua_Sabot.label>
+
+
+</LanguageData>

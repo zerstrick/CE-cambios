@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_12mmRailgun_Sabot.label>12mm Railgun cartridge (Sabot)</Ammo_12mmRailgun_Sabot.label>
+  <Ammo_12mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons.</Ammo_12mmRailgun_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_12mmRailgun_Sabot.label>12mm Railgun bullet (Sabot)</Bullet_12mmRailgun_Sabot.label>
+
+
+</LanguageData>

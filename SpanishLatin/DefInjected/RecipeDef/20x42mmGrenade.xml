@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x42mmGrenade_HE.label>make 20x42mm HE grenades x100</MakeAmmo_20x42mmGrenade_HE.label>
+  <MakeAmmo_20x42mmGrenade_HE.description>Craft 100 20x42mm HE grenades.</MakeAmmo_20x42mmGrenade_HE.description>
+  <MakeAmmo_20x42mmGrenade_HE.jobString>Making 20x42mm HE grenades.</MakeAmmo_20x42mmGrenade_HE.jobString>
+
+  <MakeAmmo_20x42mmGrenade_EMP.label>make 20x42mm EMP grenades x100</MakeAmmo_20x42mmGrenade_EMP.label>
+  <MakeAmmo_20x42mmGrenade_EMP.description>Craft 100 20x42mm EMP grenades.</MakeAmmo_20x42mmGrenade_EMP.description>
+  <MakeAmmo_20x42mmGrenade_EMP.jobString>Making 20x42mm EMP grenades.</MakeAmmo_20x42mmGrenade_EMP.jobString>
+
+  <MakeAmmo_20x42mmGrenade_Smoke.label>make 20x42mm smoke grenades x100</MakeAmmo_20x42mmGrenade_Smoke.label>
+  <MakeAmmo_20x42mmGrenade_Smoke.description>Craft 100 20x42mm smoke grenades.</MakeAmmo_20x42mmGrenade_Smoke.description>
+  <MakeAmmo_20x42mmGrenade_Smoke.jobString>Making 20x42mm smoke grenades.</MakeAmmo_20x42mmGrenade_Smoke.jobString>
+
+
+</LanguageData>

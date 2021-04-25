@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_556x45mmNATO_FMJ.label>5.56x45mm NATO cartridge (FMJ)</Ammo_556x45mmNATO_FMJ.label>
+  <Ammo_556x45mmNATO_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_FMJ.description>
+
+  <Ammo_556x45mmNATO_AP.label>5.56x45mm NATO cartridge (AP)</Ammo_556x45mmNATO_AP.label>
+  <Ammo_556x45mmNATO_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_AP.description>
+
+  <Ammo_556x45mmNATO_HP.label>5.56x45mm NATO cartridge (HP)</Ammo_556x45mmNATO_HP.label>
+  <Ammo_556x45mmNATO_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HP.description>
+
+  <Ammo_556x45mmNATO_Incendiary.label>5.56x45mm NATO cartridge (AP-I)</Ammo_556x45mmNATO_Incendiary.label>
+  <Ammo_556x45mmNATO_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Incendiary.description>
+
+  <Ammo_556x45mmNATO_HE.label>5.56x45mm NATO cartridge (HE)</Ammo_556x45mmNATO_HE.label>
+  <Ammo_556x45mmNATO_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HE.description>
+
+  <Ammo_556x45mmNATO_Sabot.label>5.56x45mm NATO cartridge (Sabot)</Ammo_556x45mmNATO_Sabot.label>
+  <Ammo_556x45mmNATO_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_556x45mmNATO_FMJ.label>5.56mm NATO bullet (FMJ)</Bullet_556x45mmNATO_FMJ.label>
+  <Bullet_556x45mmNATO_AP.label>5.56mm NATO bullet (AP)</Bullet_556x45mmNATO_AP.label>
+  <Bullet_556x45mmNATO_HP.label>5.56mm NATO bullet (HP)</Bullet_556x45mmNATO_HP.label>
+  <Bullet_556x45mmNATO_Incendiary.label>5.56mm NATO bullet (AP-I)</Bullet_556x45mmNATO_Incendiary.label>
+  <Bullet_556x45mmNATO_HE.label>5.56mm NATO bullet (HE)</Bullet_556x45mmNATO_HE.label>
+  <Bullet_556x45mmNATO_Sabot.label>5.56mm NATO bullet (Sabot)</Bullet_556x45mmNATO_Sabot.label>
+
+
+</LanguageData>

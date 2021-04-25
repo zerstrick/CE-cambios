@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_50mmType89MortarShell_HE.label>make 50mm type 89 HE mortar shells x5</MakeAmmo_50mmType89MortarShell_HE.label>
+  <MakeAmmo_50mmType89MortarShell_HE.description>Craft 5 50mm type 89 HE mortar shells.</MakeAmmo_50mmType89MortarShell_HE.description>
+  <MakeAmmo_50mmType89MortarShell_HE.jobString>Making 50mm type 89 HE mortar shells.</MakeAmmo_50mmType89MortarShell_HE.jobString>
+
+
+</LanguageData>

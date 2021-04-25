@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_Flamethrower_Napalm.label>make jellied chemfuel x100</MakeAmmo_Flamethrower_Napalm.label>
+  <MakeAmmo_Flamethrower_Napalm.description>Craft 100 units of jellied chemfuel.</MakeAmmo_Flamethrower_Napalm.description>
+  <MakeAmmo_Flamethrower_Napalm.jobString>Making jellied chemfuel.</MakeAmmo_Flamethrower_Napalm.jobString>
+
+  <MakeAmmo_Flamethrower_Prometheum.label>make jellied prometheum x100</MakeAmmo_Flamethrower_Prometheum.label>
+  <MakeAmmo_Flamethrower_Prometheum.description>Craft 100 units of jellied prometheum.</MakeAmmo_Flamethrower_Prometheum.description>
+  <MakeAmmo_Flamethrower_Prometheum.jobString>Making jellied prometheum.</MakeAmmo_Flamethrower_Prometheum.jobString>
+
+
+</LanguageData>

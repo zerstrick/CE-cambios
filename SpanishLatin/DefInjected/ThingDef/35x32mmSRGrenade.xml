@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_35x32mmSRGrenade_HE.label>35x32mmSR grenade (HE)</Ammo_35x32mmSRGrenade_HE.label>
+  <Ammo_35x32mmSRGrenade_HE.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_HE.description>
+
+  <Ammo_35x32mmSRGrenade_EMP.label>35x32mmSR grenade (EMP)</Ammo_35x32mmSRGrenade_EMP.label>
+  <Ammo_35x32mmSRGrenade_EMP.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_EMP.description>
+
+  <Ammo_35x32mmSRGrenade_Smoke.label>35x32mmSR grenade (Smoke)</Ammo_35x32mmSRGrenade_Smoke.label>
+  <Ammo_35x32mmSRGrenade_Smoke.description>High velocity grenade fired from handheld grenade launchers.</Ammo_35x32mmSRGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_35x32mmSRGrenade_HE.label>35x32mmSR grenade (HE)</Bullet_35x32mmSRGrenade_HE.label>
+  <Bullet_35x32mmSRGrenade_EMP.label>35x32mmSR grenade (EMP)</Bullet_35x32mmSRGrenade_EMP.label>
+  <Bullet_35x32mmSRGrenade_Smoke.label>35x32mmSR grenade (Smoke)</Bullet_35x32mmSRGrenade_Smoke.label>
+
+
+</LanguageData>

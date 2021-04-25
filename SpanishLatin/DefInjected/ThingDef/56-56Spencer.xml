@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_5656Spencer_FMJ.label>56-56 Spencer cartridge (FMJ)</Ammo_5656Spencer_FMJ.label>
+  <Ammo_5656Spencer_FMJ.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_FMJ.description>
+
+  <Ammo_5656Spencer_AP.label>.56-56 Spencer cartridge (AP)</Ammo_5656Spencer_AP.label>
+  <Ammo_5656Spencer_AP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_AP.description>
+
+  <Ammo_5656Spencer_HP.label>.56-56 Spencer cartridge (HP)</Ammo_5656Spencer_HP.label>
+  <Ammo_5656Spencer_HP.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HP.description>
+
+  <Ammo_5656Spencer_Incendiary.label>.56-56 Spencer cartridge (AP-I)</Ammo_5656Spencer_Incendiary.label>
+  <Ammo_5656Spencer_Incendiary.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Incendiary.description>
+
+  <Ammo_5656Spencer_HE.label>.56-56 Spencer cartridge (HE)</Ammo_5656Spencer_HE.label>
+  <Ammo_5656Spencer_HE.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_HE.description>
+
+  <Ammo_5656Spencer_Sabot.label>.56-56 Spencer cartridge (Sabot)</Ammo_5656Spencer_Sabot.label>
+  <Ammo_5656Spencer_Sabot.description>Ancient cartridge for use in the Spencer repeating rifle.</Ammo_5656Spencer_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_5656Spencer_FMJ.label>.56-56 Spencer bullet (FMJ)</Bullet_5656Spencer_FMJ.label>
+  <Bullet_5656Spencer_AP.label>.56-56 Spencer bullet (AP)</Bullet_5656Spencer_AP.label>
+  <Bullet_5656Spencer_HP.label>.56-56 Spencer bullet (HP)</Bullet_5656Spencer_HP.label>
+  <Bullet_5656Spencer_Incendiary.label>.56-56 Spencer bullet (AP-I)</Bullet_5656Spencer_Incendiary.label>
+  <Bullet_5656Spencer_HE.label>.56-56 Spencer bullet (HE)</Bullet_5656Spencer_HE.label>
+  <Bullet_5656Spencer_Sabot.label>.56-56 Spencer bullet (Sabot)</Bullet_5656Spencer_Sabot.label>
+
+
+</LanguageData>

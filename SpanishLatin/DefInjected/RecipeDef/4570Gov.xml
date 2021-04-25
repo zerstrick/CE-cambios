@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_4570Gov_FMJ.label>make .45-70 Government cartridge (FMJ) cartridge x400</MakeAmmo_4570Gov_FMJ.label>
+  <MakeAmmo_4570Gov_FMJ.description>Craft 500 .45-70 Government cartridge (FMJ) cartridges.</MakeAmmo_4570Gov_FMJ.description>
+  <MakeAmmo_4570Gov_FMJ.jobString>Making .45-70 Government cartridge (FMJ) cartridges.</MakeAmmo_4570Gov_FMJ.jobString>
+
+  <MakeAmmo_4570Gov_AP.label>make .45-70 Government cartridge (AP) cartridge x500</MakeAmmo_4570Gov_AP.label>
+  <MakeAmmo_4570Gov_AP.description>Craft 500 .45-70 Government cartridge (AP) cartridges.</MakeAmmo_4570Gov_AP.description>
+  <MakeAmmo_4570Gov_AP.jobString>Making .45-70 Government cartridge (AP) cartridges.</MakeAmmo_4570Gov_AP.jobString>
+
+  <MakeAmmo_4570Gov_HP.label>make .45-70 Government cartridge (HP) cartridge x500</MakeAmmo_4570Gov_HP.label>
+  <MakeAmmo_4570Gov_HP.description>Craft 500 .45-70 Government cartridge (HP) cartridges.</MakeAmmo_4570Gov_HP.description>
+  <MakeAmmo_4570Gov_HP.jobString>Making .45-70 Government cartridge (HP) cartridges.</MakeAmmo_4570Gov_HP.jobString>
+
+  <MakeAmmo_4570Gov_Incendiary.label>make .45-70 Government (AP-I) cartridge x500</MakeAmmo_4570Gov_Incendiary.label>
+  <MakeAmmo_4570Gov_Incendiary.description>Craft 500 .45-70 Government (AP-I) cartridges.</MakeAmmo_4570Gov_Incendiary.description>
+  <MakeAmmo_4570Gov_Incendiary.jobString>Making .45-70 Government (AP-I) cartridges.</MakeAmmo_4570Gov_Incendiary.jobString>
+
+  <MakeAmmo_4570Gov_HE.label>make .45-70 Government (HE) cartridge x500</MakeAmmo_4570Gov_HE.label>
+  <MakeAmmo_4570Gov_HE.description>Craft 500 .45-70 Government (HE) cartridges.</MakeAmmo_4570Gov_HE.description>
+  <MakeAmmo_4570Gov_HE.jobString>Making .45-70 Government (HE) cartridges.</MakeAmmo_4570Gov_HE.jobString>
+
+  <MakeAmmo_4570Gov_Sabot.label>make .45-70 Government (Sabot) cartridge x500</MakeAmmo_4570Gov_Sabot.label>
+  <MakeAmmo_4570Gov_Sabot.description>Craft 500 .45-70 Government (Sabot) cartridges.</MakeAmmo_4570Gov_Sabot.description>
+  <MakeAmmo_4570Gov_Sabot.jobString>Making .45-70 Government (Sabot) cartridges.</MakeAmmo_4570Gov_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmokeSensitivity.label>smoke sensitivity</SmokeSensitivity.label>
+  <SmokeSensitivity.description>Multiplier on the impact of smoke inhalation on this creature.</SmokeSensitivity.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_88mmRPzB_HEAT.label>make 88mm RPzB HEAT rockets x5</MakeAmmo_88mmRPzB_HEAT.label>
+  <MakeAmmo_88mmRPzB_HEAT.description>Craft 5 88mm RPzB HEAT rockets.</MakeAmmo_88mmRPzB_HEAT.description>
+  <MakeAmmo_88mmRPzB_HEAT.jobString>Making 88mm RPzB HEAT rockets.</MakeAmmo_88mmRPzB_HEAT.jobString>
+
+
+</LanguageData>

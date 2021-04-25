@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeShell_60mmMortar_HE.label>make 60mm HE mortar shells x5</MakeShell_60mmMortar_HE.label>
+  <MakeShell_60mmMortar_HE.description>Craft 5 60mm HE mortar shells.</MakeShell_60mmMortar_HE.description>
+  <MakeShell_60mmMortar_HE.jobString>Making 60mm HE mortar shells.</MakeShell_60mmMortar_HE.jobString>
+
+  <MakeShell_60mmMortar_Incendiary.label>make 60mm incendiary mortar shells x5</MakeShell_60mmMortar_Incendiary.label>
+  <MakeShell_60mmMortar_Incendiary.description>Craft 5 60mm incendiary mortar shells.</MakeShell_60mmMortar_Incendiary.description>
+  <MakeShell_60mmMortar_Incendiary.jobString>Making 60mm incendiary mortar shells.</MakeShell_60mmMortar_Incendiary.jobString>
+
+  <MakeShell_60mmMortar_EMP.label>make 60mm EMP mortar shells x5</MakeShell_60mmMortar_EMP.label>
+  <MakeShell_60mmMortar_EMP.description>Craft 5 60mm EMP mortar shells.</MakeShell_60mmMortar_EMP.description>
+  <MakeShell_60mmMortar_EMP.jobString>Making 60mm EMP mortar shells.</MakeShell_60mmMortar_EMP.jobString>
+
+  <MakeShell_60mmMortar_Firefoam.label>make 60mm firefoam mortar shells x5</MakeShell_60mmMortar_Firefoam.label>
+  <MakeShell_60mmMortar_Firefoam.description>Craft 5 60mm firefoam mortar shells.</MakeShell_60mmMortar_Firefoam.description>
+  <MakeShell_60mmMortar_Firefoam.jobString>Making 60mm firefoam mortar shells.</MakeShell_60mmMortar_Firefoam.jobString>
+
+  <MakeShell_60mmMortar_Smoke.label>make 60mm smoke mortar shells x5</MakeShell_60mmMortar_Smoke.label>
+  <MakeShell_60mmMortar_Smoke.description>Craft 5 60mm smoke mortar shells.</MakeShell_60mmMortar_Smoke.description>
+  <MakeShell_60mmMortar_Smoke.jobString>Making 60mm smoke mortar shells.</MakeShell_60mmMortar_Smoke.jobString>
+
+
+</LanguageData>

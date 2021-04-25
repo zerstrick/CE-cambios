@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ammo.label>ammunition</Ammo.label>
+  <AmmoAdvanced.label>advanced</AmmoAdvanced.label>
+  <AmmoGrenades.label>grenade</AmmoGrenades.label>
+  <AmmoHighCaliber.label>high caliber</AmmoHighCaliber.label>
+  <AmmoPistols.label>pistol</AmmoPistols.label>
+  <AmmoRifles.label>rifle</AmmoRifles.label>
+  <AmmoShotguns.label>shotgun</AmmoShotguns.label>
+  <AmmoRockets.label>rocket</AmmoRockets.label>
+  <AmmoMissiles.label>missile</AmmoMissiles.label>
+  <AmmoShells.label>shell</AmmoShells.label>
+  <AmmoNeolithic.label>neolithic</AmmoNeolithic.label>
+  <AmmoMedieval.label>medieval</AmmoMedieval.label>
+  <Loadout.label>loadbearing gear</Loadout.label>
+  <WeaponsTurrets.label>turrets</WeaponsTurrets.label>
+  <Shields.label>shields</Shields.label>
+
+
+</LanguageData>

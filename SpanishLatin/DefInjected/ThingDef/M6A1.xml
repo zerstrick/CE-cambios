@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_M6A1_HEAT.label>M6A1 Rocket (HEAT)</Ammo_M6A1_HEAT.label>
+  <Ammo_M6A1_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M1A1 Bazooka.</Ammo_M6A1_HEAT.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_M6A1_HEAT.label>M6A1 rocket (HEAT)</Bullet_M6A1_HEAT.label>
+
+
+</LanguageData>

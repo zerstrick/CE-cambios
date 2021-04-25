@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_155mmHowitzerShell_HE.label>155mm Howitzer shell (HE)</Ammo_155mmHowitzerShell_HE.label>
+  <Ammo_155mmHowitzerShell_HE.description>Large cannon shell used by howitzers.</Ammo_155mmHowitzerShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_155mmHowitzerShell_HE.label>155mm Howitzer shell (HE)</Bullet_155mmHowitzerShell_HE.label>
+
+
+</LanguageData>

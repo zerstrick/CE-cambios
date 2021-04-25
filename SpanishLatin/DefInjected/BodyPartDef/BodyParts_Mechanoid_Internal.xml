@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Power Core -->
+
+  <MechanicalPowerCore.label>power core</MechanicalPowerCore.label>
+
+
+  <!-- Capacitors -->
+
+  <MechanicalCapacitor.label>supercapacitor</MechanicalCapacitor.label>
+
+
+  <!-- Heat sinks -->
+
+  <MechanicalHeatSink.label>compression heatsink</MechanicalHeatSink.label>
+
+
+  <!-- <BodyPartDef>
+    <defName>MechanicalCoolantPump</defName>
+    <label>coolant pump</label>
+    <hitPoints>10</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+	<bleedRate>0</bleedRate>
+    <tags>
+      <li>BloodPumpingSource</li>
+    </tags>
+  </BodyPartDef> -->
+
+  <MechanicalCoolantTank.label>coolant tank</MechanicalCoolantTank.label>
+
+
+  <!-- Weapons -->
+
+  <MechanicalWeaponActuator.label>weapon actuator</MechanicalWeaponActuator.label>
+
+
+  <!-- <BodyPartDef>
+    <defName>MechanicalHydraulicsControl</defName>
+    <label>hydraulics control unit</label>
+    <hitPoints>20</hitPoints>
+    <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+    <skinCovered>false</skinCovered>
+    <solid>true</solid>
+	<bleedRate>0</bleedRate>
+    <tags>
+      <li>Moving_hydraulics</li>
+      <li>Manipulation_hydraulics</li>
+    </tags>
+  </BodyPartDef> -->
+
+  <MechanicalUpperActuator.label>upper actuator</MechanicalUpperActuator.label>
+  <MechanicalUpperPiston.label>upper piston</MechanicalUpperPiston.label>
+  <MechanicalLowerActuator.label>lower actuator</MechanicalLowerActuator.label>
+  <MechanicalLowerPiston.label>lower piston</MechanicalLowerPiston.label>
+  <MechanicalRollerBearing.label>roller bearing</MechanicalRollerBearing.label>
+
+
+</LanguageData>

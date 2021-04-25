@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_55Boys_FMJ.label>make .55 Boys (FMJ) cartridge x200</MakeAmmo_55Boys_FMJ.label>
+  <MakeAmmo_55Boys_FMJ.description>Craft 200 .55 Boys (FMJ) cartridges.</MakeAmmo_55Boys_FMJ.description>
+  <MakeAmmo_55Boys_FMJ.jobString>Making .55 Boys (FMJ) cartridges.</MakeAmmo_55Boys_FMJ.jobString>
+
+  <MakeAmmo_55Boys_Incendiary.label>make .55 Boys (AP-I) cartridge x200</MakeAmmo_55Boys_Incendiary.label>
+  <MakeAmmo_55Boys_Incendiary.description>Craft 200 .55 Boys (AP-I) cartridges.</MakeAmmo_55Boys_Incendiary.description>
+  <MakeAmmo_55Boys_Incendiary.jobString>Making .55 Boys (AP-I) cartridges.</MakeAmmo_55Boys_Incendiary.jobString>
+
+  <MakeAmmo_55Boys_HE.label>make .55 Boys (HE) cartridge x200</MakeAmmo_55Boys_HE.label>
+  <MakeAmmo_55Boys_HE.description>Craft 200 .55 Boys (HE) cartridges.</MakeAmmo_55Boys_HE.description>
+  <MakeAmmo_55Boys_HE.jobString>Making .55 Boys (HE) cartridges.</MakeAmmo_55Boys_HE.jobString>
+
+  <MakeAmmo_55Boys_Sabot.label>make .55 Boys (Sabot) cartridge x200</MakeAmmo_55Boys_Sabot.label>
+  <MakeAmmo_55Boys_Sabot.description>Craft 200 .55 Boys (Sabot) cartridges.</MakeAmmo_55Boys_Sabot.description>
+  <MakeAmmo_55Boys_Sabot.jobString>Making .55 Boys (Sabot) cartridges.</MakeAmmo_55Boys_Sabot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_4570Gov_FMJ.label>.45-70 Government cartridge (FMJ)</Ammo_4570Gov_FMJ.label>
+  <Ammo_4570Gov_FMJ.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_FMJ.description>
+
+  <Ammo_4570Gov_AP.label>.45-70 Government cartridge (AP)</Ammo_4570Gov_AP.label>
+  <Ammo_4570Gov_AP.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_AP.description>
+
+  <Ammo_4570Gov_HP.label>.45-70 Government cartridge (HP)</Ammo_4570Gov_HP.label>
+  <Ammo_4570Gov_HP.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_HP.description>
+
+  <Ammo_4570Gov_Incendiary.label>.45-70 Government cartridge (AP-I)</Ammo_4570Gov_Incendiary.label>
+  <Ammo_4570Gov_Incendiary.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_Incendiary.description>
+
+  <Ammo_4570Gov_HE.label>.45-70 Government cartridge (HE)</Ammo_4570Gov_HE.label>
+  <Ammo_4570Gov_HE.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_HE.description>
+
+  <Ammo_4570Gov_Sabot.label>.45-70 Government cartridge (Sabot)</Ammo_4570Gov_Sabot.label>
+  <Ammo_4570Gov_Sabot.description>Rather large and bulky rifle cartridge propelled by a charge of 'black powder'. Good for making people imitate sacks when they are hit.</Ammo_4570Gov_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_4570Gov_FMJ.label>.45-70 Government cartridge (FMJ)</Bullet_4570Gov_FMJ.label>
+  <Bullet_4570Gov_AP.label>.45-70 Government cartridge (AP)</Bullet_4570Gov_AP.label>
+  <Bullet_4570Gov_HP.label>.45-70 Government cartridge (HP)</Bullet_4570Gov_HP.label>
+  <Bullet_4570Gov_Incendiary.label>.45-70 bullet (AP-I)</Bullet_4570Gov_Incendiary.label>
+  <Bullet_4570Gov_HE.label>.45-70 bullet (HE)</Bullet_4570Gov_HE.label>
+  <Bullet_4570Gov_Sabot.label>.45-70 bullet (Sabot)</Bullet_4570Gov_Sabot.label>
+
+
+</LanguageData>

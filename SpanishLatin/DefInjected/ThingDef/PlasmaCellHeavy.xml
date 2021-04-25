@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_PlasmaCellHeavy.label>Plasma Heavy Power Cell</Ammo_PlasmaCellHeavy.label>
+  <Ammo_PlasmaCellHeavy.description>Plasma containment power cell optimized for heavy weapons</Ammo_PlasmaCellHeavy.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_PlasmaCellHeavy.label>Plasma Bolt</Bullet_PlasmaCellHeavy.label>
+
+
+</LanguageData>

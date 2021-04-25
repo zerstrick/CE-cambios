@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_SlingBullet_Stone.label>make stone sling bullets x10</MakeAmmo_SlingBullet_Stone.label>
+  <MakeAmmo_SlingBullet_Stone.description>Make 10 stone sling bullets.</MakeAmmo_SlingBullet_Stone.description>
+  <MakeAmmo_SlingBullet_Stone.jobString>Making stone sling bullets.</MakeAmmo_SlingBullet_Stone.jobString>
+
+  <MakeAmmo_SlingBullet_Steel.label>make steel sling bullets x10</MakeAmmo_SlingBullet_Steel.label>
+  <MakeAmmo_SlingBullet_Steel.description>Make 10 steel sling bullets.</MakeAmmo_SlingBullet_Steel.description>
+  <MakeAmmo_SlingBullet_Steel.jobString>Making steel sling bullets.</MakeAmmo_SlingBullet_Steel.jobString>
+
+
+</LanguageData>

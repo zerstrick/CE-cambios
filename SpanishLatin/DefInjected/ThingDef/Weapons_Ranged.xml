@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Grenade Launcher -->
+
+  <CE_GrenadeLauncher.label>grenade launcher</CE_GrenadeLauncher.label>
+  <CE_GrenadeLauncher.description>A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles.</CE_GrenadeLauncher.description>
+  <CE_GrenadeLauncher.tools.0.label>stock</CE_GrenadeLauncher.tools.0.label>
+  <CE_GrenadeLauncher.tools.1.label>barrel</CE_GrenadeLauncher.tools.1.label>
+  <CE_GrenadeLauncher.tools.2.label>muzzle</CE_GrenadeLauncher.tools.2.label>
+
+
+  <!-- Explosive Bolt Launcher -->
+
+  <CE_ExplosiveBoltProjector.label>explosive bolt projector</CE_ExplosiveBoltProjector.label>
+  <CE_ExplosiveBoltProjector.description>A low-velocity, high-trajectory fire support system deployed by mechanoid Pikeman. While inaccurate and slow-firing, it remains a potent weapon against static targets.</CE_ExplosiveBoltProjector.description>
+  <CE_ExplosiveBoltProjector.tools.0.label>barrel</CE_ExplosiveBoltProjector.tools.0.label>
+
+
+</LanguageData>

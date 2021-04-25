@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_28cmSpgrShell_HE.label>make 28cm Spgr. HE cannon shells x5</MakeAmmo_28cmSpgrShell_HE.label>
+  <MakeAmmo_28cmSpgrShell_HE.description>Craft 5 28cm Spgr. HE cannon shells.</MakeAmmo_28cmSpgrShell_HE.description>
+  <MakeAmmo_28cmSpgrShell_HE.jobString>Making 28cm Spgr. HE cannon shells.</MakeAmmo_28cmSpgrShell_HE.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flashbang grenade -->
+
+  <Proj_GrenadeFlashbang.label>flashbang grenade</Proj_GrenadeFlashbang.label>
+
+  <Weapon_GrenadeFlashbang.label>flashbang grenade</Weapon_GrenadeFlashbang.label>
+  <Weapon_GrenadeFlashbang.description>Pyrotechnic charge designed to produce a blinding flash of light and loud noise, temporarily blinding and disorienting anyone nearby.</Weapon_GrenadeFlashbang.description>
+  <Weapon_GrenadeFlashbang.verbs.0.label>throw flashbang grenade</Weapon_GrenadeFlashbang.verbs.0.label>
+
+
+  <!-- Stick bomb -->
+
+  <Proj_GrenadeStickBomb.label>stick bomb</Proj_GrenadeStickBomb.label>
+
+  <Weapon_GrenadeStickBomb.label>stick bomb</Weapon_GrenadeStickBomb.label>
+  <Weapon_GrenadeStickBomb.description>Primitive fuse-lit explosive. A favorite of tribals who use these to fight technologically advanced enemies with heavy armor.</Weapon_GrenadeStickBomb.description>
+  <Weapon_GrenadeStickBomb.verbs.0.label>throw stick bomb</Weapon_GrenadeStickBomb.verbs.0.label>
+
+
+  <!-- Smoke grenade -->
+
+  <Proj_GrenadeSmoke.label>smoke grenade</Proj_GrenadeSmoke.label>
+
+  <Weapon_GrenadeSmoke.label>smoke grenade</Weapon_GrenadeSmoke.label>
+  <Weapon_GrenadeSmoke.description>Releases a large cloud of defensive smoke, providing concealment against gunfire.</Weapon_GrenadeSmoke.description>
+  <Weapon_GrenadeSmoke.verbs.0.label>throw smoke grenade</Weapon_GrenadeSmoke.verbs.0.label>
+
+
+  <!-- Firefoam grenade -->
+
+  <Proj_GrenadeFirefoam.label>firefoam grenade</Proj_GrenadeFirefoam.label>
+
+  <Weapon_GrenadeFirefoam.label>firefoam grenade</Weapon_GrenadeFirefoam.label>
+  <Weapon_GrenadeFirefoam.description>Special firefighting grenade. Releases a cloud of firefoam upon impact.</Weapon_GrenadeFirefoam.description>
+  <Weapon_GrenadeFirefoam.verbs.0.label>throw firefoam grenade</Weapon_GrenadeFirefoam.verbs.0.label>
+
+
+</LanguageData>

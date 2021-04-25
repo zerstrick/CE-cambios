@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x102mmNATO_FMJ.label>make 20x102mm NATO (FMJ) cartridge x200</MakeAmmo_20x102mmNATO_FMJ.label>
+  <MakeAmmo_20x102mmNATO_FMJ.description>Craft 200 20x102mm NATO (FMJ) cartridges.</MakeAmmo_20x102mmNATO_FMJ.description>
+  <MakeAmmo_20x102mmNATO_FMJ.jobString>Making 20x102mm NATO (FMJ) cartridges.</MakeAmmo_20x102mmNATO_FMJ.jobString>
+
+  <MakeAmmo_20x102mmNATO_Incendiary.label>make 20x102mm NATO (AP-I) cartridge x200</MakeAmmo_20x102mmNATO_Incendiary.label>
+  <MakeAmmo_20x102mmNATO_Incendiary.description>Craft 200 .20x102mm NATO (AP-I) cartridges.</MakeAmmo_20x102mmNATO_Incendiary.description>
+  <MakeAmmo_20x102mmNATO_Incendiary.jobString>Making .20x102mm NATO (AP-I) cartridges.</MakeAmmo_20x102mmNATO_Incendiary.jobString>
+
+  <MakeAmmo_20x102mmNATO_HE.label>make 20x102mm NATO (HE) cartridge x200</MakeAmmo_20x102mmNATO_HE.label>
+  <MakeAmmo_20x102mmNATO_HE.description>Craft 200 .20x102mm NATO (HE) cartridges.</MakeAmmo_20x102mmNATO_HE.description>
+  <MakeAmmo_20x102mmNATO_HE.jobString>Making .20x102mm NATO (HE) cartridges.</MakeAmmo_20x102mmNATO_HE.jobString>
+
+  <MakeAmmo_20x102mmNATO_Sabot.label>make 20x102mm NATO (Sabot) cartridge x200</MakeAmmo_20x102mmNATO_Sabot.label>
+  <MakeAmmo_20x102mmNATO_Sabot.description>Craft 200 .20x102mm NATO (Sabot) cartridges.</MakeAmmo_20x102mmNATO_Sabot.description>
+  <MakeAmmo_20x102mmNATO_Sabot.jobString>Making .20x102mm NATO (Sabot) cartridges.</MakeAmmo_20x102mmNATO_Sabot.jobString>
+
+
+</LanguageData>

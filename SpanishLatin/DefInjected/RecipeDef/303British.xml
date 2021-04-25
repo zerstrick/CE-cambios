@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_303British_FMJ.label>make .303 British (FMJ) cartridge x500</MakeAmmo_303British_FMJ.label>
+  <MakeAmmo_303British_FMJ.description>Craft 500 .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ.description>
+  <MakeAmmo_303British_FMJ.jobString>Making .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ.jobString>
+
+  <MakeAmmo_303British_AP.label>make .303 British (AP) cartridge x500</MakeAmmo_303British_AP.label>
+  <MakeAmmo_303British_AP.description>Craft 500 .303 British (AP) cartridges.</MakeAmmo_303British_AP.description>
+  <MakeAmmo_303British_AP.jobString>Making .303 British (AP) cartridges.</MakeAmmo_303British_AP.jobString>
+
+  <MakeAmmo_303British_HP.label>make .303 British (HP) cartridge x500</MakeAmmo_303British_HP.label>
+  <MakeAmmo_303British_HP.description>Craft 500 .303 British (HP) cartridges.</MakeAmmo_303British_HP.description>
+  <MakeAmmo_303British_HP.jobString>Making .303 British (HP) cartridges.</MakeAmmo_303British_HP.jobString>
+
+  <MakeAmmo_303British_Incendiary.label>make .303 British (AP-I) cartridge x500</MakeAmmo_303British_Incendiary.label>
+  <MakeAmmo_303British_Incendiary.description>Craft 500 .303 British (AP-I) cartridges.</MakeAmmo_303British_Incendiary.description>
+  <MakeAmmo_303British_Incendiary.jobString>Making .303 British (AP-I) cartridges.</MakeAmmo_303British_Incendiary.jobString>
+
+  <MakeAmmo_303British_HE.label>make .303 British (HE) cartridge x500</MakeAmmo_303British_HE.label>
+  <MakeAmmo_303British_HE.description>Craft 500 .303 British (HE) cartridges.</MakeAmmo_303British_HE.description>
+  <MakeAmmo_303British_HE.jobString>Making .303 British (HE) cartridges.</MakeAmmo_303British_HE.jobString>
+
+  <MakeAmmo_303British_Sabot.label>make .303 British (Sabot) cartridge x500</MakeAmmo_303British_Sabot.label>
+  <MakeAmmo_303British_Sabot.description>Craft 500 .303 British (Sabot) cartridges.</MakeAmmo_303British_Sabot.description>
+  <MakeAmmo_303British_Sabot.jobString>Making .303 British (Sabot) cartridges.</MakeAmmo_303British_Sabot.jobString>
+
+
+</LanguageData>

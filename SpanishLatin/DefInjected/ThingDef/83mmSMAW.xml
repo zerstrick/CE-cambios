@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Ammo_83mmSMAW_HEAT.label>
+  <Ammo_83mmSMAW_HEAT.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HEAT.description>
+
+  <Ammo_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Ammo_83mmSMAW_HE.label>
+  <Ammo_83mmSMAW_HE.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HE.description>
+
+  <Ammo_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Ammo_83mmSMAW_Thermobaric.label>
+  <Ammo_83mmSMAW_Thermobaric.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_Thermobaric.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Bullet_83mmSMAW_HEAT.label>
+  <Bullet_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Bullet_83mmSMAW_HE.label>
+  <Bullet_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Bullet_83mmSMAW_Thermobaric.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_TomahawkLAM.label>Tomahawk Missile</Ammo_TomahawkLAM.label>
+  <Ammo_TomahawkLAM.description>Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets.</Ammo_TomahawkLAM.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_TomahawkLAM.label>Tomahawk Missile</Bullet_TomahawkLAM.label>
+
+
+</LanguageData>

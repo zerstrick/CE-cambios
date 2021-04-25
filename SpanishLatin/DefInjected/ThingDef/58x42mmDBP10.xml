@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_58x42mmDBP10_FMJ.label>5.8x42mm DBP10 cartridge (FMJ)</Ammo_58x42mmDBP10_FMJ.label>
+  <Ammo_58x42mmDBP10_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_FMJ.description>
+
+  <Ammo_58x42mmDBP10_AP.label>5.8x42mm DBP10 cartridge (AP)</Ammo_58x42mmDBP10_AP.label>
+  <Ammo_58x42mmDBP10_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_AP.description>
+
+  <Ammo_58x42mmDBP10_HP.label>5.8x42mm DBP10 cartridge (HP)</Ammo_58x42mmDBP10_HP.label>
+  <Ammo_58x42mmDBP10_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_HP.description>
+
+  <Ammo_58x42mmDBP10_Incendiary.label>5.8x42mm DBP10 cartridge (AP-I)</Ammo_58x42mmDBP10_Incendiary.label>
+  <Ammo_58x42mmDBP10_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_Incendiary.description>
+
+  <Ammo_58x42mmDBP10_HE.label>5.8x42mm DBP10 cartridge (HE)</Ammo_58x42mmDBP10_HE.label>
+  <Ammo_58x42mmDBP10_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_HE.description>
+
+  <Ammo_58x42mmDBP10_Sabot.label>5.8x42mm DBP10 cartridge (Sabot)</Ammo_58x42mmDBP10_Sabot.label>
+  <Ammo_58x42mmDBP10_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_58x42mmDBP10_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_58x42mmDBP10_FMJ.label>5.8mm DBP10 bullet (FMJ)</Bullet_58x42mmDBP10_FMJ.label>
+  <Bullet_58x42mmDBP10_AP.label>5.8mm DBP10 bullet (AP)</Bullet_58x42mmDBP10_AP.label>
+  <Bullet_58x42mmDBP10_HP.label>5.8mm DBP10 bullet (HP)</Bullet_58x42mmDBP10_HP.label>
+  <Bullet_58x42mmDBP10_Incendiary.label>5.8mm DBP10 bullet (AP-I)</Bullet_58x42mmDBP10_Incendiary.label>
+  <Bullet_58x42mmDBP10_HE.label>5.8mm DBP10 bullet (HE)</Bullet_58x42mmDBP10_HE.label>
+  <Bullet_58x42mmDBP10_Sabot.label>5.8mm DBP10 bullet (Sabot)</Bullet_58x42mmDBP10_Sabot.label>
+
+
+</LanguageData>

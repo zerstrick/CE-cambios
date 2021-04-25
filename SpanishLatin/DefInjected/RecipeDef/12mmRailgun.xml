@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_12mmRailgun_Sabot.label>make 12mm Railgun cartridge (Sabot) x200</MakeAmmo_12mmRailgun_Sabot.label>
+  <MakeAmmo_12mmRailgun_Sabot.description>Craft 200 12mm Railgun (Sabot) cartridges.</MakeAmmo_12mmRailgun_Sabot.description>
+  <MakeAmmo_12mmRailgun_Sabot.jobString>Making 12mm Railgun (Sabot) cartridges.</MakeAmmo_12mmRailgun_Sabot.jobString>
+
+
+</LanguageData>

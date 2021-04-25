@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_GreatArrow_Stone.label>great arrow (stone)</Ammo_GreatArrow_Stone.label>
+  <Ammo_GreatArrow_Stone.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Stone.description>
+
+  <Ammo_GreatArrow_Steel.label>great arrow (steel)</Ammo_GreatArrow_Steel.label>
+  <Ammo_GreatArrow_Steel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Steel.description>
+
+  <Ammo_GreatArrow_Plasteel.label>great arrow (plasteel)</Ammo_GreatArrow_Plasteel.label>
+  <Ammo_GreatArrow_Plasteel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Plasteel.description>
+
+  <Ammo_GreatArrow_Venom.label>great arrow (venom)</Ammo_GreatArrow_Venom.label>
+  <Ammo_GreatArrow_Venom.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Venom.description>
+
+  <Ammo_GreatArrow_Flame.label>great arrow (flame)</Ammo_GreatArrow_Flame.label>
+  <Ammo_GreatArrow_Flame.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Flame.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_GreatArrow_Stone.label>great arrow (stone)</Projectile_GreatArrow_Stone.label>
+  <Projectile_GreatArrow_Steel.label>great arrow (steel)</Projectile_GreatArrow_Steel.label>
+  <Projectile_GreatArrow_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrow_Plasteel.label>
+  <Projectile_GreatArrow_Venom.label>great arrow (venom)</Projectile_GreatArrow_Venom.label>
+  <Projectile_GreatArrow_Flame.label>great arrow (flame)</Projectile_GreatArrow_Flame.label>
+
+
+</LanguageData>

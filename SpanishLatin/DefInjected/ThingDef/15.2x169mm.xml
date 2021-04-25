@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_152x169mm_FMJ.label>15.2x169mm cartridge (FMJ)</Ammo_152x169mm_FMJ.label>
+  <Ammo_152x169mm_FMJ.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_FMJ.description>
+
+  <Ammo_152x169mm_Incendiary.label>15.2x169mm cartridge (AP-I)</Ammo_152x169mm_Incendiary.label>
+  <Ammo_152x169mm_Incendiary.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_Incendiary.description>
+
+  <Ammo_152x169mm_HE.label>15.2x169mm cartridge (HE)</Ammo_152x169mm_HE.label>
+  <Ammo_152x169mm_HE.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_HE.description>
+
+  <Ammo_152x169mm_Sabot.label>15.2x169mm cartridge (Sabot)</Ammo_152x169mm_Sabot.label>
+  <Ammo_152x169mm_Sabot.description>Prototype smoothbore cartridge designed for anti-material use.</Ammo_152x169mm_Sabot.description>
+
+
+  <!-- Projectile -->
+
+  <Bullet_152x169mm_FMJ.label>15.2x169mm bullet (FMJ)</Bullet_152x169mm_FMJ.label>
+  <Bullet_152x169mm_Incendiary.label>15.2x169mm bullet (AP-I)</Bullet_152x169mm_Incendiary.label>
+  <Bullet_152x169mm_HE.label>15.2x169mm bullet (HE)</Bullet_152x169mm_HE.label>
+  <Bullet_152x169mm_Sabot.label>15.2x169mm bullet (Sabot)</Bullet_152x169mm_Sabot.label>
+
+
+</LanguageData>

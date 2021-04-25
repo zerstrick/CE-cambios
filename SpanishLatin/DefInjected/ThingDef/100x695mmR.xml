@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_100x695mmRCannonShell_HEAT.label>100x695mmR cannon shell (HEAT)</Ammo_100x695mmRCannonShell_HEAT.label>
+  <Ammo_100x695mmRCannonShell_HEAT.description>Large cannon shells, typically used by D-10 tank guns.</Ammo_100x695mmRCannonShell_HEAT.description>
+
+  <Ammo_100x695mmRCannonShell_HE.label>100x695mmR cannon shell (HE)</Ammo_100x695mmRCannonShell_HE.label>
+  <Ammo_100x695mmRCannonShell_HE.description>Large cannon shells, typically used by D-10 tank guns.</Ammo_100x695mmRCannonShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_100x695mmRCannonShell_HEAT.label>100x695mmR cannon shell (HEAT)</Bullet_100x695mmRCannonShell_HEAT.label>
+  <Bullet_100x695mmRCannonShell_HE.label>100x695mmR cannon shell (HE)</Bullet_100x695mmRCannonShell_HE.label>
+
+
+</LanguageData>

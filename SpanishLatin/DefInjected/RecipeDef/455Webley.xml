@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_455Webley_FMJ.label>make .455 Webley (FMJ) cartridge x500</MakeAmmo_455Webley_FMJ.label>
+  <MakeAmmo_455Webley_FMJ.description>Craft 500 .455 Webley (FMJ) cartridges.</MakeAmmo_455Webley_FMJ.description>
+  <MakeAmmo_455Webley_FMJ.jobString>Making .455 Webley (FMJ) cartridges.</MakeAmmo_455Webley_FMJ.jobString>
+
+  <MakeAmmo_455Webley_AP.label>make .455 Webley (AP) cartridge x500</MakeAmmo_455Webley_AP.label>
+  <MakeAmmo_455Webley_AP.description>Craft 500 .455 Webley (AP) cartridges.</MakeAmmo_455Webley_AP.description>
+  <MakeAmmo_455Webley_AP.jobString>Making .455 Webley (AP) cartridges.</MakeAmmo_455Webley_AP.jobString>
+
+  <MakeAmmo_455Webley_HP.label>make .455 Webley (HP) cartridge x500</MakeAmmo_455Webley_HP.label>
+  <MakeAmmo_455Webley_HP.description>Craft 500 .455 Webley (HP) cartridges.</MakeAmmo_455Webley_HP.description>
+  <MakeAmmo_455Webley_HP.jobString>Making .455 Webley (HP) cartridges.</MakeAmmo_455Webley_HP.jobString>
+
+
+</LanguageData>

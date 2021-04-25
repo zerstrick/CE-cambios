@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_792x94mmPatronen_FMJ.label>7.92x94mm Patronen cartridge (FMJ)</Ammo_792x94mmPatronen_FMJ.label>
+  <Ammo_792x94mmPatronen_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_FMJ.description>
+
+  <Ammo_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen cartridge (AP-I)</Ammo_792x94mmPatronen_Incendiary.label>
+  <Ammo_792x94mmPatronen_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Incendiary.description>
+
+  <Ammo_792x94mmPatronen_HE.label>7.92x94mm Patronen cartridge (HE)</Ammo_792x94mmPatronen_HE.label>
+  <Ammo_792x94mmPatronen_HE.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_HE.description>
+
+  <Ammo_792x94mmPatronen_Sabot.label>7.92x94mm Patronen cartridge (Sabot)</Ammo_792x94mmPatronen_Sabot.label>
+  <Ammo_792x94mmPatronen_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_792x94mmPatronen_FMJ.label>7.92x94mm Patronen bullet (FMJ)</Bullet_792x94mmPatronen_FMJ.label>
+  <Bullet_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen bullet (AP-I)</Bullet_792x94mmPatronen_Incendiary.label>
+  <Bullet_792x94mmPatronen_HE.label>7.92x94mm Patronen bullet (HE)</Bullet_792x94mmPatronen_HE.label>
+  <Bullet_792x94mmPatronen_Sabot.label>7.92x94mm Patronen bullet (Sabot)</Bullet_792x94mmPatronen_Sabot.label>
+
+
+</LanguageData>

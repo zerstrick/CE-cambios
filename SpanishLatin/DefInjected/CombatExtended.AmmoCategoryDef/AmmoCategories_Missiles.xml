@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tomahawk LAM missile has only one type of warhead for CE:FT, no subcategory for variants required -->
+
+  <TomahawkLAM.label>Tomahawk Missile</TomahawkLAM.label>
+  <TomahawkLAM.labelShort>Tomahawk Missile</TomahawkLAM.labelShort>
+  <TomahawkLAM.description>Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets.</TomahawkLAM.description>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Need to override mortar shell because of hardcoded vanilla references -->
+
+  <Shell_HighExplosive.label>81mm mortar shell (HE)</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive.description>
+
+  <Shell_Incendiary.label>81mm mortar shell (Incendiary)</Shell_Incendiary.label>
+  <Shell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary.description>
+
+  <Shell_EMP.label>81mm mortar shell (EMP)</Shell_EMP.label>
+  <Shell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP.description>
+
+  <Shell_Firefoam.label>81mm mortar shell (Foam)</Shell_Firefoam.label>
+  <Shell_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_Firefoam.description>
+
+  <Shell_Smoke.label>81mm mortar shell (Smoke)</Shell_Smoke.label>
+  <Shell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_Smoke.description>
+
+  <Shell_AntigrainWarhead.label>81mm mortar shell (Anti)</Shell_AntigrainWarhead.label>
+  <Shell_AntigrainWarhead.description>Low-velocity shell designed to be fired from a mortar.</Shell_AntigrainWarhead.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_81mmMortarShell_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShell_EMP.label>
+  <Bullet_81mmMortarShell_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.label>
+  <Bullet_81mmMortarShell_Smoke.label>81mm mortar shell (Smoke)</Bullet_81mmMortarShell_Smoke.label>
+  <Bullet_81mmMortarShell_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.label>
+  <Bullet_ChargeMortarShell.label>charge mortar shell</Bullet_ChargeMortarShell.label>
+
+
+</LanguageData>

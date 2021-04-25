@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_145x114mm_FMJ.label>14.5x114mm cartridge (FMJ)</Ammo_145x114mm_FMJ.label>
+  <Ammo_145x114mm_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_FMJ.description>
+
+  <Ammo_145x114mm_Incendiary.label>14.5x114mm cartridge (AP-I)</Ammo_145x114mm_Incendiary.label>
+  <Ammo_145x114mm_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Incendiary.description>
+
+  <Ammo_145x114mm_HE.label>14.5x114mm cartridge (HE)</Ammo_145x114mm_HE.label>
+  <Ammo_145x114mm_HE.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_HE.description>
+
+  <Ammo_145x114mm_Sabot.label>14.5x114mm cartridge (Sabot)</Ammo_145x114mm_Sabot.label>
+  <Ammo_145x114mm_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_145x114mm_FMJ.label>14.5x114mm bullet (FMJ)</Bullet_145x114mm_FMJ.label>
+  <Bullet_145x114mm_Incendiary.label>14.5x114mm bullet (AP-I)</Bullet_145x114mm_Incendiary.label>
+  <Bullet_145x114mm_HE.label>14.5x114mm bullet (HE)</Bullet_145x114mm_HE.label>
+  <Bullet_145x114mm_Sabot.label>14.5x114mm bullet (Sabot)</Bullet_145x114mm_Sabot.label>
+
+
+</LanguageData>

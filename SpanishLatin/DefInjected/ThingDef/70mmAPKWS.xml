@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_70mmAPKWS_HEAT.label>70mm APKWS Rocket (HEAT)</Ammo_70mmAPKWS_HEAT.label>
+  <Ammo_70mmAPKWS_HEAT.description>70mm laser-guided munition known as the Advanced Precision Kill Weapon System (APKWS), based on Hydra 70 unguided rockets.</Ammo_70mmAPKWS_HEAT.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_70mmAPKWS_HEAT.label>70mm APKWS Rocket (HEAT)</Bullet_70mmAPKWS_HEAT.label>
+
+
+</LanguageData>

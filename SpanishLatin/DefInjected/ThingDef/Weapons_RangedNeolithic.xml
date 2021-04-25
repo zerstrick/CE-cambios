@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIFICS -->
+
+  <Pila.label>javelins</Pila.label>
+  <Pila.description>A throwing spear which may be thrown on its own or using an atlatl.</Pila.description>
+  <Pila.tools.0.label>shaft</Pila.tools.0.label>
+  <Pila.tools.1.label>point</Pila.tools.1.label>
+
+
+</LanguageData>

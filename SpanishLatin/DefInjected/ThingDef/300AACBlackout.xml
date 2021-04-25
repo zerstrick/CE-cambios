@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_300AACBlackout_FMJ.label>.300 AAC Blackout cartridge (FMJ)</Ammo_300AACBlackout_FMJ.label>
+  <Ammo_300AACBlackout_FMJ.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_FMJ.description>
+
+  <Ammo_300AACBlackout_AP.label>.300 AAC Blackout cartridge (AP)</Ammo_300AACBlackout_AP.label>
+  <Ammo_300AACBlackout_AP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_AP.description>
+
+  <Ammo_300AACBlackout_HP.label>.300 AAC Blackout cartridge (HP)</Ammo_300AACBlackout_HP.label>
+  <Ammo_300AACBlackout_HP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HP.description>
+
+  <Ammo_300AACBlackout_Incendiary.label>.300 AAC Blackout cartridge (AP-I)</Ammo_300AACBlackout_Incendiary.label>
+  <Ammo_300AACBlackout_Incendiary.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Incendiary.description>
+
+  <Ammo_300AACBlackout_HE.label>.300 AAC Blackout cartridge (HE)</Ammo_300AACBlackout_HE.label>
+  <Ammo_300AACBlackout_HE.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HE.description>
+
+  <Ammo_300AACBlackout_Sabot.label>.300 AAC Blackout cartridge (Sabot)</Ammo_300AACBlackout_Sabot.label>
+  <Ammo_300AACBlackout_Sabot.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_300AACBlackout_FMJ.label>.300 AAC Blackout bullet (FMJ)</Bullet_300AACBlackout_FMJ.label>
+  <Bullet_300AACBlackout_AP.label>.300 AAC Blackout bullet (AP)</Bullet_300AACBlackout_AP.label>
+  <Bullet_300AACBlackout_HP.label>.300 AAC Blackout bullet (HP)</Bullet_300AACBlackout_HP.label>
+  <Bullet_300AACBlackout_Incendiary.label>.300 AAC Blackout bullet (AP-I)</Bullet_300AACBlackout_Incendiary.label>
+  <Bullet_300AACBlackout_HE.label>.300 AAC Blackout bullet (HE)</Bullet_300AACBlackout_HE.label>
+  <Bullet_300AACBlackout_Sabot.label>.300 AAC Blackout bullet (Sabot)</Bullet_300AACBlackout_Sabot.label>
+
+
+</LanguageData>

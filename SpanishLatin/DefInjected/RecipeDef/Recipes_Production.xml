@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_FSXDrugLab.label>Synthesize 7 FSX</Make_FSXDrugLab.label>
+  <Make_FSXDrugLab.description>Synthesize 7 FSX from chemfuel using chemistry equipment.</Make_FSXDrugLab.description>
+  <Make_FSXDrugLab.jobString>Synthesizing FSX</Make_FSXDrugLab.jobString>
+
+  <Make_FSXRefinery.label>Synthesize 8 FSX</Make_FSXRefinery.label>
+  <Make_FSXRefinery.description>Use the refinery to synthesize 8 FSX from chemfuel.</Make_FSXRefinery.description>
+  <Make_FSXRefinery.jobString>Synthesizing FSX</Make_FSXRefinery.jobString>
+
+
+</LanguageData>

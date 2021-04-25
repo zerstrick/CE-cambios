@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WornBulk.label>worn bulk</WornBulk.label>
+  <WornBulk.description>How bulky this apparel is to wear.</WornBulk.description>
+
+  <ArmorRating_Electric.label>Armor - Electric </ArmorRating_Electric.label>
+  <ArmorRating_Electric.description>The chance to affect electricity-related damage like EMP pulses and burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value. The remaining armor forms a percentage reduction of damage.</ArmorRating_Electric.description>
+
+  <ElectricDamageMultiplier.label>electric damage</ElectricDamageMultiplier.label>
+  <ElectricDamageMultiplier.description>A multiplier on damage from electric-type attacks for weapons made of this material.</ElectricDamageMultiplier.description>
+
+
+</LanguageData>

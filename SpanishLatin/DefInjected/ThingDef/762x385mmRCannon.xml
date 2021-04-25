@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x385mmRCannonShell_HE.label>76.2x385mmR Cannon shell (HE)</Ammo_762x385mmRCannonShell_HE.label>
+  <Ammo_762x385mmRCannonShell_HE.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_HE.description>
+
+  <Ammo_762x385mmRCannonShell_EMP.label>76.2x385mmR Cannon shell (EMP)</Ammo_762x385mmRCannonShell_EMP.label>
+  <Ammo_762x385mmRCannonShell_EMP.description>Light cannon shell used in field guns.</Ammo_762x385mmRCannonShell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x385mmRCannonShell_HE.label>76.2x385mmR Cannon shell (HE)</Bullet_762x385mmRCannonShell_HE.label>
+  <Bullet_762x385mmRCannonShell_EMP.label>76.2x385mmR Cannon shell (EMP)</Bullet_762x385mmRCannonShell_EMP.label>
+
+
+</LanguageData>

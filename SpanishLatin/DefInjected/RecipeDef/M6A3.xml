@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_M6A3_HEAT.label>make M6A3 HEAT rockets x5</MakeAmmo_M6A3_HEAT.label>
+  <MakeAmmo_M6A3_HEAT.description>Craft 5 M6A3 HEAT rockets.</MakeAmmo_M6A3_HEAT.description>
+  <MakeAmmo_M6A3_HEAT.jobString>Making M6A3 HEAT rockets.</MakeAmmo_M6A3_HEAT.jobString>
+
+  <MakeAmmo_M6A3_Incendiary.label>make M6A3 Incendiary rockets x5</MakeAmmo_M6A3_Incendiary.label>
+  <MakeAmmo_M6A3_Incendiary.description>Craft 5 M6A3 Incendiary rockets.</MakeAmmo_M6A3_Incendiary.description>
+  <MakeAmmo_M6A3_Incendiary.jobString>Making M6A3 Incendiary rockets.</MakeAmmo_M6A3_Incendiary.jobString>
+
+
+</LanguageData>

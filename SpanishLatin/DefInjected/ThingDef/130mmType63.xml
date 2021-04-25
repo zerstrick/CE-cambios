@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_130mmType63_HE.label>130mm Type 63 Rocket (HE)</Ammo_130mmType63_HE.label>
+  <Ammo_130mmType63_HE.description>130mm heavy rocket typically used in multi-barrel rocket artillery launchers.</Ammo_130mmType63_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_130mmType63_HE.label>130mm Type 63 Rocket (HE)</Bullet_130mmType63_HE.label>
+
+
+</LanguageData>

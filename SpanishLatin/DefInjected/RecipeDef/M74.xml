@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_M74_Incendiary.label>make M74 Incendiary rockets x4</MakeAmmo_M74_Incendiary.label>
+  <MakeAmmo_M74_Incendiary.description>Craft 4 M74 Incendiary rockets.</MakeAmmo_M74_Incendiary.description>
+  <MakeAmmo_M74_Incendiary.jobString>Making M74 Incendiary rockets.</MakeAmmo_M74_Incendiary.jobString>
+
+
+</LanguageData>

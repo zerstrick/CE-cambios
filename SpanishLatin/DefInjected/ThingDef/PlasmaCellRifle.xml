@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_PlasmaCellRifle.label>Plasma Rifle Power Cell</Ammo_PlasmaCellRifle.label>
+  <Ammo_PlasmaCellRifle.description>Plasma containment power cell optimized for rifles</Ammo_PlasmaCellRifle.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_PlasmaCellRifle.label>Plasma Bolt</Bullet_PlasmaCellRifle.label>
+
+
+</LanguageData>

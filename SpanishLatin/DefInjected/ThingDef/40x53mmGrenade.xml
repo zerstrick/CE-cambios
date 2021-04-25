@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40x53mmGrenade_HE.label>40x53mm grenade (HE)</Ammo_40x53mmGrenade_HE.label>
+  <Ammo_40x53mmGrenade_HE.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_HE.description>
+
+  <Ammo_40x53mmGrenade_EMP.label>40x53mm grenade (EMP)</Ammo_40x53mmGrenade_EMP.label>
+  <Ammo_40x53mmGrenade_EMP.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_EMP.description>
+
+  <Ammo_40x53mmGrenade_Smoke.label>40x53mm grenade (Smoke)</Ammo_40x53mmGrenade_Smoke.label>
+  <Ammo_40x53mmGrenade_Smoke.description>High velocity grenade fired from mounted and crew-served grenade launchers.</Ammo_40x53mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40x53mmGrenade_HE.label>40x53mm grenade (HE)</Bullet_40x53mmGrenade_HE.label>
+  <Bullet_40x53mmGrenade_EMP.label>40x53mm grenade (EMP)</Bullet_40x53mmGrenade_EMP.label>
+  <Bullet_40x53mmGrenade_Smoke.label>40x53mm grenade (Smoke)</Bullet_40x53mmGrenade_Smoke.label>
+
+
+</LanguageData>

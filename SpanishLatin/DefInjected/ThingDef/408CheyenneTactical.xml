@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_408CheyenneTactical_FMJ.label>.408 Cheyenne Tactical cartridge (FMJ)</Ammo_408CheyenneTactical_FMJ.label>
+  <Ammo_408CheyenneTactical_FMJ.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_FMJ.description>
+
+  <Ammo_408CheyenneTactical_Incendiary.label>.408 Cheyenne Tactical cartridge (AP-I)</Ammo_408CheyenneTactical_Incendiary.label>
+  <Ammo_408CheyenneTactical_Incendiary.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_Incendiary.description>
+
+  <Ammo_408CheyenneTactical_HE.label>.408 Cheyenne Tactical cartridge (HE)</Ammo_408CheyenneTactical_HE.label>
+  <Ammo_408CheyenneTactical_HE.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_HE.description>
+
+  <Ammo_408CheyenneTactical_Sabot.label>.408 Cheyenne Tactical cartridge (Sabot)</Ammo_408CheyenneTactical_Sabot.label>
+  <Ammo_408CheyenneTactical_Sabot.description>Large cartridge developed for military long-range sniper rifles.</Ammo_408CheyenneTactical_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_408CheyenneTactical_FMJ.label>.408 Cheyenne Tactical bullet (FMJ)</Bullet_408CheyenneTactical_FMJ.label>
+  <Bullet_408CheyenneTactical_Incendiary.label>.408 Cheyenne Tactical bullet (AP-I)</Bullet_408CheyenneTactical_Incendiary.label>
+  <Bullet_408CheyenneTactical_HE.label>.408 Cheyenne Tactical bullet (HE)</Bullet_408CheyenneTactical_HE.label>
+  <Bullet_408CheyenneTactical_Sabot.label>.408 Cheyenne Tactical bullet (Sabot)</Bullet_408CheyenneTactical_Sabot.label>
+
+
+</LanguageData>

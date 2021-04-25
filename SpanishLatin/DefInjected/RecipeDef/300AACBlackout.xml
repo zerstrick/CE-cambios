@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_300AACBlackout_FMJ.label>make .300 AAC Blackout (FMJ) cartridge x500</MakeAmmo_300AACBlackout_FMJ.label>
+  <MakeAmmo_300AACBlackout_FMJ.description>Craft 500 .300 AAC Blackout (FMJ) cartridges.</MakeAmmo_300AACBlackout_FMJ.description>
+  <MakeAmmo_300AACBlackout_FMJ.jobString>Making .300 AAC Blackout (FMJ) cartridges.</MakeAmmo_300AACBlackout_FMJ.jobString>
+
+  <MakeAmmo_300AACBlackout_AP.label>make .300 AAC Blackout (AP) cartridge x500</MakeAmmo_300AACBlackout_AP.label>
+  <MakeAmmo_300AACBlackout_AP.description>Craft 500 .300 AAC Blackout (AP) cartridges.</MakeAmmo_300AACBlackout_AP.description>
+  <MakeAmmo_300AACBlackout_AP.jobString>Making .300 AAC Blackout (AP) cartridges.</MakeAmmo_300AACBlackout_AP.jobString>
+
+  <MakeAmmo_300AACBlackout_HP.label>make .300 AAC Blackout (HP) cartridge x500</MakeAmmo_300AACBlackout_HP.label>
+  <MakeAmmo_300AACBlackout_HP.description>Craft 500 .300 AAC Blackout (HP) cartridges.</MakeAmmo_300AACBlackout_HP.description>
+  <MakeAmmo_300AACBlackout_HP.jobString>Making .300 AAC Blackout (HP) cartridges.</MakeAmmo_300AACBlackout_HP.jobString>
+
+  <MakeAmmo_300AACBlackout_Incendiary.label>make .300 AAC Blackout (AP-I) cartridge x500</MakeAmmo_300AACBlackout_Incendiary.label>
+  <MakeAmmo_300AACBlackout_Incendiary.description>Craft 500 .300 AAC Blackout (AP-I) cartridges.</MakeAmmo_300AACBlackout_Incendiary.description>
+  <MakeAmmo_300AACBlackout_Incendiary.jobString>Making .300 AAC Blackout (AP-I) cartridges.</MakeAmmo_300AACBlackout_Incendiary.jobString>
+
+  <MakeAmmo_300AACBlackout_HE.label>make .300 AAC Blackout (HE) cartridge x500</MakeAmmo_300AACBlackout_HE.label>
+  <MakeAmmo_300AACBlackout_HE.description>Craft 500 .300 AAC Blackout (HE) cartridges.</MakeAmmo_300AACBlackout_HE.description>
+  <MakeAmmo_300AACBlackout_HE.jobString>Making .300 AAC Blackout (HE) cartridges.</MakeAmmo_300AACBlackout_HE.jobString>
+
+  <MakeAmmo_300AACBlackout_Sabot.label>make .300 AAC Blackout (Sabot) cartridge x500</MakeAmmo_300AACBlackout_Sabot.label>
+  <MakeAmmo_300AACBlackout_Sabot.description>Craft 500 .300 AAC Blackout (Sabot) cartridges.</MakeAmmo_300AACBlackout_Sabot.description>
+  <MakeAmmo_300AACBlackout_Sabot.jobString>Making .300 AAC Blackout (Sabot) cartridges.</MakeAmmo_300AACBlackout_Sabot.jobString>
+
+
+</LanguageData>

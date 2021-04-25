@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_M74_Incendiary.label>M74 Rocket (Incendiary)</Ammo_M74_Incendiary.label>
+  <Ammo_M74_Incendiary.description>66mm incendiary rocket based upon the rocket used in the M72 LAW, for use in the quadruple-tubed M202 FLASH.</Ammo_M74_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_M74_Incendiary.label>M74 Rocket (Incendiary)</Bullet_M74_Incendiary.label>
+
+
+</LanguageData>

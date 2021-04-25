@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Ammo_28cmSpgrShell_HE.label>
+  <Ammo_28cmSpgrShell_HE.description>Very large obsolete cannon shell used in naval battleship turrets.</Ammo_28cmSpgrShell_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Bullet_28cmSpgrShell_HE.label>
+
+
+</LanguageData>

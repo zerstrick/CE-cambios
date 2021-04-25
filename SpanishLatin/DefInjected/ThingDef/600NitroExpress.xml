@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_600NitroExpress_FMJ.label>.600 Nitro Express cartridge (FMJ)</Ammo_600NitroExpress_FMJ.label>
+  <Ammo_600NitroExpress_FMJ.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_FMJ.description>
+
+  <Ammo_600NitroExpress_Incendiary.label>.600 Nitro Express cartridge (AP-I)</Ammo_600NitroExpress_Incendiary.label>
+  <Ammo_600NitroExpress_Incendiary.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Incendiary.description>
+
+  <Ammo_600NitroExpress_HE.label>.600 Nitro Express cartridge (HE)</Ammo_600NitroExpress_HE.label>
+  <Ammo_600NitroExpress_HE.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_HE.description>
+
+  <Ammo_600NitroExpress_Sabot.label>.600 Nitro Express cartridge (Sabot)</Ammo_600NitroExpress_Sabot.label>
+  <Ammo_600NitroExpress_Sabot.description>Large and powerful cartridge designed to be fired at large game, like elephants or rhinoceroses.</Ammo_600NitroExpress_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_600NitroExpress_FMJ.label>.600 Nitro Express bullet (FMJ)</Bullet_600NitroExpress_FMJ.label>
+  <Bullet_600NitroExpress_Incendiary.label>.600 Nitro Express bullet (AP-I)</Bullet_600NitroExpress_Incendiary.label>
+  <Bullet_600NitroExpress_HE.label>.600 Nitro Express bullet (HE)</Bullet_600NitroExpress_HE.label>
+  <Bullet_600NitroExpress_Sabot.label>.600 Nitro Express bullet (Sabot)</Bullet_600NitroExpress_Sabot.label>
+
+
+</LanguageData>

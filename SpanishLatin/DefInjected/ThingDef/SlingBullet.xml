@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_SlingBullet_Stone.label>sling bullet (stone)</Ammo_SlingBullet_Stone.label>
+  <Ammo_SlingBullet_Stone.description>An aerodynamic stone or metal pellet. Perfect for being launched by a sling.</Ammo_SlingBullet_Stone.description>
+
+  <Ammo_SlingBullet_Steel.label>sling bullet (steel)</Ammo_SlingBullet_Steel.label>
+  <Ammo_SlingBullet_Steel.description>An aerodynamic stone or metal pellet. Perfect for being launched by a sling.</Ammo_SlingBullet_Steel.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_SlingBullet_Stone.label>sling bullet (stone)</Projectile_SlingBullet_Stone.label>
+  <Projectile_SlingBullet_Steel.label>sling bullet (steel)</Projectile_SlingBullet_Steel.label>
+
+
+</LanguageData>

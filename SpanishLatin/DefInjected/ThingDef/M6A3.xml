@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_M6A3_HEAT.label>M6A3 Rocket (HEAT)</Ammo_M6A3_HEAT.label>
+  <Ammo_M6A3_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M9 Bazooka.</Ammo_M6A3_HEAT.description>
+
+  <Ammo_M6A3_Incendiary.label>M6A3 Rocket (Incendiary)</Ammo_M6A3_Incendiary.label>
+  <Ammo_M6A3_Incendiary.description>Outdated 60mm rocket-propelled grenade designed for the M9 Bazooka.</Ammo_M6A3_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_M6A3_HEAT.label>M6A3 rocket (HEAT)</Bullet_M6A3_HEAT.label>
+  <Bullet_M6A3_Incendiary.label>M6A3 rocket (Incendiary)</Bullet_M6A3_Incendiary.label>
+
+
+</LanguageData>

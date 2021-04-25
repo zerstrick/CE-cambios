@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x25mmTokarev_FMJ.label>7.62x25mm Tokarev cartridge (FMJ)</Ammo_762x25mmTokarev_FMJ.label>
+  <Ammo_762x25mmTokarev_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_FMJ.description>
+
+  <Ammo_762x25mmTokarev_AP.label>7.62x25mm Tokarev cartridge (AP)</Ammo_762x25mmTokarev_AP.label>
+  <Ammo_762x25mmTokarev_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_AP.description>
+
+  <Ammo_762x25mmTokarev_HP.label>7.62x25mm Tokarev cartridge (HP)</Ammo_762x25mmTokarev_HP.label>
+  <Ammo_762x25mmTokarev_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x25mmTokarev_FMJ.label>7.62mm Tokarev bullet (FMJ)</Bullet_762x25mmTokarev_FMJ.label>
+  <Bullet_762x25mmTokarev_AP.label>7.62mm Tokarev bullet (AP)</Bullet_762x25mmTokarev_AP.label>
+  <Bullet_762x25mmTokarev_HP.label>7.62mm Tokarev bullet (HP)</Bullet_762x25mmTokarev_HP.label>
+
+
+</LanguageData>

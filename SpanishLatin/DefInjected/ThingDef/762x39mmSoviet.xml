@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_762x39mmSoviet_FMJ.label>7.62x39mm Soviet cartridge (FMJ)</Ammo_762x39mmSoviet_FMJ.label>
+  <Ammo_762x39mmSoviet_FMJ.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_FMJ.description>
+
+  <Ammo_762x39mmSoviet_AP.label>7.62x39mm Soviet cartridge (AP)</Ammo_762x39mmSoviet_AP.label>
+  <Ammo_762x39mmSoviet_AP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_AP.description>
+
+  <Ammo_762x39mmSoviet_HP.label>7.62x39mm Soviet cartridge (HP)</Ammo_762x39mmSoviet_HP.label>
+  <Ammo_762x39mmSoviet_HP.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HP.description>
+
+  <Ammo_762x39mmSoviet_Incendiary.label>7.62x39mm Soviet cartridge (AP-I)</Ammo_762x39mmSoviet_Incendiary.label>
+  <Ammo_762x39mmSoviet_Incendiary.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_Incendiary.description>
+
+  <Ammo_762x39mmSoviet_HE.label>7.62x39mm Soviet cartridge (HE)</Ammo_762x39mmSoviet_HE.label>
+  <Ammo_762x39mmSoviet_HE.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_HE.description>
+
+  <Ammo_762x39mmSoviet_Sabot.label>7.62x39mm Soviet cartridge (Sabot)</Ammo_762x39mmSoviet_Sabot.label>
+  <Ammo_762x39mmSoviet_Sabot.description>Intermediate rifle cartridge used by certain older assault rifles.</Ammo_762x39mmSoviet_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_762x39mmSoviet_FMJ.label>7.62mm Soviet bullet (FMJ)</Bullet_762x39mmSoviet_FMJ.label>
+  <Bullet_762x39mmSoviet_AP.label>7.62mm Soviet bullet (AP)</Bullet_762x39mmSoviet_AP.label>
+  <Bullet_762x39mmSoviet_HP.label>7.62mm Soviet bullet (HP)</Bullet_762x39mmSoviet_HP.label>
+  <Bullet_762x39mmSoviet_Incendiary.label>7.62mm Soviet bullet (AP-I)</Bullet_762x39mmSoviet_Incendiary.label>
+  <Bullet_762x39mmSoviet_HE.label>7.62mm Soviet bullet (HE)</Bullet_762x39mmSoviet_HE.label>
+  <Bullet_762x39mmSoviet_Sabot.label>7.62mm Soviet bullet (Sabot)</Bullet_762x39mmSoviet_Sabot.label>
+
+
+</LanguageData>

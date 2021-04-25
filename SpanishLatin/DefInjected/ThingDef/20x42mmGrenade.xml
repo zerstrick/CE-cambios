@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_20x42mmGrenade_HE.label>20x42mm grenade (HE)</Ammo_20x42mmGrenade_HE.label>
+  <Ammo_20x42mmGrenade_HE.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_HE.description>
+
+  <Ammo_20x42mmGrenade_EMP.label>20x42mm grenade (EMP)</Ammo_20x42mmGrenade_EMP.label>
+  <Ammo_20x42mmGrenade_EMP.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_EMP.description>
+
+  <Ammo_20x42mmGrenade_Smoke.label>20x42mm grenade (Smoke)</Ammo_20x42mmGrenade_Smoke.label>
+  <Ammo_20x42mmGrenade_Smoke.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_20x42mmGrenade_Smoke.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_20x42mmGrenade_HE.label>20mm grenade (HE)</Bullet_20x42mmGrenade_HE.label>
+  <Bullet_20x42mmGrenade_EMP.label>20mm grenade (EMP)</Bullet_20x42mmGrenade_EMP.label>
+  <Bullet_20x42mmGrenade_Smoke.label>20mm grenade (Smoke)</Bullet_20x42mmGrenade_Smoke.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_2Bore_FMJ.label>make 2-Bore (FMJ) cartridge x200</MakeAmmo_2Bore_FMJ.label>
+  <MakeAmmo_2Bore_FMJ.description>Craft 100 2-Bore (FMJ) cartridges.</MakeAmmo_2Bore_FMJ.description>
+  <MakeAmmo_2Bore_FMJ.jobString>Making 2-Bore (FMJ) cartridges.</MakeAmmo_2Bore_FMJ.jobString>
+
+  <MakeAmmo_2Bore_Incendiary.label>make 2-Bore (AP-I) cartridge x200</MakeAmmo_2Bore_Incendiary.label>
+  <MakeAmmo_2Bore_Incendiary.description>Craft 200 2-Bore (AP-I) cartridges.</MakeAmmo_2Bore_Incendiary.description>
+  <MakeAmmo_2Bore_Incendiary.jobString>Making 2-Bore (AP-I) cartridges.</MakeAmmo_2Bore_Incendiary.jobString>
+
+  <MakeAmmo_2Bore_HE.label>make 2-Bore (HE) cartridge x200</MakeAmmo_2Bore_HE.label>
+  <MakeAmmo_2Bore_HE.description>Craft 200 2-Bore (HE) cartridges.</MakeAmmo_2Bore_HE.description>
+  <MakeAmmo_2Bore_HE.jobString>Making 2-Bore (HE) cartridges.</MakeAmmo_2Bore_HE.jobString>
+
+  <MakeAmmo_2Bore_Sabot.label>make 2-Bore (Sabot) cartridge x200</MakeAmmo_2Bore_Sabot.label>
+  <MakeAmmo_2Bore_Sabot.description>Craft 200 2-Bore (Sabot) cartridges.</MakeAmmo_2Bore_Sabot.description>
+  <MakeAmmo_2Bore_Sabot.jobString>Making 2-Bore (Sabot) cartridges.</MakeAmmo_2Bore_Sabot.jobString>
+
+
+</LanguageData>

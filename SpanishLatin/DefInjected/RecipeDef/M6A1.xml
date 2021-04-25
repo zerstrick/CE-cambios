@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_M6A1_HEAT.label>make M6A1 HEAT rockets x5</MakeAmmo_M6A1_HEAT.label>
+  <MakeAmmo_M6A1_HEAT.description>Craft 5 M6A1 HEAT rockets.</MakeAmmo_M6A1_HEAT.description>
+  <MakeAmmo_M6A1_HEAT.jobString>Making M6A1 HEAT rockets.</MakeAmmo_M6A1_HEAT.jobString>
+
+
+</LanguageData>

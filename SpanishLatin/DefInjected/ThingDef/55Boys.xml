@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_55Boys_FMJ.label>.55 Boys cartridge (FMJ)</Ammo_55Boys_FMJ.label>
+  <Ammo_55Boys_FMJ.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_FMJ.description>
+
+  <Ammo_55Boys_Incendiary.label>.55 Boys cartridge (AP-I)</Ammo_55Boys_Incendiary.label>
+  <Ammo_55Boys_Incendiary.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Incendiary.description>
+
+  <Ammo_55Boys_HE.label>.55 Boys cartridge (HE)</Ammo_55Boys_HE.label>
+  <Ammo_55Boys_HE.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_HE.description>
+
+  <Ammo_55Boys_Sabot.label>.55 Boys cartridge (Sabot)</Ammo_55Boys_Sabot.label>
+  <Ammo_55Boys_Sabot.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_55Boys_Sabot.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_55Boys_FMJ.label>.55 Boys bullet (FMJ)</Bullet_55Boys_FMJ.label>
+  <Bullet_55Boys_Incendiary.label>.55 Boys bullet (AP-I)</Bullet_55Boys_Incendiary.label>
+  <Bullet_55Boys_HE.label>.55 Boys bullet (HE)</Bullet_55Boys_HE.label>
+  <Bullet_55Boys_Sabot.label>.55 Boys bullet (Sabot)</Bullet_55Boys_Sabot.label>
+
+
+</LanguageData>

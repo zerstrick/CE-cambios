@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_20x138mmB_FMJ.label>make 20x138mmB (FMJ) cartridge x200</MakeAmmo_20x138mmB_FMJ.label>
+  <MakeAmmo_20x138mmB_FMJ.description>Craft 200 20x138mmB (FMJ) cartridges.</MakeAmmo_20x138mmB_FMJ.description>
+  <MakeAmmo_20x138mmB_FMJ.jobString>Making 20x138mmB (FMJ) cartridges.</MakeAmmo_20x138mmB_FMJ.jobString>
+
+  <MakeAmmo_20x138mmB_Incendiary.label>make 20x138mmB (AP-I) cartridge x200</MakeAmmo_20x138mmB_Incendiary.label>
+  <MakeAmmo_20x138mmB_Incendiary.description>Craft 200 20x138mmB (AP-I) cartridges.</MakeAmmo_20x138mmB_Incendiary.description>
+  <MakeAmmo_20x138mmB_Incendiary.jobString>Making 20x138mmB (AP-I) cartridges.</MakeAmmo_20x138mmB_Incendiary.jobString>
+
+  <MakeAmmo_20x138mmB_HE.label>make 20x138mmB (HE) cartridge x200</MakeAmmo_20x138mmB_HE.label>
+  <MakeAmmo_20x138mmB_HE.description>Craft 200 20x138mmB (HE) cartridges.</MakeAmmo_20x138mmB_HE.description>
+  <MakeAmmo_20x138mmB_HE.jobString>Making 20x138mmB (HE) cartridges.</MakeAmmo_20x138mmB_HE.jobString>
+
+  <MakeAmmo_20x138mmB_Sabot.label>make 20x138mmB (Sabot) cartridge x200</MakeAmmo_20x138mmB_Sabot.label>
+  <MakeAmmo_20x138mmB_Sabot.description>Craft 200 20x138mmB (Sabot) cartridges.</MakeAmmo_20x138mmB_Sabot.description>
+  <MakeAmmo_20x138mmB_Sabot.jobString>Making 20x138mmB (Sabot) cartridges.</MakeAmmo_20x138mmB_Sabot.jobString>
+
+
+</LanguageData>
