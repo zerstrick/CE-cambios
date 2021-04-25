@@ -13,6 +13,18 @@
   <Gun_HeavyTurret.description>Large caliber gun on a turret mount.</Gun_HeavyTurret.description>
 
 
+  <!-- Autocannon Turret -->
+
+  <Gun_AutocannonTurret.label>autocannon turret</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>An automated heavy machine gun designed to be mounted on a turret, effective against infantry and light vehicles.</Gun_AutocannonTurret.description>
+
+
+  <!-- Sniper turret -->
+
+  <Gun_TurretSniper.label>flak turret</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>A self-loading heavy cannon designed to attach to a turret.</Gun_TurretSniper.description>
+
+
   <!-- KPV -->
 
   <Gun_KPV.label>KPV machine gun</Gun_KPV.label>

@@ -14,5 +14,8 @@
   <Smoke.label>Smoke</Smoke.label>
   <Smoke.description>Filled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen.</Smoke.description>
 
+  <CNGas.label>tear gas</CNGas.label>
+  <CNGas.description>Filled with a non-lethal chemical agent capable of causing pain, irritation, and temporary blindness.</CNGas.description>
+
 
 </LanguageData>

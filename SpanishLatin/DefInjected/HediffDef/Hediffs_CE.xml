@@ -55,6 +55,9 @@
   <CrackBeanbag.label>beanbag crack</CrackBeanbag.label>
   <CrackBeanbag.labelNoun>a beanbag crack</CrackBeanbag.labelNoun>
 
+  <TaserStab.label>puncture</TaserStab.label>
+  <TaserStab.labelNoun>a puncture wound from taser barbs</TaserStab.labelNoun>
+
   <VenomousBite.label>venomous bite</VenomousBite.label>
   <VenomousBite.labelNoun>a venomous bite wound</VenomousBite.labelNoun>
 

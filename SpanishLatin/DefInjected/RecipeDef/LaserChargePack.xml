@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_LaserChargePack.label>make laser charge pack x500</MakeAmmo_LaserChargePack.label>
+  <MakeAmmo_LaserChargePack.description>Craft 500 laser charge pack.</MakeAmmo_LaserChargePack.description>
+  <MakeAmmo_LaserChargePack.jobString>Making laser charge pack.</MakeAmmo_LaserChargePack.jobString>
+
+
+</LanguageData>

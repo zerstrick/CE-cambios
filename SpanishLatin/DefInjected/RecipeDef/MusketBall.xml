@@ -3,9 +3,9 @@
 
   <!-- Recipes -->
 
-  <MakeAmmo_MusketBall.label>make lead ball x500</MakeAmmo_MusketBall.label>
-  <MakeAmmo_MusketBall.description>Craft 500 lead balls.</MakeAmmo_MusketBall.description>
-  <MakeAmmo_MusketBall.jobString>Making lead balls.</MakeAmmo_MusketBall.jobString>
+  <MakeAmmo_MusketBall.label>make musket ball x500</MakeAmmo_MusketBall.label>
+  <MakeAmmo_MusketBall.description>Craft 500 musket balls.</MakeAmmo_MusketBall.description>
+  <MakeAmmo_MusketBall.jobString>Making musket balls.</MakeAmmo_MusketBall.jobString>
 
 
 </LanguageData>

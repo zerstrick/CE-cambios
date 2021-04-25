@@ -25,11 +25,14 @@
   <ExplosiveAP.labelShort>AP-HE</ExplosiveAP.labelShort>
   <ExplosiveAP.description>Filled with high-explosives that detonate on impact for additional damage.</ExplosiveAP.description>
 
-
-  <!-- For Metal Gear Solid and Militaires Sans Frontieres -->
-
   <TranqNonLethal.label>tranquilizer</TranqNonLethal.label>
   <TranqNonLethal.description>Special round designed for non-lethal engagements of targets. Filled with fast-acting sedatives and tipped with a hypodermic needle.</TranqNonLethal.description>
+
+  <RubberBullet.label>rubber bullet</RubberBullet.label>
+  <RubberBullet.description>Special round designed for non-lethal engagements of targets, intended to inflict painful but non-fatal injuries.</RubberBullet.description>
+
+  <Taser.label>taser</Taser.label>
+  <Taser.description>Special round designed for non-lethal engagements of targets, delivering an incapacitating electrical current.</Taser.description>
 
 
 </LanguageData>
