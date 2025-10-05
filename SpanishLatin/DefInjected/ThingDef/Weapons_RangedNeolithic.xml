@@ -1,12 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- SPECIFICS -->
-
-  <Pila.label>javelins</Pila.label>
-  <Pila.description>A throwing spear which may be thrown on its own or using an atlatl.</Pila.description>
-  <Pila.tools.0.label>shaft</Pila.tools.0.label>
-  <Pila.tools.1.label>point</Pila.tools.1.label>
-
-
+  
+  <!-- EN: javelins -->
+  <Pila.label>pila</Pila.label>
+  <!-- EN: A throwing spear which may be thrown on its own or using an atlatl. -->
+  <Pila.description>El pilum (en plural pila) son lanzas para arrojar. Tardan mucho tiempo en lanzarse, pero un golpe puede causar mucho daño. Esta arma representa un paquete de pila para arrojar y pueden ser lanzadas una y otra vez.</Pila.description>
+  <!-- EN: shaft -->
+  <Pila.tools.shaft.label>astil</Pila.tools.shaft.label>
+  <!-- EN: point -->
+  <Pila.tools.point.label>punta</Pila.tools.point.label>
+  
 </LanguageData>

@@ -1,14 +1,29 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Apparel_Bascinet.label>bascinet</Apparel_Bascinet.label>
-  <Apparel_Bascinet.description>A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy.</Apparel_Bascinet.description>
-
-  <Apparel_GasMask.label>gas mask</Apparel_GasMask.label>
-  <Apparel_GasMask.description>Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins</Apparel_GasMask.description>
-
-  <Apparel_ImprovGasMask.label>improvised gas mask</Apparel_ImprovGasMask.label>
-  <Apparel_ImprovGasMask.description>Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins</Apparel_ImprovGasMask.description>
-
-
+  
+  <!-- EN: advanced night vision goggles -->
+  <CE_Apparel_AdvancedNightVision.label>TODO</CE_Apparel_AdvancedNightVision.label>
+  <!-- EN: A set of advanced night vision goggles offering detailed, panoramic vision when fighting in the dark. -->
+  <CE_Apparel_AdvancedNightVision.description>TODO</CE_Apparel_AdvancedNightVision.description>
+  
+  <!-- EN: gas mask -->
+  <CE_Apparel_GasMask.label>TODO</CE_Apparel_GasMask.label>
+  <!-- EN: Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins. -->
+  <CE_Apparel_GasMask.description>TODO</CE_Apparel_GasMask.description>
+  
+  <!-- EN: improvised gas mask -->
+  <CE_Apparel_ImprovGasMask.label>TODO</CE_Apparel_ImprovGasMask.label>
+  <!-- EN: Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins. -->
+  <CE_Apparel_ImprovGasMask.description>TODO</CE_Apparel_ImprovGasMask.description>
+  
+  <!-- EN: plate helmet -->
+  <CE_Apparel_PlateHelmet.label>TODO</CE_Apparel_PlateHelmet.label>
+  <!-- EN: A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy. -->
+  <CE_Apparel_PlateHelmet.description>TODO</CE_Apparel_PlateHelmet.description>
+  
+  <!-- EN: night vision monocular -->
+  <CE_Apparel_SimpleNightVision.label>TODO</CE_Apparel_SimpleNightVision.label>
+  <!-- EN: A simple, monocular night vision device, worn strapped to the head. -->
+  <CE_Apparel_SimpleNightVision.description>TODO</CE_Apparel_SimpleNightVision.description>
+  
 </LanguageData>

@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <StuffPower_Armor_Electric.label>Armor - Electric</StuffPower_Armor_Electric.label>
-  <StuffPower_Armor_Electric.description>Armor against electric damage like EMPs.</StuffPower_Armor_Electric.description>
-
-
+  
+  <!-- EN: Armor - Electric -->
+  <StuffPower_Armor_Electric.label>TODO</StuffPower_Armor_Electric.label>
+  <!-- EN: Armor against electric damage like EMPs. -->
+  <StuffPower_Armor_Electric.description>TODO</StuffPower_Armor_Electric.description>
+  
 </LanguageData>

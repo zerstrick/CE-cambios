@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Unload contents -->
+  <CE_AutoLoader_DropAmmo>TODO</CE_AutoLoader_DropAmmo>
+	<!-- EN: Unload this autoloader's contents onto the floor. -->
+  <CE_AutoLoader_DropAmmoDesc>TODO</CE_AutoLoader_DropAmmoDesc>
+
+	<!-- EN: Reload turrets -->
+  <CE_AutoLoader_ForceReload>TODO</CE_AutoLoader_ForceReload>
+	<!-- EN: Reload adjacent turrets immediately. Forbidden turrets and currently firing turrets will be ignored. -->
+  <CE_AutoLoader_ForceReloadDesc>TODO</CE_AutoLoader_ForceReloadDesc>
+
+	<!-- EN: {0} needs to be manned by an operator to function. -->
+  <CE_AutoLoader_Unmanned>TODO</CE_AutoLoader_Unmanned>
+	<!-- EN: {0} needs power to function. -->
+  <CE_AutoLoader_Unpowered>TODO</CE_AutoLoader_Unpowered>
+	<!-- EN: {0} cannot find any adjacent available {1} turrets. -->
+  <CE_AutoLoader_NoTurretToReload>TODO</CE_AutoLoader_NoTurretToReload>
+
+	<!-- EN: Ammo replacement: on -->
+  <CE_AutoLoader_ToggleReplaceOn>TODO</CE_AutoLoader_ToggleReplaceOn>
+	<!-- EN: The autoloader will replace turret's current ammo with the ammo type in the loader. -->
+  <CE_AutoLoader_ToggleReplaceDescOn>TODO</CE_AutoLoader_ToggleReplaceDescOn>
+
+	<!-- EN: Ammo replacement: off -->
+  <CE_AutoLoader_ToggleReplaceOff>TODO</CE_AutoLoader_ToggleReplaceOff>
+	<!-- EN: The autoloader will only reload turret with the same ammo type in the loader. -->
+  <CE_AutoLoader_ToggleReplaceDescOff>TODO</CE_AutoLoader_ToggleReplaceDescOff>
+
+	<!-- EN: Require manning to operate -->
+  <CE_AutoLoader_ManningRequired>TODO</CE_AutoLoader_ManningRequired>
+	<!-- EN: Reload time remaining: {0} seconds -->
+  <CE_AutoLoader_ReloadTime>TODO</CE_AutoLoader_ReloadTime>
+	<!-- EN: Ammo type replacement: {0} -->
+  <CE_AutoLoader_ShouldReplace>TODO</CE_AutoLoader_ShouldReplace>
+
+	<!-- EN: Autoloader is reloading or being reloaded. -->
+  <CE_AutoLoaderBusy>TODO</CE_AutoLoaderBusy>
+
+</LanguageData>

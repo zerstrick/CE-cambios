@@ -1,6 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <DormantCompAmmoBeacon>Ready to resupply turrets</DormantCompAmmoBeacon>
+	<!-- EN: Ready to resupply turrets -->
+  <DormantCompAmmoBeacon>TODO</DormantCompAmmoBeacon>
+	<!-- EN: Targeted bodypart: -->
+  <CE_MeleeTargetting_CurPart>TODO</CE_MeleeTargetting_CurPart>
+	<!-- EN: Melee attacked area -->
+  <CE_MeleeTargetting_CurHeight>TODO</CE_MeleeTargetting_CurHeight>
+	<!-- EN: None -->
+  <CE_NoBP>TODO</CE_NoBP>
+	<!-- EN: Yes -->
+  <CE_Yes>TODO</CE_Yes>
+	<!-- EN: No -->
+  <CE_No>TODO</CE_No>
+	<!-- EN: Give ammo to {0} -->
+  <CE_GiveAmmoToThing>TODO</CE_GiveAmmoToThing>
+	<!-- EN: Give -->
+  <CE_Give>TODO</CE_Give>
+	<!-- EN: No compatible ammo -->
+  <CE_NoAmmoToGive>TODO</CE_NoAmmoToGive>
+	<!-- EN: Amount of ammo to give: -->
+  <CE_AmmoAmount>TODO</CE_AmmoAmount>
+	<!-- EN: Target pawn's inventory is full -->
+  <CE_TargetInventoryFull>TODO</CE_TargetInventoryFull>
 
 </LanguageData>

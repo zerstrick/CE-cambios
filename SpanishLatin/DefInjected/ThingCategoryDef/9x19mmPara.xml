@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Ammo9x19mmPara.label>9x19mm Parabellum</Ammo9x19mmPara.label>
-
-
+  
+  <!-- EN: 9x19mm Parabellum -->
+  <Ammo9x19mmPara.label>TODO</Ammo9x19mmPara.label>
+  
 </LanguageData>

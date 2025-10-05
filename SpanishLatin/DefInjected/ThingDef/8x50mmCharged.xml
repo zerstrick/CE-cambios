@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 8x50mm Charged -->
+  <Ammo_8x50mmCharged.label>TODO</Ammo_8x50mmCharged.label>
+  <!-- EN: High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles. -->
+  <Ammo_8x50mmCharged.description>TODO</Ammo_8x50mmCharged.description>
+  
+  <!-- EN: 8x50mm Charged (Conc.) -->
+  <Ammo_8x50mmCharged_AP.label>TODO</Ammo_8x50mmCharged_AP.label>
+  <!-- EN: High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles. -->
+  <Ammo_8x50mmCharged_AP.description>TODO</Ammo_8x50mmCharged_AP.description>
+  
+  <!-- EN: 8x50mm Charged (Ion) -->
+  <Ammo_8x50mmCharged_Ion.label>TODO</Ammo_8x50mmCharged_Ion.label>
+  <!-- EN: High power charged shot ammo used by advanced battle rifles, machineguns and sniper rifles. -->
+  <Ammo_8x50mmCharged_Ion.description>TODO</Ammo_8x50mmCharged_Ion.description>
+  
+  <!-- EN: 8x50mm Charged bullet -->
+  <Bullet_8x50mmCharged.label>TODO</Bullet_8x50mmCharged.label>
+  
+  <!-- EN: 8x50mm Charged bullet (Conc.) -->
+  <Bullet_8x50mmCharged_AP.label>TODO</Bullet_8x50mmCharged_AP.label>
+  
+  <!-- EN: 8x50mm Charged bullet (Ion) -->
+  <Bullet_8x50mmCharged_Ion.label>TODO</Bullet_8x50mmCharged_Ion.label>
+  
+</LanguageData>

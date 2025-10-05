@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fading psycho comedown -->
+  <Crashed.stages.fading_psycho_comedown.label>TODO</Crashed.stages.fading_psycho_comedown.label>
+  <!-- EN: Ugh. My head is pounding, but at least I can think straight again. -->
+  <Crashed.stages.fading_psycho_comedown.description>TODO</Crashed.stages.fading_psycho_comedown.description>
+  <!-- EN: major psycho comedown -->
+  <Crashed.stages.major_psycho_comedown.label>TODO</Crashed.stages.major_psycho_comedown.label>
+  <!-- EN: I feel awful. My mind feels sluggish and I can barely keep my balance. -->
+  <Crashed.stages.major_psycho_comedown.description>TODO</Crashed.stages.major_psycho_comedown.description>
+  <!-- EN: initial psycho comedown -->
+  <Crashed.stages.initial_psycho_comedown.label>TODO</Crashed.stages.initial_psycho_comedown.label>
+  <!-- EN: I don't feel so good. My vision is blurry and my hands are starting to shake. -->
+  <Crashed.stages.initial_psycho_comedown.description>TODO</Crashed.stages.initial_psycho_comedown.description>
+  
+  <!-- EN: coming down from psycho -->
+  <PsychoHigh.stages.coming_down_from_psycho.label>TODO</PsychoHigh.stages.coming_down_from_psycho.label>
+  <!-- EN: Things are slowing down and my head is starting to pound. -->
+  <PsychoHigh.stages.coming_down_from_psycho.description>TODO</PsychoHigh.stages.coming_down_from_psycho.description>
+  <!-- EN: fading psycho high -->
+  <PsychoHigh.stages.fading_psycho_high.label>TODO</PsychoHigh.stages.fading_psycho_high.label>
+  <!-- EN: I still feel so good. -->
+  <PsychoHigh.stages.fading_psycho_high.description>TODO</PsychoHigh.stages.fading_psycho_high.description>
+  <!-- EN: psycho high -->
+  <PsychoHigh.stages.psycho_high.label>TODO</PsychoHigh.stages.psycho_high.label>
+  <!-- EN: I feel powerful and ready for anything. -->
+  <PsychoHigh.stages.psycho_high.description>TODO</PsychoHigh.stages.psycho_high.description>
+  
+</LanguageData>

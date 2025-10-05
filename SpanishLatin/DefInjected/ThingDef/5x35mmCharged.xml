@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_5x35mmCharged.label>5x35mm Charged cartridge</Ammo_5x35mmCharged.label>
-  <Ammo_5x35mmCharged.description>Mechanoid-built charged shot ammo designed for high-velocity fire and armor penetration.</Ammo_5x35mmCharged.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_5x35mmCharged.label>5x35mm Charged bullet</Bullet_5x35mmCharged.label>
-
-
+  
+  <!-- EN: 5x35mm Charged -->
+  <Ammo_5x35mmCharged.label>5x35mm cargada</Ammo_5x35mmCharged.label>
+  <!-- EN: Mechanoid-built charged shot ammo designed for high-velocity fire and armor penetration\n\nCharge:\nThe charged particle coating disrupts armor and tissue in equal measure.\n\nUsed by: -->
+  <Ammo_5x35mmCharged.description>Munición de disparo cargada construida por mecanoides y diseñada para disparar a alta velocidad y penetrar en el blindaje.\n\nCarga:\nEl recubrimiento de partículas cargadas interrumpe el blindaje y el tejido en igual medida.\n\nUsado por:</Ammo_5x35mmCharged.description>
+  
+  <!-- EN: 5x35mm Charged bullet -->
+  <Bullet_5x35mmCharged.label>bala 5x35mm cargada</Bullet_5x35mmCharged.label>
+  
 </LanguageData>

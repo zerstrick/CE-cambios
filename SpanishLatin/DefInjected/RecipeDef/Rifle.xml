@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make rifle (AP) cartridge x500 -->
+  <MakeAmmo_Rifle_AP.label>TODO</MakeAmmo_Rifle_AP.label>
+  <!-- EN: Craft 500 rifle (AP) cartridges. -->
+  <MakeAmmo_Rifle_AP.description>TODO</MakeAmmo_Rifle_AP.description>
+  <!-- EN: Making rifle (AP) cartridges. -->
+  <MakeAmmo_Rifle_AP.jobString>TODO</MakeAmmo_Rifle_AP.jobString>
+  
+  <!-- EN: make rifle (FMJ) cartridge x500 -->
+  <MakeAmmo_Rifle_FMJ.label>TODO</MakeAmmo_Rifle_FMJ.label>
+  <!-- EN: Craft 500 rifle (FMJ) cartridges. -->
+  <MakeAmmo_Rifle_FMJ.description>TODO</MakeAmmo_Rifle_FMJ.description>
+  <!-- EN: Making rifle (FMJ) cartridges. -->
+  <MakeAmmo_Rifle_FMJ.jobString>TODO</MakeAmmo_Rifle_FMJ.jobString>
+  
+  <!-- EN: make rifle (HE) cartridge x500 -->
+  <MakeAmmo_Rifle_HE.label>TODO</MakeAmmo_Rifle_HE.label>
+  <!-- EN: Craft 500 rifle (HE) cartridges. -->
+  <MakeAmmo_Rifle_HE.description>TODO</MakeAmmo_Rifle_HE.description>
+  <!-- EN: Making rifle (HE) cartridges. -->
+  <MakeAmmo_Rifle_HE.jobString>TODO</MakeAmmo_Rifle_HE.jobString>
+  
+  <!-- EN: make rifle (HP) cartridge x500 -->
+  <MakeAmmo_Rifle_HP.label>TODO</MakeAmmo_Rifle_HP.label>
+  <!-- EN: Craft 500 rifle (HP) cartridges. -->
+  <MakeAmmo_Rifle_HP.description>TODO</MakeAmmo_Rifle_HP.description>
+  <!-- EN: Making rifle (HP) cartridges. -->
+  <MakeAmmo_Rifle_HP.jobString>TODO</MakeAmmo_Rifle_HP.jobString>
+  
+  <!-- EN: make rifle (AP-I) cartridge x500 -->
+  <MakeAmmo_Rifle_Incendiary.label>TODO</MakeAmmo_Rifle_Incendiary.label>
+  <!-- EN: Craft 500 rifle (AP-I) cartridges. -->
+  <MakeAmmo_Rifle_Incendiary.description>TODO</MakeAmmo_Rifle_Incendiary.description>
+  <!-- EN: Making rifle (AP-I) cartridges. -->
+  <MakeAmmo_Rifle_Incendiary.jobString>TODO</MakeAmmo_Rifle_Incendiary.jobString>
+  
+  <!-- EN: make rifle (Sabot) cartridge x500 -->
+  <MakeAmmo_Rifle_Sabot.label>TODO</MakeAmmo_Rifle_Sabot.label>
+  <!-- EN: Craft 500 rifle (Sabot) cartridges. -->
+  <MakeAmmo_Rifle_Sabot.description>TODO</MakeAmmo_Rifle_Sabot.description>
+  <!-- EN: Making rifle (Sabot) cartridges. -->
+  <MakeAmmo_Rifle_Sabot.jobString>TODO</MakeAmmo_Rifle_Sabot.jobString>
+  
+</LanguageData>

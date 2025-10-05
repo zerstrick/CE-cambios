@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Soellkraft 8 gauge shell (Buck) -->
+  <Ammo_8Gauge_Buck.label>TODO</Ammo_8Gauge_Buck.label>
+  <!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+  <Ammo_8Gauge_Buck.description>TODO</Ammo_8Gauge_Buck.description>
+  
+  <!-- EN: Soellkraft 8 gauge shell (EMP) -->
+  <Ammo_8Gauge_ElectroSlug.label>TODO</Ammo_8Gauge_ElectroSlug.label>
+  <!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+  <Ammo_8Gauge_ElectroSlug.description>TODO</Ammo_8Gauge_ElectroSlug.description>
+  
+  <!-- EN: Soellkraft 8 gauge shell (Flechette) -->
+  <Ammo_8Gauge_Flechette.label>TODO</Ammo_8Gauge_Flechette.label>
+  <!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+  <Ammo_8Gauge_Flechette.description>TODO</Ammo_8Gauge_Flechette.description>
+  
+  <!-- EN: Soellkraft 8 gauge shell (Slug) -->
+  <Ammo_8Gauge_Slug.label>TODO</Ammo_8Gauge_Slug.label>
+  <!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+  <Ammo_8Gauge_Slug.description>TODO</Ammo_8Gauge_Slug.description>
+  
+  <!-- EN: buckshot pellet -->
+  <Bullet_8Gauge_Buck.label>TODO</Bullet_8Gauge_Buck.label>
+  
+  <!-- EN: EMP slug -->
+  <Bullet_8Gauge_ElectroSlug.label>TODO</Bullet_8Gauge_ElectroSlug.label>
+  
+  <!-- EN: Flechette -->
+  <Bullet_8Gauge_Flechette.label>TODO</Bullet_8Gauge_Flechette.label>
+  
+  <!-- EN: shotgun slug -->
+  <Bullet_8Gauge_Slug.label>TODO</Bullet_8Gauge_Slug.label>
+  
+</LanguageData>

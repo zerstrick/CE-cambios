@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 8.25mm Long (AP) cartridge x500 -->
+  <MakeAmmo_825mmLong_AP.label>TODO</MakeAmmo_825mmLong_AP.label>
+  <!-- EN: Craft 500 8.25mm Long (AP) cartridges. -->
+  <MakeAmmo_825mmLong_AP.description>TODO</MakeAmmo_825mmLong_AP.description>
+  <!-- EN: Making 8.25mm Long (AP) cartridges. -->
+  <MakeAmmo_825mmLong_AP.jobString>TODO</MakeAmmo_825mmLong_AP.jobString>
+  
+  <!-- EN: make 8.25mm Long (FMJ) cartridge x500 -->
+  <MakeAmmo_825mmLong_FMJ.label>TODO</MakeAmmo_825mmLong_FMJ.label>
+  <!-- EN: Craft 500 8.25mm Long (FMJ) cartridges. -->
+  <MakeAmmo_825mmLong_FMJ.description>TODO</MakeAmmo_825mmLong_FMJ.description>
+  <!-- EN: Making 8.25mm Long (FMJ) cartridges. -->
+  <MakeAmmo_825mmLong_FMJ.jobString>TODO</MakeAmmo_825mmLong_FMJ.jobString>
+  
+  <!-- EN: make 8.25mm Long (AP-HE) cartridge x500 -->
+  <MakeAmmo_825mmLong_HE.label>TODO</MakeAmmo_825mmLong_HE.label>
+  <!-- EN: Craft 500 8.25mm Long (AP-HE) cartridges. -->
+  <MakeAmmo_825mmLong_HE.description>TODO</MakeAmmo_825mmLong_HE.description>
+  <!-- EN: Making 8.25mm Long (AP-HE) cartridges. -->
+  <MakeAmmo_825mmLong_HE.jobString>TODO</MakeAmmo_825mmLong_HE.jobString>
+  
+  <!-- EN: make 8.25mm Long (HP) cartridge x500 -->
+  <MakeAmmo_825mmLong_HP.label>TODO</MakeAmmo_825mmLong_HP.label>
+  <!-- EN: Craft 500 8.25mm Long (HP) cartridges. -->
+  <MakeAmmo_825mmLong_HP.description>TODO</MakeAmmo_825mmLong_HP.description>
+  <!-- EN: Making 8.25mm Long (HP) cartridges. -->
+  <MakeAmmo_825mmLong_HP.jobString>TODO</MakeAmmo_825mmLong_HP.jobString>
+  
+  <!-- EN: make 8.25mm Long (AP-I) cartridge x500 -->
+  <MakeAmmo_825mmLong_Incendiary.label>TODO</MakeAmmo_825mmLong_Incendiary.label>
+  <!-- EN: Craft 500 8.25mm Long (AP-I) cartridges. -->
+  <MakeAmmo_825mmLong_Incendiary.description>TODO</MakeAmmo_825mmLong_Incendiary.description>
+  <!-- EN: Making 8.25mm Long (AP-I) cartridges. -->
+  <MakeAmmo_825mmLong_Incendiary.jobString>TODO</MakeAmmo_825mmLong_Incendiary.jobString>
+  
+  <!-- EN: make 8.25mm Long (Sabot) cartridge x500 -->
+  <MakeAmmo_825mmLong_Sabot.label>TODO</MakeAmmo_825mmLong_Sabot.label>
+  <!-- EN: Craft 500 8.25mm Long (Sabot) cartridges. -->
+  <MakeAmmo_825mmLong_Sabot.description>TODO</MakeAmmo_825mmLong_Sabot.description>
+  <!-- EN: Making 8.25mm Long (Sabot) cartridges. -->
+  <MakeAmmo_825mmLong_Sabot.jobString>TODO</MakeAmmo_825mmLong_Sabot.jobString>
+  
+</LanguageData>

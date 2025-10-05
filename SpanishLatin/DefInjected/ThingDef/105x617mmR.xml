@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 105x617mmR cannon shell (HE) -->
+  <Ammo_105x617mmRCannonShell_HE.label>TODO</Ammo_105x617mmRCannonShell_HE.label>
+  <!-- EN: High-caliber tank shell, typically used by heavily armored vehicles. -->
+  <Ammo_105x617mmRCannonShell_HE.description>TODO</Ammo_105x617mmRCannonShell_HE.description>
+  
+  <!-- EN: 105x617mmR cannon shell (HEAT) -->
+  <Ammo_105x617mmRCannonShell_HEAT.label>TODO</Ammo_105x617mmRCannonShell_HEAT.label>
+  <!-- EN: High-caliber tank shell, typically used by heavily armored vehicles. -->
+  <Ammo_105x617mmRCannonShell_HEAT.description>TODO</Ammo_105x617mmRCannonShell_HEAT.description>
+  
+  <!-- EN: 105x617mmR cannon shell (HE) -->
+  <Bullet_105x617mmRCannonShell_HE.label>TODO</Bullet_105x617mmRCannonShell_HE.label>
+  
+  <!-- EN: 105x617mmR cannon shell (HEAT) -->
+  <Bullet_105x617mmRCannonShell_HEAT.label>TODO</Bullet_105x617mmRCannonShell_HEAT.label>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Make mini grape shot cannon shells x50 -->
+  <MakeAmmo_MiniCannonBall_Grape.label>TODO</MakeAmmo_MiniCannonBall_Grape.label>
+  <!-- EN: Craft 50 mini grape shot cannon shells. -->
+  <MakeAmmo_MiniCannonBall_Grape.description>TODO</MakeAmmo_MiniCannonBall_Grape.description>
+  <!-- EN: Making mini grape shot cannon shells. -->
+  <MakeAmmo_MiniCannonBall_Grape.jobString>TODO</MakeAmmo_MiniCannonBall_Grape.jobString>
+  
+  <!-- EN: make mini round shot cannon balls x50 -->
+  <MakeAmmo_MiniCannonBall_Round.label>TODO</MakeAmmo_MiniCannonBall_Round.label>
+  <!-- EN: Craft 50 mini round shot cannon balls. -->
+  <MakeAmmo_MiniCannonBall_Round.description>TODO</MakeAmmo_MiniCannonBall_Round.description>
+  <!-- EN: Making mini round shot cannon balls. -->
+  <MakeAmmo_MiniCannonBall_Round.jobString>TODO</MakeAmmo_MiniCannonBall_Round.jobString>
+  
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 40mm grenade UNSC (HEDP) -->
+  <Ammo_40mmGrenade_UNSCHEDP.label>TODO</Ammo_40mmGrenade_UNSCHEDP.label>
+  <!-- EN: Medium velocity grenade fired from handheld grenade launchers. This one features a heat warhead. -->
+  <Ammo_40mmGrenade_UNSCHEDP.description>TODO</Ammo_40mmGrenade_UNSCHEDP.description>
+  
+  <!-- EN: 40x46mm grenade (HEDP) -->
+  <Bullet_40mmGrenade_UNSCHEDP.label>TODO</Bullet_40mmGrenade_UNSCHEDP.label>
+  
+  <!-- EN: 40x46mm grenade (EMP) -->
+  <Bullet_40x46mmGrenade_UNSCEMP.label>TODO</Bullet_40x46mmGrenade_UNSCEMP.label>
+  
+  <!-- EN: 40x46mm grenade (HE) -->
+  <Bullet_40x46mmGrenade_UNSCHE.label>TODO</Bullet_40x46mmGrenade_UNSCHE.label>
+  
+  <!-- EN: 40x46mm grenade (Smoke) -->
+  <Bullet_40x46mmGrenade_UNSCSmoke.label>TODO</Bullet_40x46mmGrenade_UNSCSmoke.label>
+  
+</LanguageData>

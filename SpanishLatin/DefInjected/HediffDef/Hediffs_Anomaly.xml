@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Bioferrite toxicity -->
+  <BioferriteToxicity.label>TODO</BioferriteToxicity.label>
+  <!-- EN: Ravaged by the effects of bioferrite toxicity. -->
+  <BioferriteToxicity.description>TODO</BioferriteToxicity.description>
+  <!-- EN: minor -->
+  <BioferriteToxicity.stages.minor.label>TODO</BioferriteToxicity.stages.minor.label>
+  <!-- EN: moderate -->
+  <BioferriteToxicity.stages.moderate.label>TODO</BioferriteToxicity.stages.moderate.label>
+  <!-- EN: major -->
+  <BioferriteToxicity.stages.major.label>TODO</BioferriteToxicity.stages.major.label>
+  <!-- EN: severe -->
+  <BioferriteToxicity.stages.severe.label>TODO</BioferriteToxicity.stages.severe.label>
+  <!-- EN: extreme -->
+  <BioferriteToxicity.stages.extreme.label>TODO</BioferriteToxicity.stages.extreme.label>
+  
+</LanguageData>

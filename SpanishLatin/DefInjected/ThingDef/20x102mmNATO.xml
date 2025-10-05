@@ -1,27 +1,48 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_20x102mmNATO_FMJ.label>20x102mm NATO cartridge (FMJ)</Ammo_20x102mmNATO_FMJ.label>
-  <Ammo_20x102mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_FMJ.description>
-
-  <Ammo_20x102mmNATO_Incendiary.label>20x102mm NATO cartridge (AP-I)</Ammo_20x102mmNATO_Incendiary.label>
-  <Ammo_20x102mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Incendiary.description>
-
-  <Ammo_20x102mmNATO_HE.label>20x102mm NATO cartridge (HE)</Ammo_20x102mmNATO_HE.label>
-  <Ammo_20x102mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_HE.description>
-
-  <Ammo_20x102mmNATO_Sabot.label>20x102mm NATO cartridge (Sabot)</Ammo_20x102mmNATO_Sabot.label>
-  <Ammo_20x102mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_20x102mmNATO_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_20x102mmNATO_FMJ.label>20x102mm NATO bullet (FMJ)</Bullet_20x102mmNATO_FMJ.label>
-  <Bullet_20x102mmNATO_Incendiary.label>20x102mm NATO bullet (AP-I)</Bullet_20x102mmNATO_Incendiary.label>
-  <Bullet_20x102mmNATO_HE.label>20x102mm NATO bullet (HE)</Bullet_20x102mmNATO_HE.label>
-  <Bullet_20x102mmNATO_Sabot.label>20x102mm NATO bullet (Sabot)</Bullet_20x102mmNATO_Sabot.label>
-
-
+  
+  <!-- EN: 20x102mm NATO (AP) -->
+  <Ammo_20x102mmNATO_AP.label>TODO</Ammo_20x102mmNATO_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing:
+\nFeatures a hardened steel penetrator core for increased armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_20x102mmNATO_AP.description>TODO</Ammo_20x102mmNATO_AP.description>
+  
+  <!-- EN: 20x102mm NATO (AP-HE) -->
+  <Ammo_20x102mmNATO_HE.label>TODO</Ammo_20x102mmNATO_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing high-explosive:
+\nFilled with high-explosives that detonate on impact for additional damage.
+\n\nUșèð þý: -->
+  <Ammo_20x102mmNATO_HE.description>TODO</Ammo_20x102mmNATO_HE.description>
+  
+  <!-- EN: 20x102mm NATO (AP-I) -->
+  <Ammo_20x102mmNATO_Incendiary.label>TODO</Ammo_20x102mmNATO_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing incendiary:
+\nFilled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_20x102mmNATO_Incendiary.description>TODO</Ammo_20x102mmNATO_Incendiary.description>
+  
+  <!-- EN: 20x102mm NATO (Sabot) -->
+  <Ammo_20x102mmNATO_Sabot.label>TODO</Ammo_20x102mmNATO_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing discarding sabot:
+\nUses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_20x102mmNATO_Sabot.description>TODO</Ammo_20x102mmNATO_Sabot.description>
+  
+  <!-- EN: 20x102mm NATO bullet (AP) -->
+  <Bullet_20x102mmNATO_AP.label>TODO</Bullet_20x102mmNATO_AP.label>
+  
+  <!-- EN: 20x102mm NATO bullet (AP-HE) -->
+  <Bullet_20x102mmNATO_HE.label>TODO</Bullet_20x102mmNATO_HE.label>
+  
+  <!-- EN: 20x102mm NATO bullet (AP-I) -->
+  <Bullet_20x102mmNATO_Incendiary.label>TODO</Bullet_20x102mmNATO_Incendiary.label>
+  
+  <!-- EN: 20x102mm NATO bullet (Sabot) -->
+  <Bullet_20x102mmNATO_Sabot.label>TODO</Bullet_20x102mmNATO_Sabot.label>
+  
 </LanguageData>

@@ -1,19 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_9x21mmGyurza_FMJ.label>make 9x21mm Gyurza (FMJ) cartridge x500</MakeAmmo_9x21mmGyurza_FMJ.label>
-  <MakeAmmo_9x21mmGyurza_FMJ.description>Craft 500 9x21mm Gyurza (FMJ) cartridges.</MakeAmmo_9x21mmGyurza_FMJ.description>
-  <MakeAmmo_9x21mmGyurza_FMJ.jobString>Making 9x21mm Gyurza (FMJ) cartridges.</MakeAmmo_9x21mmGyurza_FMJ.jobString>
-
-  <MakeAmmo_9x21mmGyurza_AP.label>make 9x21mm Gyurza (AP) cartridge x500</MakeAmmo_9x21mmGyurza_AP.label>
-  <MakeAmmo_9x21mmGyurza_AP.description>Craft 500 9x21mm Gyurza (AP) cartridges.</MakeAmmo_9x21mmGyurza_AP.description>
-  <MakeAmmo_9x21mmGyurza_AP.jobString>Making 9x21mm Gyurza (AP) cartridges.</MakeAmmo_9x21mmGyurza_AP.jobString>
-
-  <MakeAmmo_9x21mmGyurza_HP.label>make 9x21mm Gyurza (HP) cartridge x500</MakeAmmo_9x21mmGyurza_HP.label>
-  <MakeAmmo_9x21mmGyurza_HP.description>Craft 500 9x21mm Gyurza (HP) cartridges.</MakeAmmo_9x21mmGyurza_HP.description>
-  <MakeAmmo_9x21mmGyurza_HP.jobString>Making 9x21mm Gyurza (HP) cartridges.</MakeAmmo_9x21mmGyurza_HP.jobString>
-
-
+  
+  <!-- EN: make 9x21mm Gyurza (AP) cartridge x500 -->
+  <MakeAmmo_9x21mmGyurza_AP.label>TODO</MakeAmmo_9x21mmGyurza_AP.label>
+  <!-- EN: Craft 500 9x21mm Gyurza (AP) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_AP.description>TODO</MakeAmmo_9x21mmGyurza_AP.description>
+  <!-- EN: Making 9x21mm Gyurza (AP) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_AP.jobString>TODO</MakeAmmo_9x21mmGyurza_AP.jobString>
+  
+  <!-- EN: make 9x21mm Gyurza (FMJ) cartridge x500 -->
+  <MakeAmmo_9x21mmGyurza_FMJ.label>TODO</MakeAmmo_9x21mmGyurza_FMJ.label>
+  <!-- EN: Craft 500 9x21mm Gyurza (FMJ) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_FMJ.description>TODO</MakeAmmo_9x21mmGyurza_FMJ.description>
+  <!-- EN: Making 9x21mm Gyurza (FMJ) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_FMJ.jobString>TODO</MakeAmmo_9x21mmGyurza_FMJ.jobString>
+  
+  <!-- EN: make 9x21mm Gyurza (HP) cartridge x500 -->
+  <MakeAmmo_9x21mmGyurza_HP.label>TODO</MakeAmmo_9x21mmGyurza_HP.label>
+  <!-- EN: Craft 500 9x21mm Gyurza (HP) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_HP.description>TODO</MakeAmmo_9x21mmGyurza_HP.description>
+  <!-- EN: Making 9x21mm Gyurza (HP) cartridges. -->
+  <MakeAmmo_9x21mmGyurza_HP.jobString>TODO</MakeAmmo_9x21mmGyurza_HP.jobString>
+  
 </LanguageData>

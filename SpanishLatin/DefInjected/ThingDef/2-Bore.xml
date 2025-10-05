@@ -1,27 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: 2-Bore (AP) -->
+  <Ammo_2Bore_AP.label>calibre 2 (AP)</Ammo_2Bore_AP.label>
+  <!-- EN: An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses. -->
+  <Ammo_2Bore_AP.description>Un cartucho deportivo de calibre extremadamente grande, casi impracticable para cualquier propósito, pero capaz de derribar objetivos grandes como elefantes o rinocerontes.</Ammo_2Bore_AP.description>
+  
+  <!-- EN: 2-Bore (FMJ) -->
+  <Ammo_2Bore_FMJ.label>calibre 2 (FMJ)</Ammo_2Bore_FMJ.label>
+  <!-- EN: An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses. -->
+  <Ammo_2Bore_FMJ.description>Un cartucho deportivo de calibre extremadamente grande, casi impracticable para cualquier propósito, pero capaz de derribar objetivos grandes como elefantes o rinocerontes.</Ammo_2Bore_FMJ.description>
+  
+  <!-- EN: 2-Bore (AP-HE) -->
+  <Ammo_2Bore_HE.label>calibre 2 (AP-HE)</Ammo_2Bore_HE.label>
+  <!-- EN: An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses. -->
+  <Ammo_2Bore_HE.description>Un cartucho deportivo de calibre extremadamente grande, casi impracticable para cualquier propósito, pero capaz de derribar objetivos grandes como elefantes o rinocerontes.</Ammo_2Bore_HE.description>
+  
+  <!-- EN: 2-Bore (AP-I) -->
+  <Ammo_2Bore_Incendiary.label>calibre 2 (AP-I)</Ammo_2Bore_Incendiary.label>
+  <!-- EN: An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses. -->
+  <Ammo_2Bore_Incendiary.description>Un cartucho deportivo de calibre extremadamente grande, casi impracticable para cualquier propósito, pero capaz de derribar objetivos grandes como elefantes o rinocerontes.</Ammo_2Bore_Incendiary.description>
+  
+  <!-- EN: 2-Bore (Sabot) -->
+  <Ammo_2Bore_Sabot.label>calibre 2 (Sabot)</Ammo_2Bore_Sabot.label>
+  <!-- EN: An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses. -->
+  <Ammo_2Bore_Sabot.description>Un cartucho deportivo de calibre extremadamente grande, casi impracticable para cualquier propósito, pero capaz de derribar objetivos grandes como elefantes o rinocerontes.</Ammo_2Bore_Sabot.description>
+  
+  <!-- EN: 2-Bore bullet (AP) -->
+  <Bullet_2Bore_AP.label>calibre 2 (AP)</Bullet_2Bore_AP.label>
 
-  <!-- Ammo -->
+  <!-- EN: 2-Bore bullet (FMJ) -->
+  <Bullet_2Bore_FMJ.label>calibre 2 (FMJ)</Bullet_2Bore_FMJ.label>
 
-  <Ammo_2Bore_FMJ.label>2-Bore cartridge (FMJ)</Ammo_2Bore_FMJ.label>
-  <Ammo_2Bore_FMJ.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_FMJ.description>
+  <!-- EN: 2-Bore bullet (AP-HE) -->
+  <Bullet_2Bore_HE.label>calibre 2 (AP-HE)</Bullet_2Bore_HE.label>
 
-  <Ammo_2Bore_Incendiary.label>2-Bore cartridge (AP-I)</Ammo_2Bore_Incendiary.label>
-  <Ammo_2Bore_Incendiary.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Incendiary.description>
+  <!-- EN: 2-Bore bullet (AP-I) -->
+  <Bullet_2Bore_Incendiary.label>calibre 2 (AP-I)</Bullet_2Bore_Incendiary.label>
 
-  <Ammo_2Bore_HE.label>2-Bore cartridge (HE)</Ammo_2Bore_HE.label>
-  <Ammo_2Bore_HE.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_HE.description>
-
-  <Ammo_2Bore_Sabot.label>2-Bore cartridge (Sabot)</Ammo_2Bore_Sabot.label>
-  <Ammo_2Bore_Sabot.description>An extremely large caliber sporting cartridge, almost impractical for any purpose, but capable of bringing down large targets like elephants or rhinoceroses.</Ammo_2Bore_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_2Bore_FMJ.label>2-Bore bullet (FMJ)</Bullet_2Bore_FMJ.label>
-  <Bullet_2Bore_Incendiary.label>2-Bore bullet (AP-I)</Bullet_2Bore_Incendiary.label>
-  <Bullet_2Bore_HE.label>2-Bore bullet (HE)</Bullet_2Bore_HE.label>
-  <Bullet_2Bore_Sabot.label>2-Bore bullet (Sabot)</Bullet_2Bore_Sabot.label>
-
+  <!-- EN: 2-Bore bullet (Sabot) -->
+  <Bullet_2Bore_Sabot.label>calibre 2 (Sabot)</Bullet_2Bore_Sabot.label>
 
 </LanguageData>

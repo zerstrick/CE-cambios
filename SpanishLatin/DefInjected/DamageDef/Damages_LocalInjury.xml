@@ -1,33 +1,84 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Beanbag.label>beanbag</Beanbag.label>
-  <Beanbag.deathMessage>{0} has been beanbagged to death.</Beanbag.deathMessage>
-
-  <Taser.label>taser</Taser.label>
-  <Taser.deathMessage>{0} has been tasered to death.</Taser.deathMessage>
-
-  <Fragment.label>fragment</Fragment.label>
-  <Fragment.deathMessage>{0} has been shredded to death.</Fragment.deathMessage>
-
-  <PrometheumFlame.label>prometheum flame</PrometheumFlame.label>
-  <PrometheumFlame.deathMessage>{0} has been killed.</PrometheumFlame.deathMessage>
-
-  <Bomb_Secondary.deathMessage>{0} has been killed.</Bomb_Secondary.deathMessage>
-
-  <Thermobaric.label>thermobaric</Thermobaric.label>
-  <Thermobaric.deathMessage>{0} has been killed.</Thermobaric.deathMessage>
-
-  <Flame_Secondary.label>burn</Flame_Secondary.label>
-  <Flame_Secondary.deathMessage>{0} has been killed.</Flame_Secondary.deathMessage>
-
-  <Electrical.label>electrical</Electrical.label>
-  <Electrical.deathMessage>{0} has been electrocuted.</Electrical.deathMessage>
-
-  <ArrowVenom.deathMessage>{0} has been killed.</ArrowVenom.deathMessage>
-
-  <Tranquilizer.label>tranquilizer</Tranquilizer.label>
-  <Tranquilizer.deathMessage>{0} has been killed.</Tranquilizer.deathMessage>
-
-
+  
+  <!-- EN: arrow -->
+  <ArrowFire.label>TODO</ArrowFire.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowFire.deathMessage>TODO</ArrowFire.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowVenom.label>TODO</ArrowVenom.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowVenom.deathMessage>TODO</ArrowVenom.deathMessage>
+  
+  <!-- EN: beanbag -->
+  <Beanbag.label>TODO</Beanbag.label>
+  <!-- EN: {0} has been beanbagged to death. -->
+  <Beanbag.deathMessage>TODO</Beanbag.deathMessage>
+  
+  <!-- EN: bomb -->
+  <Bomb_Secondary.label>TODO</Bomb_Secondary.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb_Secondary.deathMessage>TODO</Bomb_Secondary.deathMessage>
+  
+  <!-- EN: laser -->
+  <CE_Laser.label>TODO</CE_Laser.label>
+  <!-- EN: {0} has been scorched to death. -->
+  <CE_Laser.deathMessage>TODO</CE_Laser.deathMessage>
+  
+  <!-- EN: electrical -->
+  <Electrical.label>TODO</Electrical.label>
+  <!-- EN: {0} has been electrocuted. -->
+  <Electrical.deathMessage>TODO</Electrical.deathMessage>
+  
+  <!-- EN: burn -->
+  <Flame_Secondary.label>TODO</Flame_Secondary.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame_Secondary.deathMessage>TODO</Flame_Secondary.deathMessage>
+  
+  <!-- EN: burn -->
+  <Flame_Secondary_Incendiary.label>TODO</Flame_Secondary_Incendiary.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame_Secondary_Incendiary.deathMessage>TODO</Flame_Secondary_Incendiary.deathMessage>
+  
+  <!-- EN: flashbang -->
+  <Flashbang.label>TODO</Flashbang.label>
+  <!-- EN: {0} has been killed. -->
+  <Flashbang.deathMessage>TODO</Flashbang.deathMessage>
+  
+  <!-- EN: fragment -->
+  <Fragment.label>TODO</Fragment.label>
+  <!-- EN: {0} has been shredded to death. -->
+  <Fragment.deathMessage>TODO</Fragment.deathMessage>
+  
+  <!-- EN: neuralizer -->
+  <Neuralizer.label>TODO</Neuralizer.label>
+  <!-- EN: {0} has been electrocuted. -->
+  <Neuralizer.deathMessage>TODO</Neuralizer.deathMessage>
+  
+  <!-- EN: low power neuralizer -->
+  <Neuralizer_weak.label>TODO</Neuralizer_weak.label>
+  <!-- EN: {0} has been electrocuted. -->
+  <Neuralizer_weak.deathMessage>TODO</Neuralizer_weak.deathMessage>
+  
+  <!-- EN: prometheum flame -->
+  <PrometheumFlame.label>TODO</PrometheumFlame.label>
+  <!-- EN: {0} has burned to death. -->
+  <PrometheumFlame.deathMessage>TODO</PrometheumFlame.deathMessage>
+  
+  <!-- EN: taser -->
+  <Taser.label>TODO</Taser.label>
+  <!-- EN: {0} has been tasered to death. -->
+  <Taser.deathMessage>TODO</Taser.deathMessage>
+  
+  <!-- EN: thermobaric -->
+  <Thermobaric.label>TODO</Thermobaric.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Thermobaric.deathMessage>TODO</Thermobaric.deathMessage>
+  
+  <!-- EN: tranquilizer -->
+  <Tranquilizer.label>TODO</Tranquilizer.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Tranquilizer.deathMessage>TODO</Tranquilizer.deathMessage>
+  
 </LanguageData>

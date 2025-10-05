@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .44 Special (AP) -->
+  <Ammo_44SWSpecial_AP.label>TODO</Ammo_44SWSpecial_AP.label>
+  <!-- EN: A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder. -->
+  <Ammo_44SWSpecial_AP.description>TODO</Ammo_44SWSpecial_AP.description>
+  
+  <!-- EN: .44 Special (FMJ) -->
+  <Ammo_44SWSpecial_FMJ.label>TODO</Ammo_44SWSpecial_FMJ.label>
+  <!-- EN: A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder. -->
+  <Ammo_44SWSpecial_FMJ.description>TODO</Ammo_44SWSpecial_FMJ.description>
+  
+  <!-- EN: .44 Special (HP) -->
+  <Ammo_44SWSpecial_HP.label>TODO</Ammo_44SWSpecial_HP.label>
+  <!-- EN: A centerfire pistol and revolver cartridge that was one of the first to be purposely designed for smokeless powder. -->
+  <Ammo_44SWSpecial_HP.description>TODO</Ammo_44SWSpecial_HP.description>
+  
+  <!-- EN: .44 Special bullet (AP) -->
+  <Bullet_44SWSpecial_AP.label>TODO</Bullet_44SWSpecial_AP.label>
+  
+  <!-- EN: .44 Special bullet (FMJ) -->
+  <Bullet_44SWSpecial_FMJ.label>TODO</Bullet_44SWSpecial_FMJ.label>
+  
+  <!-- EN: .44 Special bullet (HP) -->
+  <Bullet_44SWSpecial_HP.label>TODO</Bullet_44SWSpecial_HP.label>
+  
+  <!-- EN: .44 Special bullet (AP) -->
+  <Bullet_44SWSpecial_HV_AP.label>TODO</Bullet_44SWSpecial_HV_AP.label>
+  
+  <!-- EN: .44 Special bullet (FMJ) -->
+  <Bullet_44SWSpecial_HV_FMJ.label>TODO</Bullet_44SWSpecial_HV_FMJ.label>
+  
+  <!-- EN: .44 Special bullet (HP) -->
+  <Bullet_44SWSpecial_HV_HP.label>TODO</Bullet_44SWSpecial_HV_HP.label>
+  
+</LanguageData>

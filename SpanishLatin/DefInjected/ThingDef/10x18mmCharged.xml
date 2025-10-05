@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 10x18mm Charged -->
+  <Ammo_10x18mmCharged.label>TODO</Ammo_10x18mmCharged.label>
+  <!-- EN: Charged shot ammo used by low velocity, high power charge weapons. -->
+  <Ammo_10x18mmCharged.description>TODO</Ammo_10x18mmCharged.description>
+  
+  <!-- EN: 10x18mm Charged (Conc.) -->
+  <Ammo_10x18mmCharged_AP.label>TODO</Ammo_10x18mmCharged_AP.label>
+  <!-- EN: Charged shot ammo used by low velocity, high power charge weapons. -->
+  <Ammo_10x18mmCharged_AP.description>TODO</Ammo_10x18mmCharged_AP.description>
+  
+  <!-- EN: 10x18mm Charged (Ion) -->
+  <Ammo_10x18mmCharged_Ion.label>TODO</Ammo_10x18mmCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by low velocity, high power charge weapons. -->
+  <Ammo_10x18mmCharged_Ion.description>TODO</Ammo_10x18mmCharged_Ion.description>
+  
+  <!-- EN: 10x18mm Charged bullet -->
+  <Bullet_10x18mmCharged.label>TODO</Bullet_10x18mmCharged.label>
+  
+  <!-- EN: 10x18mm Charged bullet (Conc.) -->
+  <Bullet_10x18mmCharged_AP.label>TODO</Bullet_10x18mmCharged_AP.label>
+  
+  <!-- EN: 10x18mm Charged bullet (Ion) -->
+  <Bullet_10x18mmCharged_Ion.label>TODO</Bullet_10x18mmCharged_Ion.label>
+  
+</LanguageData>

@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_58x21mmDAP92_FMJ.label>5.8x21mm DAP92 cartridge (FMJ)</Ammo_58x21mmDAP92_FMJ.label>
-  <Ammo_58x21mmDAP92_FMJ.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_FMJ.description>
-
-  <Ammo_58x21mmDAP92_AP.label>5.8x21mm DAP92 cartridge (AP)</Ammo_58x21mmDAP92_AP.label>
-  <Ammo_58x21mmDAP92_AP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_AP.description>
-
-  <Ammo_58x21mmDAP92_HP.label>5.8x21mm DAP92 cartridge (HP)</Ammo_58x21mmDAP92_HP.label>
-  <Ammo_58x21mmDAP92_HP.description>This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor.</Ammo_58x21mmDAP92_HP.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_58x21mmDAP92_FMJ.label>5.8mm DAP92 bullet (FMJ)</Bullet_58x21mmDAP92_FMJ.label>
-  <Bullet_58x21mmDAP92_AP.label>5.8mm DAP92 bullet (AP)</Bullet_58x21mmDAP92_AP.label>
-  <Bullet_58x21mmDAP92_HP.label>5.8mm DAP92 bullet (HP)</Bullet_58x21mmDAP92_HP.label>
-
-
+  
+  <!-- EN: 5.8x21mm DAP92 (AP) -->
+  <Ammo_58x21mmDAP92_AP.label>TODO</Ammo_58x21mmDAP92_AP.label>
+  <!-- EN: This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor. -->
+  <Ammo_58x21mmDAP92_AP.description>TODO</Ammo_58x21mmDAP92_AP.description>
+  
+  <!-- EN: 5.8x21mm DAP92 (FMJ) -->
+  <Ammo_58x21mmDAP92_FMJ.label>TODO</Ammo_58x21mmDAP92_FMJ.label>
+  <!-- EN: This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor. -->
+  <Ammo_58x21mmDAP92_FMJ.description>TODO</Ammo_58x21mmDAP92_FMJ.description>
+  
+  <!-- EN: 5.8x21mm DAP92 (HP) -->
+  <Ammo_58x21mmDAP92_HP.label>TODO</Ammo_58x21mmDAP92_HP.label>
+  <!-- EN: This high-velocity handgun cartridge was specifically designed for military personnel to defeat body armor. -->
+  <Ammo_58x21mmDAP92_HP.description>TODO</Ammo_58x21mmDAP92_HP.description>
+  
+  <!-- EN: 5.8mm DAP92 bullet (AP) -->
+  <Bullet_58x21mmDAP92_AP.label>TODO</Bullet_58x21mmDAP92_AP.label>
+  
+  <!-- EN: 5.8mm DAP92 bullet (FMJ) -->
+  <Bullet_58x21mmDAP92_FMJ.label>TODO</Bullet_58x21mmDAP92_FMJ.label>
+  
+  <!-- EN: 5.8mm DAP92 bullet (HP) -->
+  <Bullet_58x21mmDAP92_HP.label>TODO</Bullet_58x21mmDAP92_HP.label>
+  
 </LanguageData>

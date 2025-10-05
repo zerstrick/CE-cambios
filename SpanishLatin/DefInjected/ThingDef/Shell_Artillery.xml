@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artillery shell (EMP) -->
+  <Ammo_ArtilleryShell_EMP.label>TODO</Ammo_ArtilleryShell_EMP.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_ArtilleryShell_EMP.description>TODO</Ammo_ArtilleryShell_EMP.description>
+  
+  <!-- EN: artillery shell (HE) -->
+  <Ammo_ArtilleryShell_HE.label>TODO</Ammo_ArtilleryShell_HE.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_ArtilleryShell_HE.description>TODO</Ammo_ArtilleryShell_HE.description>
+  
+  <!-- EN: artillery shell (Airburst) -->
+  <Ammo_ArtilleryShell_HE_HFuzed.label>TODO</Ammo_ArtilleryShell_HE_HFuzed.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_ArtilleryShell_HE_HFuzed.description>TODO</Ammo_ArtilleryShell_HE_HFuzed.description>
+  
+  <!-- EN: artillery shell (Incendiary) -->
+  <Ammo_ArtilleryShell_Incendiary.label>TODO</Ammo_ArtilleryShell_Incendiary.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_ArtilleryShell_Incendiary.description>TODO</Ammo_ArtilleryShell_Incendiary.description>
+  
+  <!-- EN: artillery shell (Smoke) -->
+  <Ammo_ArtilleryShell_Smoke.label>TODO</Ammo_ArtilleryShell_Smoke.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_ArtilleryShell_Smoke.description>TODO</Ammo_ArtilleryShell_Smoke.description>
+  
+</LanguageData>

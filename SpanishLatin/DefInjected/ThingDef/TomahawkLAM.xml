@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_TomahawkLAM.label>Tomahawk Missile</Ammo_TomahawkLAM.label>
-  <Ammo_TomahawkLAM.description>Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets.</Ammo_TomahawkLAM.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_TomahawkLAM.label>Tomahawk Missile</Bullet_TomahawkLAM.label>
-
-
+  
+  <!-- EN: Tomahawk Missile -->
+  <Ammo_TomahawkLAM.label>TODO</Ammo_TomahawkLAM.label>
+  <!-- EN: Long-range, all-weather, jet-powered, surface-launched subsonic cruise missile designed to attack land targets. -->
+  <Ammo_TomahawkLAM.description>TODO</Ammo_TomahawkLAM.description>
+  
+  <!-- EN: Tomahawk Missile -->
+  <Bullet_TomahawkLAM.label>TODO</Bullet_TomahawkLAM.label>
+  
 </LanguageData>

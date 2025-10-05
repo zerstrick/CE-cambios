@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Projectiles -->
-
-  <Bullet_127mmJavelinMissile.label>FGM-148 Javelin missile</Bullet_127mmJavelinMissile.label>
-
-
+  
+  <!-- EN: FGM-148 Javelin missile -->
+  <Bullet_127mmJavelinMissile.label>TODO</Bullet_127mmJavelinMissile.label>
+  
 </LanguageData>

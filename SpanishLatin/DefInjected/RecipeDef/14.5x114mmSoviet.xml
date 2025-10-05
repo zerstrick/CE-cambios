@@ -1,23 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_145x114mm_FMJ.label>make 14.5x114mm (FMJ) cartridge x200</MakeAmmo_145x114mm_FMJ.label>
-  <MakeAmmo_145x114mm_FMJ.description>Craft 200 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ.description>
-  <MakeAmmo_145x114mm_FMJ.jobString>Making 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ.jobString>
-
-  <MakeAmmo_145x114mm_Incendiary.label>make 14.5x114mm (AP-I) cartridge x200</MakeAmmo_145x114mm_Incendiary.label>
-  <MakeAmmo_145x114mm_Incendiary.description>Craft 200 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary.description>
-  <MakeAmmo_145x114mm_Incendiary.jobString>Making 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary.jobString>
-
-  <MakeAmmo_145x114mm_HE.label>make 14.5x114mm (HE) cartridge x200</MakeAmmo_145x114mm_HE.label>
-  <MakeAmmo_145x114mm_HE.description>Craft 200 14.5x114mm (HE) cartridges.</MakeAmmo_145x114mm_HE.description>
-  <MakeAmmo_145x114mm_HE.jobString>Making 14.5x114mm (HE) cartridges.</MakeAmmo_145x114mm_HE.jobString>
-
-  <MakeAmmo_145x114mm_Sabot.label>make 14.5x114mm (Sabot) cartridge x200</MakeAmmo_145x114mm_Sabot.label>
-  <MakeAmmo_145x114mm_Sabot.description>Craft 200 14.5x114mm (Sabot) cartridges.</MakeAmmo_145x114mm_Sabot.description>
-  <MakeAmmo_145x114mm_Sabot.jobString>Making 14.5x114mm (Sabot) cartridges.</MakeAmmo_145x114mm_Sabot.jobString>
-
-
+  
+  <!-- EN: make 14.5x114mm (AP) cartridge x200 -->
+  <MakeAmmo_145x114mm_AP.label>TODO</MakeAmmo_145x114mm_AP.label>
+  <!-- EN: Craft 200 14.5x114mm (AP) cartridges. -->
+  <MakeAmmo_145x114mm_AP.description>TODO</MakeAmmo_145x114mm_AP.description>
+  <!-- EN: Making 14.5x114mm (AP) cartridges. -->
+  <MakeAmmo_145x114mm_AP.jobString>TODO</MakeAmmo_145x114mm_AP.jobString>
+  
+  <!-- EN: make 14.5x114mm (FMJ) cartridge x200 -->
+  <MakeAmmo_145x114mm_FMJ.label>TODO</MakeAmmo_145x114mm_FMJ.label>
+  <!-- EN: Craft 200 14.5x114mm (FMJ) cartridges. -->
+  <MakeAmmo_145x114mm_FMJ.description>TODO</MakeAmmo_145x114mm_FMJ.description>
+  <!-- EN: Making 14.5x114mm (FMJ) cartridges. -->
+  <MakeAmmo_145x114mm_FMJ.jobString>TODO</MakeAmmo_145x114mm_FMJ.jobString>
+  
+  <!-- EN: make 14.5x114mm (AP-HE) cartridge x200 -->
+  <MakeAmmo_145x114mm_HE.label>TODO</MakeAmmo_145x114mm_HE.label>
+  <!-- EN: Craft 200 14.5x114mm (AP-HE) cartridges. -->
+  <MakeAmmo_145x114mm_HE.description>TODO</MakeAmmo_145x114mm_HE.description>
+  <!-- EN: Making 14.5x114mm (AP-HE) cartridges. -->
+  <MakeAmmo_145x114mm_HE.jobString>TODO</MakeAmmo_145x114mm_HE.jobString>
+  
+  <!-- EN: make 14.5x114mm (AP-I) cartridge x200 -->
+  <MakeAmmo_145x114mm_Incendiary.label>TODO</MakeAmmo_145x114mm_Incendiary.label>
+  <!-- EN: Craft 200 14.5x114mm (AP-I) cartridges. -->
+  <MakeAmmo_145x114mm_Incendiary.description>TODO</MakeAmmo_145x114mm_Incendiary.description>
+  <!-- EN: Making 14.5x114mm (AP-I) cartridges. -->
+  <MakeAmmo_145x114mm_Incendiary.jobString>TODO</MakeAmmo_145x114mm_Incendiary.jobString>
+  
+  <!-- EN: make 14.5x114mm (Sabot) cartridge x200 -->
+  <MakeAmmo_145x114mm_Sabot.label>TODO</MakeAmmo_145x114mm_Sabot.label>
+  <!-- EN: Craft 200 14.5x114mm (Sabot) cartridges. -->
+  <MakeAmmo_145x114mm_Sabot.description>TODO</MakeAmmo_145x114mm_Sabot.description>
+  <!-- EN: Making 14.5x114mm (Sabot) cartridges. -->
+  <MakeAmmo_145x114mm_Sabot.jobString>TODO</MakeAmmo_145x114mm_Sabot.jobString>
+  
 </LanguageData>

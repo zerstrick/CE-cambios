@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- EN: Adjust arc of fire -->
+  <CE_ArcOfFireAdjLabel>TODO</CE_ArcOfFireAdjLabel>
+	<!-- EN: Adjust the allowed arc of fire of this turret. \n\nRight-click to save changes\nLeft-click to cancel changes\nMiddle-click to edit the span of AOF\nHold {0} during setting to show actual targetable tiles. -->
+  <CE_ArcOfFireAdjDesc>TODO</CE_ArcOfFireAdjDesc>
+
+	<!-- EN: Hold {0} and click to temporarily unrestrict this turret's firing arc. -->
+  <CE_ArcOfFireToggle>TODO</CE_ArcOfFireToggle>
+	<!-- EN: Hold {0} and click to reset firing arc settings for this turret. -->
+  <CE_ArcOfFireReset>TODO</CE_ArcOfFireReset>
+
+	<!-- EN: Copy arc of fire setting -->
+  <CE_ArcOfFireCopyLabel>TODO</CE_ArcOfFireCopyLabel>
+	<!-- EN: Copy the arc of fire setting from this turret. -->
+  <CE_ArcOfFireCopyDesc>TODO</CE_ArcOfFireCopyDesc>
+
+	<!-- EN: Paste arc of fire setting -->
+  <CE_ArcOfFirePasteLabel>TODO</CE_ArcOfFirePasteLabel>
+	<!-- EN: Paste the arc of fire setting to this turret. If the pasted setting is out of bounds of this turret, it will be clamped. -->
+  <CE_ArcOfFirePasteDesc>TODO</CE_ArcOfFirePasteDesc>
+
+	<!-- EN: Arc of fire:{0}~{1} -->
+  <CE_ArcOfFire>TODO</CE_ArcOfFire>
+
+	<!-- EN: Turret traverse speed -->
+  <CE_NonSnapTurretSpeed>TODO</CE_NonSnapTurretSpeed>
+
+	<!-- EN: Free arc of fire span -->
+  <CE_MaxArcOfFireSpan>TODO</CE_MaxArcOfFireSpan>
+	<!-- EN: The maximal and minimal arc of fire from a given center line. -->
+  <CE_MaxArcOfFireSpanDesc>TODO</CE_MaxArcOfFireSpanDesc>	
+
+	<!-- EN: Maximal arc of fire -->
+  <CE_MaxArcOfFireDeviation>TODO</CE_MaxArcOfFireDeviation>
+	<!-- EN: The maximal arc of fire from the facing of the turret. -->
+  <CE_MaxArcOfFireDeviationDesc>TODO</CE_MaxArcOfFireDeviationDesc>
+
+	<!-- EN: Turret traverse and arc of fire -->
+  <CE_Settings_EnableArcOfFire_Title>TODO</CE_Settings_EnableArcOfFire_Title>
+	<!-- EN: When enabled, turret firing arcs are player-adjustable. Some turret may have limited maximal arc of fire.\nTurrets will also traverse instead of instantly snapping to their target. -->
+  <CE_Settings_EnableArcOfFire_Desc>TODO</CE_Settings_EnableArcOfFire_Desc>
+
+</LanguageData>

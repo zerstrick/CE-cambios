@@ -1,11 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Bulk.label>bulk</Bulk.label>
-  <Bulk.description>The amount of inventory space an item takes up when carried in bag or pocket.</Bulk.description>
-
-  <AmmoCaliber.label>caliber</AmmoCaliber.label>
-  <AmmoCaliber.description>The guns which accept this type of ammo.</AmmoCaliber.description>
-
-
+  
+  <!-- EN: caliber -->
+  <AmmoCaliber.label>TODO</AmmoCaliber.label>
+  <!-- EN: The guns which accept this type of ammo. -->
+  <AmmoCaliber.description>TODO</AmmoCaliber.description>
+  
+  <!-- EN: bulk -->
+  <Bulk.label>TODO</Bulk.label>
+  <!-- EN: The amount of inventory space an item takes up when carried in bag or pocket. -->
+  <Bulk.description>TODO</Bulk.description>
+  
+  <!-- EN: range -->
+  <LongRange.label>TODO</LongRange.label>
+  <!-- EN: The projectile's range on the world map. -->
+  <LongRange.description>TODO</LongRange.description>
+  
 </LanguageData>

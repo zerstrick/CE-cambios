@@ -1,19 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_6x18mmCharged.label>make 6x18mm Charged cartridge x500</MakeAmmo_6x18mmCharged.label>
-  <MakeAmmo_6x18mmCharged.description>Craft 500 6x18mm Charged cartridges.</MakeAmmo_6x18mmCharged.description>
-  <MakeAmmo_6x18mmCharged.jobString>Making 6x18mm Charged cartridges.</MakeAmmo_6x18mmCharged.jobString>
-
-  <MakeAmmo_6x18mmCharged_AP.label>make 6x18mm Charged (Conc.) cartridge x500</MakeAmmo_6x18mmCharged_AP.label>
-  <MakeAmmo_6x18mmCharged_AP.description>Craft 500 6x18mm Charged (Conc.) cartridges.</MakeAmmo_6x18mmCharged_AP.description>
-  <MakeAmmo_6x18mmCharged_AP.jobString>Making 6x18mm Charged (Conc.) cartridges.</MakeAmmo_6x18mmCharged_AP.jobString>
-
-  <MakeAmmo_6x18mmCharged_Ion.label>make 6x18mm Charged (Ion) cartridge x500</MakeAmmo_6x18mmCharged_Ion.label>
-  <MakeAmmo_6x18mmCharged_Ion.description>Craft 500 6x18mm Charged (Ion) cartridges.</MakeAmmo_6x18mmCharged_Ion.description>
-  <MakeAmmo_6x18mmCharged_Ion.jobString>Making 6x18mm Charged (Ion) cartridges.</MakeAmmo_6x18mmCharged_Ion.jobString>
-
-
+  
+  <!-- EN: make 6x18mm Charged cartridge x500 -->
+  <MakeAmmo_6x18mmCharged.label>TODO</MakeAmmo_6x18mmCharged.label>
+  <!-- EN: Craft 500 6x18mm Charged cartridges. -->
+  <MakeAmmo_6x18mmCharged.description>TODO</MakeAmmo_6x18mmCharged.description>
+  <!-- EN: Making 6x18mm Charged cartridges. -->
+  <MakeAmmo_6x18mmCharged.jobString>TODO</MakeAmmo_6x18mmCharged.jobString>
+  
+  <!-- EN: make 6x18mm Charged (Conc.) cartridge x500 -->
+  <MakeAmmo_6x18mmCharged_AP.label>TODO</MakeAmmo_6x18mmCharged_AP.label>
+  <!-- EN: Craft 500 6x18mm Charged (Conc.) cartridges. -->
+  <MakeAmmo_6x18mmCharged_AP.description>TODO</MakeAmmo_6x18mmCharged_AP.description>
+  <!-- EN: Making 6x18mm Charged (Conc.) cartridges. -->
+  <MakeAmmo_6x18mmCharged_AP.jobString>TODO</MakeAmmo_6x18mmCharged_AP.jobString>
+  
+  <!-- EN: make 6x18mm Charged (Ion) cartridge x500 -->
+  <MakeAmmo_6x18mmCharged_Ion.label>TODO</MakeAmmo_6x18mmCharged_Ion.label>
+  <!-- EN: Craft 500 6x18mm Charged (Ion) cartridges. -->
+  <MakeAmmo_6x18mmCharged_Ion.description>TODO</MakeAmmo_6x18mmCharged_Ion.description>
+  <!-- EN: Making 6x18mm Charged (Ion) cartridges. -->
+  <MakeAmmo_6x18mmCharged_Ion.jobString>TODO</MakeAmmo_6x18mmCharged_Ion.jobString>
+  
 </LanguageData>

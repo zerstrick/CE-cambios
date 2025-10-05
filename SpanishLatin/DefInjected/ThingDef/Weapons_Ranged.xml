@@ -1,20 +1,61 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Grenade Launcher -->
-
-  <CE_GrenadeLauncher.label>grenade launcher</CE_GrenadeLauncher.label>
-  <CE_GrenadeLauncher.description>A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles.</CE_GrenadeLauncher.description>
-  <CE_GrenadeLauncher.tools.0.label>stock</CE_GrenadeLauncher.tools.0.label>
-  <CE_GrenadeLauncher.tools.1.label>barrel</CE_GrenadeLauncher.tools.1.label>
-  <CE_GrenadeLauncher.tools.2.label>muzzle</CE_GrenadeLauncher.tools.2.label>
-
-
-  <!-- Explosive Bolt Launcher -->
-
-  <CE_ExplosiveBoltProjector.label>explosive bolt projector</CE_ExplosiveBoltProjector.label>
-  <CE_ExplosiveBoltProjector.description>A low-velocity, high-trajectory fire support system deployed by mechanoid Pikeman. While inaccurate and slow-firing, it remains a potent weapon against static targets.</CE_ExplosiveBoltProjector.description>
-  <CE_ExplosiveBoltProjector.tools.0.label>barrel</CE_ExplosiveBoltProjector.tools.0.label>
-
-
+  
+  <!-- EN: disposable rocket launcher -->
+  <CE_DisposableRocketLauncher.label>TODO</CE_DisposableRocketLauncher.label>
+  <!-- EN: A lightweight single-use anti-tank launcher. Designed to provide soldiers in the field with a compact anti-armor weapon. -->
+  <CE_DisposableRocketLauncher.description>TODO</CE_DisposableRocketLauncher.description>
+  <!-- EN: Body -->
+  <CE_DisposableRocketLauncher.tools.Body.label>TODO</CE_DisposableRocketLauncher.tools.Body.label>
+  <!-- EN: stock -->
+  <CE_DisposableRocketLauncher.tools.stock.label>TODO</CE_DisposableRocketLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <CE_DisposableRocketLauncher.tools.barrel.label>TODO</CE_DisposableRocketLauncher.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <CE_DisposableRocketLauncher.tools.muzzle.label>TODO</CE_DisposableRocketLauncher.tools.muzzle.label>
+  <!-- EN: disposable rocket launcher -->
+  <CE_DisposableRocketLauncher.verbs.Verb_ShootCEOneUse.label>TODO</CE_DisposableRocketLauncher.verbs.Verb_ShootCEOneUse.label>
+  
+  <!-- EN: flare gun -->
+  <CE_FlareGun.label>TODO</CE_FlareGun.label>
+  <!-- EN: An ancient, single-shot flare gun, used for signaling or illumination. Loaded from the breech, its barrel is too thin to fire anything but flares. -->
+  <CE_FlareGun.description>TODO</CE_FlareGun.description>
+  <!-- EN: grip -->
+  <CE_FlareGun.tools.grip.label>TODO</CE_FlareGun.tools.grip.label>
+  <!-- EN: muzzle -->
+  <CE_FlareGun.tools.muzzle.label>TODO</CE_FlareGun.tools.muzzle.label>
+  <!-- EN: flare gun -->
+  <CE_FlareGun.verbs.Verb_ShootFlareCE.label>TODO</CE_FlareGun.verbs.Verb_ShootFlareCE.label>
+  
+  <!-- EN: grenade launcher -->
+  <CE_GrenadeLauncher.label>TODO</CE_GrenadeLauncher.label>
+  <!-- EN: A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles. -->
+  <CE_GrenadeLauncher.description>TODO</CE_GrenadeLauncher.description>
+  <!-- EN: stock -->
+  <CE_GrenadeLauncher.tools.stock.label>TODO</CE_GrenadeLauncher.tools.stock.label>
+  <!-- EN: barrel -->
+  <CE_GrenadeLauncher.tools.barrel.label>TODO</CE_GrenadeLauncher.tools.barrel.label>
+  <!-- EN: muzzle -->
+  <CE_GrenadeLauncher.tools.muzzle.label>TODO</CE_GrenadeLauncher.tools.muzzle.label>
+  <!-- EN: grenade launcher -->
+  <CE_GrenadeLauncher.verbs.Verb_ShootCE.label>TODO</CE_GrenadeLauncher.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: minigun -->
+  <CE_MechanoidMinigun.label>TODO</CE_MechanoidMinigun.label>
+  <!-- EN: A multi-barrel machine gun. It looks menacing with its long barrels and once it starts firing it fires very fast. Where most self-loading guns are powered by the energy from the gunpowder, the minigun uses an electric motor powered by the mechanoid it's mounted on to rapidly cycle cartridges through the weapon. -->
+  <CE_MechanoidMinigun.description>TODO</CE_MechanoidMinigun.description>
+  <!-- EN: barrel -->
+  <CE_MechanoidMinigun.tools.barrel.label>TODO</CE_MechanoidMinigun.tools.barrel.label>
+  <!-- EN: minigun -->
+  <CE_MechanoidMinigun.verbs.Verb_ShootCE.label>TODO</CE_MechanoidMinigun.verbs.Verb_ShootCE.label>
+  
+  <!-- EN: thermal bolt projector -->
+  <CE_ThermalBoltProjector.label>TODO</CE_ThermalBoltProjector.label>
+  <!-- EN: A medium-velocity, low-trajectory fire support system deployed by mechanoids. While inaccurate and slow-firing, it remains a potent weapon against static targets. -->
+  <CE_ThermalBoltProjector.description>TODO</CE_ThermalBoltProjector.description>
+  <!-- EN: barrel -->
+  <CE_ThermalBoltProjector.tools.barrel.label>TODO</CE_ThermalBoltProjector.tools.barrel.label>
+  <!-- EN: thermal bolt projector -->
+  <CE_ThermalBoltProjector.verbs.Verb_ShootMortarCE.label>TODO</CE_ThermalBoltProjector.verbs.Verb_ShootMortarCE.label>
+  
 </LanguageData>

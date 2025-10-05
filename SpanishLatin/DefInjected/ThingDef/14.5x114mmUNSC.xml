@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 14.5x114mmUNSC cartridge (FMJ) -->
+  <Ammo_145x114mmUNSC_FMJ.label>TODO</Ammo_145x114mmUNSC_FMJ.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is now used by UNSC heavy sniper rifles. -->
+  <Ammo_145x114mmUNSC_FMJ.description>TODO</Ammo_145x114mmUNSC_FMJ.description>
+  
+  <!-- EN: 14.5x114mmUNSC cartridge (HE) -->
+  <Ammo_145x114mmUNSC_HE.label>TODO</Ammo_145x114mmUNSC_HE.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is now used by UNSC heavy sniper rifles. -->
+  <Ammo_145x114mmUNSC_HE.description>TODO</Ammo_145x114mmUNSC_HE.description>
+  
+  <!-- EN: 14.5x114mmUNSC cartridge (AP-I) -->
+  <Ammo_145x114mmUNSC_Incendiary.label>TODO</Ammo_145x114mmUNSC_Incendiary.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is now used by UNSC heavy sniper rifles. -->
+  <Ammo_145x114mmUNSC_Incendiary.description>TODO</Ammo_145x114mmUNSC_Incendiary.description>
+  
+  <!-- EN: 14.5x114mmUNSC cartridge (Sabot) -->
+  <Ammo_145x114mmUNSC_Sabot.label>TODO</Ammo_145x114mmUNSC_Sabot.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is now used by UNSC heavy sniper rifles. -->
+  <Ammo_145x114mmUNSC_Sabot.description>TODO</Ammo_145x114mmUNSC_Sabot.description>
+  
+  <!-- EN: 14.5x114mmUNSC bullet (FMJ) -->
+  <Bullet_145x114mmUNSC_FMJ.label>TODO</Bullet_145x114mmUNSC_FMJ.label>
+  
+  <!-- EN: 14.5x114mmUNSC bullet (HE) -->
+  <Bullet_145x114mmUNSC_HE.label>TODO</Bullet_145x114mmUNSC_HE.label>
+  
+  <!-- EN: 14.5x114mmUNSC bullet (AP-I) -->
+  <Bullet_145x114mmUNSC_Incendiary.label>TODO</Bullet_145x114mmUNSC_Incendiary.label>
+  
+  <!-- EN: 14.5x114mmUNSC bullet (Sabot) -->
+  <Bullet_145x114mmUNSC_Sabot.label>TODO</Bullet_145x114mmUNSC_Sabot.label>
+  
+</LanguageData>

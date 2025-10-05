@@ -1,19 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_RPG32Rocket_HEAT.label>RPG-32 grenade (HEAT)</Ammo_RPG32Rocket_HEAT.label>
-  <Ammo_RPG32Rocket_HEAT.description>Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_RPG32Rocket_HEAT.description>
-
-  <Ammo_RPG32Rocket_Thermobaric.label>RPG-32 grenade (Thermobaric)</Ammo_RPG32Rocket_Thermobaric.label>
-  <Ammo_RPG32Rocket_Thermobaric.description>Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further.</Ammo_RPG32Rocket_Thermobaric.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_RPG32Rocket_HEAT.label>RPG-32 grenade (HEAT)</Bullet_RPG32Rocket_HEAT.label>
-  <Bullet_RPG32Rocket_Thermobaric.label>RPG-32 grenade (Thermobaric)</Bullet_RPG32Rocket_Thermobaric.label>
-
-
+  
+  <!-- EN: RPG-32 grenade (HEAT) -->
+  <Ammo_RPG32Rocket_HEAT.label>TODO</Ammo_RPG32Rocket_HEAT.label>
+  <!-- EN: Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_RPG32Rocket_HEAT.description>TODO</Ammo_RPG32Rocket_HEAT.description>
+  
+  <!-- EN: RPG-32 grenade (Thermobaric) -->
+  <Ammo_RPG32Rocket_Thermobaric.label>TODO</Ammo_RPG32Rocket_Thermobaric.label>
+  <!-- EN: Rocket-propelled grenade designed for the RPG-32 launcher. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_RPG32Rocket_Thermobaric.description>TODO</Ammo_RPG32Rocket_Thermobaric.description>
+  
+  <!-- EN: RPG-32 grenade (HEAT) -->
+  <Bullet_RPG32Rocket_HEAT.label>TODO</Bullet_RPG32Rocket_HEAT.label>
+  
+  <!-- EN: RPG-32 grenade (Thermobaric) -->
+  <Bullet_RPG32Rocket_Thermobaric.label>TODO</Bullet_RPG32Rocket_Thermobaric.label>
+  
 </LanguageData>

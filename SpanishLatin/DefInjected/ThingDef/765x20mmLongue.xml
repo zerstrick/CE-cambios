@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_765x20mmLongue_FMJ.label>7.65x20mm Longue cartridge (FMJ)</Ammo_765x20mmLongue_FMJ.label>
-  <Ammo_765x20mmLongue_FMJ.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_FMJ.description>
-
-  <Ammo_765x20mmLongue_AP.label>7.65x20mm Longue cartridge (AP)</Ammo_765x20mmLongue_AP.label>
-  <Ammo_765x20mmLongue_AP.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_AP.description>
-
-  <Ammo_765x20mmLongue_HP.label>7.65x20mm Longue cartridge (HP)</Ammo_765x20mmLongue_HP.label>
-  <Ammo_765x20mmLongue_HP.description>Uncommon rimless pistol cartridge used by vintage handguns and submachine guns.</Ammo_765x20mmLongue_HP.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_765x20mmLongue_FMJ.label>7.63mm Longue bullet (FMJ)</Bullet_765x20mmLongue_FMJ.label>
-  <Bullet_765x20mmLongue_AP.label>7.65x20mm Longue bullet (AP)</Bullet_765x20mmLongue_AP.label>
-  <Bullet_765x20mmLongue_HP.label>7.65x20mm Longue bullet (HP)</Bullet_765x20mmLongue_HP.label>
-
-
+  
+  <!-- EN: 7.65x20mm Longue (AP) -->
+  <Ammo_765x20mmLongue_AP.label>TODO</Ammo_765x20mmLongue_AP.label>
+  <!-- EN: Uncommon rimless pistol cartridge used by vintage handguns and submachine guns. -->
+  <Ammo_765x20mmLongue_AP.description>TODO</Ammo_765x20mmLongue_AP.description>
+  
+  <!-- EN: 7.65x20mm Longue (FMJ) -->
+  <Ammo_765x20mmLongue_FMJ.label>TODO</Ammo_765x20mmLongue_FMJ.label>
+  <!-- EN: Uncommon rimless pistol cartridge used by vintage handguns and submachine guns. -->
+  <Ammo_765x20mmLongue_FMJ.description>TODO</Ammo_765x20mmLongue_FMJ.description>
+  
+  <!-- EN: 7.65x20mm Longue (HP) -->
+  <Ammo_765x20mmLongue_HP.label>TODO</Ammo_765x20mmLongue_HP.label>
+  <!-- EN: Uncommon rimless pistol cartridge used by vintage handguns and submachine guns. -->
+  <Ammo_765x20mmLongue_HP.description>TODO</Ammo_765x20mmLongue_HP.description>
+  
+  <!-- EN: 7.65x20mm Longue bullet (AP) -->
+  <Bullet_765x20mmLongue_AP.label>TODO</Bullet_765x20mmLongue_AP.label>
+  
+  <!-- EN: 7.65x20mm Longue bullet (FMJ) -->
+  <Bullet_765x20mmLongue_FMJ.label>TODO</Bullet_765x20mmLongue_FMJ.label>
+  
+  <!-- EN: 7.65x20mm Longue bullet (HP) -->
+  <Bullet_765x20mmLongue_HP.label>TODO</Bullet_765x20mmLongue_HP.label>
+  
 </LanguageData>

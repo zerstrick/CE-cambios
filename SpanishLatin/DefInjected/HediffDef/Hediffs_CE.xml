@@ -1,81 +1,232 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Global -->
-
-  <WearingGasMask.label>wearing gas mask</WearingGasMask.label>
-  <WearingGasMask.description>Wearing a gas mask</WearingGasMask.description>
-  <WearingGasMask.stages.0.label>wearing</WearingGasMask.stages.0.label>
-
-  <SmokeInhalation.label>smoke inhalation</SmokeInhalation.label>
-  <SmokeInhalation.description>Inhaled Smoke</SmokeInhalation.description>
-  <SmokeInhalation.stages.0.label>initial</SmokeInhalation.stages.0.label>
-  <SmokeInhalation.stages.1.label>initial</SmokeInhalation.stages.1.label>
-  <SmokeInhalation.stages.2.label>minor</SmokeInhalation.stages.2.label>
-  <SmokeInhalation.stages.3.label>moderate</SmokeInhalation.stages.3.label>
-  <SmokeInhalation.stages.4.label>serious</SmokeInhalation.stages.4.label>
-  <SmokeInhalation.stages.5.label>extreme</SmokeInhalation.stages.5.label>
-
-  <VenomBuildup.label>venom buildup</VenomBuildup.label>
-  <VenomBuildup.description>Venom building up</VenomBuildup.description>
-  <VenomBuildup.stages.0.label>initial</VenomBuildup.stages.0.label>
-  <VenomBuildup.stages.1.label>initial</VenomBuildup.stages.1.label>
-  <VenomBuildup.stages.2.label>minor</VenomBuildup.stages.2.label>
-  <VenomBuildup.stages.3.label>moderate</VenomBuildup.stages.3.label>
-  <VenomBuildup.stages.4.label>serious</VenomBuildup.stages.4.label>
-  <VenomBuildup.stages.5.label>extreme</VenomBuildup.stages.5.label>
-
-  <MuscleSpasms.label>muscle spasms</MuscleSpasms.label>
-  <MuscleSpasms.description>Muscle Spasms</MuscleSpasms.description>
-  <MuscleSpasms.stages.0.label>trivial</MuscleSpasms.stages.0.label>
-  <MuscleSpasms.stages.1.label>minor</MuscleSpasms.stages.1.label>
-  <MuscleSpasms.stages.2.label>moderate</MuscleSpasms.stages.2.label>
-  <MuscleSpasms.stages.3.label>severe</MuscleSpasms.stages.3.label>
-  <MuscleSpasms.stages.4.label>extreme</MuscleSpasms.stages.4.label>
-
-  <PrometheumSoaked.label>Prometheum-soaked</PrometheumSoaked.label>
-  <PrometheumSoaked.description>Soaked in Prometheum</PrometheumSoaked.description>
-  <PrometheumSoaked.stages.0.label>minor</PrometheumSoaked.stages.0.label>
-  <PrometheumSoaked.stages.1.label>dripping</PrometheumSoaked.stages.1.label>
-  <PrometheumSoaked.stages.2.label>soaked</PrometheumSoaked.stages.2.label>
-  <PrometheumSoaked.stages.3.label>drenched</PrometheumSoaked.stages.3.label>
-
-
-  <!-- For Project Red Horse: Militaires Sans Frontieres -->
-
-  <Tranquilizer.label>tranquilizer</Tranquilizer.label>
-  <Tranquilizer.description>the effects of a tranquilizer dart</Tranquilizer.description>
-
-
-  <!-- Injuries -->
-
-  <BruiseBeanbag.label>beanbag bruise</BruiseBeanbag.label>
-  <BruiseBeanbag.labelNoun>a beanbag bruise</BruiseBeanbag.labelNoun>
-
-  <CrackBeanbag.label>beanbag crack</CrackBeanbag.label>
-  <CrackBeanbag.labelNoun>a beanbag crack</CrackBeanbag.labelNoun>
-
-  <TaserStab.label>puncture</TaserStab.label>
-  <TaserStab.labelNoun>a puncture wound from taser barbs</TaserStab.labelNoun>
-
-  <VenomousBite.label>venomous bite</VenomousBite.label>
-  <VenomousBite.labelNoun>a venomous bite wound</VenomousBite.labelNoun>
-
-  <VenomousScratch.label>venomous scratch</VenomousScratch.label>
-  <VenomousScratch.labelNoun>a venomous scratch wound</VenomousScratch.labelNoun>
-
-  <VenomousArrow.label>venomous wound</VenomousArrow.label>
-  <VenomousArrow.labelNoun>a venomous arrow wound</VenomousArrow.labelNoun>
-
-  <ElectricalBurn.label>electrical burn</ElectricalBurn.label>
-
-  <Blast.label>blasted</Blast.label>
-  <Blast.description>Blasted</Blast.description>
-  <Blast.comps.0.labelTendedWell>bandaged</Blast.comps.0.labelTendedWell>
-  <Blast.comps.0.labelTendedWellInner>sutured</Blast.comps.0.labelTendedWellInner>
-  <Blast.comps.0.labelSolidTendedWell>set</Blast.comps.0.labelSolidTendedWell>
-  <Blast.injuryProps.destroyedLabel>Torn off</Blast.injuryProps.destroyedLabel>
-  <Blast.injuryProps.destroyedOutLabel>Torn out</Blast.injuryProps.destroyedOutLabel>
-
-
+  
+  <!-- EN: blasted -->
+  <Blast.label>TODO</Blast.label>
+  <!-- EN: Blasted -->
+  <Blast.description>TODO</Blast.description>
+  <!-- EN: permanent blast injury -->
+  <Blast.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>TODO</Blast.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: old blast injury -->
+  <Blast.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Blast.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Torn off -->
+  <Blast.injuryProps.destroyedLabel>TODO</Blast.injuryProps.destroyedLabel>
+  <!-- EN: Torn out -->
+  <Blast.injuryProps.destroyedOutLabel>TODO</Blast.injuryProps.destroyedOutLabel>
+  <!-- EN: {0} in the {1} -->
+  <Blast.labelNounPretty>TODO</Blast.labelNounPretty>
+  
+  <!-- EN: beanbag bruise -->
+  <BruiseBeanbag.label>TODO</BruiseBeanbag.label>
+  <!-- EN: A bruise. -->
+  <BruiseBeanbag.description>TODO</BruiseBeanbag.description>
+  <!-- EN: a beanbag bruise -->
+  <BruiseBeanbag.labelNoun>TODO</BruiseBeanbag.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BruiseBeanbag.labelNounPretty>TODO</BruiseBeanbag.labelNounPretty>
+  
+  <!-- EN: burn -->
+  <BurnSecondary.label>TODO</BurnSecondary.label>
+  <!-- EN: A burn. -->
+  <BurnSecondary.description>TODO</BurnSecondary.description>
+  <!-- EN: burn scar -->
+  <BurnSecondary.comps.HediffComp_GetsPermanent.permanentLabel>TODO</BurnSecondary.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <BurnSecondary.injuryProps.destroyedLabel>TODO</BurnSecondary.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <BurnSecondary.injuryProps.destroyedOutLabel>TODO</BurnSecondary.injuryProps.destroyedOutLabel>
+  <!-- EN: a burn -->
+  <BurnSecondary.labelNoun>TODO</BurnSecondary.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <BurnSecondary.labelNounPretty>TODO</BurnSecondary.labelNounPretty>
+  
+  <!-- EN: beanbag crack -->
+  <CrackBeanbag.label>TODO</CrackBeanbag.label>
+  <!-- EN: A crack. -->
+  <CrackBeanbag.description>TODO</CrackBeanbag.description>
+  <!-- EN: permanent crack -->
+  <CrackBeanbag.comps.HediffComp_GetsPermanent.permanentLabel>TODO</CrackBeanbag.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: a beanbag crack -->
+  <CrackBeanbag.labelNoun>TODO</CrackBeanbag.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <CrackBeanbag.labelNounPretty>TODO</CrackBeanbag.labelNounPretty>
+  
+  <!-- EN: electrical burn -->
+  <ElectricalBurn.label>quemadura eléctrica</ElectricalBurn.label>
+  <!-- EN: A burn. -->
+  <ElectricalBurn.description>Una quemadura eléctrica.</ElectricalBurn.description>
+  <!-- EN: tended -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>atendida</ElectricalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <!-- EN: bandaged -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>vendada</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <!-- EN: tended -->
+  <ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>atendida</ElectricalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <!-- EN: burn scar -->
+  <ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>cicatriz de quemadura eléctrica</ElectricalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Burned off -->
+  <ElectricalBurn.injuryProps.destroyedLabel>Quemado(a)</ElectricalBurn.injuryProps.destroyedLabel>
+  <!-- EN: Burned out -->
+  <ElectricalBurn.injuryProps.destroyedOutLabel>Achicharrado(a)</ElectricalBurn.injuryProps.destroyedOutLabel>
+  <!-- EN: a burn -->
+  <ElectricalBurn.labelNoun>una quemadura eléctrica</ElectricalBurn.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <ElectricalBurn.labelNounPretty>la {0} en {1_gender ? el : la} {1}</ElectricalBurn.labelNounPretty>
+  
+  <!-- EN: blinded by a flash -->
+  <Flashbanged.label>TODO</Flashbanged.label>
+  <!-- EN: Vision and hearing temporarily compromised due to a bright flash. -->
+  <Flashbanged.description>TODO</Flashbanged.description>
+  <!-- EN: irritated -->
+  <Flashbanged.stages.irritated.label>TODO</Flashbanged.stages.irritated.label>
+  <!-- EN: disoriented -->
+  <Flashbanged.stages.disoriented.label>TODO</Flashbanged.stages.disoriented.label>
+  <!-- EN: blinded -->
+  <Flashbanged.stages.blinded.label>TODO</Flashbanged.stages.blinded.label>
+  
+  <!-- EN: muscle spasms -->
+  <MuscleSpasms.label>TODO</MuscleSpasms.label>
+  <!-- EN: Muscle Spasms -->
+  <MuscleSpasms.description>TODO</MuscleSpasms.description>
+  <!-- EN: trivial -->
+  <MuscleSpasms.stages.trivial.label>TODO</MuscleSpasms.stages.trivial.label>
+  <!-- EN: minor -->
+  <MuscleSpasms.stages.minor.label>TODO</MuscleSpasms.stages.minor.label>
+  <!-- EN: moderate -->
+  <MuscleSpasms.stages.moderate.label>TODO</MuscleSpasms.stages.moderate.label>
+  <!-- EN: severe -->
+  <MuscleSpasms.stages.severe.label>TODO</MuscleSpasms.stages.severe.label>
+  <!-- EN: extreme -->
+  <MuscleSpasms.stages.extreme.label>TODO</MuscleSpasms.stages.extreme.label>
+  
+  <!-- EN: neuralizer -->
+  <Neuralizer.label>TODO</Neuralizer.label>
+  <!-- EN: Stunned by a powerful but nonlethal energy pulse, disrupting the nervous system. -->
+  <Neuralizer.description>TODO</Neuralizer.description>
+  
+  <!-- EN: neuralizer -->
+  <Neuralizer_weak.label>TODO</Neuralizer_weak.label>
+  <!-- EN: Hit by a non-lethal energy pulse, disrupting the nervous system. -->
+  <Neuralizer_weak.description>TODO</Neuralizer_weak.description>
+  
+  <!-- EN: Prometheum-soaked -->
+  <PrometheumSoaked.label>TODO</PrometheumSoaked.label>
+  <!-- EN: Soaked in Prometheum -->
+  <PrometheumSoaked.description>TODO</PrometheumSoaked.description>
+  <!-- EN: minor -->
+  <PrometheumSoaked.stages.minor.label>TODO</PrometheumSoaked.stages.minor.label>
+  <!-- EN: dripping -->
+  <PrometheumSoaked.stages.dripping.label>TODO</PrometheumSoaked.stages.dripping.label>
+  <!-- EN: soaked -->
+  <PrometheumSoaked.stages.soaked.label>TODO</PrometheumSoaked.stages.soaked.label>
+  <!-- EN: drenched -->
+  <PrometheumSoaked.stages.drenched.label>TODO</PrometheumSoaked.stages.drenched.label>
+  
+  <!-- EN: smoke inhalation -->
+  <SmokeInhalation.label>TODO</SmokeInhalation.label>
+  <!-- EN: The effects of inhaling toxic black smoke, causing difficulty breathing and systemic toxicity. Resolves itself after a while. -->
+  <SmokeInhalation.description>TODO</SmokeInhalation.description>
+  <!-- EN: initial -->
+  <SmokeInhalation.stages.initial-0.label>TODO</SmokeInhalation.stages.initial-0.label>
+  <!-- EN: initial -->
+  <SmokeInhalation.stages.initial-1.label>TODO</SmokeInhalation.stages.initial-1.label>
+  <!-- EN: minor -->
+  <SmokeInhalation.stages.minor.label>TODO</SmokeInhalation.stages.minor.label>
+  <!-- EN: moderate -->
+  <SmokeInhalation.stages.moderate.label>TODO</SmokeInhalation.stages.moderate.label>
+  <!-- EN: serious -->
+  <SmokeInhalation.stages.serious.label>TODO</SmokeInhalation.stages.serious.label>
+  <!-- EN: extreme -->
+  <SmokeInhalation.stages.extreme.label>TODO</SmokeInhalation.stages.extreme.label>
+  
+  <!-- EN: puncture -->
+  <TaserStab.label>TODO</TaserStab.label>
+  <!-- EN: A stab wound. -->
+  <TaserStab.description>TODO</TaserStab.description>
+  <!-- EN: stab scar -->
+  <TaserStab.comps.HediffComp_GetsPermanent.permanentLabel>TODO</TaserStab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <TaserStab.injuryProps.destroyedLabel>TODO</TaserStab.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <TaserStab.injuryProps.destroyedOutLabel>TODO</TaserStab.injuryProps.destroyedOutLabel>
+  <!-- EN: a puncture wound from taser barbs -->
+  <TaserStab.labelNoun>TODO</TaserStab.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <TaserStab.labelNounPretty>TODO</TaserStab.labelNounPretty>
+  
+  <!-- EN: tranquilizer -->
+  <Tranquilizer.label>TODO</Tranquilizer.label>
+  <!-- EN: The effects of a tranquilizer dart -->
+  <Tranquilizer.description>TODO</Tranquilizer.description>
+  
+  <!-- EN: venom buildup -->
+  <VenomBuildup.label>TODO</VenomBuildup.label>
+  <!-- EN: Venom building up.\n\nBuildup will continue until all venomous wounds are tended. The buildup rate from tended wounds is reduced by the treatment quality and falls further as time passes; it will eventually stop entirely, provided the victim survives that long. -->
+  <VenomBuildup.description>TODO</VenomBuildup.description>
+  <!-- EN: {0} is poisoned! -->
+  <VenomBuildup.comps.HediffComp_MessageAfterTicks.message>TODO</VenomBuildup.comps.HediffComp_MessageAfterTicks.message>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.initial-0.label>TODO</VenomBuildup.stages.initial-0.label>
+  <!-- EN: initial -->
+  <VenomBuildup.stages.initial-1.label>TODO</VenomBuildup.stages.initial-1.label>
+  <!-- EN: minor -->
+  <VenomBuildup.stages.minor.label>TODO</VenomBuildup.stages.minor.label>
+  <!-- EN: moderate -->
+  <VenomBuildup.stages.moderate.label>TODO</VenomBuildup.stages.moderate.label>
+  <!-- EN: serious -->
+  <VenomBuildup.stages.serious.label>TODO</VenomBuildup.stages.serious.label>
+  <!-- EN: extreme -->
+  <VenomBuildup.stages.extreme.label>TODO</VenomBuildup.stages.extreme.label>
+  
+  <!-- EN: venomous wound -->
+  <VenomousArrow.label>TODO</VenomousArrow.label>
+  <!-- EN: A cut. -->
+  <VenomousArrow.description>TODO</VenomousArrow.description>
+  <!-- EN: cut scar -->
+  <VenomousArrow.comps.HediffComp_GetsPermanent.permanentLabel>TODO</VenomousArrow.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Cut off -->
+  <VenomousArrow.injuryProps.destroyedLabel>TODO</VenomousArrow.injuryProps.destroyedLabel>
+  <!-- EN: Cut out -->
+  <VenomousArrow.injuryProps.destroyedOutLabel>TODO</VenomousArrow.injuryProps.destroyedOutLabel>
+  <!-- EN: a venomous arrow wound -->
+  <VenomousArrow.labelNoun>TODO</VenomousArrow.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VenomousArrow.labelNounPretty>TODO</VenomousArrow.labelNounPretty>
+  
+  <!-- EN: venomous bite -->
+  <VenomousBite.label>TODO</VenomousBite.label>
+  <!-- EN: A bite wound. -->
+  <VenomousBite.description>TODO</VenomousBite.description>
+  <!-- EN: bite scar -->
+  <VenomousBite.comps.HediffComp_GetsPermanent.permanentLabel>TODO</VenomousBite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
+  <VenomousBite.injuryProps.destroyedLabel>TODO</VenomousBite.injuryProps.destroyedLabel>
+  <!-- EN: Bitten out -->
+  <VenomousBite.injuryProps.destroyedOutLabel>TODO</VenomousBite.injuryProps.destroyedOutLabel>
+  <!-- EN: a venomous bite wound -->
+  <VenomousBite.labelNoun>TODO</VenomousBite.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VenomousBite.labelNounPretty>TODO</VenomousBite.labelNounPretty>
+  
+  <!-- EN: venomous scratch -->
+  <VenomousScratch.label>TODO</VenomousScratch.label>
+  <!-- EN: A bite wound. -->
+  <VenomousScratch.description>TODO</VenomousScratch.description>
+  <!-- EN: bite scar -->
+  <VenomousScratch.comps.HediffComp_GetsPermanent.permanentLabel>TODO</VenomousScratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: Bitten off -->
+  <VenomousScratch.injuryProps.destroyedLabel>TODO</VenomousScratch.injuryProps.destroyedLabel>
+  <!-- EN: Bitten out -->
+  <VenomousScratch.injuryProps.destroyedOutLabel>TODO</VenomousScratch.injuryProps.destroyedOutLabel>
+  <!-- EN: a venomous scratch wound -->
+  <VenomousScratch.labelNoun>TODO</VenomousScratch.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <VenomousScratch.labelNounPretty>TODO</VenomousScratch.labelNounPretty>
+  
+  <!-- EN: gas mask -->
+  <WearingGasMask.label>TODO</WearingGasMask.label>
+  <!-- EN: Wearing a gas mask -->
+  <WearingGasMask.description>TODO</WearingGasMask.description>
+  <!-- EN: wearing -->
+  <WearingGasMask.stages.wearing.label>TODO</WearingGasMask.stages.wearing.label>
+  
 </LanguageData>

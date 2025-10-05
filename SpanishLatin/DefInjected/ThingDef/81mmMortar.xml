@@ -1,36 +1,115 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Need to override mortar shell because of hardcoded vanilla references -->
-
-  <Shell_HighExplosive.label>81mm mortar shell (HE)</Shell_HighExplosive.label>
-  <Shell_HighExplosive.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive.description>
-
-  <Shell_Incendiary.label>81mm mortar shell (Incendiary)</Shell_Incendiary.label>
-  <Shell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary.description>
-
-  <Shell_EMP.label>81mm mortar shell (EMP)</Shell_EMP.label>
-  <Shell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP.description>
-
-  <Shell_Firefoam.label>81mm mortar shell (Foam)</Shell_Firefoam.label>
-  <Shell_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_Firefoam.description>
-
-  <Shell_Smoke.label>81mm mortar shell (Smoke)</Shell_Smoke.label>
-  <Shell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_Smoke.description>
-
-  <Shell_AntigrainWarhead.label>81mm mortar shell (Anti)</Shell_AntigrainWarhead.label>
-  <Shell_AntigrainWarhead.description>Low-velocity shell designed to be fired from a mortar.</Shell_AntigrainWarhead.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_81mmMortarShell_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShell_HE.label>
-  <Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.label>
-  <Bullet_81mmMortarShell_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShell_EMP.label>
-  <Bullet_81mmMortarShell_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.label>
-  <Bullet_81mmMortarShell_Smoke.label>81mm mortar shell (Smoke)</Bullet_81mmMortarShell_Smoke.label>
-  <Bullet_81mmMortarShell_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.label>
-  <Bullet_ChargeMortarShell.label>charge mortar shell</Bullet_ChargeMortarShell.label>
-
-
+  
+  <!-- EN: 81mm mortar shell (Anti) -->
+  <Bullet_81mmMortarShell_Antigrain.label>TODO</Bullet_81mmMortarShell_Antigrain.label>
+  <!-- EN: mortar shell (Anti) -->
+  <Bullet_81mmMortarShell_Antigrain.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Antigrain.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Deadlife) -->
+  <Bullet_81mmMortarShell_Deadlife.label>TODO</Bullet_81mmMortarShell_Deadlife.label>
+  <!-- EN: mortar shell (Deadlife) -->
+  <Bullet_81mmMortarShell_Deadlife.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Deadlife.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (EMP) -->
+  <Bullet_81mmMortarShell_EMP.label>TODO</Bullet_81mmMortarShell_EMP.label>
+  <!-- EN: mortar shell (EMP) -->
+  <Bullet_81mmMortarShell_EMP.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_EMP.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Foam) -->
+  <Bullet_81mmMortarShell_Firefoam.label>TODO</Bullet_81mmMortarShell_Firefoam.label>
+  <!-- EN: mortar shell (Foam) -->
+  <Bullet_81mmMortarShell_Firefoam.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Firefoam.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (HE) -->
+  <Bullet_81mmMortarShell_HE.label>TODO</Bullet_81mmMortarShell_HE.label>
+  <!-- EN: mortar shell (HE) -->
+  <Bullet_81mmMortarShell_HE.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_HE.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Airburst) -->
+  <Bullet_81mmMortarShell_HE_HFuzed.label>TODO</Bullet_81mmMortarShell_HE_HFuzed.label>
+  <!-- EN: mortar shell (Airburst) -->
+  <Bullet_81mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Incendiary) -->
+  <Bullet_81mmMortarShell_Incendiary.label>TODO</Bullet_81mmMortarShell_Incendiary.label>
+  <!-- EN: mortar shell (Incendiary) -->
+  <Bullet_81mmMortarShell_Incendiary.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Incendiary.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Smoke) -->
+  <Bullet_81mmMortarShell_Smoke.label>TODO</Bullet_81mmMortarShell_Smoke.label>
+  <!-- EN: mortar shell (Smoke) -->
+  <Bullet_81mmMortarShell_Smoke.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Smoke.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Toxic) -->
+  <Bullet_81mmMortarShell_Tox.label>TODO</Bullet_81mmMortarShell_Tox.label>
+  <!-- EN: mortar shell (Toxic) -->
+  <Bullet_81mmMortarShell_Tox.modExtensions.0.genericLabel>TODO</Bullet_81mmMortarShell_Tox.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Anti) -->
+  <Shell_AntigrainWarhead.label>obús de antimateria</Shell_AntigrainWarhead.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_AntigrainWarhead.description>Una ojiva ultratecnológica impulsada por un grano de antimateria. Usualmente usado por naves espaciales o máquinas de guerra de los mundobrillantes, crea una enorme explosión e inicia incendios alrededor del objetivo. Puede ser disparado desde morteros o instalado como trampa. Explotan cuando están dañados.</Shell_AntigrainWarhead.description>
+  <!-- EN: mortar shell (Anti) -->
+  <Shell_AntigrainWarhead.modExtensions.0.genericLabel>TODO</Shell_AntigrainWarhead.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Deadlife) -->
+  <Shell_Deadlife.label>obús de necrovita</Shell_Deadlife.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_Deadlife.description>Un proyectil de artillería repleto de una sustancia parecida al polvo que, tras explotar en una nube, se depositará en los cadáveres humanos y animales cercanos y los levantará como caminantes. Los caminantes solo atacarán a tus enemigos.\n\nPuede dispararse desde morteros o instalarse como trampa. Explota cuando se daña.</Shell_Deadlife.description>
+  <!-- EN: mortar shell (Deadlife) -->
+  <Shell_Deadlife.modExtensions.0.genericLabel>TODO</Shell_Deadlife.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (EMP) -->
+  <Shell_EMP.label>obús PEM</Shell_EMP.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_EMP.description>Un armazón lleno de baterías y antenas, para generar un pulso PEM cuando se detona. Los pulsos electromagnéticos desactivan temporalmente los circuitos eléctricos. Puede ser disparado desde morteros o instalado como trampa. Explotan cuando están dañados.</Shell_EMP.description>
+  <!-- EN: mortar shell (EMP) -->
+  <Shell_EMP.modExtensions.0.genericLabel>TODO</Shell_EMP.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Foam) -->
+  <Shell_Firefoam.label>obús cortafuego</Shell_Firefoam.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_Firefoam.description>Un proyectil presurizado lleno de espuma extintora de incendios. Puede ser disparado desde morteros o instalado como trampa. Explotan cuando son dañados.</Shell_Firefoam.description>
+  <!-- EN: mortar shell (Foam) -->
+  <Shell_Firefoam.modExtensions.0.genericLabel>TODO</Shell_Firefoam.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (HE) -->
+  <Shell_HighExplosive.label>obús explosivo</Shell_HighExplosive.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_HighExplosive.description>Un proyectil lleno de explosivos. Puede ser disparado desde morteros o instalado como trampa. Explotan cuando son dañados.</Shell_HighExplosive.description>
+  <!-- EN: mortar shell (HE) -->
+  <Shell_HighExplosive.modExtensions.0.genericLabel>TODO</Shell_HighExplosive.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Airburst) -->
+  <Shell_HighExplosive_HFuzed.label>TODO</Shell_HighExplosive_HFuzed.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar.
+\n\nHigh-explosive airburst:
+\nGrenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness.
+\n\nUșèð þý: -->
+  <Shell_HighExplosive_HFuzed.description>TODO</Shell_HighExplosive_HFuzed.description>
+  <!-- EN: mortar shell (Airburst) -->
+  <Shell_HighExplosive_HFuzed.modExtensions.0.genericLabel>TODO</Shell_HighExplosive_HFuzed.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Incendiary) -->
+  <Shell_Incendiary.label>obús incendiario</Shell_Incendiary.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_Incendiary.description>Un proyectil lleno de gel inflamable y una pequeña carga explosiva. Comienza el fuego cuando se detona. Puede ser disparado desde morteros o instalado como trampa. Explota cuando es dañado.</Shell_Incendiary.description>
+  <!-- EN: mortar shell (Incendiary) -->
+  <Shell_Incendiary.modExtensions.0.genericLabel>TODO</Shell_Incendiary.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Smoke) -->
+  <Shell_Smoke.label>obús de humo</Shell_Smoke.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_Smoke.description>Un proyectil que genera una nube de humo cuando se detona, oscureciendo los disparos entrantes y evitando que las torretas fijen objetivos. Puede ser disparado desde morteros o instalado como trampa. Explotan cuando se dañan.</Shell_Smoke.description>
+  <!-- EN: mortar shell (Smoke) -->
+  <Shell_Smoke.modExtensions.0.genericLabel>TODO</Shell_Smoke.modExtensions.0.genericLabel>
+  
+  <!-- EN: 81mm mortar shell (Toxic) -->
+  <Shell_Toxic.label>obús tóxico</Shell_Toxic.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_Toxic.description>Un proyectil de artillería que contiene reactivos que, al combinarse, generan un gas tóxico mortal. Cuando se dispara, se clava en el suelo y libera gas tóxico durante un breve periodo tiempo antes de expirar.\n\nEl gas tóxico quema los pulmones y los ojos, causando una dificultad temporal para respirar y una reducción de la vista. La exposición continuada al gas tóxico provoca una acumulación tóxica que puede ser letal.</Shell_Toxic.description>
+  <!-- EN: mortar shell (Toxic) -->
+  <Shell_Toxic.modExtensions.0.genericLabel>TODO</Shell_Toxic.modExtensions.0.genericLabel>
+  
 </LanguageData>

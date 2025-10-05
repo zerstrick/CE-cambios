@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 40x311mmR (AP) cartridge x50 -->
+  <MakeAmmo_40x311mmR_AP.label>TODO</MakeAmmo_40x311mmR_AP.label>
+  <!-- EN: Craft 50 40x311mmR (AP) cartridges. -->
+  <MakeAmmo_40x311mmR_AP.description>TODO</MakeAmmo_40x311mmR_AP.description>
+  <!-- EN: Making 40x311mmR (AP) cartridges. -->
+  <MakeAmmo_40x311mmR_AP.jobString>TODO</MakeAmmo_40x311mmR_AP.jobString>
+  
+  <!-- EN: make 40x311mmR (AP-HE) cartridge x50 -->
+  <MakeAmmo_40x311mmR_HE.label>TODO</MakeAmmo_40x311mmR_HE.label>
+  <!-- EN: Craft 50 40x311mmR (AP-HE) cartridges. -->
+  <MakeAmmo_40x311mmR_HE.description>TODO</MakeAmmo_40x311mmR_HE.description>
+  <!-- EN: Making 40x311mmR (AP-HE) cartridges. -->
+  <MakeAmmo_40x311mmR_HE.jobString>TODO</MakeAmmo_40x311mmR_HE.jobString>
+  
+  <!-- EN: make 40x311mmR (AP-I) cartridge x50 -->
+  <MakeAmmo_40x311mmR_Incendiary.label>TODO</MakeAmmo_40x311mmR_Incendiary.label>
+  <!-- EN: Craft 50 40x311mmR (AP-I) cartridges. -->
+  <MakeAmmo_40x311mmR_Incendiary.description>TODO</MakeAmmo_40x311mmR_Incendiary.description>
+  <!-- EN: Making 40x311mmR (AP-I) cartridges. -->
+  <MakeAmmo_40x311mmR_Incendiary.jobString>TODO</MakeAmmo_40x311mmR_Incendiary.jobString>
+  
+  <!-- EN: make 40x311mmR (Sabot) cartridge x50 -->
+  <MakeAmmo_40x311mmR_Sabot.label>TODO</MakeAmmo_40x311mmR_Sabot.label>
+  <!-- EN: Craft 50 40x311mmR (Sabot) cartridges. -->
+  <MakeAmmo_40x311mmR_Sabot.description>TODO</MakeAmmo_40x311mmR_Sabot.description>
+  <!-- EN: Making 40x311mmR (Sabot) cartridges. -->
+  <MakeAmmo_40x311mmR_Sabot.jobString>TODO</MakeAmmo_40x311mmR_Sabot.jobString>
+  
+</LanguageData>

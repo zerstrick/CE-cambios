@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_50mmGS50Grenade_HE.label>50mm GO-SO grenade (HE)</Ammo_50mmGS50Grenade_HE.label>
-  <Ammo_50mmGS50Grenade_HE.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_HE.description>
-
-  <Ammo_50mmGS50Grenade_EMP.label>50mm EM-50 grenade (EMP)</Ammo_50mmGS50Grenade_EMP.label>
-  <Ammo_50mmGS50Grenade_EMP.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_EMP.description>
-
-  <Ammo_50mmGS50Grenade_Smoke.label>50mmGS50 grenade (Smoke)</Ammo_50mmGS50Grenade_Smoke.label>
-  <Ammo_50mmGS50Grenade_Smoke.description>Specialized high-velocity grenades with polymer casing and stabilizing fins.</Ammo_50mmGS50Grenade_Smoke.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_50mmGS50Grenade_HE.label>50mm grenade</Bullet_50mmGS50Grenade_HE.label>
-  <Bullet_50mmGS50Grenade_EMP.label>50mm grenade</Bullet_50mmGS50Grenade_EMP.label>
-  <Bullet_50mmGS50Grenade_Smoke.label>50mmGS50 grenade (Smoke)</Bullet_50mmGS50Grenade_Smoke.label>
-
-
+  
+  <!-- EN: 50mm EM-50 grenade (EMP) -->
+  <Ammo_50mmGS50Grenade_EMP.label>TODO</Ammo_50mmGS50Grenade_EMP.label>
+  <!-- EN: Specialized high-velocity grenades with polymer casing and stabilizing fins. -->
+  <Ammo_50mmGS50Grenade_EMP.description>TODO</Ammo_50mmGS50Grenade_EMP.description>
+  
+  <!-- EN: 50mm GO-SO grenade (HE) -->
+  <Ammo_50mmGS50Grenade_HE.label>TODO</Ammo_50mmGS50Grenade_HE.label>
+  <!-- EN: Specialized high-velocity grenades with polymer casing and stabilizing fins. -->
+  <Ammo_50mmGS50Grenade_HE.description>TODO</Ammo_50mmGS50Grenade_HE.description>
+  
+  <!-- EN: 50mmGS50 grenade (Smoke) -->
+  <Ammo_50mmGS50Grenade_Smoke.label>TODO</Ammo_50mmGS50Grenade_Smoke.label>
+  <!-- EN: Specialized high-velocity grenades with polymer casing and stabilizing fins. -->
+  <Ammo_50mmGS50Grenade_Smoke.description>TODO</Ammo_50mmGS50Grenade_Smoke.description>
+  
+  <!-- EN: 50mm grenade -->
+  <Bullet_50mmGS50Grenade_EMP.label>TODO</Bullet_50mmGS50Grenade_EMP.label>
+  
+  <!-- EN: 50mm grenade -->
+  <Bullet_50mmGS50Grenade_HE.label>TODO</Bullet_50mmGS50Grenade_HE.label>
+  
+  <!-- EN: 50mmGS50 grenade (Smoke) -->
+  <Bullet_50mmGS50Grenade_Smoke.label>TODO</Bullet_50mmGS50Grenade_Smoke.label>
+  
 </LanguageData>

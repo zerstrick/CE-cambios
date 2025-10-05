@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 23x115mm cartridge (AP) -->
+  <Ammo_23x115mm_AP.label>TODO</Ammo_23x115mm_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_23x115mm_AP.description>TODO</Ammo_23x115mm_AP.description>
+  
+  <!-- EN: 23x115mm cartridge (AP-HE) -->
+  <Ammo_23x115mm_HE.label>TODO</Ammo_23x115mm_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_23x115mm_HE.description>TODO</Ammo_23x115mm_HE.description>
+  
+  <!-- EN: 23x115mm cartridge (AP-I) -->
+  <Ammo_23x115mm_Incendiary.label>TODO</Ammo_23x115mm_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_23x115mm_Incendiary.description>TODO</Ammo_23x115mm_Incendiary.description>
+  
+  <!-- EN: 23x115mm cartridge (Sabot) -->
+  <Ammo_23x115mm_Sabot.label>TODO</Ammo_23x115mm_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_23x115mm_Sabot.description>TODO</Ammo_23x115mm_Sabot.description>
+  
+  <!-- EN: 23x115mm bullet (AP) -->
+  <Bullet_23x115mm_AP.label>TODO</Bullet_23x115mm_AP.label>
+  
+  <!-- EN: 23x115mm bullet (AP-HE) -->
+  <Bullet_23x115mm_HE.label>TODO</Bullet_23x115mm_HE.label>
+  
+  <!-- EN: 23x115mm bullet (AP-I) -->
+  <Bullet_23x115mm_Incendiary.label>TODO</Bullet_23x115mm_Incendiary.label>
+  
+  <!-- EN: 23x115mm bullet (Sabot) -->
+  <Bullet_23x115mm_Sabot.label>TODO</Bullet_23x115mm_Sabot.label>
+  
+</LanguageData>

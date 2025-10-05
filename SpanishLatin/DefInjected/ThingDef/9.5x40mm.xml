@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (AP) -->
+  <Ammo_95x40mmUNSC_AP.label>TODO</Ammo_95x40mmUNSC_AP.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_AP.description>TODO</Ammo_95x40mmUNSC_AP.description>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (FMJ) -->
+  <Ammo_95x40mmUNSC_FMJ.label>TODO</Ammo_95x40mmUNSC_FMJ.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_FMJ.description>TODO</Ammo_95x40mmUNSC_FMJ.description>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (HEDP) -->
+  <Ammo_95x40mmUNSC_HE.label>TODO</Ammo_95x40mmUNSC_HE.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_HE.description>TODO</Ammo_95x40mmUNSC_HE.description>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (HP) -->
+  <Ammo_95x40mmUNSC_HP.label>TODO</Ammo_95x40mmUNSC_HP.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_HP.description>TODO</Ammo_95x40mmUNSC_HP.description>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (AP-I) -->
+  <Ammo_95x40mmUNSC_Incendiary.label>TODO</Ammo_95x40mmUNSC_Incendiary.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_Incendiary.description>TODO</Ammo_95x40mmUNSC_Incendiary.description>
+  
+  <!-- EN: 9.5x40mm UNSC cartridge (Sabot) -->
+  <Ammo_95x40mmUNSC_Sabot.label>TODO</Ammo_95x40mmUNSC_Sabot.label>
+  <!-- EN: A relatively rare large diameter rifle cartridge, advanced propellents allow it to be shortened consideraly without any loss of power. It is currently only used by UNSC battlerifles. -->
+  <Ammo_95x40mmUNSC_Sabot.description>TODO</Ammo_95x40mmUNSC_Sabot.description>
+  
+  <!-- EN: 9.5mm UNSC bullet (AP) -->
+  <Bullet_95x40mmUNSC_AP.label>TODO</Bullet_95x40mmUNSC_AP.label>
+  
+  <!-- EN: 9.5mm UNSC bullet (FMJ) -->
+  <Bullet_95x40mmUNSC_FMJ.label>TODO</Bullet_95x40mmUNSC_FMJ.label>
+  
+  <!-- EN: 9.5mm UNSC bullet (HEDP) -->
+  <Bullet_95x40mmUNSC_HE.label>TODO</Bullet_95x40mmUNSC_HE.label>
+  
+  <!-- EN: 9.5mm UNSC bullet (HP) -->
+  <Bullet_95x40mmUNSC_HP.label>TODO</Bullet_95x40mmUNSC_HP.label>
+  
+  <!-- EN: 9.5mm UNSC bullet (AP-I) -->
+  <Bullet_95x40mmUNSC_Incendiary.label>TODO</Bullet_95x40mmUNSC_Incendiary.label>
+  
+  <!-- EN: 9.5mm UNSC bullet (Sabot) -->
+  <Bullet_95x40mmUNSC_Sabot.label>TODO</Bullet_95x40mmUNSC_Sabot.label>
+  
+</LanguageData>

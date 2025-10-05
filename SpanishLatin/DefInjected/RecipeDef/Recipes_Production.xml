@@ -1,13 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Make_FSXDrugLab.label>Synthesize 7 FSX</Make_FSXDrugLab.label>
-  <Make_FSXDrugLab.description>Synthesize 7 FSX from chemfuel using chemistry equipment.</Make_FSXDrugLab.description>
-  <Make_FSXDrugLab.jobString>Synthesizing FSX</Make_FSXDrugLab.jobString>
-
-  <Make_FSXRefinery.label>Synthesize 8 FSX</Make_FSXRefinery.label>
-  <Make_FSXRefinery.description>Use the refinery to synthesize 8 FSX from chemfuel.</Make_FSXRefinery.description>
-  <Make_FSXRefinery.jobString>Synthesizing FSX</Make_FSXRefinery.jobString>
-
-
+  
+  <!-- EN: Synthesize 7 FSX -->
+  <Make_FSXDrugLab.label>TODO</Make_FSXDrugLab.label>
+  <!-- EN: Synthesize 7 FSX from chemfuel using chemistry equipment. -->
+  <Make_FSXDrugLab.description>TODO</Make_FSXDrugLab.description>
+  <!-- EN: Synthesizing FSX -->
+  <Make_FSXDrugLab.jobString>TODO</Make_FSXDrugLab.jobString>
+  
+  <!-- EN: Synthesize 8 FSX -->
+  <Make_FSXRefinery.label>TODO</Make_FSXRefinery.label>
+  <!-- EN: Use the refinery to synthesize 8 FSX from chemfuel. -->
+  <Make_FSXRefinery.description>TODO</Make_FSXRefinery.description>
+  <!-- EN: Synthesizing FSX -->
+  <Make_FSXRefinery.jobString>TODO</Make_FSXRefinery.jobString>
+  
+  <!-- EN: reclaim materials from mechanoid ammo -->
+  <ReclaimMechAmmo.label>TODO</ReclaimMechAmmo.label>
+  <!-- EN: Use heat and strong electromagnets to break down mechanoid ammo into useful resources. -->
+  <ReclaimMechAmmo.description>TODO</ReclaimMechAmmo.description>
+  <!-- EN: Smelting mechanoid ammo. -->
+  <ReclaimMechAmmo.jobString>TODO</ReclaimMechAmmo.jobString>
+  
+  <!-- EN: recycle materials from mechanoid ammo -->
+  <RecycleMechAmmo.label>TODO</RecycleMechAmmo.label>
+  <!-- EN: Use advanced fabrication tools to recycle mechanoid ammo into useful resources. -->
+  <RecycleMechAmmo.description>TODO</RecycleMechAmmo.description>
+  <!-- EN: Recycling mechanoid ammo. -->
+  <RecycleMechAmmo.jobString>TODO</RecycleMechAmmo.jobString>
+  
+  <!-- EN: recycle materials from mechanoid explosive ammo -->
+  <RecycleMechExplosives.label>TODO</RecycleMechExplosives.label>
+  <!-- EN: Use advanced fabrication tools meticulously to recycle explosive mechanoid ammo into useful resources. -->
+  <RecycleMechExplosives.description>TODO</RecycleMechExplosives.description>
+  <!-- EN: Recycling mechanoid explosive ammo. -->
+  <RecycleMechExplosives.jobString>TODO</RecycleMechExplosives.jobString>
+  
 </LanguageData>

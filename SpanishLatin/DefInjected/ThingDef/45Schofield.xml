@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .45 Schofield (AP) -->
+  <Ammo_45Schofield_AP.label>TODO</Ammo_45Schofield_AP.label>
+  <!-- EN: Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt. -->
+  <Ammo_45Schofield_AP.description>TODO</Ammo_45Schofield_AP.description>
+  
+  <!-- EN: .45 Schofield (FMJ) -->
+  <Ammo_45Schofield_FMJ.label>TODO</Ammo_45Schofield_FMJ.label>
+  <!-- EN: Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt. -->
+  <Ammo_45Schofield_FMJ.description>TODO</Ammo_45Schofield_FMJ.description>
+  
+  <!-- EN: .45 Schofield (HP) -->
+  <Ammo_45Schofield_HP.label>TODO</Ammo_45Schofield_HP.label>
+  <!-- EN: Old school revolver cartridge designed for the frontier, very similar to the longer .45 Colt. -->
+  <Ammo_45Schofield_HP.description>TODO</Ammo_45Schofield_HP.description>
+  
+  <!-- EN: .45 Schofield bullet (AP) -->
+  <Bullet_45Schofield_AP.label>TODO</Bullet_45Schofield_AP.label>
+  
+  <!-- EN: .45 Schofield bullet (FMJ) -->
+  <Bullet_45Schofield_FMJ.label>TODO</Bullet_45Schofield_FMJ.label>
+  
+  <!-- EN: .45 Schofield bullet (HP) -->
+  <Bullet_45Schofield_HP.label>TODO</Bullet_45Schofield_HP.label>
+  
+</LanguageData>

@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_38ACP_FMJ.label>.38 ACP cartridge (FMJ)</Ammo_38ACP_FMJ.label>
-  <Ammo_38ACP_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_FMJ.description>
-
-  <Ammo_38ACP_AP.label>.38 ACP cartridge (AP)</Ammo_38ACP_AP.label>
-  <Ammo_38ACP_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_AP.description>
-
-  <Ammo_38ACP_HP.label>.38 ACP cartridge (HP)</Ammo_38ACP_HP.label>
-  <Ammo_38ACP_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_38ACP_HP.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_38ACP_FMJ.label>.38 ACP bullet (FMJ)</Bullet_38ACP_FMJ.label>
-  <Bullet_38ACP_AP.label>.38 ACP bullet (AP)</Bullet_38ACP_AP.label>
-  <Bullet_38ACP_HP.label>.38 ACP bullet (HP)</Bullet_38ACP_HP.label>
-
-
+  
+  <!-- EN: .38 ACP (AP) -->
+  <Ammo_38ACP_AP.label>TODO</Ammo_38ACP_AP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_38ACP_AP.description>TODO</Ammo_38ACP_AP.description>
+  
+  <!-- EN: .38 ACP (FMJ) -->
+  <Ammo_38ACP_FMJ.label>TODO</Ammo_38ACP_FMJ.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_38ACP_FMJ.description>TODO</Ammo_38ACP_FMJ.description>
+  
+  <!-- EN: .38 ACP (HP) -->
+  <Ammo_38ACP_HP.label>TODO</Ammo_38ACP_HP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_38ACP_HP.description>TODO</Ammo_38ACP_HP.description>
+  
+  <!-- EN: .38 ACP bullet (AP) -->
+  <Bullet_38ACP_AP.label>TODO</Bullet_38ACP_AP.label>
+  
+  <!-- EN: .38 ACP bullet (FMJ) -->
+  <Bullet_38ACP_FMJ.label>TODO</Bullet_38ACP_FMJ.label>
+  
+  <!-- EN: .38 ACP bullet (HP) -->
+  <Bullet_38ACP_HP.label>TODO</Bullet_38ACP_HP.label>
+  
 </LanguageData>

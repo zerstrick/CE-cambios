@@ -1,15 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CE_Generic_Meal>Any Perishable Meal</CE_Generic_Meal>
+	<!-- EN: Any Perishable Meal -->
+  <CE_Generic_Meal>TODO</CE_Generic_Meal>
 
-  <CE_Generic_RawFood>Any Raw Food</CE_Generic_RawFood>
+	<!-- EN: Any Raw Food -->
+  <CE_Generic_RawFood>TODO</CE_Generic_RawFood>
 
-  <CE_Generic_Drugs>Any Drugs</CE_Generic_Drugs>
+	<!-- EN: Any Drugs -->
+  <CE_Generic_Drugs>TODO</CE_Generic_Drugs>
 
-  <CE_Generic_Ammo>Any Ammo for {0}</CE_Generic_Ammo>
+	<!-- EN: Any Ammo for {0} -->
+  <CE_Generic_Ammo>TODO</CE_Generic_Ammo>
 
-  <CE_Generic_Medicine>Any Medicine</CE_Generic_Medicine>
+	<!-- EN: Any Medicine -->
+  <CE_Generic_Medicine>TODO</CE_Generic_Medicine>
 
-  <CE_Generic_Divider>/</CE_Generic_Divider>
-
+	<!-- EN: / -->
+  <CE_Generic_Divider>TODO</CE_Generic_Divider>
 </LanguageData>

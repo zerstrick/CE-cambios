@@ -1,31 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_303British_FMJ.label>make .303 British (FMJ) cartridge x500</MakeAmmo_303British_FMJ.label>
-  <MakeAmmo_303British_FMJ.description>Craft 500 .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ.description>
-  <MakeAmmo_303British_FMJ.jobString>Making .303 British (FMJ) cartridges.</MakeAmmo_303British_FMJ.jobString>
-
-  <MakeAmmo_303British_AP.label>make .303 British (AP) cartridge x500</MakeAmmo_303British_AP.label>
-  <MakeAmmo_303British_AP.description>Craft 500 .303 British (AP) cartridges.</MakeAmmo_303British_AP.description>
-  <MakeAmmo_303British_AP.jobString>Making .303 British (AP) cartridges.</MakeAmmo_303British_AP.jobString>
-
-  <MakeAmmo_303British_HP.label>make .303 British (HP) cartridge x500</MakeAmmo_303British_HP.label>
-  <MakeAmmo_303British_HP.description>Craft 500 .303 British (HP) cartridges.</MakeAmmo_303British_HP.description>
-  <MakeAmmo_303British_HP.jobString>Making .303 British (HP) cartridges.</MakeAmmo_303British_HP.jobString>
-
-  <MakeAmmo_303British_Incendiary.label>make .303 British (AP-I) cartridge x500</MakeAmmo_303British_Incendiary.label>
-  <MakeAmmo_303British_Incendiary.description>Craft 500 .303 British (AP-I) cartridges.</MakeAmmo_303British_Incendiary.description>
-  <MakeAmmo_303British_Incendiary.jobString>Making .303 British (AP-I) cartridges.</MakeAmmo_303British_Incendiary.jobString>
-
-  <MakeAmmo_303British_HE.label>make .303 British (HE) cartridge x500</MakeAmmo_303British_HE.label>
-  <MakeAmmo_303British_HE.description>Craft 500 .303 British (HE) cartridges.</MakeAmmo_303British_HE.description>
-  <MakeAmmo_303British_HE.jobString>Making .303 British (HE) cartridges.</MakeAmmo_303British_HE.jobString>
-
-  <MakeAmmo_303British_Sabot.label>make .303 British (Sabot) cartridge x500</MakeAmmo_303British_Sabot.label>
-  <MakeAmmo_303British_Sabot.description>Craft 500 .303 British (Sabot) cartridges.</MakeAmmo_303British_Sabot.description>
-  <MakeAmmo_303British_Sabot.jobString>Making .303 British (Sabot) cartridges.</MakeAmmo_303British_Sabot.jobString>
-
-
+  
+  <!-- EN: make .303 British (AP) cartridge x500 -->
+  <MakeAmmo_303British_AP.label>TODO</MakeAmmo_303British_AP.label>
+  <!-- EN: Craft 500 .303 British (AP) cartridges. -->
+  <MakeAmmo_303British_AP.description>TODO</MakeAmmo_303British_AP.description>
+  <!-- EN: Making .303 British (AP) cartridges. -->
+  <MakeAmmo_303British_AP.jobString>TODO</MakeAmmo_303British_AP.jobString>
+  
+  <!-- EN: make .303 British (FMJ) cartridge x500 -->
+  <MakeAmmo_303British_FMJ.label>TODO</MakeAmmo_303British_FMJ.label>
+  <!-- EN: Craft 500 .303 British (FMJ) cartridges. -->
+  <MakeAmmo_303British_FMJ.description>TODO</MakeAmmo_303British_FMJ.description>
+  <!-- EN: Making .303 British (FMJ) cartridges. -->
+  <MakeAmmo_303British_FMJ.jobString>TODO</MakeAmmo_303British_FMJ.jobString>
+  
+  <!-- EN: make .303 British (AP-HE) cartridge x500 -->
+  <MakeAmmo_303British_HE.label>TODO</MakeAmmo_303British_HE.label>
+  <!-- EN: Craft 500 .303 British (AP-HE) cartridges. -->
+  <MakeAmmo_303British_HE.description>TODO</MakeAmmo_303British_HE.description>
+  <!-- EN: Making .303 British (AP-HE) cartridges. -->
+  <MakeAmmo_303British_HE.jobString>TODO</MakeAmmo_303British_HE.jobString>
+  
+  <!-- EN: make .303 British (HP) cartridge x500 -->
+  <MakeAmmo_303British_HP.label>TODO</MakeAmmo_303British_HP.label>
+  <!-- EN: Craft 500 .303 British (HP) cartridges. -->
+  <MakeAmmo_303British_HP.description>TODO</MakeAmmo_303British_HP.description>
+  <!-- EN: Making .303 British (HP) cartridges. -->
+  <MakeAmmo_303British_HP.jobString>TODO</MakeAmmo_303British_HP.jobString>
+  
+  <!-- EN: make .303 British (AP-I) cartridge x500 -->
+  <MakeAmmo_303British_Incendiary.label>TODO</MakeAmmo_303British_Incendiary.label>
+  <!-- EN: Craft 500 .303 British (AP-I) cartridges. -->
+  <MakeAmmo_303British_Incendiary.description>TODO</MakeAmmo_303British_Incendiary.description>
+  <!-- EN: Making .303 British (AP-I) cartridges. -->
+  <MakeAmmo_303British_Incendiary.jobString>TODO</MakeAmmo_303British_Incendiary.jobString>
+  
+  <!-- EN: make .303 British (Sabot) cartridge x500 -->
+  <MakeAmmo_303British_Sabot.label>TODO</MakeAmmo_303British_Sabot.label>
+  <!-- EN: Craft 500 .303 British (Sabot) cartridges. -->
+  <MakeAmmo_303British_Sabot.description>TODO</MakeAmmo_303British_Sabot.description>
+  <!-- EN: Making .303 British (Sabot) cartridges. -->
+  <MakeAmmo_303British_Sabot.jobString>TODO</MakeAmmo_303British_Sabot.jobString>
+  
 </LanguageData>

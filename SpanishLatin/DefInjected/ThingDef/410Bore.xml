@@ -1,15 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_410Bore_Buck.label>.410 Bore shell (Buck)</Ammo_410Bore_Buck.label>
-  <Ammo_410Bore_Buck.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Buck.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_410Bore_Buck.label>buckshot pellet</Bullet_410Bore_Buck.label>
-
-
+  
+  <!-- EN: .410 Bore shell (Bean) -->
+  <Ammo_410Bore_Beanbag.label>TODO</Ammo_410Bore_Beanbag.label>
+  <!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.
+\n\nBeanbag:
+\nNon-lethal rubber round originally designed for riot control. Accurate over short ranges only. Designed to temporarily incapacitate a target, it does not cause bleeding or damage to internal organs.
+\n\nUșèð þý: -->
+  <Ammo_410Bore_Beanbag.description>TODO</Ammo_410Bore_Beanbag.description>
+  
+  <!-- EN: .410 Bore shell (Buck) -->
+  <Ammo_410Bore_Buck.label>TODO</Ammo_410Bore_Buck.label>
+  <!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.
+\n\nBuckshot:
+\nFilled with several buckshot pellets which spread in a tight pattern.
+\n\nUșèð þý: -->
+  <Ammo_410Bore_Buck.description>TODO</Ammo_410Bore_Buck.description>
+  
+  <!-- EN: .410 Bore shell (EMP) -->
+  <Ammo_410Bore_ElectroSlug.label>TODO</Ammo_410Bore_ElectroSlug.label>
+  <!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.
+\n\nEMP:
+\nDesigned to combat mechanoids, the projectile is accurate over short range only and delivers an electro-magnetic pulse on impact, temporarily disabling electronics.
+\n\nUșèð þý: -->
+  <Ammo_410Bore_ElectroSlug.description>TODO</Ammo_410Bore_ElectroSlug.description>
+  
+  <!-- EN: .410 Bore shell (Slug) -->
+  <Ammo_410Bore_Slug.label>TODO</Ammo_410Bore_Slug.label>
+  <!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.
+\n\nSlug:
+\nThe single large projectile offers better damage potential and armor penetration compared to regular shot but is inaccurate over large distances.
+\n\nUșèð þý: -->
+  <Ammo_410Bore_Slug.description>TODO</Ammo_410Bore_Slug.description>
+  
+  <!-- EN: beanbag -->
+  <Bullet_410Bore_Beanbag.label>TODO</Bullet_410Bore_Beanbag.label>
+  
+  <!-- EN: beanbag -->
+  <Bullet_410Bore_Beanbag_SB.label>TODO</Bullet_410Bore_Beanbag_SB.label>
+  
+  <!-- EN: buckshot pellet -->
+  <Bullet_410Bore_Buck.label>TODO</Bullet_410Bore_Buck.label>
+  
+  <!-- EN: buckshot pellet -->
+  <Bullet_410Bore_Buck_SB.label>TODO</Bullet_410Bore_Buck_SB.label>
+  
+  <!-- EN: EMP slug -->
+  <Bullet_410Bore_ElectroSlug.label>TODO</Bullet_410Bore_ElectroSlug.label>
+  
+  <!-- EN: EMP slug -->
+  <Bullet_410Bore_ElectroSlug_SB.label>TODO</Bullet_410Bore_ElectroSlug_SB.label>
+  
+  <!-- EN: shotgun slug -->
+  <Bullet_410Bore_Slug.label>TODO</Bullet_410Bore_Slug.label>
+  
+  <!-- EN: shotgun slug -->
+  <Bullet_410Bore_Slug_SB.label>TODO</Bullet_410Bore_Slug_SB.label>
+  
 </LanguageData>

@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_40x365mmBofors.label>40x365mm Bofors</AmmoSet_40x365mmBofors.label>
-
-
+  
+  <!-- EN: 40x365mm Bofors -->
+  <AmmoSet_40x365mmBofors.label>TODO</AmmoSet_40x365mmBofors.label>
+  
 </LanguageData>

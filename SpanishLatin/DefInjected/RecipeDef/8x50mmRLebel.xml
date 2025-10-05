@@ -1,31 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_8x50mmRLebel_FMJ.label>make 8x50mmR Lebel (FMJ) cartridge x500</MakeAmmo_8x50mmRLebel_FMJ.label>
-  <MakeAmmo_8x50mmRLebel_FMJ.description>Craft 500 8x50mmR Lebel (FMJ) cartridges.</MakeAmmo_8x50mmRLebel_FMJ.description>
-  <MakeAmmo_8x50mmRLebel_FMJ.jobString>Making 8x50mmR Lebel (FMJ) cartridges.</MakeAmmo_8x50mmRLebel_FMJ.jobString>
-
-  <MakeAmmo_8x50mmRLebel_AP.label>make 8x50mmR Lebel (AP) cartridge x500</MakeAmmo_8x50mmRLebel_AP.label>
-  <MakeAmmo_8x50mmRLebel_AP.description>Craft 500 8x50mmR Lebel (AP) cartridges.</MakeAmmo_8x50mmRLebel_AP.description>
-  <MakeAmmo_8x50mmRLebel_AP.jobString>Making 8x50mmR Lebel (AP) cartridges.</MakeAmmo_8x50mmRLebel_AP.jobString>
-
-  <MakeAmmo_8x50mmRLebel_HP.label>make 8x50mmR Lebel (HP) cartridge x500</MakeAmmo_8x50mmRLebel_HP.label>
-  <MakeAmmo_8x50mmRLebel_HP.description>Craft 500 8x50mmR Lebel (HP) cartridges.</MakeAmmo_8x50mmRLebel_HP.description>
-  <MakeAmmo_8x50mmRLebel_HP.jobString>Making 8x50mmR Lebel (HP) cartridges.</MakeAmmo_8x50mmRLebel_HP.jobString>
-
-  <MakeAmmo_8x50mmRLebel_Incendiary.label>make 8x50mmR Lebel (AP-I) cartridge x500</MakeAmmo_8x50mmRLebel_Incendiary.label>
-  <MakeAmmo_8x50mmRLebel_Incendiary.description>Craft 500 8x50mmR Lebel (AP-I) cartridges.</MakeAmmo_8x50mmRLebel_Incendiary.description>
-  <MakeAmmo_8x50mmRLebel_Incendiary.jobString>Making 8x50mmR Lebel (AP-I) cartridges.</MakeAmmo_8x50mmRLebel_Incendiary.jobString>
-
-  <MakeAmmo_8x50mmRLebel_HE.label>make 8x50mmR Lebel (HE) cartridge x500</MakeAmmo_8x50mmRLebel_HE.label>
-  <MakeAmmo_8x50mmRLebel_HE.description>Craft 500 8x50mmR Lebel (HE) cartridges.</MakeAmmo_8x50mmRLebel_HE.description>
-  <MakeAmmo_8x50mmRLebel_HE.jobString>Making 8x50mmR Lebel (HE) cartridges.</MakeAmmo_8x50mmRLebel_HE.jobString>
-
-  <MakeAmmo_8x50mmRLebel_Sabot.label>make 8x50mmR Lebel (Sabot) cartridge x500</MakeAmmo_8x50mmRLebel_Sabot.label>
-  <MakeAmmo_8x50mmRLebel_Sabot.description>Craft 500 8x50mmR Lebel (Sabot) cartridges.</MakeAmmo_8x50mmRLebel_Sabot.description>
-  <MakeAmmo_8x50mmRLebel_Sabot.jobString>Making 8x50mmR Lebel (Sabot) cartridges.</MakeAmmo_8x50mmRLebel_Sabot.jobString>
-
-
+  
+  <!-- EN: make 8x50mmR Lebel (AP) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_AP.label>TODO</MakeAmmo_8x50mmRLebel_AP.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (AP) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_AP.description>TODO</MakeAmmo_8x50mmRLebel_AP.description>
+  <!-- EN: Making 8x50mmR Lebel (AP) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_AP.jobString>TODO</MakeAmmo_8x50mmRLebel_AP.jobString>
+  
+  <!-- EN: make 8x50mmR Lebel (FMJ) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_FMJ.label>TODO</MakeAmmo_8x50mmRLebel_FMJ.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (FMJ) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_FMJ.description>TODO</MakeAmmo_8x50mmRLebel_FMJ.description>
+  <!-- EN: Making 8x50mmR Lebel (FMJ) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_FMJ.jobString>TODO</MakeAmmo_8x50mmRLebel_FMJ.jobString>
+  
+  <!-- EN: make 8x50mmR Lebel (AP-HE) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_HE.label>TODO</MakeAmmo_8x50mmRLebel_HE.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (AP-HE) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_HE.description>TODO</MakeAmmo_8x50mmRLebel_HE.description>
+  <!-- EN: Making 8x50mmR Lebel (AP-HE) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_HE.jobString>TODO</MakeAmmo_8x50mmRLebel_HE.jobString>
+  
+  <!-- EN: make 8x50mmR Lebel (HP) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_HP.label>TODO</MakeAmmo_8x50mmRLebel_HP.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (HP) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_HP.description>TODO</MakeAmmo_8x50mmRLebel_HP.description>
+  <!-- EN: Making 8x50mmR Lebel (HP) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_HP.jobString>TODO</MakeAmmo_8x50mmRLebel_HP.jobString>
+  
+  <!-- EN: make 8x50mmR Lebel (AP-I) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_Incendiary.label>TODO</MakeAmmo_8x50mmRLebel_Incendiary.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (AP-I) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_Incendiary.description>TODO</MakeAmmo_8x50mmRLebel_Incendiary.description>
+  <!-- EN: Making 8x50mmR Lebel (AP-I) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_Incendiary.jobString>TODO</MakeAmmo_8x50mmRLebel_Incendiary.jobString>
+  
+  <!-- EN: make 8x50mmR Lebel (Sabot) cartridge x500 -->
+  <MakeAmmo_8x50mmRLebel_Sabot.label>TODO</MakeAmmo_8x50mmRLebel_Sabot.label>
+  <!-- EN: Craft 500 8x50mmR Lebel (Sabot) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_Sabot.description>TODO</MakeAmmo_8x50mmRLebel_Sabot.description>
+  <!-- EN: Making 8x50mmR Lebel (Sabot) cartridges. -->
+  <MakeAmmo_8x50mmRLebel_Sabot.jobString>TODO</MakeAmmo_8x50mmRLebel_Sabot.jobString>
+  
 </LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 40x311mmR (AP) -->
+  <Ammo_40x311mmR_AP.label>TODO</Ammo_40x311mmR_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing:
+\nFeatures a hardened steel penetrator core for increased armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_40x311mmR_AP.description>TODO</Ammo_40x311mmR_AP.description>
+  
+  <!-- EN: 40x311mmR (AP-HE) -->
+  <Ammo_40x311mmR_HE.label>TODO</Ammo_40x311mmR_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing high-explosive:
+\nFilled with high-explosives that detonate on impact for additional damage.
+\n\nUșèð þý: -->
+  <Ammo_40x311mmR_HE.description>TODO</Ammo_40x311mmR_HE.description>
+  
+  <!-- EN: 40x311mmR (AP-I) -->
+  <Ammo_40x311mmR_Incendiary.label>TODO</Ammo_40x311mmR_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing incendiary:
+\nFilled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_40x311mmR_Incendiary.description>TODO</Ammo_40x311mmR_Incendiary.description>
+  
+  <!-- EN: 40x311mmR (Sabot) -->
+  <Ammo_40x311mmR_Sabot.label>TODO</Ammo_40x311mmR_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons.
+\n\nArmor-piercing discarding sabot:
+\nUses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_40x311mmR_Sabot.description>TODO</Ammo_40x311mmR_Sabot.description>
+  
+  <!-- EN: 40x311mmR bullet (AP) -->
+  <Bullet_40x311mmR_AP.label>TODO</Bullet_40x311mmR_AP.label>
+  
+  <!-- EN: 40x311mmR bullet (AP-HE) -->
+  <Bullet_40x311mmR_HE.label>TODO</Bullet_40x311mmR_HE.label>
+  
+  <!-- EN: 40x311mmR bullet (AP-I) -->
+  <Bullet_40x311mmR_Incendiary.label>TODO</Bullet_40x311mmR_Incendiary.label>
+  
+  <!-- EN: 40x311mmR bullet (Sabot) -->
+  <Bullet_40x311mmR_Sabot.label>TODO</Bullet_40x311mmR_Sabot.label>
+  
+</LanguageData>

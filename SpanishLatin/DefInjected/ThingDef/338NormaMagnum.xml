@@ -1,53 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_338Norma_FMJ.label>.338 Norma Magnum cartridge (FMJ)</Ammo_338Norma_FMJ.label>
-  <Ammo_338Norma_FMJ.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_FMJ.description>
-
-
-  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Ammo338NormaBase">
-    <defName>Ammo_338Norma_HP</defName>
-    <label>.338 Norma Magnum cartridge (HP)</label>
-    <graphicData>
-      <texPath>Things/Ammo/HighCaliber/HE</texPath>
-      <graphicClass>Graphic_StackCount</graphicClass>
-    </graphicData>
-    <statBases>
-      <MarketValue>0.24</MarketValue>
-    </statBases>
-  	<ammoClass>HollowPoint</ammoClass>
-    <cookOffProjectile>Bullet_338Norma_HP</cookOffProjectile>
-  </ThingDef> -->
-
-  <Ammo_338Norma_Incendiary.label>.338 Norma Magnum cartridge (AP-I)</Ammo_338Norma_Incendiary.label>
-  <Ammo_338Norma_Incendiary.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Incendiary.description>
-
-  <Ammo_338Norma_HE.label>.338 Norma Magnum cartridge (HE)</Ammo_338Norma_HE.label>
-  <Ammo_338Norma_HE.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_HE.description>
-
-  <Ammo_338Norma_Sabot.label>.338 Norma Magnum cartridge (Sabot)</Ammo_338Norma_Sabot.label>
-  <Ammo_338Norma_Sabot.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_338Norma_FMJ.label>.338 Norma Magnum bullet (FMJ)</Bullet_338Norma_FMJ.label>
-
-
-  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Base338NormaBullet">
-    <defName>Bullet_338Norma_HP</defName>
-    <label>.338 Norma Magnum bullet (HP)</label>
-    <projectile Class="CombatExtended.ProjectilePropertiesCE">
-      <damageAmountBase>34</damageAmountBase>
-			<armorPenetrationBase>0.566</armorPenetrationBase>
-    </projectile>
-  </ThingDef> -->
-
-  <Bullet_338Norma_Incendiary.label>.338 Norma Magnum bullet (AP-I)</Bullet_338Norma_Incendiary.label>
-  <Bullet_338Norma_HE.label>.338 Norma Magnum bullet (HE)</Bullet_338Norma_HE.label>
-  <Bullet_338Norma_Sabot.label>.338 Norma Magnum bullet (Sabot)</Bullet_338Norma_Sabot.label>
-
-
+  
+  <!-- EN: .338 Norma Magnum (AP) -->
+  <Ammo_338Norma_AP.label>TODO</Ammo_338Norma_AP.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_AP.description>TODO</Ammo_338Norma_AP.description>
+  
+  <!-- EN: .338 Norma Magnum (FMJ) -->
+  <Ammo_338Norma_FMJ.label>TODO</Ammo_338Norma_FMJ.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_FMJ.description>TODO</Ammo_338Norma_FMJ.description>
+  
+  <!-- EN: .338 Norma Magnum (AP-HE) -->
+  <Ammo_338Norma_HE.label>TODO</Ammo_338Norma_HE.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_HE.description>TODO</Ammo_338Norma_HE.description>
+  
+  <!-- EN: .338 Norma Magnum (AP-I) -->
+  <Ammo_338Norma_Incendiary.label>TODO</Ammo_338Norma_Incendiary.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_Incendiary.description>TODO</Ammo_338Norma_Incendiary.description>
+  
+  <!-- EN: .338 Norma Magnum (Sabot) -->
+  <Ammo_338Norma_Sabot.label>TODO</Ammo_338Norma_Sabot.label>
+  <!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+  <Ammo_338Norma_Sabot.description>TODO</Ammo_338Norma_Sabot.description>
+  
+  <!-- EN: .338 Norma Magnum bullet (AP) -->
+  <Bullet_338Norma_AP.label>TODO</Bullet_338Norma_AP.label>
+  
+  <!-- EN: .338 Norma Magnum bullet (FMJ) -->
+  <Bullet_338Norma_FMJ.label>TODO</Bullet_338Norma_FMJ.label>
+  
+  <!-- EN: .338 Norma Magnum bullet (AP-HE) -->
+  <Bullet_338Norma_HE.label>TODO</Bullet_338Norma_HE.label>
+  
+  <!-- EN: .338 Norma Magnum bullet (AP-I) -->
+  <Bullet_338Norma_Incendiary.label>TODO</Bullet_338Norma_Incendiary.label>
+  
+  <!-- EN: .338 Norma Magnum bullet (Sabot) -->
+  <Bullet_338Norma_Sabot.label>TODO</Bullet_338Norma_Sabot.label>
+  
 </LanguageData>

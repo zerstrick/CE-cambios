@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 16x65mm cartridge (HE) -->
+  <Ammo_16x65mm_HE.label>TODO</Ammo_16x65mm_HE.label>
+  <!-- EN: The M645 Ferric-Tungsten Projectile - High Explosive is a 16x65mm slug round used by Acheron Security's ARC-920 railgun. -->
+  <Ammo_16x65mm_HE.description>TODO</Ammo_16x65mm_HE.description>
+  
+  <!-- EN: 16x65mm bullet (HE) -->
+  <Bullet_16x65mm_HE.label>TODO</Bullet_16x65mm_HE.label>
+  
+</LanguageData>

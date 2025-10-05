@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nerve spiker bolt -->
+  <Ammo_NerveSpikerBolt.label>TODO</Ammo_NerveSpikerBolt.label>
+  <!-- EN: A heavy bioferrite bolt, shaped to be fired from a nerve spiker.\n\nThough simple to make, these bolts are brittle and tend to deform or break on impact.
+\n\nNerve:
+\nThe projectile is coated with a potent bioferrite-based biotoxin that stuns organic targets and disrupts regeneration.
+\n\nUșèð þý: -->
+  <Ammo_NerveSpikerBolt.description>TODO</Ammo_NerveSpikerBolt.description>
+  
+  <!-- EN: nerve spiker bolt -->
+  <Projectile_NerveSpikerBolt.label>TODO</Projectile_NerveSpikerBolt.label>
+  
+</LanguageData>

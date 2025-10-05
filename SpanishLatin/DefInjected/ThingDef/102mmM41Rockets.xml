@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: M41 Rocket (Anti-personnel) -->
+  <Ammo_M41Rocket_HE.label>TODO</Ammo_M41Rocket_HE.label>
+  <!-- EN: Rockets designed for the M41 launcher. After being fired, a rocket motor kicks in to propel the Rocket further. -->
+  <Ammo_M41Rocket_HE.description>TODO</Ammo_M41Rocket_HE.description>
+  
+  <!-- EN: M41 rocket (HEAT) -->
+  <Ammo_M41Rocket_HEAT.label>TODO</Ammo_M41Rocket_HEAT.label>
+  <!-- EN: Rockets designed for the M41 launcher. After being fired, a rocket motor kicks in to propel the Rocket further. -->
+  <Ammo_M41Rocket_HEAT.description>TODO</Ammo_M41Rocket_HEAT.description>
+  
+  <!-- EN: M21 102mm missile (Anti-Personnel) -->
+  <Bullet_M41Rocket_HE.label>TODO</Bullet_M41Rocket_HE.label>
+  
+  <!-- EN: M19 102mm missile (HEAT) -->
+  <Bullet_M41Rocket_HEAT.label>TODO</Bullet_M41Rocket_HEAT.label>
+  
+</LanguageData>

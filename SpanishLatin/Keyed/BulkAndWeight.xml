@@ -1,44 +1,110 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CE_Outfits>Outfits</CE_Outfits>
-  <CE_Drugs>Drugs</CE_Drugs>
-  <CE_EditX>Edit {0}</CE_EditX>
-  <CE_MakeLoadout>Make loadout</CE_MakeLoadout>
-  <CE_ManageLoadouts>Manage loadouts</CE_ManageLoadouts>
-  <CE_CurrentLoadout>Current loadout</CE_CurrentLoadout>
-  <CE_Loadouts>Loadouts</CE_Loadouts>
-  <CE_Weight>Mass</CE_Weight>
-  <CE_Bulk>Bulk</CE_Bulk>
-  <CE_outfit>outfit</CE_outfit>
-  <CE_drugs>drug policy</CE_drugs>
-  <CE_loadout>loadout</CE_loadout>
-  <CE_DetailedWeightTip>Current weight: {1}\nCapacity: {0}\n\nMove speed factor: {2}\nEncumbrance penalty: {3}</CE_DetailedWeightTip>
-  <CE_DetailedBulkTip>Current bulk: {1}\nCapacity: {0}\n\nWork speed factor: {2}</CE_DetailedBulkTip>
-  <CE_DetailedBaseWeightTip>Current weight: {1}\nBase capacity: {0}\n\nMove speed factor: {2}\nEncumbrance penalty: {3}</CE_DetailedBaseWeightTip>
-  <CE_DetailedBaseBulkTip>Current bulk: {1}\nBase capacity: {0}\n\nWork speed factor: {2}</CE_DetailedBaseBulkTip>
-  <CE_EmptyLoadoutName>Nothing</CE_EmptyLoadoutName>
-  <CE_NoLoadouts>No Loadouts</CE_NoLoadouts>
-  <CE_SelectLoadout>Select loadout...</CE_SelectLoadout>
-  <CE_NewLoadout>New loadout</CE_NewLoadout>
-  <CE_DeleteLoadout>Delete loadout...</CE_DeleteLoadout>
-  <CE_CopyLoadout>Copy loadout</CE_CopyLoadout>
-  <CE_NoLoadoutSelected>No loadout selected</CE_NoLoadoutSelected>
-  <CE_DefaultLoadoutName>Loadout</CE_DefaultLoadoutName>
-  <CE_SourceRangedTip>Select ranged weapons</CE_SourceRangedTip>
-  <CE_SourceMeleeTip>Select melee weapons</CE_SourceMeleeTip>
-  <CE_SourceAmmoTip>Select ammo</CE_SourceAmmoTip>
-  <CE_SourceMinifiedTip>Select minified</CE_SourceMinifiedTip>
-  <CE_SourceGenericTip>Select generic</CE_SourceGenericTip>
-  <CE_SourceAllTip>Select all</CE_SourceAllTip>
-  <CE_SourceFilterTip>Filter selection</CE_SourceFilterTip>
-  <CE_DragToReorder>Drag handle to reorder</CE_DragToReorder>
-  <CE_CountFieldTip>Count: {0}</CE_CountFieldTip>
-  <CE_DeleteFilter>Delete</CE_DeleteFilter>
-  <CE_AddAmmoFor>Add ammo for {0}</CE_AddAmmoFor>
-  <CE_DropExcess>Drop excess</CE_DropExcess>
-  <CE_PickupMissingAndDropExcess>Pickup missing and drop excess</CE_PickupMissingAndDropExcess>
-  <CE_StatsReport_LoadedAmmo>Loaded ammunition</CE_StatsReport_LoadedAmmo>
-  <CE_InventoryFull_TameFail>Does not have enough space in inventory to pickup the required food for taming.</CE_InventoryFull_TameFail>
+	<!-- EN: Outfits -->
+  <CE_Outfits>TODO</CE_Outfits>
+	<!-- EN: Drugs -->
+  <CE_Drugs>TODO</CE_Drugs>
+	<!-- EN: Edit {0} -->
+  <CE_EditX>TODO</CE_EditX>
+	<!-- EN: Make loadout -->
+  <CE_MakeLoadout>TODO</CE_MakeLoadout>
+	<!-- EN: Manage loadouts -->
+  <CE_ManageLoadouts>TODO</CE_ManageLoadouts>
+	<!-- EN: Current loadout -->
+  <CE_CurrentLoadout>TODO</CE_CurrentLoadout>
+	<!-- EN: Loadouts -->
+  <CE_Loadouts>TODO</CE_Loadouts>
+	<!-- EN: Mass -->
+  <CE_Weight>TODO</CE_Weight>
+	<!-- EN: Bulk -->
+  <CE_Bulk>TODO</CE_Bulk>
+	<!-- EN: outfit -->
+  <CE_outfit>TODO</CE_outfit>
+	<!-- EN: drug policy -->
+  <CE_drugs>TODO</CE_drugs>
+	<!-- EN: loadout -->
+  <CE_loadout>TODO</CE_loadout>
+	<!-- EN: Current weight: {1}\nCapacity: {0}\n\nMove speed factor: {2}\nMelee dodge chance factor: {3}\nEncumbrance penalty: {4} -->
+  <CE_DetailedWeightTip>TODO</CE_DetailedWeightTip>
+	<!-- EN: Current bulk: {1}\nCapacity: {0}\n\nWork speed factor: {2}\nMelee hit chance factor: {3}\nMelee dodge chance factor: {4} -->
+  <CE_DetailedBulkTip>TODO</CE_DetailedBulkTip>
+	<!-- EN: Current weight: {1}\nBase capacity: {0}\n\nMove speed factor: {2}\nMelee dodge chance factor: {3}\nEncumbrance penalty: {4} -->
+  <CE_DetailedBaseWeightTip>TODO</CE_DetailedBaseWeightTip>
+	<!-- EN: Current bulk: {1}\nBase capacity: {0}\n\nWork speed factor: {2}\nMelee hit chance factor: {3}\nMelee dodge chance factor: {4} -->
+  <CE_DetailedBaseBulkTip>TODO</CE_DetailedBaseBulkTip>
+	<!-- EN: Nothing -->
+  <CE_EmptyLoadoutName>TODO</CE_EmptyLoadoutName>
+	<!-- EN: No Loadouts -->
+  <CE_NoLoadouts>TODO</CE_NoLoadouts>
+	<!-- EN: Select loadout... -->
+  <CE_SelectLoadout>TODO</CE_SelectLoadout>
+	<!-- EN: New loadout -->
+  <CE_NewLoadout>TODO</CE_NewLoadout>
+	<!-- EN: Delete loadout... -->
+  <CE_DeleteLoadout>TODO</CE_DeleteLoadout>
+	<!-- EN: Copy loadout -->
+  <CE_CopyLoadout>TODO</CE_CopyLoadout>
+	<!-- EN: Save loadout... -->
+  <CE_SaveLoadout>TODO</CE_SaveLoadout>
+	<!-- EN: Load loadout... -->
+  <CE_LoadLoadout>TODO</CE_LoadLoadout>
+	<!-- EN: Parent loadout... -->
+  <CE_ParentLoadout>TODO</CE_ParentLoadout>
+	<!-- EN: (clear) -->
+  <CE_ClearParentLoadout>TODO</CE_ClearParentLoadout>
+	<!-- EN: The following loadout slots could not be loaded as these things do not exist in this world: {0} -->
+  <CE_MissingLoadoutSlots>TODO</CE_MissingLoadoutSlots>
+	<!-- EN: No loadout selected -->
+  <CE_NoLoadoutSelected>TODO</CE_NoLoadoutSelected>
+	<!-- EN: Loadout -->
+  <CE_DefaultLoadoutName>TODO</CE_DefaultLoadoutName>
+	<!-- EN: Select ranged weapons -->
+  <CE_SourceRangedTip>TODO</CE_SourceRangedTip>
+	<!-- EN: Select melee weapons -->
+  <CE_SourceMeleeTip>TODO</CE_SourceMeleeTip>
+	<!-- EN: Select ammo -->
+  <CE_SourceAmmoTip>TODO</CE_SourceAmmoTip>
+	<!-- EN: Select minified -->
+  <CE_SourceMinifiedTip>TODO</CE_SourceMinifiedTip>
+	<!-- EN: Select generic -->
+  <CE_SourceGenericTip>TODO</CE_SourceGenericTip>
+	<!-- EN: Select all -->
+  <CE_SourceAllTip>TODO</CE_SourceAllTip>
+	<!-- EN: Filter selection -->
+  <CE_SourceFilterTip>TODO</CE_SourceFilterTip>
+	<!-- EN: Drag handle to reorder -->
+  <CE_DragToReorder>TODO</CE_DragToReorder>
+	<!-- EN: Count: {0} -->
+  <CE_CountFieldTip>TODO</CE_CountFieldTip>
+	<!-- EN: Delete -->
+  <CE_DeleteFilter>TODO</CE_DeleteFilter>
+	<!-- EN: Add ammo for {0} -->
+  <CE_AddAmmoFor>TODO</CE_AddAmmoFor>
+	<!-- EN: Drop excess -->
+  <CE_DropExcess>TODO</CE_DropExcess>
+	<!-- EN: Pickup missing and drop excess -->
+  <CE_PickupMissingAndDropExcess>TODO</CE_PickupMissingAndDropExcess>
+	<!-- EN: Loaded ammunition -->
+  <CE_StatsReport_LoadedAmmo>TODO</CE_StatsReport_LoadedAmmo>
+	<!-- EN: Does not have enough space in inventory to pickup the required food for taming. -->
+  <CE_InventoryFull_TameFail>TODO</CE_InventoryFull_TameFail>
+	<!-- EN: Drop Undefined -->
+  <CE_LoadOut_DropUndefined>TODO</CE_LoadOut_DropUndefined>
+	<!-- EN: Drop any non-forced items which are not part of the loadout. -->
+  <CE_LoadOut_DropUndefined_Desc>TODO</CE_LoadOut_DropUndefined_Desc>
+	<!-- EN: Ad Hoc -->
+  <CE_LoadOut_AdHoc>TODO</CE_LoadOut_AdHoc>
+	<!-- EN: Automatically include the pawn's equipped weapon and ammo for it if they're not already in the loadout. -->
+  <CE_LoadOut_AdHoc_Desc>TODO</CE_LoadOut_AdHoc_Desc>
+	<!-- EN: Mags -->
+  <CE_LoadOut_Mags>TODO</CE_LoadOut_Mags>
+	<!-- EN: Sets the desired number of magazines to be carried. -->
+  <CE_LoadOut_Mags_Desc>TODO</CE_LoadOut_Mags_Desc>
+	<!-- EN: Limits the max ammo weight to be carried. Limit disabled if set to 0. -->
+  <CE_LoadOut_Weight_Desc>TODO</CE_LoadOut_Weight_Desc>
+	<!-- EN: Limits the max ammo bulk to be carried. Limit disabled if set to 0. -->
+  <CE_LoadOut_Bulk_Desc>TODO</CE_LoadOut_Bulk_Desc>
+	
 
 </LanguageData>

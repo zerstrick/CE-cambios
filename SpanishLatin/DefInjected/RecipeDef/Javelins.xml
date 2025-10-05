@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_Pilum.label>make pila x5</MakeAmmo_Pilum.label>
-  <MakeAmmo_Pilum.description>Craft 5 pila.</MakeAmmo_Pilum.description>
-  <MakeAmmo_Pilum.jobString>Making pila.</MakeAmmo_Pilum.jobString>
-
-
+  
+  <!-- EN: make pila x5 -->
+  <MakeAmmo_Pilum.label>TODO</MakeAmmo_Pilum.label>
+  <!-- EN: Craft 5 pila. -->
+  <MakeAmmo_Pilum.description>TODO</MakeAmmo_Pilum.description>
+  <!-- EN: Making pila. -->
+  <MakeAmmo_Pilum.jobString>TODO</MakeAmmo_Pilum.jobString>
+  
 </LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 27x145mm Mauser (AP) cartridge x150 -->
+  <MakeAmmo_27x145mmMauser_AP.label>TODO</MakeAmmo_27x145mmMauser_AP.label>
+  <!-- EN: Craft 150 27x145mm Mauser (AP) cartridges. -->
+  <MakeAmmo_27x145mmMauser_AP.description>TODO</MakeAmmo_27x145mmMauser_AP.description>
+  <!-- EN: Making 27x145mm Mauser (AP) cartridges. -->
+  <MakeAmmo_27x145mmMauser_AP.jobString>TODO</MakeAmmo_27x145mmMauser_AP.jobString>
+  
+  <!-- EN: make 27x145mm Mauser (AP-HE) cartridge x150 -->
+  <MakeAmmo_27x145mmMauser_HE.label>TODO</MakeAmmo_27x145mmMauser_HE.label>
+  <!-- EN: Craft 150 27x145mm Mauser (AP-HE) cartridges. -->
+  <MakeAmmo_27x145mmMauser_HE.description>TODO</MakeAmmo_27x145mmMauser_HE.description>
+  <!-- EN: Making 27x145mm Mauser (AP-HE) cartridges. -->
+  <MakeAmmo_27x145mmMauser_HE.jobString>TODO</MakeAmmo_27x145mmMauser_HE.jobString>
+  
+  <!-- EN: make 27x145mm Mauser (AP-I) cartridge x150 -->
+  <MakeAmmo_27x145mmMauser_Incendiary.label>TODO</MakeAmmo_27x145mmMauser_Incendiary.label>
+  <!-- EN: Craft 150 27x145mm Mauser (AP-I) cartridges. -->
+  <MakeAmmo_27x145mmMauser_Incendiary.description>TODO</MakeAmmo_27x145mmMauser_Incendiary.description>
+  <!-- EN: Making 27x145mm Mauser (AP-I) cartridges. -->
+  <MakeAmmo_27x145mmMauser_Incendiary.jobString>TODO</MakeAmmo_27x145mmMauser_Incendiary.jobString>
+  
+  <!-- EN: make 27x145mm Mauser (Sabot) cartridge x150 -->
+  <MakeAmmo_27x145mmMauser_Sabot.label>TODO</MakeAmmo_27x145mmMauser_Sabot.label>
+  <!-- EN: Craft 150 27x145mm Mauser (Sabot) cartridges. -->
+  <MakeAmmo_27x145mmMauser_Sabot.description>TODO</MakeAmmo_27x145mmMauser_Sabot.description>
+  <!-- EN: Making 27x145mm Mauser (Sabot) cartridges. -->
+  <MakeAmmo_27x145mmMauser_Sabot.jobString>TODO</MakeAmmo_27x145mmMauser_Sabot.jobString>
+  
+</LanguageData>

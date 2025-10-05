@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 30x170mm (AP) cartridge x100 -->
+  <MakeAmmo_30x170mm_AP.label>TODO</MakeAmmo_30x170mm_AP.label>
+  <!-- EN: Craft 100 30x170mm (AP) cartridges. -->
+  <MakeAmmo_30x170mm_AP.description>TODO</MakeAmmo_30x170mm_AP.description>
+  <!-- EN: Making 30x170mm (AP) cartridges. -->
+  <MakeAmmo_30x170mm_AP.jobString>TODO</MakeAmmo_30x170mm_AP.jobString>
+  
+  <!-- EN: make 30x170mm (AP-HE) cartridge x200 -->
+  <MakeAmmo_30x170mm_HE.label>TODO</MakeAmmo_30x170mm_HE.label>
+  <!-- EN: Craft 200 30x170mm (AP-HE) cartridges. -->
+  <MakeAmmo_30x170mm_HE.description>TODO</MakeAmmo_30x170mm_HE.description>
+  <!-- EN: Making 30x170mm (AP-HE) cartridges. -->
+  <MakeAmmo_30x170mm_HE.jobString>TODO</MakeAmmo_30x170mm_HE.jobString>
+  
+  <!-- EN: make 30x170mm (AP-I) cartridge x100 -->
+  <MakeAmmo_30x170mm_Incendiary.label>TODO</MakeAmmo_30x170mm_Incendiary.label>
+  <!-- EN: Craft 100 30x170mm (AP-I) cartridges. -->
+  <MakeAmmo_30x170mm_Incendiary.description>TODO</MakeAmmo_30x170mm_Incendiary.description>
+  <!-- EN: Making 30x170mm (AP-I) cartridges. -->
+  <MakeAmmo_30x170mm_Incendiary.jobString>TODO</MakeAmmo_30x170mm_Incendiary.jobString>
+  
+  <!-- EN: make 30x170mm (Sabot) cartridge x100 -->
+  <MakeAmmo_30x170mm_Sabot.label>TODO</MakeAmmo_30x170mm_Sabot.label>
+  <!-- EN: Craft 100 30x170mm (Sabot) cartridges. -->
+  <MakeAmmo_30x170mm_Sabot.description>TODO</MakeAmmo_30x170mm_Sabot.description>
+  <!-- EN: Making 30x170mm (Sabot) cartridges. -->
+  <MakeAmmo_30x170mm_Sabot.jobString>TODO</MakeAmmo_30x170mm_Sabot.jobString>
+  
+</LanguageData>

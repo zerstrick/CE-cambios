@@ -1,10 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Bullet_Dummy.label>dummy bullet</Bullet_Dummy.label>
-
-  <Gun_BinocularsRadio.label>binoculars</Gun_BinocularsRadio.label>
-  <Gun_BinocularsRadio.description>A pair of binoculars and a portable radio. Useful to coordinate artillery strikes.\n\nUsing this on a target will mark it, removing the indirect fire penalty from any artillery pieces targeting it. Additionally, any directed fire will use the aiming accuracy and efficiency of the spotter, rather than the artillery operator to determine final accuracy.</Gun_BinocularsRadio.description>
-
-
+  
+  <!-- EN: dummy bullet -->
+  <Bullet_Dummy.label>TODO</Bullet_Dummy.label>
+  
+  <!-- EN: binoculars -->
+  <Gun_BinocularsRadio.label>TODO</Gun_BinocularsRadio.label>
+  <!-- EN: A pair of binoculars and a portable radio. Useful to coordinate artillery strikes.\n\nUsing this on a target will mark it, removing the indirect fire penalty from any artillery pieces targeting it. Additionally, any directed fire will use the aiming accuracy and efficiency of the spotter, rather than the artillery operator to determine final accuracy. -->
+  <Gun_BinocularsRadio.description>TODO</Gun_BinocularsRadio.description>
+  <!-- EN: Body -->
+  <Gun_BinocularsRadio.tools.Body.label>TODO</Gun_BinocularsRadio.tools.Body.label>
+  <!-- EN: binoculars -->
+  <Gun_BinocularsRadio.verbs.Verb_MarkForArtillery.label>TODO</Gun_BinocularsRadio.verbs.Verb_MarkForArtillery.label>
+  
 </LanguageData>

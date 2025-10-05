@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anti-materiel cartridge (AP) -->
+  <Ammo_AntiMateriel_AP.label>TODO</Ammo_AntiMateriel_AP.label>
+  <!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles. -->
+  <Ammo_AntiMateriel_AP.description>TODO</Ammo_AntiMateriel_AP.description>
+  
+  <!-- EN: anti-materiel cartridge (FMJ) -->
+  <Ammo_AntiMateriel_FMJ.label>TODO</Ammo_AntiMateriel_FMJ.label>
+  <!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles. -->
+  <Ammo_AntiMateriel_FMJ.description>TODO</Ammo_AntiMateriel_FMJ.description>
+  
+  <!-- EN: anti-materiel cartridge (AP-HE) -->
+  <Ammo_AntiMateriel_HE.label>TODO</Ammo_AntiMateriel_HE.label>
+  <!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles. -->
+  <Ammo_AntiMateriel_HE.description>TODO</Ammo_AntiMateriel_HE.description>
+  
+  <!-- EN: anti-materiel cartridge (AP-I) -->
+  <Ammo_AntiMateriel_Incendiary.label>TODO</Ammo_AntiMateriel_Incendiary.label>
+  <!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles. -->
+  <Ammo_AntiMateriel_Incendiary.description>TODO</Ammo_AntiMateriel_Incendiary.description>
+  
+  <!-- EN: anti-materiel cartridge (Sabot) -->
+  <Ammo_AntiMateriel_Sabot.label>TODO</Ammo_AntiMateriel_Sabot.label>
+  <!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles. -->
+  <Ammo_AntiMateriel_Sabot.description>TODO</Ammo_AntiMateriel_Sabot.description>
+  
+</LanguageData>

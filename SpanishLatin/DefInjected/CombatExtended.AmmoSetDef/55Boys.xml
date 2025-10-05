@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_55Boys.label>.55 Boys</AmmoSet_55Boys.label>
-
-
+  
+  <!-- EN: .55 Boys -->
+  <AmmoSet_55Boys.label>TODO</AmmoSet_55Boys.label>
+  
 </LanguageData>

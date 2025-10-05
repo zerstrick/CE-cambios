@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 6.5x52mm Carcano (AP) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_AP.label>TODO</MakeAmmo_65x52mmCarcano_AP.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (AP) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_AP.description>TODO</MakeAmmo_65x52mmCarcano_AP.description>
+  <!-- EN: Making 6.5x52mm Carcano (AP) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_AP.jobString>TODO</MakeAmmo_65x52mmCarcano_AP.jobString>
+  
+  <!-- EN: make 6.5x52mm Carcano (FMJ) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_FMJ.label>TODO</MakeAmmo_65x52mmCarcano_FMJ.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (FMJ) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_FMJ.description>TODO</MakeAmmo_65x52mmCarcano_FMJ.description>
+  <!-- EN: Making 6.5x52mm Carcano (FMJ) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_FMJ.jobString>TODO</MakeAmmo_65x52mmCarcano_FMJ.jobString>
+  
+  <!-- EN: make 6.5x52mm Carcano (AP-HE) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_HE.label>TODO</MakeAmmo_65x52mmCarcano_HE.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (AP-HE) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_HE.description>TODO</MakeAmmo_65x52mmCarcano_HE.description>
+  <!-- EN: Making 6.5x52mm Carcano (AP-HE) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_HE.jobString>TODO</MakeAmmo_65x52mmCarcano_HE.jobString>
+  
+  <!-- EN: make 6.5x52mm Carcano (HP) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_HP.label>TODO</MakeAmmo_65x52mmCarcano_HP.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (HP) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_HP.description>TODO</MakeAmmo_65x52mmCarcano_HP.description>
+  <!-- EN: Making 6.5x52mm Carcano (HP) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_HP.jobString>TODO</MakeAmmo_65x52mmCarcano_HP.jobString>
+  
+  <!-- EN: make 6.5x52mm Carcano (AP-I) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_Incendiary.label>TODO</MakeAmmo_65x52mmCarcano_Incendiary.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (AP-I) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_Incendiary.description>TODO</MakeAmmo_65x52mmCarcano_Incendiary.description>
+  <!-- EN: Making 6.5x52mm Carcano (AP-I) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_Incendiary.jobString>TODO</MakeAmmo_65x52mmCarcano_Incendiary.jobString>
+  
+  <!-- EN: make 6.5x52mm Carcano (Sabot) cartridge x500 -->
+  <MakeAmmo_65x52mmCarcano_Sabot.label>TODO</MakeAmmo_65x52mmCarcano_Sabot.label>
+  <!-- EN: Craft 500 6.5x52mm Carcano (Sabot) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_Sabot.description>TODO</MakeAmmo_65x52mmCarcano_Sabot.description>
+  <!-- EN: Making 6.5x52mm Carcano (Sabot) cartridges. -->
+  <MakeAmmo_65x52mmCarcano_Sabot.jobString>TODO</MakeAmmo_65x52mmCarcano_Sabot.jobString>
+  
+</LanguageData>

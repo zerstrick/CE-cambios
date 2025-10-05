@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heavy charged cartridge -->
+  <Ammo_HeavyCharged.label>TODO</Ammo_HeavyCharged.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+  <Ammo_HeavyCharged.description>TODO</Ammo_HeavyCharged.description>
+  
+  <!-- EN: Heavy charged cartridge (Conc.) -->
+  <Ammo_HeavyCharged_AP.label>TODO</Ammo_HeavyCharged_AP.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+  <Ammo_HeavyCharged_AP.description>TODO</Ammo_HeavyCharged_AP.description>
+  
+  <!-- EN: Heavy charged cartridge (Ion) -->
+  <Ammo_HeavyCharged_Ion.label>TODO</Ammo_HeavyCharged_Ion.label>
+  <!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+  <Ammo_HeavyCharged_Ion.description>TODO</Ammo_HeavyCharged_Ion.description>
+  
+  <!-- EN: Charged pistol cartridge -->
+  <Ammo_PistolCharged.label>TODO</Ammo_PistolCharged.label>
+  <!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+  <Ammo_PistolCharged.description>TODO</Ammo_PistolCharged.description>
+  
+  <!-- EN: Charged pistol (Conc.) -->
+  <Ammo_PistolCharged_AP.label>TODO</Ammo_PistolCharged_AP.label>
+  <!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+  <Ammo_PistolCharged_AP.description>TODO</Ammo_PistolCharged_AP.description>
+  
+  <!-- EN: Charged pistol cartridge (Ion) -->
+  <Ammo_PistolCharged_Ion.label>TODO</Ammo_PistolCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+  <Ammo_PistolCharged_Ion.description>TODO</Ammo_PistolCharged_Ion.description>
+  
+  <!-- EN: Charged rifle cartridge -->
+  <Ammo_RifleCharged.label>TODO</Ammo_RifleCharged.label>
+  <!-- EN: Charged shot ammo used by advanced rifle designs. -->
+  <Ammo_RifleCharged.description>TODO</Ammo_RifleCharged.description>
+  
+  <!-- EN: Charged rifle cartridge (Conc.) -->
+  <Ammo_RifleCharged_AP.label>TODO</Ammo_RifleCharged_AP.label>
+  <!-- EN: Charged shot ammo used by advanced rifle designs. -->
+  <Ammo_RifleCharged_AP.description>TODO</Ammo_RifleCharged_AP.description>
+  
+  <!-- EN: Charged rifle cartridge (Ion) -->
+  <Ammo_RifleCharged_Ion.label>TODO</Ammo_RifleCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by advanced rifle designs. -->
+  <Ammo_RifleCharged_Ion.description>TODO</Ammo_RifleCharged_Ion.description>
+  
+  <!-- EN: Charged shotgun shell -->
+  <Ammo_ShotgunCharged.label>TODO</Ammo_ShotgunCharged.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_ShotgunCharged.description>TODO</Ammo_ShotgunCharged.description>
+  
+  <!-- EN: Charged shotgun shell (Ion Shot) -->
+  <Ammo_ShotgunCharged_Ion.label>TODO</Ammo_ShotgunCharged_Ion.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_ShotgunCharged_Ion.description>TODO</Ammo_ShotgunCharged_Ion.description>
+  
+  <!-- EN: Charged shotgun shell (Slug) -->
+  <Ammo_ShotgunCharged_Slug.label>TODO</Ammo_ShotgunCharged_Slug.label>
+  <!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+  <Ammo_ShotgunCharged_Slug.description>TODO</Ammo_ShotgunCharged_Slug.description>
+  
+</LanguageData>

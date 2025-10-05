@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 27x145mm Mauser (AP) -->
+  <Ammo_27x145mmMauser_AP.label>TODO</Ammo_27x145mmMauser_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_27x145mmMauser_AP.description>TODO</Ammo_27x145mmMauser_AP.description>
+  
+  <!-- EN: 27x145mm Mauser (AP-HE) -->
+  <Ammo_27x145mmMauser_HE.label>TODO</Ammo_27x145mmMauser_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_27x145mmMauser_HE.description>TODO</Ammo_27x145mmMauser_HE.description>
+  
+  <!-- EN: 27x145mm Mauser (AP-I) -->
+  <Ammo_27x145mmMauser_Incendiary.label>TODO</Ammo_27x145mmMauser_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_27x145mmMauser_Incendiary.description>TODO</Ammo_27x145mmMauser_Incendiary.description>
+  
+  <!-- EN: 27x145mm Mauser (Sabot) -->
+  <Ammo_27x145mmMauser_Sabot.label>TODO</Ammo_27x145mmMauser_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_27x145mmMauser_Sabot.description>TODO</Ammo_27x145mmMauser_Sabot.description>
+  
+  <!-- EN: 27x145mm Mauser bullet (AP) -->
+  <Bullet_27x145mmMauser_AP.label>TODO</Bullet_27x145mmMauser_AP.label>
+  
+  <!-- EN: 27x145mm Mauser bullet (AP-HE) -->
+  <Bullet_27x145mmMauser_HE.label>TODO</Bullet_27x145mmMauser_HE.label>
+  
+  <!-- EN: 27x145mm Mauser bullet (AP-I) -->
+  <Bullet_27x145mmMauser_Incendiary.label>TODO</Bullet_27x145mmMauser_Incendiary.label>
+  
+  <!-- EN: 27x145mm Mauser bullet (Sabot) -->
+  <Bullet_27x145mmMauser_Sabot.label>TODO</Bullet_27x145mmMauser_Sabot.label>
+  
+</LanguageData>

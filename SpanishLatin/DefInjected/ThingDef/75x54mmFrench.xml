@@ -1,35 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_75x54mmFrench_FMJ.label>7.5x54mm French cartridge (FMJ)</Ammo_75x54mmFrench_FMJ.label>
-  <Ammo_75x54mmFrench_FMJ.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_FMJ.description>
-
-  <Ammo_75x54mmFrench_AP.label>7.5x54mm French cartridge (AP)</Ammo_75x54mmFrench_AP.label>
-  <Ammo_75x54mmFrench_AP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_AP.description>
-
-  <Ammo_75x54mmFrench_HP.label>7.5x54mm French cartridge (HP)</Ammo_75x54mmFrench_HP.label>
-  <Ammo_75x54mmFrench_HP.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HP.description>
-
-  <Ammo_75x54mmFrench_Incendiary.label>7.5x54mm French cartridge (AP-I)</Ammo_75x54mmFrench_Incendiary.label>
-  <Ammo_75x54mmFrench_Incendiary.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Incendiary.description>
-
-  <Ammo_75x54mmFrench_HE.label>7.5x54mm French cartridge (HE)</Ammo_75x54mmFrench_HE.label>
-  <Ammo_75x54mmFrench_HE.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_HE.description>
-
-  <Ammo_75x54mmFrench_Sabot.label>7.5x54mm French cartridge (Sabot)</Ammo_75x54mmFrench_Sabot.label>
-  <Ammo_75x54mmFrench_Sabot.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_75x54mmFrench_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_75x54mmFrench_FMJ.label>7.5mm French bullet (FMJ)</Bullet_75x54mmFrench_FMJ.label>
-  <Bullet_75x54mmFrench_AP.label>7.5mm French bullet (AP)</Bullet_75x54mmFrench_AP.label>
-  <Bullet_75x54mmFrench_HP.label>7.5mm French bullet (HP)</Bullet_75x54mmFrench_HP.label>
-  <Bullet_75x54mmFrench_Incendiary.label>7.5mm French bullet (AP-I)</Bullet_75x54mmFrench_Incendiary.label>
-  <Bullet_75x54mmFrench_HE.label>7.5mm French bullet (HE)</Bullet_75x54mmFrench_HE.label>
-  <Bullet_75x54mmFrench_Sabot.label>7.5mm French bullet (Sabot)</Bullet_75x54mmFrench_Sabot.label>
-
-
+  
+  <!-- EN: 7.5x54mm French (AP) -->
+  <Ammo_75x54mmFrench_AP.label>TODO</Ammo_75x54mmFrench_AP.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_AP.description>TODO</Ammo_75x54mmFrench_AP.description>
+  
+  <!-- EN: 7.5x54mm French (FMJ) -->
+  <Ammo_75x54mmFrench_FMJ.label>TODO</Ammo_75x54mmFrench_FMJ.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_FMJ.description>TODO</Ammo_75x54mmFrench_FMJ.description>
+  
+  <!-- EN: 7.5x54mm French (AP-HE) -->
+  <Ammo_75x54mmFrench_HE.label>TODO</Ammo_75x54mmFrench_HE.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_HE.description>TODO</Ammo_75x54mmFrench_HE.description>
+  
+  <!-- EN: 7.5x54mm French (HP) -->
+  <Ammo_75x54mmFrench_HP.label>TODO</Ammo_75x54mmFrench_HP.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_HP.description>TODO</Ammo_75x54mmFrench_HP.description>
+  
+  <!-- EN: 7.5x54mm French (AP-I) -->
+  <Ammo_75x54mmFrench_Incendiary.label>TODO</Ammo_75x54mmFrench_Incendiary.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_Incendiary.description>TODO</Ammo_75x54mmFrench_Incendiary.description>
+  
+  <!-- EN: 7.5x54mm French (Sabot) -->
+  <Ammo_75x54mmFrench_Sabot.label>TODO</Ammo_75x54mmFrench_Sabot.label>
+  <!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+  <Ammo_75x54mmFrench_Sabot.description>TODO</Ammo_75x54mmFrench_Sabot.description>
+  
+  <!-- EN: 7.5mm French bullet (AP) -->
+  <Bullet_75x54mmFrench_AP.label>TODO</Bullet_75x54mmFrench_AP.label>
+  
+  <!-- EN: 7.5mm French bullet (FMJ) -->
+  <Bullet_75x54mmFrench_FMJ.label>TODO</Bullet_75x54mmFrench_FMJ.label>
+  
+  <!-- EN: 7.5mm French bullet (AP-HE) -->
+  <Bullet_75x54mmFrench_HE.label>TODO</Bullet_75x54mmFrench_HE.label>
+  
+  <!-- EN: 7.5mm French bullet (HP) -->
+  <Bullet_75x54mmFrench_HP.label>TODO</Bullet_75x54mmFrench_HP.label>
+  
+  <!-- EN: 7.5mm French bullet (AP-I) -->
+  <Bullet_75x54mmFrench_Incendiary.label>TODO</Bullet_75x54mmFrench_Incendiary.label>
+  
+  <!-- EN: 7.5mm French bullet (Sabot) -->
+  <Bullet_75x54mmFrench_Sabot.label>TODO</Bullet_75x54mmFrench_Sabot.label>
+  
 </LanguageData>

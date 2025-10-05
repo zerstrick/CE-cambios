@@ -1,35 +1,88 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_762x51mmNATO_FMJ.label>7.62x51mm NATO cartridge (FMJ)</Ammo_762x51mmNATO_FMJ.label>
-  <Ammo_762x51mmNATO_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_FMJ.description>
-
-  <Ammo_762x51mmNATO_AP.label>7.62x51mm NATO cartridge (AP)</Ammo_762x51mmNATO_AP.label>
-  <Ammo_762x51mmNATO_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_AP.description>
-
-  <Ammo_762x51mmNATO_HP.label>7.62x51mm NATO cartridge (HP)</Ammo_762x51mmNATO_HP.label>
-  <Ammo_762x51mmNATO_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HP.description>
-
-  <Ammo_762x51mmNATO_Incendiary.label>7.62x51mm NATO cartridge (AP-I)</Ammo_762x51mmNATO_Incendiary.label>
-  <Ammo_762x51mmNATO_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Incendiary.description>
-
-  <Ammo_762x51mmNATO_HE.label>7.62x51mm NATO cartridge (HE)</Ammo_762x51mmNATO_HE.label>
-  <Ammo_762x51mmNATO_HE.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HE.description>
-
-  <Ammo_762x51mmNATO_Sabot.label>7.62x51mm NATO cartridge (Sabot)</Ammo_762x51mmNATO_Sabot.label>
-  <Ammo_762x51mmNATO_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_762x51mmNATO_FMJ.label>7.62mm NATO bullet (FMJ)</Bullet_762x51mmNATO_FMJ.label>
-  <Bullet_762x51mmNATO_AP.label>7.62mm NATO bullet (AP)</Bullet_762x51mmNATO_AP.label>
-  <Bullet_762x51mmNATO_HP.label>7.62mm NATO bullet (HP)</Bullet_762x51mmNATO_HP.label>
-  <Bullet_762x51mmNATO_Incendiary.label>7.62mm NATO bullet (AP-I)</Bullet_762x51mmNATO_Incendiary.label>
-  <Bullet_762x51mmNATO_HE.label>7.62mm NATO bullet (HE)</Bullet_762x51mmNATO_HE.label>
-  <Bullet_762x51mmNATO_Sabot.label>7.62mm NATO bullet (Sabot)</Bullet_762x51mmNATO_Sabot.label>
-
-
+  
+  <!-- EN: 7.62x51mm NATO (AP) -->
+  <Ammo_762x51mmNATO_AP.label>TODO</Ammo_762x51mmNATO_AP.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nArmor-piercing:
+\nFeatures a hardened steel penetrator core for increased armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_AP.description>TODO</Ammo_762x51mmNATO_AP.description>
+  
+  <!-- EN: 7.62x51mm NATO (FMJ) -->
+  <Ammo_762x51mmNATO_FMJ.label>TODO</Ammo_762x51mmNATO_FMJ.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nFull metal jacket:
+\nThe soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_FMJ.description>TODO</Ammo_762x51mmNATO_FMJ.description>
+  
+  <!-- EN: 7.62x51mm NATO (AP-HE) -->
+  <Ammo_762x51mmNATO_HE.label>TODO</Ammo_762x51mmNATO_HE.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nArmor-piercing high-explosive:
+\nFilled with high-explosives that detonate on impact for additional damage.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_HE.description>TODO</Ammo_762x51mmNATO_HE.description>
+  
+  <!-- EN: 7.62x51mm NATO (HP) -->
+  <Ammo_762x51mmNATO_HP.label>TODO</Ammo_762x51mmNATO_HP.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nHollow point:
+\nA hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_HP.description>TODO</Ammo_762x51mmNATO_HP.description>
+  
+  <!-- EN: 7.62x51mm NATO (AP-I) -->
+  <Ammo_762x51mmNATO_Incendiary.label>TODO</Ammo_762x51mmNATO_Incendiary.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nArmor-piercing incendiary:
+\nFilled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_Incendiary.description>TODO</Ammo_762x51mmNATO_Incendiary.description>
+  
+  <!-- EN: 7.62x51mm NATO (Sabot) -->
+  <Ammo_762x51mmNATO_Sabot.label>TODO</Ammo_762x51mmNATO_Sabot.label>
+  <!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.
+\n\nArmor-piercing discarding sabot:
+\nUses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_762x51mmNATO_Sabot.description>TODO</Ammo_762x51mmNATO_Sabot.description>
+  
+  <!-- EN: 7.62mm NATO bullet (AP) -->
+  <Bullet_762x51mmNATO_AP.label>TODO</Bullet_762x51mmNATO_AP.label>
+  
+  <!-- EN: 7.62mm NATO bullet (AP) -->
+  <Bullet_762x51mmNATO_AP_SB.label>TODO</Bullet_762x51mmNATO_AP_SB.label>
+  
+  <!-- EN: 7.62mm NATO bullet (FMJ) -->
+  <Bullet_762x51mmNATO_FMJ.label>TODO</Bullet_762x51mmNATO_FMJ.label>
+  
+  <!-- EN: 7.62mm NATO bullet (FMJ) -->
+  <Bullet_762x51mmNATO_FMJ_SB.label>TODO</Bullet_762x51mmNATO_FMJ_SB.label>
+  
+  <!-- EN: 7.62mm NATO bullet (AP-HE) -->
+  <Bullet_762x51mmNATO_HE.label>TODO</Bullet_762x51mmNATO_HE.label>
+  
+  <!-- EN: 7.62mm NATO bullet (AP-HE) -->
+  <Bullet_762x51mmNATO_HE_SB.label>TODO</Bullet_762x51mmNATO_HE_SB.label>
+  
+  <!-- EN: 7.62mm NATO bullet (HP) -->
+  <Bullet_762x51mmNATO_HP.label>TODO</Bullet_762x51mmNATO_HP.label>
+  
+  <!-- EN: 7.62mm NATO bullet (HP) -->
+  <Bullet_762x51mmNATO_HP_SB.label>TODO</Bullet_762x51mmNATO_HP_SB.label>
+  
+  <!-- EN: 7.62mm NATO bullet (AP-I) -->
+  <Bullet_762x51mmNATO_Incendiary.label>TODO</Bullet_762x51mmNATO_Incendiary.label>
+  
+  <!-- EN: 7.62mm NATO bullet (AP-I) -->
+  <Bullet_762x51mmNATO_Incendiary_SB.label>TODO</Bullet_762x51mmNATO_Incendiary_SB.label>
+  
+  <!-- EN: 7.62mm NATO bullet (Sabot) -->
+  <Bullet_762x51mmNATO_Sabot.label>TODO</Bullet_762x51mmNATO_Sabot.label>
+  
+  <!-- EN: 7.62mm NATO bullet (Sabot) -->
+  <Bullet_762x51mmNATO_Sabot_SB.label>TODO</Bullet_762x51mmNATO_Sabot_SB.label>
+  
 </LanguageData>

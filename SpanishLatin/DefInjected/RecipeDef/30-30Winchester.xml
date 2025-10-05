@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make .30-30 Winchester cartridge (AP) cartridge x500 -->
+  <MakeAmmo_3030Winchester_AP.label>TODO</MakeAmmo_3030Winchester_AP.label>
+  <!-- EN: Craft 500 .30-30 Winchester cartridge (AP) cartridges. -->
+  <MakeAmmo_3030Winchester_AP.description>TODO</MakeAmmo_3030Winchester_AP.description>
+  <!-- EN: Making .30-30 Winchester cartridge (AP) cartridges. -->
+  <MakeAmmo_3030Winchester_AP.jobString>TODO</MakeAmmo_3030Winchester_AP.jobString>
+  
+  <!-- EN: make .30-30 Winchester cartridge (FMJ) cartridge x400 -->
+  <MakeAmmo_3030Winchester_FMJ.label>TODO</MakeAmmo_3030Winchester_FMJ.label>
+  <!-- EN: Craft 500 .30-30 Winchester cartridge (FMJ) cartridges. -->
+  <MakeAmmo_3030Winchester_FMJ.description>TODO</MakeAmmo_3030Winchester_FMJ.description>
+  <!-- EN: Making .30-30 Winchester cartridge (FMJ) cartridges. -->
+  <MakeAmmo_3030Winchester_FMJ.jobString>TODO</MakeAmmo_3030Winchester_FMJ.jobString>
+  
+  <!-- EN: make .30-30 Winchester (AP-HE) cartridge x500 -->
+  <MakeAmmo_3030Winchester_HE.label>TODO</MakeAmmo_3030Winchester_HE.label>
+  <!-- EN: Craft 500 .30-30 Winchester (AP-HE) cartridges. -->
+  <MakeAmmo_3030Winchester_HE.description>TODO</MakeAmmo_3030Winchester_HE.description>
+  <!-- EN: Making .30-30 Winchester (AP-HE) cartridges. -->
+  <MakeAmmo_3030Winchester_HE.jobString>TODO</MakeAmmo_3030Winchester_HE.jobString>
+  
+  <!-- EN: make .30-30 Winchester cartridge (HP) cartridge x500 -->
+  <MakeAmmo_3030Winchester_HP.label>TODO</MakeAmmo_3030Winchester_HP.label>
+  <!-- EN: Craft 500 .30-30 Winchester cartridge (HP) cartridges. -->
+  <MakeAmmo_3030Winchester_HP.description>TODO</MakeAmmo_3030Winchester_HP.description>
+  <!-- EN: Making .30-30 Winchester cartridge (HP) cartridges. -->
+  <MakeAmmo_3030Winchester_HP.jobString>TODO</MakeAmmo_3030Winchester_HP.jobString>
+  
+  <!-- EN: make .30-30 Winchester (AP-I) cartridge x500 -->
+  <MakeAmmo_3030Winchester_Incendiary.label>TODO</MakeAmmo_3030Winchester_Incendiary.label>
+  <!-- EN: Craft 500 .30-30 Winchester (AP-I) cartridges. -->
+  <MakeAmmo_3030Winchester_Incendiary.description>TODO</MakeAmmo_3030Winchester_Incendiary.description>
+  <!-- EN: Making .30-30 Winchester (AP-I) cartridges. -->
+  <MakeAmmo_3030Winchester_Incendiary.jobString>TODO</MakeAmmo_3030Winchester_Incendiary.jobString>
+  
+  <!-- EN: make .30-30 Winchester (Sabot) cartridge x500 -->
+  <MakeAmmo_3030Winchester_Sabot.label>TODO</MakeAmmo_3030Winchester_Sabot.label>
+  <!-- EN: Craft 500 .30-30 Winchester (Sabot) cartridges. -->
+  <MakeAmmo_3030Winchester_Sabot.description>TODO</MakeAmmo_3030Winchester_Sabot.description>
+  <!-- EN: Making .30-30 Winchester (Sabot) cartridges. -->
+  <MakeAmmo_3030Winchester_Sabot.jobString>TODO</MakeAmmo_3030Winchester_Sabot.jobString>
+  
+</LanguageData>

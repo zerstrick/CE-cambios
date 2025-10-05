@@ -1,59 +1,168 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Charged.label>charge</Charged.label>
-  <Charged.description>The charged particle coating disrupts armor and tissue in equal measure.</Charged.description>
-
-  <ChargedAP.label>concentrated charge</ChargedAP.label>
-  <ChargedAP.labelShort>conc.</ChargedAP.labelShort>
-  <ChargedAP.description>Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power.</ChargedAP.description>
-
-  <Ionized.label>ion charge</Ionized.label>
-  <Ionized.labelShort>ion</Ionized.labelShort>
-  <Ionized.description>Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily.</Ionized.description>
-
-  <IncendiaryFuel.label>incendiary</IncendiaryFuel.label>
-  <IncendiaryFuel.description>Filled with incendiary agent that ignites after impact.</IncendiaryFuel.description>
-
-  <NapalmFuel.label>jellied chemfuel</NapalmFuel.label>
-  <NapalmFuel.description>Highly flammable liquid, burns over time and catches nearby objects on fire.</NapalmFuel.description>
-
-  <JelliedPrometheumFuel.label>jellied prometheum</JelliedPrometheumFuel.label>
-  <JelliedPrometheumFuel.description>Advanced pyrophoric compound in gel-form. Self-ignites on contact with air, sticks to skin and seeps into openings, burning even mechanoids.</JelliedPrometheumFuel.description>
-
-  <ThermobaricFuel.label>thermobaric</ThermobaricFuel.label>
-  <ThermobaricFuel.description>Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials.</ThermobaricFuel.description>
-
-  <FoamFuel.label>foam</FoamFuel.label>
-  <FoamFuel.description>Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area.</FoamFuel.description>
-
-  <Antigrain.label>antigrain warhead</Antigrain.label>
-  <Antigrain.description>A tiny ultra-tech warhead usually used by spacecraft or glitterworld war machines. Powered by a grain of antimatter, it creates a huge explosion and starts fires around the target.</Antigrain.description>
-
-
-  <!-- For Vanilla-Friendly Weapons Expansion -->
-
-  <RadiationIonising.label>radioactive (ionising)</RadiationIonising.label>
-  <RadiationIonising.labelShort>stone</RadiationIonising.labelShort>
-  <RadiationIonising.description>Contains ionising gamma radiation that significantly impairs consciousness, and is a carcinogen.</RadiationIonising.description>
-
-
-  <!-- For Forsakens -->
-
-  <ForsakenArrow.label>forsaken arrow</ForsakenArrow.label>
-  <ForsakenArrow.labelShort>forsaken</ForsakenArrow.labelShort>
-  <ForsakenArrow.description>Designed to be fired from a forsaken bow.</ForsakenArrow.description>
-
-
-  <!-- For Glitter Tech -->
-
-  <Plasma.label>Plasma</Plasma.label>
-  <Plasma.labelShort>plasma</Plasma.labelShort>
-  <Plasma.description>Highly-energized ionized gas capable of devastating burn effects.</Plasma.description>
-
-  <RailgunSabot.label>Railgun sabot</RailgunSabot.label>
-  <RailgunSabot.labelShort>Sabot</RailgunSabot.labelShort>
-  <RailgunSabot.description>Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.</RailgunSabot.description>
-
-
+  
+  <!-- EN: antigrain warhead -->
+  <Antigrain.label>TODO</Antigrain.label>
+  <!-- EN: A tiny ultra-tech warhead usually used by spacecraft or glitterworld war machines. Powered by a grain of antimatter, it creates a huge explosion and starts fires around the target. -->
+  <Antigrain.description>TODO</Antigrain.description>
+  
+  <!-- EN: bioferrite -->
+  <Bioferrite.label>TODO</Bioferrite.label>
+  <!-- EN: An infusion of crystalline bioferrite attacks organic matter on a cellular level, disrupting regeneration and weakening tisue. -->
+  <Bioferrite.description>TODO</Bioferrite.description>
+  
+  <!-- EN: concentrated tibanna -->
+  <BlasterAP.label>TODO</BlasterAP.label>
+  <!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. Spun to a higher pressure to create bolts with improved penetration, at the loss of wounding potential. -->
+  <BlasterAP.description>TODO</BlasterAP.description>
+  
+  <!-- EN: ionized tibanna -->
+  <BlasterIonized.label>TODO</BlasterIonized.label>
+  <!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. Ionized during the firing process to cause extra damage to droids and mechanoids, at the cost of reduced lethality against organics. -->
+  <BlasterIonized.description>TODO</BlasterIonized.description>
+  
+  <!-- EN: blaster -->
+  <BlasterStandard.label>TODO</BlasterStandard.label>
+  <!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. -->
+  <BlasterStandard.description>TODO</BlasterStandard.description>
+  
+  <!-- EN: stun -->
+  <BlasterStun.label>TODO</BlasterStun.label>
+  <!-- EN: Low-energy bolts created with tibanna gas. Temporarily stuns and incapacitates the target. -->
+  <BlasterStun.description>TODO</BlasterStun.description>
+  
+  <!-- EN: charge -->
+  <Charged.label>TODO</Charged.label>
+  <!-- EN: The charged particle coating disrupts armor and tissue in equal measure. -->
+  <Charged.description>TODO</Charged.description>
+  
+  <!-- EN: concentrated charge -->
+  <ChargedAP.label>TODO</ChargedAP.label>
+  <!-- EN: Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power. -->
+  <ChargedAP.description>TODO</ChargedAP.description>
+  
+  <!-- EN: foam -->
+  <FoamFuel.label>TODO</FoamFuel.label>
+  <!-- EN: Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area. -->
+  <FoamFuel.description>TODO</FoamFuel.description>
+  
+  <!-- EN: forsaken arrow -->
+  <ForsakenArrow.label>TODO</ForsakenArrow.label>
+  <!-- EN: Designed to be fired from a forsaken bow. -->
+  <ForsakenArrow.description>TODO</ForsakenArrow.description>
+  
+  <!-- EN: incendiary -->
+  <IncendiaryFuel.label>TODO</IncendiaryFuel.label>
+  <!-- EN: Filled with incendiary agent that ignites after impact. -->
+  <IncendiaryFuel.description>TODO</IncendiaryFuel.description>
+  
+  <!-- EN: Inferno -->
+  <Inferno.label>TODO</Inferno.label>
+  <!-- EN: A gyro-stabilized projectile equipped with the explosive filler replaced with sticky, highly flammable prometheum. -->
+  <Inferno.description>TODO</Inferno.description>
+  
+  <!-- EN: ion charge -->
+  <Ionized.label>TODO</Ionized.label>
+  <!-- EN: Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily. -->
+  <Ionized.description>TODO</Ionized.description>
+  
+  <!-- EN: jellied prometheum -->
+  <JelliedPrometheumFuel.label>TODO</JelliedPrometheumFuel.label>
+  <!-- EN: Advanced pyrophoric compound in gel-form. Self-ignites on contact with air, sticks to skin and seeps into openings, burning even mechanoids. -->
+  <JelliedPrometheumFuel.description>TODO</JelliedPrometheumFuel.description>
+  
+  <!-- EN: Kraken -->
+  <Kraken.label>TODO</Kraken.label>
+  <!-- EN: A gyro-stabilized projectile with hardened penetrator and explosive 'kicker' charge, designed to punch through heavy armor. -->
+  <Kraken.description>TODO</Kraken.description>
+  
+  <!-- EN: laser -->
+  <Laser.label>TODO</Laser.label>
+  <!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
+  <Laser.description>TODO</Laser.description>
+  
+  <!-- EN: laser (mech) -->
+  <Laser_Mech.label>TODO</Laser_Mech.label>
+  <!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
+  <Laser_Mech.description>TODO</Laser_Mech.description>
+  
+  <!-- EN: Melta -->
+  <Melta.label>TODO</Melta.label>
+  <!-- EN: A concentrated beam of scorching plasma, capable of reducing even the heaviest of armor to molten slag. -->
+  <Melta.description>TODO</Melta.description>
+  
+  <!-- EN: Metal Storm -->
+  <MetalStorm.label>TODO</MetalStorm.label>
+  <!-- EN: A gyro-stabilized equipped with a proximity fuse, designed to shower lighly armored targets with a devestating shower of fragmention when it detonates. -->
+  <MetalStorm.description>TODO</MetalStorm.description>
+  <!-- EN: Metal Storm -->
+  <MetalStorm.labelShort>TODO</MetalStorm.labelShort>
+  
+  <!-- EN: armor-piercing high-explosive fragmentation -->
+  <MiniRocketAPHEF.label>TODO</MiniRocketAPHEF.label>
+  <!-- EN: Rocket-assisted fin-stabilized explosive projectiles that penetrate, then explode. Deadly against hard and soft targets alike, with secondary fragmentation over a wide area. -->
+  <MiniRocketAPHEF.description>TODO</MiniRocketAPHEF.description>
+  
+  <!-- EN: armor-piercing electromagnetized -->
+  <MiniRocketEMP.label>TODO</MiniRocketEMP.label>
+  <!-- EN: Rocket-assisted fin-stabilized electromagnetically-cored projectiles that penetrate, then overwhelm the target's electronics with a concentrated electromagnetic pulse. Devastating against robotic targets and energy shields. -->
+  <MiniRocketEMP.description>TODO</MiniRocketEMP.description>
+  
+  <!-- EN: high-explosive incendiary -->
+  <MiniRocketIncendiary.label>TODO</MiniRocketIncendiary.label>
+  <!-- EN: Rocket-assisted fin-stabilized explosive projectiles that penetrate, then explode in an incendiary fireball. -->
+  <MiniRocketIncendiary.description>TODO</MiniRocketIncendiary.description>
+  
+  <!-- EN: heavy armor-piercing -->
+  <MiniRocketPierce.label>TODO</MiniRocketPierce.label>
+  <!-- EN: Rocket-assisted fin-stabilized projectiles that penetrate, with no secondary explosion. For situations where splash damage is undesirable. -->
+  <MiniRocketPierce.description>TODO</MiniRocketPierce.description>
+  <!-- EN: heavy ap -->
+  <MiniRocketPierce.labelShort>TODO</MiniRocketPierce.labelShort>
+  
+  <!-- EN: nanobots (MT) -->
+  <NanobotsMT.label>TODO</NanobotsMT.label>
+  <!-- EN: The nanobots inside this projectile will create a micro-turret near the place of impact. -->
+  <NanobotsMT.description>TODO</NanobotsMT.description>
+  
+  <!-- EN: jellied chemfuel -->
+  <NapalmFuel.label>TODO</NapalmFuel.label>
+  <!-- EN: Highly flammable liquid, burns over time and catches nearby objects on fire. -->
+  <NapalmFuel.description>TODO</NapalmFuel.description>
+  
+  <!-- EN: Plasma -->
+  <Plasma.label>TODO</Plasma.label>
+  <!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
+  <Plasma.description>TODO</Plasma.description>
+  
+  <!-- EN: radiation -->
+  <RadiationIonising.label>TODO</RadiationIonising.label>
+  <!-- EN: Contains ionising gamma radiation that significantly impairs consciousness, and is a carcinogen. -->
+  <RadiationIonising.description>TODO</RadiationIonising.description>
+  
+  <!-- EN: Railgun sabot -->
+  <RailgunSabot.label>TODO</RailgunSabot.label>
+  <!-- EN: Uses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+  <RailgunSabot.description>TODO</RailgunSabot.description>
+  
+  <!-- EN: Standard -->
+  <Standard.label>TODO</Standard.label>
+  <!-- EN: A gyro-stabilized projectile equipped with a hardened tip for penetrating armor and laden with a small explosive charge. -->
+  <Standard.description>TODO</Standard.description>
+  
+  <!-- EN: hi-energy plasma charge -->
+  <SWRocketPlasma.label>TODO</SWRocketPlasma.label>
+  <!-- EN: A compressed plasma charge produces a powerful armour-penetrating explosion, along with a concentrated secondary blast. Lacks fragmentation effects, unlike earlier warhead designs, limiting effective radius. -->
+  <SWRocketPlasma.description>TODO</SWRocketPlasma.description>
+  
+  <!-- EN: Tempest -->
+  <Tempest.label>TODO</Tempest.label>
+  <!-- EN: A gyro-stabilized projectile carrying a plasma shock generator that is effective against machines. -->
+  <Tempest.description>TODO</Tempest.description>
+  
+  <!-- EN: thermobaric -->
+  <ThermobaricFuel.label>TODO</ThermobaricFuel.label>
+  <!-- EN: Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials. -->
+  <ThermobaricFuel.description>TODO</ThermobaricFuel.description>
+  
 </LanguageData>

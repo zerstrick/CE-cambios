@@ -1,14 +1,34 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Apparel_TacVest.label>tactical vest</Apparel_TacVest.label>
-  <Apparel_TacVest.description>A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear.</Apparel_TacVest.description>
-
-  <Apparel_Backpack.label>backpack</Apparel_Backpack.label>
-  <Apparel_Backpack.description>A comfortable and spacious backpack for storing all kinds of items.</Apparel_Backpack.description>
-
-  <Apparel_TribalBackpack.label>tribal backpack</Apparel_TribalBackpack.label>
-  <Apparel_TribalBackpack.description>Primitive backpack made from animal furs, useful for storing items when travelling.</Apparel_TribalBackpack.description>
-
-
+  
+  <!-- EN: backpack -->
+  <CE_Apparel_Backpack.label>TODO</CE_Apparel_Backpack.label>
+  <!-- EN: A comfortable and spacious backpack for storing all kinds of items. -->
+  <CE_Apparel_Backpack.description>TODO</CE_Apparel_Backpack.description>
+  
+  <!-- EN: powered exoframe -->
+  <CE_Apparel_ExoFrame.label>TODO</CE_Apparel_ExoFrame.label>
+  <!-- EN: A powered exoframe with articulated joints, commonly used in industrial settings by workers handling heavy parts.\n\nIncreases lifting capacity and improves weapon handling, but is quite bulky to wear. -->
+  <CE_Apparel_ExoFrame.description>TODO</CE_Apparel_ExoFrame.description>
+  
+  <!-- EN: kid backpack -->
+  <CE_Apparel_KidBackpack.label>TODO</CE_Apparel_KidBackpack.label>
+  <!-- EN: A small backpack sized for a child. -->
+  <CE_Apparel_KidBackpack.description>TODO</CE_Apparel_KidBackpack.description>
+  
+  <!-- EN: radio pack -->
+  <CE_Apparel_RadioPack.label>TODO</CE_Apparel_RadioPack.label>
+  <!-- EN: A long range radio pack, allowing a spotter to call in accurate, long range fire support from afar. Works in conjunction with binoculars. -->
+  <CE_Apparel_RadioPack.description>TODO</CE_Apparel_RadioPack.description>
+  
+  <!-- EN: tactical vest -->
+  <CE_Apparel_TacVest.label>TODO</CE_Apparel_TacVest.label>
+  <!-- EN: A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear. -->
+  <CE_Apparel_TacVest.description>TODO</CE_Apparel_TacVest.description>
+  
+  <!-- EN: tribal backpack -->
+  <CE_Apparel_TribalBackpack.label>TODO</CE_Apparel_TribalBackpack.label>
+  <!-- EN: Primitive backpack made from animal furs, useful for storing items when travelling. -->
+  <CE_Apparel_TribalBackpack.description>TODO</CE_Apparel_TribalBackpack.description>
+  
 </LanguageData>

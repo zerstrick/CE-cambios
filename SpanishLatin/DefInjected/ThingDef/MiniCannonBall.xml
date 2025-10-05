@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mini grape shot shell -->
+  <Ammo_MiniCannonBall_Grape.label>TODO</Ammo_MiniCannonBall_Grape.label>
+  <!-- EN: A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry. -->
+  <Ammo_MiniCannonBall_Grape.description>TODO</Ammo_MiniCannonBall_Grape.description>
+  
+  <!-- EN: mini round shot -->
+  <Ammo_MiniCannonBall_Round.label>TODO</Ammo_MiniCannonBall_Round.label>
+  <!-- EN: A solid ball of metal, capable of delivering significant damage on a direct hit. -->
+  <Ammo_MiniCannonBall_Round.description>TODO</Ammo_MiniCannonBall_Round.description>
+  
+  <!-- EN: mini grape shot -->
+  <Bullet_MiniCannonBall_Grape.label>TODO</Bullet_MiniCannonBall_Grape.label>
+  
+  <!-- EN: mini round shot -->
+  <Bullet_MiniCannonBall_Round.label>TODO</Bullet_MiniCannonBall_Round.label>
+  
+</LanguageData>

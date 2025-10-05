@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 35x228mmNATO (AP) cartridge x50 -->
+  <MakeAmmo_35x228mmNATO_AP.label>TODO</MakeAmmo_35x228mmNATO_AP.label>
+  <!-- EN: Craft 50 35x228mmNATO (AP) cartridges. -->
+  <MakeAmmo_35x228mmNATO_AP.description>TODO</MakeAmmo_35x228mmNATO_AP.description>
+  <!-- EN: Making 35x228mmNATO (AP) cartridges. -->
+  <MakeAmmo_35x228mmNATO_AP.jobString>TODO</MakeAmmo_35x228mmNATO_AP.jobString>
+  
+  <!-- EN: make 35x228mmNATO (AP-HE) cartridge x50 -->
+  <MakeAmmo_35x228mmNATO_HE.label>TODO</MakeAmmo_35x228mmNATO_HE.label>
+  <!-- EN: Craft 50 35x228mmNATO (AP-HE) cartridges. -->
+  <MakeAmmo_35x228mmNATO_HE.description>TODO</MakeAmmo_35x228mmNATO_HE.description>
+  <!-- EN: Making 35x228mmNATO (AP-HE) cartridges. -->
+  <MakeAmmo_35x228mmNATO_HE.jobString>TODO</MakeAmmo_35x228mmNATO_HE.jobString>
+  
+  <!-- EN: make 35x228mmNATO (AP-I) cartridge x50 -->
+  <MakeAmmo_35x228mmNATO_Incendiary.label>TODO</MakeAmmo_35x228mmNATO_Incendiary.label>
+  <!-- EN: Craft 50 35x228mmNATO (AP-I) cartridges. -->
+  <MakeAmmo_35x228mmNATO_Incendiary.description>TODO</MakeAmmo_35x228mmNATO_Incendiary.description>
+  <!-- EN: Making 35x228mmNATO (AP-I) cartridges. -->
+  <MakeAmmo_35x228mmNATO_Incendiary.jobString>TODO</MakeAmmo_35x228mmNATO_Incendiary.jobString>
+  
+  <!-- EN: make 35x228mmNATO (Sabot) cartridge x50 -->
+  <MakeAmmo_35x228mmNATO_Sabot.label>TODO</MakeAmmo_35x228mmNATO_Sabot.label>
+  <!-- EN: Craft 50 35x228mmNATO (Sabot) cartridges. -->
+  <MakeAmmo_35x228mmNATO_Sabot.description>TODO</MakeAmmo_35x228mmNATO_Sabot.description>
+  <!-- EN: Making 35x228mmNATO (Sabot) cartridges. -->
+  <MakeAmmo_35x228mmNATO_Sabot.jobString>TODO</MakeAmmo_35x228mmNATO_Sabot.jobString>
+  
+</LanguageData>

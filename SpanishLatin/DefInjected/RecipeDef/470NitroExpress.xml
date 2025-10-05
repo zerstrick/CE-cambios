@@ -1,76 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_470NitroExpress_FMJ.label>make .470 Nitro Express (FMJ) cartridge x350</MakeAmmo_470NitroExpress_FMJ.label>
-  <MakeAmmo_470NitroExpress_FMJ.description>Craft 500 .470 Nitro Express (FMJ) cartridges.</MakeAmmo_470NitroExpress_FMJ.description>
-  <MakeAmmo_470NitroExpress_FMJ.jobString>Making .470 Nitro Express (FMJ) cartridges.</MakeAmmo_470NitroExpress_FMJ.jobString>
-
-
-  <!-- <RecipeDef ParentName="AmmoRecipeBase">
-		<defName>MakeAmmo_470NitroExpress_AP</defName>
-		<label>make .470 Nitro Express (AP) cartridge x500</label>
-		<description>Craft 500 .470 Nitro Express (AP) cartridges.</description>
-		<jobString>Making .470 Nitro Express (AP) cartridges.</jobString>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>60</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<Ammo_470NitroExpress_AP>500</Ammo_470NitroExpress_AP>
-		</products>
-    <workAmount>6000</workAmount>		
-	</RecipeDef>
-
-	<RecipeDef ParentName="AmmoRecipeBase">
-		<defName>MakeAmmo_470NitroExpress_HP</defName>
-		<label>make .470 Nitro Express (HP) cartridge x500</label>
-		<description>Craft 500 .470 Nitro Express (HP) cartridges.</description>
-		<jobString>Making .470 Nitro Express (HP) cartridges.</jobString>
-		<ingredients>
-			<li>
-				<filter>
-					<thingDefs>
-						<li>Steel</li>
-					</thingDefs>
-				</filter>
-				<count>60</count>
-			</li>
-		</ingredients>
-		<fixedIngredientFilter>
-			<thingDefs>
-				<li>Steel</li>
-			</thingDefs>
-		</fixedIngredientFilter>
-		<products>
-			<Ammo_470NitroExpress_HP>500</Ammo_470NitroExpress_HP>
-		</products>
-    <workAmount>6000</workAmount>		
-	</RecipeDef> -->
-
-  <MakeAmmo_470NitroExpress_Incendiary.label>make .470 Nitro Express (AP-I) cartridge x500</MakeAmmo_470NitroExpress_Incendiary.label>
-  <MakeAmmo_470NitroExpress_Incendiary.description>Craft 500 .470 Nitro Express (AP-I) cartridges.</MakeAmmo_470NitroExpress_Incendiary.description>
-  <MakeAmmo_470NitroExpress_Incendiary.jobString>Making .470 Nitro Express (AP-I) cartridges.</MakeAmmo_470NitroExpress_Incendiary.jobString>
-
-  <MakeAmmo_470NitroExpress_HE.label>make .470 Nitro Express (HE) cartridge x500</MakeAmmo_470NitroExpress_HE.label>
-  <MakeAmmo_470NitroExpress_HE.description>Craft 500 .470 Nitro Express (HE) cartridges.</MakeAmmo_470NitroExpress_HE.description>
-  <MakeAmmo_470NitroExpress_HE.jobString>Making .470 Nitro Express (HE) cartridges.</MakeAmmo_470NitroExpress_HE.jobString>
-
-  <MakeAmmo_470NitroExpress_Sabot.label>make .470 Nitro Express (Sabot) cartridge x500</MakeAmmo_470NitroExpress_Sabot.label>
-  <MakeAmmo_470NitroExpress_Sabot.description>Craft 500 .470 Nitro Express (Sabot) cartridges.</MakeAmmo_470NitroExpress_Sabot.description>
-  <MakeAmmo_470NitroExpress_Sabot.jobString>Making .470 Nitro Express (Sabot) cartridges.</MakeAmmo_470NitroExpress_Sabot.jobString>
-
-
+  
+  <!-- EN: make .470 Nitro Express (AP) cartridge x200 -->
+  <MakeAmmo_470NitroExpress_AP.label>TODO</MakeAmmo_470NitroExpress_AP.label>
+  <!-- EN: Craft 200 .470 Nitro Express (AP) cartridges. -->
+  <MakeAmmo_470NitroExpress_AP.description>TODO</MakeAmmo_470NitroExpress_AP.description>
+  <!-- EN: Making .470 Nitro Express (AP) cartridges. -->
+  <MakeAmmo_470NitroExpress_AP.jobString>TODO</MakeAmmo_470NitroExpress_AP.jobString>
+  
+  <!-- EN: make .470 Nitro Express (FMJ) cartridge x200 -->
+  <MakeAmmo_470NitroExpress_FMJ.label>TODO</MakeAmmo_470NitroExpress_FMJ.label>
+  <!-- EN: Craft 200 .470 Nitro Express (FMJ) cartridges. -->
+  <MakeAmmo_470NitroExpress_FMJ.description>TODO</MakeAmmo_470NitroExpress_FMJ.description>
+  <!-- EN: Making .470 Nitro Express (FMJ) cartridges. -->
+  <MakeAmmo_470NitroExpress_FMJ.jobString>TODO</MakeAmmo_470NitroExpress_FMJ.jobString>
+  
+  <!-- EN: make .470 Nitro Express (AP-HE) cartridge x200 -->
+  <MakeAmmo_470NitroExpress_HE.label>TODO</MakeAmmo_470NitroExpress_HE.label>
+  <!-- EN: Craft 200 .470 Nitro Express (AP-HE) cartridges. -->
+  <MakeAmmo_470NitroExpress_HE.description>TODO</MakeAmmo_470NitroExpress_HE.description>
+  <!-- EN: Making .470 Nitro Express (AP-HE) cartridges. -->
+  <MakeAmmo_470NitroExpress_HE.jobString>TODO</MakeAmmo_470NitroExpress_HE.jobString>
+  
+  <!-- EN: make .470 Nitro Express (AP-I) cartridge x200 -->
+  <MakeAmmo_470NitroExpress_Incendiary.label>TODO</MakeAmmo_470NitroExpress_Incendiary.label>
+  <!-- EN: Craft 200 .470 Nitro Express (AP-I) cartridges. -->
+  <MakeAmmo_470NitroExpress_Incendiary.description>TODO</MakeAmmo_470NitroExpress_Incendiary.description>
+  <!-- EN: Making .470 Nitro Express (AP-I) cartridges. -->
+  <MakeAmmo_470NitroExpress_Incendiary.jobString>TODO</MakeAmmo_470NitroExpress_Incendiary.jobString>
+  
+  <!-- EN: make .470 Nitro Express (Sabot) cartridge x200 -->
+  <MakeAmmo_470NitroExpress_Sabot.label>TODO</MakeAmmo_470NitroExpress_Sabot.label>
+  <!-- EN: Craft 200 .470 Nitro Express (Sabot) cartridges. -->
+  <MakeAmmo_470NitroExpress_Sabot.description>TODO</MakeAmmo_470NitroExpress_Sabot.description>
+  <!-- EN: Making .470 Nitro Express (Sabot) cartridges. -->
+  <MakeAmmo_470NitroExpress_Sabot.jobString>TODO</MakeAmmo_470NitroExpress_Sabot.jobString>
+  
 </LanguageData>

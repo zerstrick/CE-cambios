@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech charged ammo -->
+  <AmmoSet_MechCharged.label>TODO</AmmoSet_MechCharged.label>
+  
+  <!-- EN: mech shell (Demo) -->
+  <AmmoSet_MechShell_Demo.label>TODO</AmmoSet_MechShell_Demo.label>
+  
+  <!-- EN: mech shell (Incendiary) -->
+  <AmmoSet_MechShell_Incendiary.label>TODO</AmmoSet_MechShell_Incendiary.label>
+  
+</LanguageData>

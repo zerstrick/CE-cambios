@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (AP) -->
+  <Ammo_762x51mmUNSC_AP.label>TODO</Ammo_762x51mmUNSC_AP.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_AP.description>TODO</Ammo_762x51mmUNSC_AP.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (FMJ) -->
+  <Ammo_762x51mmUNSC_FMJ.label>TODO</Ammo_762x51mmUNSC_FMJ.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_FMJ.description>TODO</Ammo_762x51mmUNSC_FMJ.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (HEDP) -->
+  <Ammo_762x51mmUNSC_HE.label>TODO</Ammo_762x51mmUNSC_HE.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_HE.description>TODO</Ammo_762x51mmUNSC_HE.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (HP) -->
+  <Ammo_762x51mmUNSC_HP.label>TODO</Ammo_762x51mmUNSC_HP.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_HP.description>TODO</Ammo_762x51mmUNSC_HP.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (AP-I) -->
+  <Ammo_762x51mmUNSC_Incendiary.label>TODO</Ammo_762x51mmUNSC_Incendiary.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_Incendiary.description>TODO</Ammo_762x51mmUNSC_Incendiary.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (Sabot) -->
+  <Ammo_762x51mmUNSC_Sabot.label>TODO</Ammo_762x51mmUNSC_Sabot.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_Sabot.description>TODO</Ammo_762x51mmUNSC_Sabot.description>
+  
+  <!-- EN: 7.62x51mm UNSC cartridge (Shredder) -->
+  <Ammo_762x51mmUNSC_Shredder.label>TODO</Ammo_762x51mmUNSC_Shredder.label>
+  <!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+  <Ammo_762x51mmUNSC_Shredder.description>TODO</Ammo_762x51mmUNSC_Shredder.description>
+  
+  <!-- EN: 7.62mm UNSC bullet (AP) -->
+  <Bullet_762x51mmUNSC_AP.label>TODO</Bullet_762x51mmUNSC_AP.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (AP) -->
+  <Bullet_762x51mmUNSC_AP_DMR.label>TODO</Bullet_762x51mmUNSC_AP_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (FMJ) -->
+  <Bullet_762x51mmUNSC_FMJ.label>TODO</Bullet_762x51mmUNSC_FMJ.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (FMJ) -->
+  <Bullet_762x51mmUNSC_FMJ_DMR.label>TODO</Bullet_762x51mmUNSC_FMJ_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (HEDP) -->
+  <Bullet_762x51mmUNSC_HE.label>TODO</Bullet_762x51mmUNSC_HE.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (HEDP) -->
+  <Bullet_762x51mmUNSC_HE_DMR.label>TODO</Bullet_762x51mmUNSC_HE_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (HP) -->
+  <Bullet_762x51mmUNSC_HP.label>TODO</Bullet_762x51mmUNSC_HP.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (HP) -->
+  <Bullet_762x51mmUNSC_HP_DMR.label>TODO</Bullet_762x51mmUNSC_HP_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (AP-I) -->
+  <Bullet_762x51mmUNSC_Incendiary.label>TODO</Bullet_762x51mmUNSC_Incendiary.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (AP-I) -->
+  <Bullet_762x51mmUNSC_Incendiary_DMR.label>TODO</Bullet_762x51mmUNSC_Incendiary_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (Sabot) -->
+  <Bullet_762x51mmUNSC_Sabot.label>TODO</Bullet_762x51mmUNSC_Sabot.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (Sabot) -->
+  <Bullet_762x51mmUNSC_Sabot_DMR.label>TODO</Bullet_762x51mmUNSC_Sabot_DMR.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (Shredder) -->
+  <Bullet_762x51mmUNSC_Shredder.label>TODO</Bullet_762x51mmUNSC_Shredder.label>
+  
+  <!-- EN: 7.62mm UNSC bullet (Shredder) -->
+  <Bullet_762x51mmUNSC_Shredder_DMR.label>TODO</Bullet_762x51mmUNSC_Shredder_DMR.label>
+  
+</LanguageData>

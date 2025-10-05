@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 105x617mmR (HE) cannon shells x2 -->
+  <MakeAmmo_105x617mmRCannonShell_HE.label>TODO</MakeAmmo_105x617mmRCannonShell_HE.label>
+  <!-- EN: Craft 2 105x617mmR (HE) cannon shells. -->
+  <MakeAmmo_105x617mmRCannonShell_HE.description>TODO</MakeAmmo_105x617mmRCannonShell_HE.description>
+  <!-- EN: Making 105x617mmR (HE) cannon shells. -->
+  <MakeAmmo_105x617mmRCannonShell_HE.jobString>TODO</MakeAmmo_105x617mmRCannonShell_HE.jobString>
+  
+  <!-- EN: make 105x617mmR (HEAT) cannon shells x2 -->
+  <MakeAmmo_105x617mmRCannonShell_HEAT.label>TODO</MakeAmmo_105x617mmRCannonShell_HEAT.label>
+  <!-- EN: Craft 2 105x617mmR (HEAT) cannon shells. -->
+  <MakeAmmo_105x617mmRCannonShell_HEAT.description>TODO</MakeAmmo_105x617mmRCannonShell_HEAT.description>
+  <!-- EN: Making 105x617mmR (HEAT) cannon shells. -->
+  <MakeAmmo_105x617mmRCannonShell_HEAT.jobString>TODO</MakeAmmo_105x617mmRCannonShell_HEAT.jobString>
+  
+</LanguageData>

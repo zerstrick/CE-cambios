@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 76.2x539mmR (AP) cannon shells x5 -->
+  <MakeAmmo_762x539mmR_AP.label>TODO</MakeAmmo_762x539mmR_AP.label>
+  <!-- EN: Craft 5 76.2x539mmR (AP) cannon shells. -->
+  <MakeAmmo_762x539mmR_AP.description>TODO</MakeAmmo_762x539mmR_AP.description>
+  <!-- EN: Making 76.2x539mmR (AP) cannon shells. -->
+  <MakeAmmo_762x539mmR_AP.jobString>TODO</MakeAmmo_762x539mmR_AP.jobString>
+  
+  <!-- EN: make 76.2x539mmR (APCR) cannon shells x5 -->
+  <MakeAmmo_762x539mmR_APCR.label>TODO</MakeAmmo_762x539mmR_APCR.label>
+  <!-- EN: Craft 5 76.2x539mmR (APCR) cannon shells. -->
+  <MakeAmmo_762x539mmR_APCR.description>TODO</MakeAmmo_762x539mmR_APCR.description>
+  <!-- EN: Making 76.2x539mmR (APCR) cannon shells. -->
+  <MakeAmmo_762x539mmR_APCR.jobString>TODO</MakeAmmo_762x539mmR_APCR.jobString>
+  
+  <!-- EN: make 76.2x539mmR (HE) cannon shells x5 -->
+  <MakeAmmo_762x539mmR_HE.label>TODO</MakeAmmo_762x539mmR_HE.label>
+  <!-- EN: Craft 5 76.2x539mmR (HE) cannon shells. -->
+  <MakeAmmo_762x539mmR_HE.description>TODO</MakeAmmo_762x539mmR_HE.description>
+  <!-- EN: Making 76.2x539mmR (HE) cannon shells. -->
+  <MakeAmmo_762x539mmR_HE.jobString>TODO</MakeAmmo_762x539mmR_HE.jobString>
+  
+</LanguageData>

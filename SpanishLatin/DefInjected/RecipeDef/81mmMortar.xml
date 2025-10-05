@@ -1,27 +1,108 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeShell_HighExplosive.label>make 81mm HE mortar shells x5</MakeShell_HighExplosive.label>
-  <MakeShell_HighExplosive.description>Craft 5 81mm HE mortar shells.</MakeShell_HighExplosive.description>
-  <MakeShell_HighExplosive.jobString>Making 81mm HE mortar shells.</MakeShell_HighExplosive.jobString>
-
-  <MakeShell_Incendiary.label>make 81mm incendiary mortar shells x5</MakeShell_Incendiary.label>
-  <MakeShell_Incendiary.description>Craft 5 81mm incendiary mortar shells.</MakeShell_Incendiary.description>
-  <MakeShell_Incendiary.jobString>Making 81mm incendiary mortar shells.</MakeShell_Incendiary.jobString>
-
-  <MakeShell_EMP.label>make 81mm EMP mortar shells x5</MakeShell_EMP.label>
-  <MakeShell_EMP.description>Craft 5 81mm EMP mortar shells.</MakeShell_EMP.description>
-  <MakeShell_EMP.jobString>Making 81mm EMP mortar shells.</MakeShell_EMP.jobString>
-
-  <MakeShell_Firefoam.label>make 81mm firefoam mortar shells x5</MakeShell_Firefoam.label>
-  <MakeShell_Firefoam.description>Craft 5 81mm firefoam mortar shells.</MakeShell_Firefoam.description>
-  <MakeShell_Firefoam.jobString>Making 81mm firefoam mortar shells.</MakeShell_Firefoam.jobString>
-
-  <MakeShell_Smoke.label>make 81mm smoke mortar shells x5</MakeShell_Smoke.label>
-  <MakeShell_Smoke.description>Craft 5 81mm smoke mortar shells.</MakeShell_Smoke.description>
-  <MakeShell_Smoke.jobString>Making 81mm smoke mortar shells.</MakeShell_Smoke.jobString>
-
-
+  
+  <!-- EN: make 81mm deadlife mortar shells x5 -->
+  <MakeShell_Deadlife.label>TODO</MakeShell_Deadlife.label>
+  <!-- EN: Craft 5 81mm deadlife mortar shells. -->
+  <MakeShell_Deadlife.description>TODO</MakeShell_Deadlife.description>
+  <!-- EN: Making 81mm deadlife mortar shells. -->
+  <MakeShell_Deadlife.jobString>TODO</MakeShell_Deadlife.jobString>
+  <!-- EN: Craft 5 mortar shells (Deadlife). -->
+  <MakeShell_Deadlife.modExtensions.0.genericDescription>TODO</MakeShell_Deadlife.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Deadlife). -->
+  <MakeShell_Deadlife.modExtensions.0.genericJobString>TODO</MakeShell_Deadlife.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Deadlife) x5 -->
+  <MakeShell_Deadlife.modExtensions.0.genericLabel>TODO</MakeShell_Deadlife.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (EMP) mortar shells x5 -->
+  <MakeShell_EMP.label>TODO</MakeShell_EMP.label>
+  <!-- EN: Craft 5 81mm (EMP) mortar shells. -->
+  <MakeShell_EMP.description>TODO</MakeShell_EMP.description>
+  <!-- EN: Making 81mm (EMP) mortar shells. -->
+  <MakeShell_EMP.jobString>TODO</MakeShell_EMP.jobString>
+  <!-- EN: Craft 5 mortar shells (EMP). -->
+  <MakeShell_EMP.modExtensions.0.genericDescription>TODO</MakeShell_EMP.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (EMP). -->
+  <MakeShell_EMP.modExtensions.0.genericJobString>TODO</MakeShell_EMP.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (EMP) x5 -->
+  <MakeShell_EMP.modExtensions.0.genericLabel>TODO</MakeShell_EMP.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (Firefoam) mortar shells x5 -->
+  <MakeShell_Firefoam.label>TODO</MakeShell_Firefoam.label>
+  <!-- EN: Craft 5 81mm (Firefoam) mortar shells. -->
+  <MakeShell_Firefoam.description>TODO</MakeShell_Firefoam.description>
+  <!-- EN: Making 81mm (Firefoam) mortar shells. -->
+  <MakeShell_Firefoam.jobString>TODO</MakeShell_Firefoam.jobString>
+  <!-- EN: Craft 5 mortar shells (Firefoam). -->
+  <MakeShell_Firefoam.modExtensions.0.genericDescription>TODO</MakeShell_Firefoam.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Firefoam). -->
+  <MakeShell_Firefoam.modExtensions.0.genericJobString>TODO</MakeShell_Firefoam.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Firefoam) x5 -->
+  <MakeShell_Firefoam.modExtensions.0.genericLabel>TODO</MakeShell_Firefoam.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (HE) mortar shells x5 -->
+  <MakeShell_HighExplosive.label>TODO</MakeShell_HighExplosive.label>
+  <!-- EN: Craft 5 81mm (HE) mortar shells. -->
+  <MakeShell_HighExplosive.description>TODO</MakeShell_HighExplosive.description>
+  <!-- EN: Making 81mm (HE) mortar shells. -->
+  <MakeShell_HighExplosive.jobString>TODO</MakeShell_HighExplosive.jobString>
+  <!-- EN: Craft 5 mortar shells (HE). -->
+  <MakeShell_HighExplosive.modExtensions.0.genericDescription>TODO</MakeShell_HighExplosive.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (HE). -->
+  <MakeShell_HighExplosive.modExtensions.0.genericJobString>TODO</MakeShell_HighExplosive.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (HE) x5 -->
+  <MakeShell_HighExplosive.modExtensions.0.genericLabel>TODO</MakeShell_HighExplosive.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (Airburst) mortar shells x5 -->
+  <MakeShell_HighExplosive_HFuzed.label>TODO</MakeShell_HighExplosive_HFuzed.label>
+  <!-- EN: Craft 5 81mm (Airburst) mortar shells. -->
+  <MakeShell_HighExplosive_HFuzed.description>TODO</MakeShell_HighExplosive_HFuzed.description>
+  <!-- EN: Making 81mm (Airburst) mortar shells. -->
+  <MakeShell_HighExplosive_HFuzed.jobString>TODO</MakeShell_HighExplosive_HFuzed.jobString>
+  <!-- EN: Craft 5 mortar shells (Airburst). -->
+  <MakeShell_HighExplosive_HFuzed.modExtensions.0.genericDescription>TODO</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Airburst). -->
+  <MakeShell_HighExplosive_HFuzed.modExtensions.0.genericJobString>TODO</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Airburst) x5 -->
+  <MakeShell_HighExplosive_HFuzed.modExtensions.0.genericLabel>TODO</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (Incendiary) mortar shells x5 -->
+  <MakeShell_Incendiary.label>TODO</MakeShell_Incendiary.label>
+  <!-- EN: Craft 5 81mm (Incendiary) mortar shells. -->
+  <MakeShell_Incendiary.description>TODO</MakeShell_Incendiary.description>
+  <!-- EN: Making 81mm (Incendiary) mortar shells. -->
+  <MakeShell_Incendiary.jobString>TODO</MakeShell_Incendiary.jobString>
+  <!-- EN: Craft 5 mortar shells (Incendiary). -->
+  <MakeShell_Incendiary.modExtensions.0.genericDescription>TODO</MakeShell_Incendiary.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Incendiary). -->
+  <MakeShell_Incendiary.modExtensions.0.genericJobString>TODO</MakeShell_Incendiary.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Incendiary) x5 -->
+  <MakeShell_Incendiary.modExtensions.0.genericLabel>TODO</MakeShell_Incendiary.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (Smoke) mortar shells x5 -->
+  <MakeShell_Smoke.label>TODO</MakeShell_Smoke.label>
+  <!-- EN: Craft 5 81mm (Smoke) mortar shells. -->
+  <MakeShell_Smoke.description>TODO</MakeShell_Smoke.description>
+  <!-- EN: Making 81mm (Smoke) mortar shells. -->
+  <MakeShell_Smoke.jobString>TODO</MakeShell_Smoke.jobString>
+  <!-- EN: Craft 5 mortar shells (Smoke). -->
+  <MakeShell_Smoke.modExtensions.0.genericDescription>TODO</MakeShell_Smoke.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Smoke). -->
+  <MakeShell_Smoke.modExtensions.0.genericJobString>TODO</MakeShell_Smoke.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Smoke) x5 -->
+  <MakeShell_Smoke.modExtensions.0.genericLabel>TODO</MakeShell_Smoke.modExtensions.0.genericLabel>
+  
+  <!-- EN: make 81mm (Tox) mortar shells x5 -->
+  <MakeShell_Toxic.label>TODO</MakeShell_Toxic.label>
+  <!-- EN: Craft 5 81mm (Tox) mortar shells. -->
+  <MakeShell_Toxic.description>TODO</MakeShell_Toxic.description>
+  <!-- EN: Making 81mm (Tox) mortar shells. -->
+  <MakeShell_Toxic.jobString>TODO</MakeShell_Toxic.jobString>
+  <!-- EN: Craft 5 mortar shells (Tox). -->
+  <MakeShell_Toxic.modExtensions.0.genericDescription>TODO</MakeShell_Toxic.modExtensions.0.genericDescription>
+  <!-- EN: Making mortar shells (Tox). -->
+  <MakeShell_Toxic.modExtensions.0.genericJobString>TODO</MakeShell_Toxic.modExtensions.0.genericJobString>
+  <!-- EN: make mortar shells (Tox) x5 -->
+  <MakeShell_Toxic.modExtensions.0.genericLabel>TODO</MakeShell_Toxic.modExtensions.0.genericLabel>
+  
 </LanguageData>

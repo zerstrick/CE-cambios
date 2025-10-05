@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: plasma canister -->
+  <Ammo_PlasmaCanister.label>TODO</Ammo_PlasmaCanister.label>
+  <!-- EN: A canister of pressurized hydrogen that serves as a containment vessel for the ionization of the gas into plasma. -->
+  <Ammo_PlasmaCanister.description>TODO</Ammo_PlasmaCanister.description>
+  
+  <!-- EN: plasma beam -->
+  <Bullet_Laser_PlasmaDestroyer.label>TODO</Bullet_Laser_PlasmaDestroyer.label>
+  
+  <!-- EN: plasma cannon bolt -->
+  <Bullet_PlasmaCannon.label>TODO</Bullet_PlasmaCannon.label>
+  
+  <!-- EN: plasma pistol bolt -->
+  <Bullet_PlasmaPistol.label>TODO</Bullet_PlasmaPistol.label>
+  
+  <!-- EN: plasma pistol bolt -->
+  <Bullet_PlasmaPistol_Relic.label>TODO</Bullet_PlasmaPistol_Relic.label>
+  
+  <!-- EN: plasma rifle bolt -->
+  <Bullet_PlasmaRifle.label>TODO</Bullet_PlasmaRifle.label>
+  
+  <!-- EN: plasma rifle bolt -->
+  <Bullet_PlasmaRifle_Relic.label>TODO</Bullet_PlasmaRifle_Relic.label>
+  
+</LanguageData>

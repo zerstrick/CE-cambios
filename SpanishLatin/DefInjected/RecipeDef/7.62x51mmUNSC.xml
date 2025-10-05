@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 7.62x51mm UNSC (AP) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_AP.label>TODO</MakeAmmo_762x51mmUNSC_AP.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (AP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_AP.description>TODO</MakeAmmo_762x51mmUNSC_AP.description>
+  <!-- EN: Making 7.62x51mm UNSC (AP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_AP.jobString>TODO</MakeAmmo_762x51mmUNSC_AP.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (FMJ) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_FMJ.label>TODO</MakeAmmo_762x51mmUNSC_FMJ.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (FMJ) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_FMJ.description>TODO</MakeAmmo_762x51mmUNSC_FMJ.description>
+  <!-- EN: Making 7.62x51mm UNSC (FMJ) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_FMJ.jobString>TODO</MakeAmmo_762x51mmUNSC_FMJ.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (HEDP) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_HE.label>TODO</MakeAmmo_762x51mmUNSC_HE.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (HEDP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_HE.description>TODO</MakeAmmo_762x51mmUNSC_HE.description>
+  <!-- EN: Making 7.62x51mm UNSC (HEDP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_HE.jobString>TODO</MakeAmmo_762x51mmUNSC_HE.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (HP) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_HP.label>TODO</MakeAmmo_762x51mmUNSC_HP.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (HP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_HP.description>TODO</MakeAmmo_762x51mmUNSC_HP.description>
+  <!-- EN: Making 7.62x51mm UNSC (HP) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_HP.jobString>TODO</MakeAmmo_762x51mmUNSC_HP.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (AP-I) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_Incendiary.label>TODO</MakeAmmo_762x51mmUNSC_Incendiary.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (AP-I) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Incendiary.description>TODO</MakeAmmo_762x51mmUNSC_Incendiary.description>
+  <!-- EN: Making 7.62x51mm UNSC (AP-I) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Incendiary.jobString>TODO</MakeAmmo_762x51mmUNSC_Incendiary.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (Sabot) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_Sabot.label>TODO</MakeAmmo_762x51mmUNSC_Sabot.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (Sabot) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Sabot.description>TODO</MakeAmmo_762x51mmUNSC_Sabot.description>
+  <!-- EN: Making 7.62x51mm UNSC (Sabot) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Sabot.jobString>TODO</MakeAmmo_762x51mmUNSC_Sabot.jobString>
+  
+  <!-- EN: make 7.62x51mm UNSC (Shredder) cartridge x500 -->
+  <MakeAmmo_762x51mmUNSC_Shredder.label>TODO</MakeAmmo_762x51mmUNSC_Shredder.label>
+  <!-- EN: Craft 500 7.62x51mm UNSC (Shredder) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Shredder.description>TODO</MakeAmmo_762x51mmUNSC_Shredder.description>
+  <!-- EN: Making 7.62x51mm UNSC (Shredder) cartridges. -->
+  <MakeAmmo_762x51mmUNSC_Shredder.jobString>TODO</MakeAmmo_762x51mmUNSC_Shredder.jobString>
+  
+</LanguageData>

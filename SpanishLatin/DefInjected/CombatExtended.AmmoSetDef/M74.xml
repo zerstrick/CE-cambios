@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_M74.label>M74 Rockets</AmmoSet_M74.label>
-
-
+  
+  <!-- EN: M74 Rockets -->
+  <AmmoSet_M74.label>TODO</AmmoSet_M74.label>
+  
 </LanguageData>

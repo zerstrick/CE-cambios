@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make M21 Anti-personnel rockets x5 -->
+  <MakeAmmo_M41Rocket_HE.label>TODO</MakeAmmo_M41Rocket_HE.label>
+  <!-- EN: Craft 5 M21 Anti-personnel rockets. -->
+  <MakeAmmo_M41Rocket_HE.description>TODO</MakeAmmo_M41Rocket_HE.description>
+  <!-- EN: Making M21 Anti-personnel rockets. -->
+  <MakeAmmo_M41Rocket_HE.jobString>TODO</MakeAmmo_M41Rocket_HE.jobString>
+  
+  <!-- EN: make M19 HEAT rockets x5 -->
+  <MakeAmmo_M41Rocket_HEAT.label>TODO</MakeAmmo_M41Rocket_HEAT.label>
+  <!-- EN: Craft 5 M19 HEAT rockets. -->
+  <MakeAmmo_M41Rocket_HEAT.description>TODO</MakeAmmo_M41Rocket_HEAT.description>
+  <!-- EN: Making M19 HEAT rockets. -->
+  <MakeAmmo_M41Rocket_HEAT.jobString>TODO</MakeAmmo_M41Rocket_HEAT.jobString>
+  
+</LanguageData>

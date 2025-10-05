@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 7.5 FK (AP) -->
+  <Ammo_75FK_AP.label>TODO</Ammo_75FK_AP.label>
+  <!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+  <Ammo_75FK_AP.description>TODO</Ammo_75FK_AP.description>
+  
+  <!-- EN: 7.5 FK (FMJ) -->
+  <Ammo_75FK_FMJ.label>TODO</Ammo_75FK_FMJ.label>
+  <!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+  <Ammo_75FK_FMJ.description>TODO</Ammo_75FK_FMJ.description>
+  
+  <!-- EN: 7.5 FK (HP) -->
+  <Ammo_75FK_HP.label>TODO</Ammo_75FK_HP.label>
+  <!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+  <Ammo_75FK_HP.description>TODO</Ammo_75FK_HP.description>
+  
+  <!-- EN: 7.5 FK bullet (AP) -->
+  <Bullet_75FK_AP.label>TODO</Bullet_75FK_AP.label>
+  
+  <!-- EN: 7.5 FK bullet (FMJ) -->
+  <Bullet_75FK_FMJ.label>TODO</Bullet_75FK_FMJ.label>
+  
+  <!-- EN: 7.5 FK bullet (HP) -->
+  <Bullet_75FK_HP.label>TODO</Bullet_75FK_HP.label>
+  
+</LanguageData>

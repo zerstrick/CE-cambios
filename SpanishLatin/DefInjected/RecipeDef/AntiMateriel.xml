@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make anti-materiel (AP) cartridge x200 -->
+  <MakeAmmo_AntiMateriel_AP.label>TODO</MakeAmmo_AntiMateriel_AP.label>
+  <!-- EN: Craft 200 anti-materiel (AP) cartridges. -->
+  <MakeAmmo_AntiMateriel_AP.description>TODO</MakeAmmo_AntiMateriel_AP.description>
+  <!-- EN: Making anti-materiel (AP) cartridges. -->
+  <MakeAmmo_AntiMateriel_AP.jobString>TODO</MakeAmmo_AntiMateriel_AP.jobString>
+  
+  <!-- EN: make anti-materiel (FMJ) cartridge x200 -->
+  <MakeAmmo_AntiMateriel_FMJ.label>TODO</MakeAmmo_AntiMateriel_FMJ.label>
+  <!-- EN: Craft 200 anti-materiel (FMJ) cartridges. -->
+  <MakeAmmo_AntiMateriel_FMJ.description>TODO</MakeAmmo_AntiMateriel_FMJ.description>
+  <!-- EN: Making anti-materiel (FMJ) cartridges. -->
+  <MakeAmmo_AntiMateriel_FMJ.jobString>TODO</MakeAmmo_AntiMateriel_FMJ.jobString>
+  
+  <!-- EN: make anti-materiel (HE) cartridge x200 -->
+  <MakeAmmo_AntiMateriel_HE.label>TODO</MakeAmmo_AntiMateriel_HE.label>
+  <!-- EN: Craft 200 anti-materiel (HE) cartridges. -->
+  <MakeAmmo_AntiMateriel_HE.description>TODO</MakeAmmo_AntiMateriel_HE.description>
+  <!-- EN: Making anti-materiel (HE) cartridges. -->
+  <MakeAmmo_AntiMateriel_HE.jobString>TODO</MakeAmmo_AntiMateriel_HE.jobString>
+  
+  <!-- EN: make anti-materiel (AP-I) cartridge x200 -->
+  <MakeAmmo_AntiMateriel_Incendiary.label>TODO</MakeAmmo_AntiMateriel_Incendiary.label>
+  <!-- EN: Craft 200 anti-materiel (AP-I) cartridges. -->
+  <MakeAmmo_AntiMateriel_Incendiary.description>TODO</MakeAmmo_AntiMateriel_Incendiary.description>
+  <!-- EN: Making anti-materiel (AP-I) cartridges. -->
+  <MakeAmmo_AntiMateriel_Incendiary.jobString>TODO</MakeAmmo_AntiMateriel_Incendiary.jobString>
+  
+  <!-- EN: make anti-materiel (Sabot) cartridge x200 -->
+  <MakeAmmo_AntiMateriel_Sabot.label>TODO</MakeAmmo_AntiMateriel_Sabot.label>
+  <!-- EN: Craft 200 anti-materiel (Sabot) cartridges. -->
+  <MakeAmmo_AntiMateriel_Sabot.description>TODO</MakeAmmo_AntiMateriel_Sabot.description>
+  <!-- EN: Making anti-materiel (Sabot) cartridges. -->
+  <MakeAmmo_AntiMateriel_Sabot.jobString>TODO</MakeAmmo_AntiMateriel_Sabot.jobString>
+  
+</LanguageData>

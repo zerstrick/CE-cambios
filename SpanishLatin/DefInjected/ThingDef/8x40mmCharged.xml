@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 8x40mm Charged -->
+  <Ammo_8x40mmCharged.label>TODO</Ammo_8x40mmCharged.label>
+  <!-- EN: Mechanoid-built high power charged shot ammo used in long range assault weapons. -->
+  <Ammo_8x40mmCharged.description>TODO</Ammo_8x40mmCharged.description>
+  
+  <!-- EN: 8x40mm Charged bullet -->
+  <Bullet_8x40mmCharged.label>TODO</Bullet_8x40mmCharged.label>
+  
+</LanguageData>

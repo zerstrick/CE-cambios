@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_80x256mmFuel_Thermobaric.label>80x256mm fuel cell (Thermobaric)</Ammo_80x256mmFuel_Thermobaric.label>
-  <Ammo_80x256mmFuel_Thermobaric.description>Large fuel container for incendiary shot cannons.</Ammo_80x256mmFuel_Thermobaric.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_80x256mmFuel_Thermobaric.label>80x256mm fuel shell (Thermobaric)</Bullet_80x256mmFuel_Thermobaric.label>
-
-
+  
+  <!-- EN: 80x256mm fuel cell (Incendiary) -->
+  <Ammo_80x256mmFuel_Incendiary.label>TODO</Ammo_80x256mmFuel_Incendiary.label>
+  <!-- EN: Large fuel container for incendiary shot cannons.
+\n\nIncendiary:
+\nFilled with incendiary agent. The agent is dispersed on impact, covering the area in flames.
+\n\nUșèð þý: -->
+  <Ammo_80x256mmFuel_Incendiary.description>TODO</Ammo_80x256mmFuel_Incendiary.description>
+  
+  <!-- EN: 80x256mm fuel shell (Incendiary) -->
+  <Bullet_80x256mmFuel_Incendiary.label>TODO</Bullet_80x256mmFuel_Incendiary.label>
+  
 </LanguageData>

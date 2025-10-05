@@ -1,35 +1,52 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_300AACBlackout_FMJ.label>.300 AAC Blackout cartridge (FMJ)</Ammo_300AACBlackout_FMJ.label>
-  <Ammo_300AACBlackout_FMJ.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_FMJ.description>
-
-  <Ammo_300AACBlackout_AP.label>.300 AAC Blackout cartridge (AP)</Ammo_300AACBlackout_AP.label>
-  <Ammo_300AACBlackout_AP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_AP.description>
-
-  <Ammo_300AACBlackout_HP.label>.300 AAC Blackout cartridge (HP)</Ammo_300AACBlackout_HP.label>
-  <Ammo_300AACBlackout_HP.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HP.description>
-
-  <Ammo_300AACBlackout_Incendiary.label>.300 AAC Blackout cartridge (AP-I)</Ammo_300AACBlackout_Incendiary.label>
-  <Ammo_300AACBlackout_Incendiary.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Incendiary.description>
-
-  <Ammo_300AACBlackout_HE.label>.300 AAC Blackout cartridge (HE)</Ammo_300AACBlackout_HE.label>
-  <Ammo_300AACBlackout_HE.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_HE.description>
-
-  <Ammo_300AACBlackout_Sabot.label>.300 AAC Blackout cartridge (Sabot)</Ammo_300AACBlackout_Sabot.label>
-  <Ammo_300AACBlackout_Sabot.description>Intermediate rifle cartridge that was designed to achieve ballistics similar to 7.62x39mm.</Ammo_300AACBlackout_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_300AACBlackout_FMJ.label>.300 AAC Blackout bullet (FMJ)</Bullet_300AACBlackout_FMJ.label>
-  <Bullet_300AACBlackout_AP.label>.300 AAC Blackout bullet (AP)</Bullet_300AACBlackout_AP.label>
-  <Bullet_300AACBlackout_HP.label>.300 AAC Blackout bullet (HP)</Bullet_300AACBlackout_HP.label>
-  <Bullet_300AACBlackout_Incendiary.label>.300 AAC Blackout bullet (AP-I)</Bullet_300AACBlackout_Incendiary.label>
-  <Bullet_300AACBlackout_HE.label>.300 AAC Blackout bullet (HE)</Bullet_300AACBlackout_HE.label>
-  <Bullet_300AACBlackout_Sabot.label>.300 AAC Blackout bullet (Sabot)</Bullet_300AACBlackout_Sabot.label>
-
-
+  
+  <!-- EN: .300 AAC Blackout (AP) -->
+  <Ammo_300AACBlackout_AP.label>TODO</Ammo_300AACBlackout_AP.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_AP.description>TODO</Ammo_300AACBlackout_AP.description>
+  
+  <!-- EN: .300 AAC Blackout (FMJ) -->
+  <Ammo_300AACBlackout_FMJ.label>TODO</Ammo_300AACBlackout_FMJ.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_FMJ.description>TODO</Ammo_300AACBlackout_FMJ.description>
+  
+  <!-- EN: .300 AAC Blackout (AP-HE) -->
+  <Ammo_300AACBlackout_HE.label>TODO</Ammo_300AACBlackout_HE.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_HE.description>TODO</Ammo_300AACBlackout_HE.description>
+  
+  <!-- EN: .300 AAC Blackout (HP) -->
+  <Ammo_300AACBlackout_HP.label>TODO</Ammo_300AACBlackout_HP.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_HP.description>TODO</Ammo_300AACBlackout_HP.description>
+  
+  <!-- EN: .300 AAC Blackout (AP-I) -->
+  <Ammo_300AACBlackout_Incendiary.label>TODO</Ammo_300AACBlackout_Incendiary.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_Incendiary.description>TODO</Ammo_300AACBlackout_Incendiary.description>
+  
+  <!-- EN: .300 AAC Blackout (Sabot) -->
+  <Ammo_300AACBlackout_Sabot.label>TODO</Ammo_300AACBlackout_Sabot.label>
+  <!-- EN: Intermediate rifle cartridge designed to achieve ballistics similar to 7.62x39mm. -->
+  <Ammo_300AACBlackout_Sabot.description>TODO</Ammo_300AACBlackout_Sabot.description>
+  
+  <!-- EN: .300 AAC Blackout bullet (AP) -->
+  <Bullet_300AACBlackout_AP.label>TODO</Bullet_300AACBlackout_AP.label>
+  
+  <!-- EN: .300 AAC Blackout bullet (FMJ) -->
+  <Bullet_300AACBlackout_FMJ.label>TODO</Bullet_300AACBlackout_FMJ.label>
+  
+  <!-- EN: .300 AAC Blackout bullet (AP-HE) -->
+  <Bullet_300AACBlackout_HE.label>TODO</Bullet_300AACBlackout_HE.label>
+  
+  <!-- EN: .300 AAC Blackout bullet (HP) -->
+  <Bullet_300AACBlackout_HP.label>TODO</Bullet_300AACBlackout_HP.label>
+  
+  <!-- EN: .300 AAC Blackout bullet (AP-I) -->
+  <Bullet_300AACBlackout_Incendiary.label>TODO</Bullet_300AACBlackout_Incendiary.label>
+  
+  <!-- EN: .300 AAC Blackout bullet (Sabot) -->
+  <Bullet_300AACBlackout_Sabot.label>TODO</Bullet_300AACBlackout_Sabot.label>
+  
 </LanguageData>

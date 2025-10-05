@@ -1,34 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_CrossbowBolt_Stone.label>crossbow bolt</Ammo_CrossbowBolt_Stone.label>
-  <Ammo_CrossbowBolt_Stone.description>A crossbow bolt.</Ammo_CrossbowBolt_Stone.description>
-
-  <Ammo_CrossbowBolt_Steel.label>crossbow bolt (steel)</Ammo_CrossbowBolt_Steel.label>
-  <Ammo_CrossbowBolt_Steel.description>A crossbow bolt.</Ammo_CrossbowBolt_Steel.description>
-
-  <Ammo_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Ammo_CrossbowBolt_Plasteel.label>
-  <Ammo_CrossbowBolt_Plasteel.description>A crossbow bolt.</Ammo_CrossbowBolt_Plasteel.description>
-
-  <Ammo_CrossbowBolt_Venom.label>crossbow bolt (venom)</Ammo_CrossbowBolt_Venom.label>
-  <Ammo_CrossbowBolt_Venom.description>A crossbow bolt.</Ammo_CrossbowBolt_Venom.description>
-
-  <Ammo_CrossbowBolt_Flame.label>crossbow bolt (flame)</Ammo_CrossbowBolt_Flame.label>
-  <Ammo_CrossbowBolt_Flame.description>A crossbow bolt.</Ammo_CrossbowBolt_Flame.description>
-
-
-  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
-		[r / (1 - x)];
-			x = preExplosionSpawnChance,
-			r = resource cost. -->
-
-  <Projectile_CrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_CrossbowBolt_Stone.label>
-  <Projectile_CrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_CrossbowBolt_Steel.label>
-  <Projectile_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_CrossbowBolt_Plasteel.label>
-  <Projectile_CrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_CrossbowBolt_Venom.label>
-  <Projectile_CrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_CrossbowBolt_Flame.label>
-
-
+  
+  <!-- EN: crossbow bolt (flame) -->
+  <Ammo_CrossbowBolt_Flame.label>TODO</Ammo_CrossbowBolt_Flame.label>
+  <!-- EN: A crossbow bolt. -->
+  <Ammo_CrossbowBolt_Flame.description>TODO</Ammo_CrossbowBolt_Flame.description>
+  
+  <!-- EN: crossbow bolt (plasteel) -->
+  <Ammo_CrossbowBolt_Plasteel.label>TODO</Ammo_CrossbowBolt_Plasteel.label>
+  <!-- EN: A crossbow bolt. -->
+  <Ammo_CrossbowBolt_Plasteel.description>TODO</Ammo_CrossbowBolt_Plasteel.description>
+  
+  <!-- EN: crossbow bolt (steel) -->
+  <Ammo_CrossbowBolt_Steel.label>TODO</Ammo_CrossbowBolt_Steel.label>
+  <!-- EN: A crossbow bolt. -->
+  <Ammo_CrossbowBolt_Steel.description>TODO</Ammo_CrossbowBolt_Steel.description>
+  
+  <!-- EN: crossbow bolt (stone) -->
+  <Ammo_CrossbowBolt_Stone.label>TODO</Ammo_CrossbowBolt_Stone.label>
+  <!-- EN: A crossbow bolt. -->
+  <Ammo_CrossbowBolt_Stone.description>TODO</Ammo_CrossbowBolt_Stone.description>
+  
+  <!-- EN: crossbow bolt (venom) -->
+  <Ammo_CrossbowBolt_Venom.label>TODO</Ammo_CrossbowBolt_Venom.label>
+  <!-- EN: A crossbow bolt. -->
+  <Ammo_CrossbowBolt_Venom.description>TODO</Ammo_CrossbowBolt_Venom.description>
+  
+  <!-- EN: crossbow bolt (flame) -->
+  <Projectile_CrossbowBolt_Flame.label>TODO</Projectile_CrossbowBolt_Flame.label>
+  
+  <!-- EN: crossbow bolt (plasteel) -->
+  <Projectile_CrossbowBolt_Plasteel.label>TODO</Projectile_CrossbowBolt_Plasteel.label>
+  
+  <!-- EN: crossbow bolt (steel) -->
+  <Projectile_CrossbowBolt_Steel.label>TODO</Projectile_CrossbowBolt_Steel.label>
+  
+  <!-- EN: crossbow bolt (stone) -->
+  <Projectile_CrossbowBolt_Stone.label>TODO</Projectile_CrossbowBolt_Stone.label>
+  
+  <!-- EN: crossbow bolt (venom) -->
+  <Projectile_CrossbowBolt_Venom.label>TODO</Projectile_CrossbowBolt_Venom.label>
+  
 </LanguageData>

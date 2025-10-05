@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 90mm recoilless cartridge (CAN) -->
+  <Ammo_90mmRCR_CAN.label>TODO</Ammo_90mmRCR_CAN.label>
+  <!-- EN: Rocket-propelled ammunition desinged for use with the M67 recoilless rifle -->
+  <Ammo_90mmRCR_CAN.description>TODO</Ammo_90mmRCR_CAN.description>
+  
+  <!-- EN: 90mm recoilless cartridge (HEAT) -->
+  <Ammo_90mmRCR_HEAT.label>TODO</Ammo_90mmRCR_HEAT.label>
+  <!-- EN: Rocket-propelled ammunition desinged for use with the M67 recoilless rifle -->
+  <Ammo_90mmRCR_HEAT.description>TODO</Ammo_90mmRCR_HEAT.description>
+  
+  <!-- EN: Flechette -->
+  <Bullet_90mmRCR_CAN.label>TODO</Bullet_90mmRCR_CAN.label>
+  
+  <!-- EN: 90mm recoilless rocket (HEAT) -->
+  <Bullet_90mmRCR_HEAT.label>TODO</Bullet_90mmRCR_HEAT.label>
+  
+</LanguageData>

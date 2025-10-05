@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make plasma canister x50 -->
+  <MakeAmmo_PlasmaCanister.label>TODO</MakeAmmo_PlasmaCanister.label>
+  <!-- EN: Craft 50 plasma canisters. -->
+  <MakeAmmo_PlasmaCanister.description>TODO</MakeAmmo_PlasmaCanister.description>
+  <!-- EN: Making plasma canisters. -->
+  <MakeAmmo_PlasmaCanister.jobString>TODO</MakeAmmo_PlasmaCanister.jobString>
+  
+</LanguageData>

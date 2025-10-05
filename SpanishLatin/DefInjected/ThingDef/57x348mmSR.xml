@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 57x348mmSR cartridge (AP) -->
+  <Ammo_57x348mmSR_AP.label>TODO</Ammo_57x348mmSR_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_57x348mmSR_AP.description>TODO</Ammo_57x348mmSR_AP.description>
+  
+  <!-- EN: 57x348mmSR cartridge (HE) -->
+  <Ammo_57x348mmSR_HE.label>TODO</Ammo_57x348mmSR_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_57x348mmSR_HE.description>TODO</Ammo_57x348mmSR_HE.description>
+  
+  <!-- EN: 57x348mmsr cartridge (HE Time-Fuzed) -->
+  <Ammo_57x348mmSR_HE_TFuzed.label>TODO</Ammo_57x348mmSR_HE_TFuzed.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_57x348mmSR_HE_TFuzed.description>TODO</Ammo_57x348mmSR_HE_TFuzed.description>
+  
+  <!-- EN: 57x348mmSR cartridge (Sabot) -->
+  <Ammo_57x348mmSR_Sabot.label>TODO</Ammo_57x348mmSR_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_57x348mmSR_Sabot.description>TODO</Ammo_57x348mmSR_Sabot.description>
+  
+  <!-- EN: 57x348mmSR bullet (AP) -->
+  <Bullet_57x348mmSR_AP.label>TODO</Bullet_57x348mmSR_AP.label>
+  
+  <!-- EN: 57x348mmSR bullet (HE) -->
+  <Bullet_57x348mmSR_HE.label>TODO</Bullet_57x348mmSR_HE.label>
+  
+  <!-- EN: 57x348mmSR bullet (HE Time-Fuzed) -->
+  <Bullet_57x348mmSR_HE_TFuzed.label>TODO</Bullet_57x348mmSR_HE_TFuzed.label>
+  
+  <!-- EN: 57x348mmSR bullet (Sabot) -->
+  <Bullet_57x348mmSR_Sabot.label>TODO</Bullet_57x348mmSR_Sabot.label>
+  
+</LanguageData>

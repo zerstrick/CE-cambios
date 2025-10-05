@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 57x438mm Bofors cartridge (AP) -->
+  <Ammo_57x438mmBofors_AP.label>TODO</Ammo_57x438mmBofors_AP.label>
+  <!-- EN: Large caliber cartridge used by naval artillery cannons. -->
+  <Ammo_57x438mmBofors_AP.description>TODO</Ammo_57x438mmBofors_AP.description>
+  
+  <!-- EN: 57x438mm Bofors cartridge (HE) -->
+  <Ammo_57x438mmBofors_HE.label>TODO</Ammo_57x438mmBofors_HE.label>
+  <!-- EN: Large caliber cartridge used by naval artillery cannons. -->
+  <Ammo_57x438mmBofors_HE.description>TODO</Ammo_57x438mmBofors_HE.description>
+  
+  <!-- EN: 57x438mm Bofors cartridge (HE Time-Fuzed) -->
+  <Ammo_57x438mmBofors_HE_TFuzed.label>TODO</Ammo_57x438mmBofors_HE_TFuzed.label>
+  <!-- EN: Large caliber cartridge used by naval artillery cannons. -->
+  <Ammo_57x438mmBofors_HE_TFuzed.description>TODO</Ammo_57x438mmBofors_HE_TFuzed.description>
+  
+  <!-- EN: 57x438mm Bofors cartridge (Sabot) -->
+  <Ammo_57x438mmBofors_Sabot.label>TODO</Ammo_57x438mmBofors_Sabot.label>
+  <!-- EN: Large caliber cartridge used by naval artillery cannons. -->
+  <Ammo_57x438mmBofors_Sabot.description>TODO</Ammo_57x438mmBofors_Sabot.description>
+  
+  <!-- EN: 57x438mm Bofors bullet (AP) -->
+  <Bullet_57x438mmBofors_AP.label>TODO</Bullet_57x438mmBofors_AP.label>
+  
+  <!-- EN: 57x438mm Bofors bullet (HE) -->
+  <Bullet_57x438mmBofors_HE.label>TODO</Bullet_57x438mmBofors_HE.label>
+  
+  <!-- EN: 57x438mm Bofors bullet (HE Time-Fuzed) -->
+  <Bullet_57x438mmBofors_HE_TFuzed.label>TODO</Bullet_57x438mmBofors_HE_TFuzed.label>
+  
+  <!-- EN: 57x438mm Bofors bullet (Sabot) -->
+  <Bullet_57x438mmBofors_Sabot.label>TODO</Bullet_57x438mmBofors_Sabot.label>
+  
+</LanguageData>

@@ -1,54 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_338Lapua_FMJ.label>.338 Lapua Magnum cartridge (FMJ)</Ammo_338Lapua_FMJ.label>
-  <Ammo_338Lapua_FMJ.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_FMJ.description>
-
-
-  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Ammo338LapuaBase">
-    <defName>Ammo_338Lapua_HP</defName>
-    <label>.338 Lapua Magnum cartridge (HP)</label>
-    <graphicData>
-      <texPath>Things/Ammo/HighCaliber/HE</texPath>
-      <graphicClass>Graphic_StackCount</graphicClass>
-    </graphicData>
-    <statBases>
-      <MarketValue>0.2</MarketValue>
-    </statBases>
-    <ammoClass>HollowPoint</ammoClass>
-    <cookOffProjectile>Bullet_338Lapua_HP</cookOffProjectile>
-  </ThingDef> -->
-
-  <Ammo_338Lapua_Incendiary.label>.338 Lapua Magnum cartridge (AP-I)</Ammo_338Lapua_Incendiary.label>
-  <Ammo_338Lapua_Incendiary.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Incendiary.description>
-
-  <Ammo_338Lapua_HE.label>.338 Lapua Magnum cartridge (HE)</Ammo_338Lapua_HE.label>
-  <Ammo_338Lapua_HE.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_HE.description>
-
-  <Ammo_338Lapua_Sabot.label>.338 Lapua Magnum cartridge (Sabot)</Ammo_338Lapua_Sabot.label>
-  <Ammo_338Lapua_Sabot.description>The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles.</Ammo_338Lapua_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_338Lapua_FMJ.label>.338 Lapua Magnum bullet (FMJ)</Bullet_338Lapua_FMJ.label>
-
-
-  <!-- <ThingDef Class="CombatExtended.AmmoDef" ParentName="Base338LapuaBullet">
-    <defName>Bullet_338Lapua_HP</defName>
-    <label>.338 Lapua Magnum bullet (HP)</label>
-    <projectile Class="CombatExtended.ProjectilePropertiesCE">
-      <damageAmountBase>33</damageAmountBase>
-      <armorPenetrationSharp>6</armorPenetrationSharp>
-      <armorPenetrationBlunt>134.160</armorPenetrationBlunt>
-    </projectile>
-  </ThingDef> -->
-
-  <Bullet_338Lapua_Incendiary.label>.338 Lapua Magnum bullet (AP-I)</Bullet_338Lapua_Incendiary.label>
-  <Bullet_338Lapua_HE.label>.338 Lapua Magnum bullet (HE)</Bullet_338Lapua_HE.label>
-  <Bullet_338Lapua_Sabot.label>.338 Lapua Magnum bullet (Sabot)</Bullet_338Lapua_Sabot.label>
-
-
+  
+  <!-- EN: .338 Lapua Magnum (AP) -->
+  <Ammo_338Lapua_AP.label>TODO</Ammo_338Lapua_AP.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_AP.description>TODO</Ammo_338Lapua_AP.description>
+  
+  <!-- EN: .338 Lapua Magnum (FMJ) -->
+  <Ammo_338Lapua_FMJ.label>TODO</Ammo_338Lapua_FMJ.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_FMJ.description>TODO</Ammo_338Lapua_FMJ.description>
+  
+  <!-- EN: .338 Lapua Magnum (AP-HE) -->
+  <Ammo_338Lapua_HE.label>TODO</Ammo_338Lapua_HE.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_HE.description>TODO</Ammo_338Lapua_HE.description>
+  
+  <!-- EN: .338 Lapua Magnum (AP-I) -->
+  <Ammo_338Lapua_Incendiary.label>TODO</Ammo_338Lapua_Incendiary.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_Incendiary.description>TODO</Ammo_338Lapua_Incendiary.description>
+  
+  <!-- EN: .338 Lapua Magnum (Sabot) -->
+  <Ammo_338Lapua_Sabot.label>TODO</Ammo_338Lapua_Sabot.label>
+  <!-- EN: The .338 Lapua Magnum (8.6×70mm or 8.58×70mm) is a rimless, bottlenecked, centerfire cartridge developed for military long-range sniper rifles. -->
+  <Ammo_338Lapua_Sabot.description>TODO</Ammo_338Lapua_Sabot.description>
+  
+  <!-- EN: .338 Lapua Magnum bullet (AP) -->
+  <Bullet_338Lapua_AP.label>TODO</Bullet_338Lapua_AP.label>
+  
+  <!-- EN: .338 Lapua Magnum bullet (FMJ) -->
+  <Bullet_338Lapua_FMJ.label>TODO</Bullet_338Lapua_FMJ.label>
+  
+  <!-- EN: .338 Lapua Magnum bullet (AP-HE) -->
+  <Bullet_338Lapua_HE.label>TODO</Bullet_338Lapua_HE.label>
+  
+  <!-- EN: .338 Lapua Magnum bullet (AP-I) -->
+  <Bullet_338Lapua_Incendiary.label>TODO</Bullet_338Lapua_Incendiary.label>
+  
+  <!-- EN: .338 Lapua Magnum bullet (Sabot) -->
+  <Bullet_338Lapua_Sabot.label>TODO</Bullet_338Lapua_Sabot.label>
+  
 </LanguageData>

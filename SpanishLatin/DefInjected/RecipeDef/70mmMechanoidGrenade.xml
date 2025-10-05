@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 70mm Mechanoid EMP Grenade x5 -->
+  <MakeAmmo_70mmMechanoidGrenade_EMP.label>TODO</MakeAmmo_70mmMechanoidGrenade_EMP.label>
+  <!-- EN: Craft 5 70mm Mechanoid EMP Grenades. -->
+  <MakeAmmo_70mmMechanoidGrenade_EMP.description>TODO</MakeAmmo_70mmMechanoidGrenade_EMP.description>
+  <!-- EN: Making 70mm Mechanoid EMP Grenades. -->
+  <MakeAmmo_70mmMechanoidGrenade_EMP.jobString>TODO</MakeAmmo_70mmMechanoidGrenade_EMP.jobString>
+  
+  <!-- EN: make 70mm Mechanoid HE Grenade x5 -->
+  <MakeAmmo_70mmMechanoidGrenade_HE.label>TODO</MakeAmmo_70mmMechanoidGrenade_HE.label>
+  <!-- EN: Craft 5 70mm Mechanoid HE Grenades. -->
+  <MakeAmmo_70mmMechanoidGrenade_HE.description>TODO</MakeAmmo_70mmMechanoidGrenade_HE.description>
+  <!-- EN: Making 70mm Mechanoid HE Grenades. -->
+  <MakeAmmo_70mmMechanoidGrenade_HE.jobString>TODO</MakeAmmo_70mmMechanoidGrenade_HE.jobString>
+  
+</LanguageData>

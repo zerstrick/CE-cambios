@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flamethrower -->
+  <CE_FlamethrowerTrait.label>TODO</CE_FlamethrowerTrait.label>
+  <!-- EN: This weapon has a flamethrower unit. The burner generates a blast of flame from a pressurized fuel tank. -->
+  <CE_FlamethrowerTrait.description>TODO</CE_FlamethrowerTrait.description>
+  <!-- EN: fiery -->
+  <CE_FlamethrowerTrait.traitAdjectives.0>TODO</CE_FlamethrowerTrait.traitAdjectives.0>
+  <!-- EN: flame -->
+  <CE_FlamethrowerTrait.traitAdjectives.1>TODO</CE_FlamethrowerTrait.traitAdjectives.1>
+  <!-- EN: flaming -->
+  <CE_FlamethrowerTrait.traitAdjectives.2>TODO</CE_FlamethrowerTrait.traitAdjectives.2>
+  <!-- EN: burning -->
+  <CE_FlamethrowerTrait.traitAdjectives.3>TODO</CE_FlamethrowerTrait.traitAdjectives.3>
+  <!-- EN: switch to flamethrower -->
+  <CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>TODO</CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>
+  
+</LanguageData>

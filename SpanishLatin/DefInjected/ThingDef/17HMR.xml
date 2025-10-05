@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .17 HMR (AP) -->
+  <Ammo_17HMR_AP.label>TODO</Ammo_17HMR_AP.label>
+  <!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+  <Ammo_17HMR_AP.description>TODO</Ammo_17HMR_AP.description>
+  
+  <!-- EN: .17 HMR (FMJ) -->
+  <Ammo_17HMR_FMJ.label>TODO</Ammo_17HMR_FMJ.label>
+  <!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+  <Ammo_17HMR_FMJ.description>TODO</Ammo_17HMR_FMJ.description>
+  
+  <!-- EN: .17 HMR (HP) -->
+  <Ammo_17HMR_HP.label>TODO</Ammo_17HMR_HP.label>
+  <!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+  <Ammo_17HMR_HP.description>TODO</Ammo_17HMR_HP.description>
+  
+  <!-- EN: .17 HMR bullet (AP) -->
+  <Bullet_17HMR_AP.label>TODO</Bullet_17HMR_AP.label>
+  
+  <!-- EN: .17 HMR bullet (FMJ) -->
+  <Bullet_17HMR_FMJ.label>TODO</Bullet_17HMR_FMJ.label>
+  
+  <!-- EN: .17 HMR bullet (HP) -->
+  <Bullet_17HMR_HP.label>TODO</Bullet_17HMR_HP.label>
+  
+</LanguageData>

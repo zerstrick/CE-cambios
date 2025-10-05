@@ -1,35 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_65x50mmSRArisaka_FMJ.label>6.5x50mmSR Arisaka cartridge (FMJ)</Ammo_65x50mmSRArisaka_FMJ.label>
-  <Ammo_65x50mmSRArisaka_FMJ.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_FMJ.description>
-
-  <Ammo_65x50mmSRArisaka_AP.label>6.5x50mmSR Arisaka cartridge (AP)</Ammo_65x50mmSRArisaka_AP.label>
-  <Ammo_65x50mmSRArisaka_AP.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_AP.description>
-
-  <Ammo_65x50mmSRArisaka_HP.label>6.5x50mmSR Arisaka cartridge (HP)</Ammo_65x50mmSRArisaka_HP.label>
-  <Ammo_65x50mmSRArisaka_HP.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_HP.description>
-
-  <Ammo_65x50mmSRArisaka_Incendiary.label>6.5x50mmSR cartridge (AP-I)</Ammo_65x50mmSRArisaka_Incendiary.label>
-  <Ammo_65x50mmSRArisaka_Incendiary.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_Incendiary.description>
-
-  <Ammo_65x50mmSRArisaka_HE.label>6.5x50mmSR cartridge (HE)</Ammo_65x50mmSRArisaka_HE.label>
-  <Ammo_65x50mmSRArisaka_HE.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_HE.description>
-
-  <Ammo_65x50mmSRArisaka_Sabot.label>6.5x50mmSR cartridge (Sabot)</Ammo_65x50mmSRArisaka_Sabot.label>
-  <Ammo_65x50mmSRArisaka_Sabot.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_65x50mmSRArisaka_FMJ.label>6.5mmSR Arisaka bullet (FMJ)</Bullet_65x50mmSRArisaka_FMJ.label>
-  <Bullet_65x50mmSRArisaka_AP.label>6.5mmSR Arisaka bullet (AP)</Bullet_65x50mmSRArisaka_AP.label>
-  <Bullet_65x50mmSRArisaka_HP.label>6.5mmSR Arisaka bullet (HP)</Bullet_65x50mmSRArisaka_HP.label>
-  <Bullet_65x50mmSRArisaka_Incendiary.label>6.5mmSR Arisaka bullet (AP-I)</Bullet_65x50mmSRArisaka_Incendiary.label>
-  <Bullet_65x50mmSRArisaka_HE.label>6.5mmSR Arisaka bullet (HE)</Bullet_65x50mmSRArisaka_HE.label>
-  <Bullet_65x50mmSRArisaka_Sabot.label>6.5mmSR Arisaka bullet (Sabot)</Bullet_65x50mmSRArisaka_Sabot.label>
-
-
+  
+  <!-- EN: 6.5x50mmSR Arisaka (AP) -->
+  <Ammo_65x50mmSRArisaka_AP.label>TODO</Ammo_65x50mmSRArisaka_AP.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_AP.description>TODO</Ammo_65x50mmSRArisaka_AP.description>
+  
+  <!-- EN: 6.5x50mmSR Arisaka (FMJ) -->
+  <Ammo_65x50mmSRArisaka_FMJ.label>TODO</Ammo_65x50mmSRArisaka_FMJ.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_FMJ.description>TODO</Ammo_65x50mmSRArisaka_FMJ.description>
+  
+  <!-- EN: 6.5x50mmSR Arisaka (AP-HE) -->
+  <Ammo_65x50mmSRArisaka_HE.label>TODO</Ammo_65x50mmSRArisaka_HE.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_HE.description>TODO</Ammo_65x50mmSRArisaka_HE.description>
+  
+  <!-- EN: 6.5x50mmSR Arisaka (HP) -->
+  <Ammo_65x50mmSRArisaka_HP.label>TODO</Ammo_65x50mmSRArisaka_HP.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_HP.description>TODO</Ammo_65x50mmSRArisaka_HP.description>
+  
+  <!-- EN: 6.5x50mmSR Arisaka (AP-I) -->
+  <Ammo_65x50mmSRArisaka_Incendiary.label>TODO</Ammo_65x50mmSRArisaka_Incendiary.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_Incendiary.description>TODO</Ammo_65x50mmSRArisaka_Incendiary.description>
+  
+  <!-- EN: 6.5x50mmSR Arisaka (Sabot) -->
+  <Ammo_65x50mmSRArisaka_Sabot.label>TODO</Ammo_65x50mmSRArisaka_Sabot.label>
+  <!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+  <Ammo_65x50mmSRArisaka_Sabot.description>TODO</Ammo_65x50mmSRArisaka_Sabot.description>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP) -->
+  <Bullet_65x50mmSRArisaka_AP.label>TODO</Bullet_65x50mmSRArisaka_AP.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP) -->
+  <Bullet_65x50mmSRArisaka_AP_SB.label>TODO</Bullet_65x50mmSRArisaka_AP_SB.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (FMJ) -->
+  <Bullet_65x50mmSRArisaka_FMJ.label>TODO</Bullet_65x50mmSRArisaka_FMJ.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (FMJ) -->
+  <Bullet_65x50mmSRArisaka_FMJ_SB.label>TODO</Bullet_65x50mmSRArisaka_FMJ_SB.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP-HE) -->
+  <Bullet_65x50mmSRArisaka_HE.label>TODO</Bullet_65x50mmSRArisaka_HE.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP-HE) -->
+  <Bullet_65x50mmSRArisaka_HE_SB.label>TODO</Bullet_65x50mmSRArisaka_HE_SB.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (HP) -->
+  <Bullet_65x50mmSRArisaka_HP.label>TODO</Bullet_65x50mmSRArisaka_HP.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (HP) -->
+  <Bullet_65x50mmSRArisaka_HP_SB.label>TODO</Bullet_65x50mmSRArisaka_HP_SB.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP-I) -->
+  <Bullet_65x50mmSRArisaka_Incendiary.label>TODO</Bullet_65x50mmSRArisaka_Incendiary.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (AP-I) -->
+  <Bullet_65x50mmSRArisaka_Incendiary_SB.label>TODO</Bullet_65x50mmSRArisaka_Incendiary_SB.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (Sabot) -->
+  <Bullet_65x50mmSRArisaka_Sabot.label>TODO</Bullet_65x50mmSRArisaka_Sabot.label>
+  
+  <!-- EN: 6.5mmSR Arisaka bullet (Sabot) -->
+  <Bullet_65x50mmSRArisaka_Sabot_SB.label>TODO</Bullet_65x50mmSRArisaka_Sabot_SB.label>
+  
 </LanguageData>

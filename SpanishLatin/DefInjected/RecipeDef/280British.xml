@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make .280 British Cartridge (AP) cartridge x500 -->
+  <MakeAmmo_280British_AP.label>TODO</MakeAmmo_280British_AP.label>
+  <!-- EN: Craft 500 .280 British Cartridge (AP) cartridges. -->
+  <MakeAmmo_280British_AP.description>TODO</MakeAmmo_280British_AP.description>
+  <!-- EN: Making .280 British Cartridge (AP) cartridges. -->
+  <MakeAmmo_280British_AP.jobString>TODO</MakeAmmo_280British_AP.jobString>
+  
+  <!-- EN: make .280 British Cartridge (FMJ) cartridge x500 -->
+  <MakeAmmo_280British_FMJ.label>TODO</MakeAmmo_280British_FMJ.label>
+  <!-- EN: Craft 500 .280 British Cartridge (FMJ) cartridges. -->
+  <MakeAmmo_280British_FMJ.description>TODO</MakeAmmo_280British_FMJ.description>
+  <!-- EN: Making .280 British Cartridge (FMJ) cartridges. -->
+  <MakeAmmo_280British_FMJ.jobString>TODO</MakeAmmo_280British_FMJ.jobString>
+  
+  <!-- EN: make .280 British (AP-HE) cartridge x500 -->
+  <MakeAmmo_280British_HE.label>TODO</MakeAmmo_280British_HE.label>
+  <!-- EN: Craft 500 .280 British (AP-HE) cartridges. -->
+  <MakeAmmo_280British_HE.description>TODO</MakeAmmo_280British_HE.description>
+  <!-- EN: Making .280 British (AP-HE) cartridges. -->
+  <MakeAmmo_280British_HE.jobString>TODO</MakeAmmo_280British_HE.jobString>
+  
+  <!-- EN: make .280 British Cartridge (HP) cartridge x500 -->
+  <MakeAmmo_280British_HP.label>TODO</MakeAmmo_280British_HP.label>
+  <!-- EN: Craft 500 .280 British Cartridge (HP) cartridges. -->
+  <MakeAmmo_280British_HP.description>TODO</MakeAmmo_280British_HP.description>
+  <!-- EN: Making .280 British Cartridge (HP) cartridges. -->
+  <MakeAmmo_280British_HP.jobString>TODO</MakeAmmo_280British_HP.jobString>
+  
+  <!-- EN: make .280 British (AP-I) cartridge x500 -->
+  <MakeAmmo_280British_Incendiary.label>TODO</MakeAmmo_280British_Incendiary.label>
+  <!-- EN: Craft 500 .280 British (AP-I) cartridges. -->
+  <MakeAmmo_280British_Incendiary.description>TODO</MakeAmmo_280British_Incendiary.description>
+  <!-- EN: Making .280 British (AP-I) cartridges. -->
+  <MakeAmmo_280British_Incendiary.jobString>TODO</MakeAmmo_280British_Incendiary.jobString>
+  
+  <!-- EN: make .280 British (Sabot) cartridge x500 -->
+  <MakeAmmo_280British_Sabot.label>TODO</MakeAmmo_280British_Sabot.label>
+  <!-- EN: Craft 500 .280 British (Sabot) cartridges. -->
+  <MakeAmmo_280British_Sabot.description>TODO</MakeAmmo_280British_Sabot.description>
+  <!-- EN: Making .280 British (Sabot) cartridges. -->
+  <MakeAmmo_280British_Sabot.jobString>TODO</MakeAmmo_280British_Sabot.jobString>
+  
+</LanguageData>

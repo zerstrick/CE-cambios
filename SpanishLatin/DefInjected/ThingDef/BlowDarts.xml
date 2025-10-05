@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: poison dart -->
+  <Ammo_Dart_Venom.label>TODO</Ammo_Dart_Venom.label>
+  <!-- EN: A simple wooden dart with a barbed head coated in poison derived from plants and animal products. -->
+  <Ammo_Dart_Venom.description>TODO</Ammo_Dart_Venom.description>
+  
+  <!-- EN: poison dart -->
+  <Projectile_Dart_Venom.label>TODO</Projectile_Dart_Venom.label>
+  
+</LanguageData>

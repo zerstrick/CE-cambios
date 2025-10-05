@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Meltagun Ammo Canister -->
+  <Ammo_MeltaGun.label>TODO</Ammo_MeltaGun.label>
+  <!-- EN: Canister of Pyrum-petrol fuel for Meltaguns -->
+  <Ammo_MeltaGun.description>TODO</Ammo_MeltaGun.description>
+  
+  <!-- EN: melta beam -->
+  <Bullet_Laser_MeltaCharge.label>TODO</Bullet_Laser_MeltaCharge.label>
+  
+</LanguageData>

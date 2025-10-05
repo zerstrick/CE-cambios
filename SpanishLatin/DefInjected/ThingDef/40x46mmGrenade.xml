@@ -1,23 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Ammo_40x46mmGrenade_HE.label>
-  <Ammo_40x46mmGrenade_HE.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_HE.description>
-
-  <Ammo_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Ammo_40x46mmGrenade_EMP.label>
-  <Ammo_40x46mmGrenade_EMP.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_EMP.description>
-
-  <Ammo_40x46mmGrenade_Smoke.label>40x46mm grenade (Smoke)</Ammo_40x46mmGrenade_Smoke.label>
-  <Ammo_40x46mmGrenade_Smoke.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Smoke.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_40x46mmGrenade_HE.label>40x46mm grenade (HE)</Bullet_40x46mmGrenade_HE.label>
-  <Bullet_40x46mmGrenade_EMP.label>40x46mm grenade (EMP)</Bullet_40x46mmGrenade_EMP.label>
-  <Bullet_40x46mmGrenade_Smoke.label>40x46mm grenade (Smoke)</Bullet_40x46mmGrenade_Smoke.label>
-
-
+  
+  <!-- EN: 40x46mm grenade (EMP) -->
+  <Ammo_40x46mmGrenade_EMP.label>TODO</Ammo_40x46mmGrenade_EMP.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nEMP:
+\nCreates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_EMP.description>TODO</Ammo_40x46mmGrenade_EMP.description>
+  
+  <!-- EN: 40x46mm grenade (HE) -->
+  <Ammo_40x46mmGrenade_HE.label>TODO</Ammo_40x46mmGrenade_HE.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nHigh-explosive:
+\nThe high-explosive charge detonates on impact, scattering lethal shell fragments in a large area.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_HE.description>TODO</Ammo_40x46mmGrenade_HE.description>
+  
+  <!-- EN: 40x46mm grenade (HE Time-Fuzed) -->
+  <Ammo_40x46mmGrenade_HE_TFuzed.label>TODO</Ammo_40x46mmGrenade_HE_TFuzed.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nHigh-explosive airburst:
+\nGrenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_HE_TFuzed.description>TODO</Ammo_40x46mmGrenade_HE_TFuzed.description>
+  
+  <!-- EN: 40x46mm grenade (HEDP) -->
+  <Ammo_40x46mmGrenade_HEDP.label>TODO</Ammo_40x46mmGrenade_HEDP.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nHigh-explosive dual-purpose:
+\nGrenade with a shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_HEDP.description>TODO</Ammo_40x46mmGrenade_HEDP.description>
+  
+  <!-- EN: 40x46mm grenade (Smoke) -->
+  <Ammo_40x46mmGrenade_Smoke.label>TODO</Ammo_40x46mmGrenade_Smoke.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nSmoke:
+\nFilled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_Smoke.description>TODO</Ammo_40x46mmGrenade_Smoke.description>
+  
+  <!-- EN: 40x46mm grenade (Tox) -->
+  <Ammo_40x46mmGrenade_Tox.label>TODO</Ammo_40x46mmGrenade_Tox.label>
+  <!-- EN: Low velocity grenade fired from handheld grenade launchers.
+\n\nToxic:
+\nFilled with tox gas, a caustic agent that burns the lungs and eyes. Continued exposure to it results in toxic buildup which can be lethal.
+\n\nUșèð þý: -->
+  <Ammo_40x46mmGrenade_Tox.description>TODO</Ammo_40x46mmGrenade_Tox.description>
+  
+  <!-- EN: 40x46mm grenade (EMP) -->
+  <Bullet_40x46mmGrenade_EMP.label>TODO</Bullet_40x46mmGrenade_EMP.label>
+  
+  <!-- EN: 40x46mm grenade (HE) -->
+  <Bullet_40x46mmGrenade_HE.label>TODO</Bullet_40x46mmGrenade_HE.label>
+  
+  <!-- EN: 40x46mm grenade (HE Time-Fuzed) -->
+  <Bullet_40x46mmGrenade_HE_TFuzed.label>TODO</Bullet_40x46mmGrenade_HE_TFuzed.label>
+  
+  <!-- EN: 40x46mm grenade (HEDP) -->
+  <Bullet_40x46mmGrenade_HEDP.label>TODO</Bullet_40x46mmGrenade_HEDP.label>
+  
+  <!-- EN: 40x46mm grenade (Smoke) -->
+  <Bullet_40x46mmGrenade_Smoke.label>TODO</Bullet_40x46mmGrenade_Smoke.label>
+  
+  <!-- EN: 40x46mm grenade (Tox) -->
+  <Bullet_40x46mmGrenade_Tox.label>TODO</Bullet_40x46mmGrenade_Tox.label>
+  
 </LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 35x228mmNATO cartridge (AP) -->
+  <Ammo_35x228mmNATO_AP.label>TODO</Ammo_35x228mmNATO_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_35x228mmNATO_AP.description>TODO</Ammo_35x228mmNATO_AP.description>
+  
+  <!-- EN: 35x228mmNATO cartridge (AP-HE) -->
+  <Ammo_35x228mmNATO_HE.label>TODO</Ammo_35x228mmNATO_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_35x228mmNATO_HE.description>TODO</Ammo_35x228mmNATO_HE.description>
+  
+  <!-- EN: 35x228mmNATO cartridge (AP-I) -->
+  <Ammo_35x228mmNATO_Incendiary.label>TODO</Ammo_35x228mmNATO_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_35x228mmNATO_Incendiary.description>TODO</Ammo_35x228mmNATO_Incendiary.description>
+  
+  <!-- EN: 35x228mmNATO cartridge (Sabot) -->
+  <Ammo_35x228mmNATO_Sabot.label>TODO</Ammo_35x228mmNATO_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_35x228mmNATO_Sabot.description>TODO</Ammo_35x228mmNATO_Sabot.description>
+  
+  <!-- EN: 35x228mmNATO bullet (APHC) -->
+  <Bullet_35x228mmNATO_AP.label>TODO</Bullet_35x228mmNATO_AP.label>
+  
+  <!-- EN: 35x228mmNATO bullet (AP-HE) -->
+  <Bullet_35x228mmNATO_HE.label>TODO</Bullet_35x228mmNATO_HE.label>
+  
+  <!-- EN: 35x228mmNATO bullet (AP-I) -->
+  <Bullet_35x228mmNATO_Incendiary.label>TODO</Bullet_35x228mmNATO_Incendiary.label>
+  
+  <!-- EN: 35x228mmNATO bullet (Sabot) -->
+  <Bullet_35x228mmNATO_Sabot.label>TODO</Bullet_35x228mmNATO_Sabot.label>
+  
+</LanguageData>

@@ -1,42 +1,73 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CoveredByNaturalArmor.label>covered by natural armor</CoveredByNaturalArmor.label>
-  <OutsideSquishy.label>outside squishy</OutsideSquishy.label>
-  <LeftArm.label>left arm</LeftArm.label>
-  <RightArm.label>right arm</RightArm.label>
-  <LeftShoulder.label>left shoulder</LeftShoulder.label>
-  <RightShoulder.label>right shoulder</RightShoulder.label>
-
-
-  <!-- melee weapon attack tools -->
-
+  
+  <!-- EN: barrel -->
+  <Barrel.label>cañón</Barrel.label>
+  
+  <!-- EN: barrels -->
+  <Barrels.label>cañones</Barrels.label>
+  
+  <!-- EN: base -->
   <Base.label>base</Base.label>
-  <Blade.label>blade</Blade.label>
-  <Edge.label>edge</Edge.label>
-  <Handle.label>handle</Handle.label>
-  <Head.label>head</Head.label>
-  <Neck.label>neck</Neck.label>
-  <Point.label>point</Point.label>
-  <Shaft.label>shaft</Shaft.label>
-
-
-  <!-- ranged weapon bashing tools -->
-
-  <Barrel.label>barrel</Barrel.label>
-  <Muzzle.label>muzzle</Muzzle.label>
-  <Barrels.label>barrels</Barrels.label>
-  <Grip.label>grip</Grip.label>
-  <Magazine.label>magazine</Magazine.label>
-  <Stock.label>stock</Stock.label>
-
-
-  <!-- natural melee dummies -->
-
-  <FrontLeftLeg_2.label>front left leg</FrontLeftLeg_2.label>
-  <FrontRightLeg_2.label>front right leg</FrontRightLeg_2.label>
-  <TuskAttackTool_2.label>tusks</TuskAttackTool_2.label>
-  <HornAttackTool_2.label>horn</HornAttackTool_2.label>
-
-
+  
+  <!-- EN: blade -->
+  <Blade.label>cuchilla</Blade.label>
+  
+  <!-- EN: covered by natural armor -->
+  <CoveredByNaturalArmor.label>cubierto por una armadura natural</CoveredByNaturalArmor.label>
+  
+  <!-- EN: edge -->
+  <Edge.label>filo</Edge.label>
+  
+  <!-- EN: front left leg -->
+  <FrontLeftLeg_2.label>pata delantera izquierda</FrontLeftLeg_2.label>
+  
+  <!-- EN: front right leg -->
+  <FrontRightLeg_2.label>pata delantera derecha</FrontRightLeg_2.label>
+  
+  <!-- EN: grip -->
+  <Grip.label>empuñadura</Grip.label>
+  
+  <!-- EN: handle -->
+  <Handle.label>mango</Handle.label>
+  
+  <!-- EN: head -->
+  <Head.label>cabeza</Head.label>
+  
+  <!-- EN: horn -->
+  <HornAttackTool_2.label>cuerno</HornAttackTool_2.label>
+  
+  <!-- EN: left arm -->
+  <LeftArm.label>brazo izquierdo</LeftArm.label>
+  
+  <!-- EN: left shoulder -->
+  <LeftShoulder.label>hombro izquierdo</LeftShoulder.label>
+  
+  <!-- EN: magazine -->
+  <Magazine.label>cargador</Magazine.label>
+  
+  <!-- EN: muzzle -->
+  <Muzzle.label>boquilla</Muzzle.label>
+  
+  <!-- EN: neck -->
+  <Neck.label>cuello</Neck.label>
+  
+  <!-- EN: point -->
+  <Point.label>punta</Point.label>
+  
+  <!-- EN: right arm -->
+  <RightArm.label>brazo derecho</RightArm.label>
+  
+  <!-- EN: right shoulder -->
+  <RightShoulder.label>hombro derecho</RightShoulder.label>
+  
+  <!-- EN: shaft -->
+  <Shaft.label>eje</Shaft.label>
+  
+  <!-- EN: stock -->
+  <Stock.label>culata</Stock.label>
+  
+  <!-- EN: tusks -->
+  <TuskAttackTool_2.label>colmillos</TuskAttackTool_2.label>
+  
 </LanguageData>

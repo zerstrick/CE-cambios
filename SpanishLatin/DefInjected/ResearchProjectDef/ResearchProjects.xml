@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced ammunition -->
+  <CE_AdvancedAmmo.label>TODO</CE_AdvancedAmmo.label>
+  <!-- EN: Allows for the production of advanced ammunition for small arms and light weapons systems like armor-piercing incendiary, sabot, and high-explosive rounds. -->
+  <CE_AdvancedAmmo.description>TODO</CE_AdvancedAmmo.description>
+  <!-- EN:
+    <li>subject->advanced ammunition</li>
+    <li>subject->ammunition fillings</li>
+    <li>subject_story->stumbled across a cache of advanced weapons</li>
+    <li>subject_story->learned to use a discarding sabot to defeat powered armor</li>
+    <li>subject_story->worked for a prolific arms dealer</li>
+    <li>subject_story->studied the aftermath of a mechanoid assault</li>
+    <li>subject_gerund->creating explosive ammunition</li>
+    <li>subject_gerund->crafting discarding sabots</li>
+  -->
+  <CE_AdvancedAmmo.generalRules.rulesStrings>TODO</CE_AdvancedAmmo.generalRules.rulesStrings>
+  
+  <!-- EN: advanced launchers -->
+  <CE_AdvancedLaunchers.label>TODO</CE_AdvancedLaunchers.label>
+  <!-- EN: Allows for the production of more advanced launchers and munitions such as incendiary, triple rocket, and doomsday launchers, as well as thermobaric and time-fuzed projectiles. -->
+  <CE_AdvancedLaunchers.description>TODO</CE_AdvancedLaunchers.description>
+  <!-- EN:
+    <li>subject->fused explosives</li>
+    <li>subject->advanced explosives</li>
+    <li>subject_story->devastated fields with incendiary shells</li>
+    <li>subject_story->optimized compact thermobaric cell construction</li>
+    <li>subject_story->explored an enormous blast crater on a toxic world</li>
+    <li>subject_gerund->crafting advanced launchers</li>
+    <li>subject_gerund->crafting fuel cell launchers</li>
+  -->
+  <CE_AdvancedLaunchers.generalRules.rulesStrings>TODO</CE_AdvancedLaunchers.generalRules.rulesStrings>
+  
+  <!-- EN: advanced optoelectronics -->
+  <CE_AdvancedNV.label>TODO</CE_AdvancedNV.label>
+  <!-- EN: Allows for the production of more advanced and specialized electro-optical devices, including better night vision goggles and advanced digital optics. -->
+  <CE_AdvancedNV.description>TODO</CE_AdvancedNV.description>
+  <!-- EN:
+    <li>subject->advanced optoelectronics</li>
+    <li>subject_story->meticulously studied the sensors of destroyed mechanoids</li>
+    <li>subject_story->uncovered an ancient cryosleep crypt containing stores of advanced armor</li>
+    <li>subject_story->was trained as a scout in the military of an urbworld</li>
+    <li>subject_story->worked in a military prototyping lab</li>
+    <li>subject_gerund->crafting night vision sets</li>
+    <li>subject_gerund->fabricating advanced optoelectronics</li>
+  -->
+  <CE_AdvancedNV.generalRules.rulesStrings>TODO</CE_AdvancedNV.generalRules.rulesStrings>
+  
+  <!-- EN: gunpowder -->
+  <CE_Gunpowder.label>TODO</CE_Gunpowder.label>
+  <!-- EN: Craft early muzzle loading weapons and black powder ammunition. -->
+  <CE_Gunpowder.description>TODO</CE_Gunpowder.description>
+  <!-- EN:
+    <li>subject->gunpowder</li>
+    <li>subject_story->revolutionized warfare on a medieval world</li>
+    <li>subject_story->stumbled across explosive powder while conducting alchemical experiments</li>
+    <li>subject_story->was revered by a tribe for the act of creating thunder</li>
+    <li>subject_gerund->producing gunpowder</li>
+  -->
+  <CE_Gunpowder.generalRules.rulesStrings>TODO</CE_Gunpowder.generalRules.rulesStrings>
+  
+  <!-- EN: simple launchers -->
+  <CE_Launchers.label>TODO</CE_Launchers.label>
+  <!-- EN: Allows for the production of basic grenade and rocket launchers. -->
+  <CE_Launchers.description>TODO</CE_Launchers.description>
+  <!-- EN:
+    <li>subject->grenade launchers</li>
+    <li>subject->rocket launchers</li>
+    <li>subject_story->developed weapons to defeat heavily armored foes</li>
+    <li>subject_story->toiled in an urbworld munitions factory</li>
+    <li>subject_story->narrowly survived an assault by mechanoids and vowed to stop such attacks</li>
+    <li>subject_story->developed anti-armor tactics</li>
+    <li>subject_gerund->crafting grenade launchers</li>
+    <li>subject_gerund->crafting rocket launchers</li>
+  -->
+  <CE_Launchers.generalRules.rulesStrings>TODO</CE_Launchers.generalRules.rulesStrings>
+  
+  <!-- EN: basic optoelectronics -->
+  <CE_SimpleNV.label>TODO</CE_SimpleNV.label>
+  <!-- EN: Allows for the production of simple electro-optical devices, like night vision goggles and reflex sights. -->
+  <CE_SimpleNV.description>TODO</CE_SimpleNV.description>
+  <!-- EN:
+    <li>subject->optoelectronics</li>
+    <li>subject_story->worked on developing basic light sensors</li>
+    <li>subject_story->took part in military field testing on a war-world</li>
+    <li>subject_story->instructed early midworld soldiers in night combat</li>
+    <li>subject_gerund->crafting night vision monoculars</li>
+    <li>subject_gerund->conducting night assaults</li>
+  -->
+  <CE_SimpleNV.generalRules.rulesStrings>TODO</CE_SimpleNV.generalRules.rulesStrings>
+  
+</LanguageData>

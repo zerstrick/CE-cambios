@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 80mm S8 rocket (HE) -->
+  <Ammo_80mmRocket_HE.label>TODO</Ammo_80mmRocket_HE.label>
+  <!-- EN: An unguided rocket launched from 80mm tubes. -->
+  <Ammo_80mmRocket_HE.description>TODO</Ammo_80mmRocket_HE.description>
+  
+  <!-- EN: 80mm S8 rocket (HEAT) -->
+  <Ammo_80mmRocket_HEAT.label>TODO</Ammo_80mmRocket_HEAT.label>
+  <!-- EN: An unguided rocket launched from 80mm tubes. -->
+  <Ammo_80mmRocket_HEAT.description>TODO</Ammo_80mmRocket_HEAT.description>
+  
+  <!-- EN: 80mm S8 rocket (Thermobaric) -->
+  <Ammo_80mmRocket_Thermobaric.label>TODO</Ammo_80mmRocket_Thermobaric.label>
+  <!-- EN: An unguided rocket launched from 80mm tubes. -->
+  <Ammo_80mmRocket_Thermobaric.description>TODO</Ammo_80mmRocket_Thermobaric.description>
+  
+  <!-- EN: 80mm S8 Rocket (HE) -->
+  <Bullet_80mmRocket_HE.label>TODO</Bullet_80mmRocket_HE.label>
+  
+  <!-- EN: 80mm S8 Rocket (HE) -->
+  <Bullet_80mmRocket_HE_indirect.label>TODO</Bullet_80mmRocket_HE_indirect.label>
+  
+  <!-- EN: 80mm S8 Rocket (HEAT) -->
+  <Bullet_80mmRocket_HEAT.label>TODO</Bullet_80mmRocket_HEAT.label>
+  
+  <!-- EN: 80mm S8 Rocket (HEAT) -->
+  <Bullet_80mmRocket_HEAT_indirect.label>TODO</Bullet_80mmRocket_HEAT_indirect.label>
+  
+  <!-- EN: 80mm S8 Rocket (Thermobaric) -->
+  <Bullet_80mmRocket_Thermobaric.label>TODO</Bullet_80mmRocket_Thermobaric.label>
+  
+  <!-- EN: 80mm S8 Rocket (Thermobaric) -->
+  <Bullet_80mmRocket_Thermobaric_indirect.label>TODO</Bullet_80mmRocket_Thermobaric_indirect.label>
+  
+</LanguageData>

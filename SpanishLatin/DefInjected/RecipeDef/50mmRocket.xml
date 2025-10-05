@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 50mm (HE) rockets x10 -->
+  <MakeAmmo_50mmRocket_HE.label>TODO</MakeAmmo_50mmRocket_HE.label>
+  <!-- EN: Craft 10 50mm (HE) rockets. -->
+  <MakeAmmo_50mmRocket_HE.description>TODO</MakeAmmo_50mmRocket_HE.description>
+  <!-- EN: Making 50mm (HE) rockets. -->
+  <MakeAmmo_50mmRocket_HE.jobString>TODO</MakeAmmo_50mmRocket_HE.jobString>
+  
+</LanguageData>

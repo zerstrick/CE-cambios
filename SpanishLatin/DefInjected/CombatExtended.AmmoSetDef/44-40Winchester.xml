@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_44-40Winchester.label>.44-40 Winchester</AmmoSet_44-40Winchester.label>
-
-
+  
+  <!-- EN: .44-40 Winchester -->
+  <AmmoSet_44-40Winchester.label>TODO</AmmoSet_44-40Winchester.label>
+  
+  <!-- EN: .44-40 Winchester -->
+  <AmmoSet_44-40Winchester_SB.label>TODO</AmmoSet_44-40Winchester_SB.label>
+  
 </LanguageData>

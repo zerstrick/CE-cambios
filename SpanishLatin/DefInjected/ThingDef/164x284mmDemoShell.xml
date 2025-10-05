@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 164x284mm demolition shell -->
+  <Ammo_164x284mmDemo.label>TODO</Ammo_164x284mmDemo.label>
+  <!-- EN: A high-caliber, low-velocity mechanoid demolition shell designed to destroy fortifications and structures.
+\n\nDemolition:
+\nSpecial round based around a low explosive element, used to destroy structures and fortifications.
+\n\nUșèð þý: -->
+  <Ammo_164x284mmDemo.description>TODO</Ammo_164x284mmDemo.description>
+  
+  <!-- EN: 164x284mm demolition shell -->
+  <Bullet_164x284mmDemo.label>TODO</Bullet_164x284mmDemo.label>
+  
+  <!-- EN: 164x284mm demolition shell -->
+  <Bullet_164x284mmDemo_ASA.label>TODO</Bullet_164x284mmDemo_ASA.label>
+  
+  <!-- EN: 164x284mm demolition shell -->
+  <Bullet_164x284mmDemo_ASB.label>TODO</Bullet_164x284mmDemo_ASB.label>
+  
+</LanguageData>

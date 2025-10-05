@@ -1,49 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Shooting -->
-
-  <AimingAccuracy.label>aiming accuracy</AimingAccuracy.label>
-  <AimingAccuracy.description>How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</AimingAccuracy.description>
-
-  <ReloadSpeed.label>reload speed</ReloadSpeed.label>
-  <ReloadSpeed.description>The speed at which firearms are reloaded.</ReloadSpeed.description>
-
-  <Suppressability.label>suppressability</Suppressability.label>
-  <Suppressability.description>How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person.</Suppressability.description>
-
-  <AverageSharpArmor.label>armor coverage</AverageSharpArmor.label>
-  <AverageSharpArmor.description>The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles.</AverageSharpArmor.description>
-  <AverageSharpArmor.formatString>{0} mm RHA</AverageSharpArmor.formatString>
-
-
-  <!-- Doesn't do anything, just for display -->
-
-  <MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
-  <MeleeArmorPenetration.description>Armor penetration in melee. Determines how much damage is lost to enemy armor.</MeleeArmorPenetration.description>
-
-  <MeleeCritChance.label>melee critical chance</MeleeCritChance.label>
-  <MeleeCritChance.description>Base chance to critically hit a target in melee.\n\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit.</MeleeCritChance.description>
-
-  <MeleeDodgeChance.label>melee dodge chance</MeleeDodgeChance.label>
-  <MeleeDodgeChance.description>Chance to dodge a melee attack that would've otherwise hit. Characters will not dodge while aiming or firing a ranged weapon.</MeleeDodgeChance.description>
-
-  <MeleeParryChance.label>melee parry chance</MeleeParryChance.label>
-  <MeleeParryChance.description>Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\n\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry.</MeleeParryChance.description>
-
-  <UnarmedDamage.label>unarmed damage bonus</UnarmedDamage.label>
-  <UnarmedDamage.description>Additional damage done in unarmed combat.</UnarmedDamage.description>
-
-
-  <!-- Body part armor -->
-
-  <BodyPartSharpArmor.label>body part RHA</BodyPartSharpArmor.label>
-  <BodyPartSharpArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartSharpArmor.description>
-  <BodyPartSharpArmor.formatString>{0} mm RHA</BodyPartSharpArmor.formatString>
-
-  <BodyPartBluntArmor.label>body part MPa</BodyPartBluntArmor.label>
-  <BodyPartBluntArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartBluntArmor.description>
-  <BodyPartBluntArmor.formatString>{0} MPa</BodyPartBluntArmor.formatString>
-
-
+  
+  <!-- EN: aiming accuracy -->
+  <AimingAccuracy.label>TODO</AimingAccuracy.label>
+  <!-- EN: How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%. -->
+  <AimingAccuracy.description>TODO</AimingAccuracy.description>
+  
+  <!-- EN: armor coverage -->
+  <AverageSharpArmor.label>TODO</AverageSharpArmor.label>
+  <!-- EN: The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles. -->
+  <AverageSharpArmor.description>TODO</AverageSharpArmor.description>
+  <!-- EN: {0} mm RHA -->
+  <AverageSharpArmor.formatString>TODO</AverageSharpArmor.formatString>
+  
+  <!-- EN: body part MPa -->
+  <BodyPartBluntArmor.label>TODO</BodyPartBluntArmor.label>
+  <!-- EN: Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs. -->
+  <BodyPartBluntArmor.description>TODO</BodyPartBluntArmor.description>
+  <!-- EN: {0} MPa -->
+  <BodyPartBluntArmor.formatString>TODO</BodyPartBluntArmor.formatString>
+  
+  <!-- EN: body part RHA -->
+  <BodyPartSharpArmor.label>TODO</BodyPartSharpArmor.label>
+  <!-- EN: Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs. -->
+  <BodyPartSharpArmor.description>TODO</BodyPartSharpArmor.description>
+  <!-- EN: {0} mm RHA -->
+  <BodyPartSharpArmor.formatString>TODO</BodyPartSharpArmor.formatString>
+  
+  <!-- EN: melee armor penetration -->
+  <MeleeArmorPenetration.label>penetración de armadura CaC.</MeleeArmorPenetration.label>
+  <!-- EN: Armor penetration in melee. Determines how much damage is lost to enemy armor. -->
+  <MeleeArmorPenetration.description>Penetración media de armadura de todos los ataques en combate cuerpo a cuerpo (CaC).\n\nEsta estadística incluye el arma usada actualmente.</MeleeArmorPenetration.description>
+  
+  <!-- EN: melee critical chance -->
+  <MeleeCritChance.label>TODO</MeleeCritChance.label>
+  <!-- EN: Base chance to land a critical hit with a melee attack. Critical hits force max damage from the damage variation. On a critical hit, sharp attacks get double penetration, while blunt attacks stun the target.\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit. The internal formula is:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100% -->
+  <MeleeCritChance.description>TODO</MeleeCritChance.description>
+  
+  <!-- EN: melee parry chance -->
+  <MeleeParryChance.label>TODO</MeleeParryChance.label>
+  <!-- EN: Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry. The internal formula is:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nA pawn that is better skilled in parrying takes less damage from parrying while unarmed and is better at reducing damage taken by their weapon on parry. -->
+  <MeleeParryChance.description>TODO</MeleeParryChance.description>
+  
+  <!-- EN: reload speed -->
+  <ReloadSpeed.label>TODO</ReloadSpeed.label>
+  <!-- EN: The speed at which firearms are reloaded. -->
+  <ReloadSpeed.description>TODO</ReloadSpeed.description>
+  
+  <!-- EN: suppressability -->
+  <Suppressability.label>TODO</Suppressability.label>
+  <!-- EN: How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person. -->
+  <Suppressability.description>TODO</Suppressability.description>
+  
+  <!-- EN: unarmed damage bonus -->
+  <UnarmedDamage.label>TODO</UnarmedDamage.label>
+  <!-- EN: Additional damage done in unarmed combat. -->
+  <UnarmedDamage.description>TODO</UnarmedDamage.description>
+  
 </LanguageData>

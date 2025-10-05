@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 7.5 FK (AP) cartridge x500 -->
+  <MakeAmmo_75FK_AP.label>TODO</MakeAmmo_75FK_AP.label>
+  <!-- EN: Craft 500 7.5 FK (AP) cartridges. -->
+  <MakeAmmo_75FK_AP.description>TODO</MakeAmmo_75FK_AP.description>
+  <!-- EN: Making 7.5 FK (AP) cartridges. -->
+  <MakeAmmo_75FK_AP.jobString>TODO</MakeAmmo_75FK_AP.jobString>
+  
+  <!-- EN: make 7.5 FK (FMJ) cartridge x500 -->
+  <MakeAmmo_75FK_FMJ.label>TODO</MakeAmmo_75FK_FMJ.label>
+  <!-- EN: Craft 500 7.5 FK (FMJ) cartridges. -->
+  <MakeAmmo_75FK_FMJ.description>TODO</MakeAmmo_75FK_FMJ.description>
+  <!-- EN: Making 7.5 FK (FMJ) cartridges. -->
+  <MakeAmmo_75FK_FMJ.jobString>TODO</MakeAmmo_75FK_FMJ.jobString>
+  
+  <!-- EN: make 7.5 FK (HP) cartridge x500 -->
+  <MakeAmmo_75FK_HP.label>TODO</MakeAmmo_75FK_HP.label>
+  <!-- EN: Craft 500 7.5 FK (HP) cartridges. -->
+  <MakeAmmo_75FK_HP.description>TODO</MakeAmmo_75FK_HP.description>
+  <!-- EN: Making 7.5 FK (HP) cartridges. -->
+  <MakeAmmo_75FK_HP.jobString>TODO</MakeAmmo_75FK_HP.jobString>
+  
+</LanguageData>

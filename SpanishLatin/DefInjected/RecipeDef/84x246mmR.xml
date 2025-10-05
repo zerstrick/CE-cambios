@@ -1,15 +1,74 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_84x246mmR_HEAT.label>make 84x246mmR HEAT cartridges x5</MakeAmmo_84x246mmR_HEAT.label>
-  <MakeAmmo_84x246mmR_HEAT.description>Craft 5 84x246mmR HEAT cartridges.</MakeAmmo_84x246mmR_HEAT.description>
-  <MakeAmmo_84x246mmR_HEAT.jobString>Making 84x246mmR HEAT cartridge.</MakeAmmo_84x246mmR_HEAT.jobString>
-
-  <MakeAmmo_84x246mmR_HE.label>make 84x246mmR HE cartridge x5</MakeAmmo_84x246mmR_HE.label>
-  <MakeAmmo_84x246mmR_HE.description>Craft 5 84x246mmR HE cartridges.</MakeAmmo_84x246mmR_HE.description>
-  <MakeAmmo_84x246mmR_HE.jobString>Making 84x246mmR HE cartridges.</MakeAmmo_84x246mmR_HE.jobString>
-
-
+  
+  <!-- EN: make 84x246mmR (CAN) cartridge x5 -->
+  <MakeAmmo_84x246mmR_CAN.label>TODO</MakeAmmo_84x246mmR_CAN.label>
+  <!-- EN: Craft 5 84x246mmR (CAN) cartridges. -->
+  <MakeAmmo_84x246mmR_CAN.description>TODO</MakeAmmo_84x246mmR_CAN.description>
+  <!-- EN: Making 84x246mmR (CAN) cartridges. -->
+  <MakeAmmo_84x246mmR_CAN.jobString>TODO</MakeAmmo_84x246mmR_CAN.jobString>
+  
+  <!-- EN: make 84x246mmR (EMP) cartridge x5 -->
+  <MakeAmmo_84x246mmR_EMP.label>TODO</MakeAmmo_84x246mmR_EMP.label>
+  <!-- EN: Craft 5 84x246mmR (EMP) cartridges. -->
+  <MakeAmmo_84x246mmR_EMP.description>TODO</MakeAmmo_84x246mmR_EMP.description>
+  <!-- EN: Making 84x246mmR (EMP) cartridges. -->
+  <MakeAmmo_84x246mmR_EMP.jobString>TODO</MakeAmmo_84x246mmR_EMP.jobString>
+  
+  <!-- EN: make 84x246mmR (Frag) cartridge x5 -->
+  <MakeAmmo_84x246mmR_Frag.label>TODO</MakeAmmo_84x246mmR_Frag.label>
+  <!-- EN: Craft 5 84x246mmR (Frag) cartridges. -->
+  <MakeAmmo_84x246mmR_Frag.description>TODO</MakeAmmo_84x246mmR_Frag.description>
+  <!-- EN: Making 84x246mmR (Frag) cartridges. -->
+  <MakeAmmo_84x246mmR_Frag.jobString>TODO</MakeAmmo_84x246mmR_Frag.jobString>
+  
+  <!-- EN: make 84x246mmR (HE) cartridge x5 -->
+  <MakeAmmo_84x246mmR_HE.label>TODO</MakeAmmo_84x246mmR_HE.label>
+  <!-- EN: Craft 5 84x246mmR (HE) cartridges. -->
+  <MakeAmmo_84x246mmR_HE.description>TODO</MakeAmmo_84x246mmR_HE.description>
+  <!-- EN: Making 84x246mmR (HE) cartridges. -->
+  <MakeAmmo_84x246mmR_HE.jobString>TODO</MakeAmmo_84x246mmR_HE.jobString>
+  
+  <!-- EN: make 84x246mmR (Time-Fuzed) cartridge x5 -->
+  <MakeAmmo_84x246mmR_HE_TFuzed.label>TODO</MakeAmmo_84x246mmR_HE_TFuzed.label>
+  <!-- EN: Craft 5 84x246mmR (Time-Fuzed) cartridges. -->
+  <MakeAmmo_84x246mmR_HE_TFuzed.description>TODO</MakeAmmo_84x246mmR_HE_TFuzed.description>
+  <!-- EN: Making 84x246mmR (Time-Fuzed) cartridges. -->
+  <MakeAmmo_84x246mmR_HE_TFuzed.jobString>TODO</MakeAmmo_84x246mmR_HE_TFuzed.jobString>
+  
+  <!-- EN: make 84x246mmR (HEAT) cartridges x5 -->
+  <MakeAmmo_84x246mmR_HEAT.label>TODO</MakeAmmo_84x246mmR_HEAT.label>
+  <!-- EN: Craft 5 84x246mmR (HEAT) cartridges. -->
+  <MakeAmmo_84x246mmR_HEAT.description>TODO</MakeAmmo_84x246mmR_HEAT.description>
+  <!-- EN: Making 84x246mmR (HEAT) cartridge. -->
+  <MakeAmmo_84x246mmR_HEAT.jobString>TODO</MakeAmmo_84x246mmR_HEAT.jobString>
+  
+  <!-- EN: make 84x246mmR (HEDP) cartridge x5 -->
+  <MakeAmmo_84x246mmR_HEDP.label>TODO</MakeAmmo_84x246mmR_HEDP.label>
+  <!-- EN: Craft 5 84x246mmR (HEDP) cartridges. -->
+  <MakeAmmo_84x246mmR_HEDP.description>TODO</MakeAmmo_84x246mmR_HEDP.description>
+  <!-- EN: Making 84x246mmR (HEDP) cartridges. -->
+  <MakeAmmo_84x246mmR_HEDP.jobString>TODO</MakeAmmo_84x246mmR_HEDP.jobString>
+  
+  <!-- EN: make 84x246mmR (Incendiary) cartridge x5 -->
+  <MakeAmmo_84x246mmR_Incendiary.label>TODO</MakeAmmo_84x246mmR_Incendiary.label>
+  <!-- EN: Craft 5 84x246mmR (Incendiary) cartridges. -->
+  <MakeAmmo_84x246mmR_Incendiary.description>TODO</MakeAmmo_84x246mmR_Incendiary.description>
+  <!-- EN: Making 84x246mmR (Incendiary) cartridges. -->
+  <MakeAmmo_84x246mmR_Incendiary.jobString>TODO</MakeAmmo_84x246mmR_Incendiary.jobString>
+  
+  <!-- EN: make 84x246mmR (Smoke) cartridge x5 -->
+  <MakeAmmo_84x246mmR_Smoke.label>TODO</MakeAmmo_84x246mmR_Smoke.label>
+  <!-- EN: Craft 5 84x246mmR (Smoke) cartridges. -->
+  <MakeAmmo_84x246mmR_Smoke.description>TODO</MakeAmmo_84x246mmR_Smoke.description>
+  <!-- EN: Making 84x246mmR (Smoke) cartridges. -->
+  <MakeAmmo_84x246mmR_Smoke.jobString>TODO</MakeAmmo_84x246mmR_Smoke.jobString>
+  
+  <!-- EN: make 84x246mmR (Thermobaric) cartridges x5 -->
+  <MakeAmmo_84x246mmR_Thermobaric.label>TODO</MakeAmmo_84x246mmR_Thermobaric.label>
+  <!-- EN: Craft 5 84x246mmR (Thermobaric) cartridges. -->
+  <MakeAmmo_84x246mmR_Thermobaric.description>TODO</MakeAmmo_84x246mmR_Thermobaric.description>
+  <!-- EN: Making 84x246mmR (Thermobaric) cartridge. -->
+  <MakeAmmo_84x246mmR_Thermobaric.jobString>TODO</MakeAmmo_84x246mmR_Thermobaric.jobString>
+  
 </LanguageData>

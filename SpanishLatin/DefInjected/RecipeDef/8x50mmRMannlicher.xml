@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 8x50mmR Mannlicher (AP) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_AP.label>TODO</MakeAmmo_8x50mmRMannlicher_AP.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (AP) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_AP.description>TODO</MakeAmmo_8x50mmRMannlicher_AP.description>
+  <!-- EN: Making 8x50mmR Mannlicher (AP) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_AP.jobString>TODO</MakeAmmo_8x50mmRMannlicher_AP.jobString>
+  
+  <!-- EN: make 8x50mmR Mannlicher (FMJ) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_FMJ.label>TODO</MakeAmmo_8x50mmRMannlicher_FMJ.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (FMJ) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_FMJ.description>TODO</MakeAmmo_8x50mmRMannlicher_FMJ.description>
+  <!-- EN: Making 8x50mmR Mannlicher (FMJ) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_FMJ.jobString>TODO</MakeAmmo_8x50mmRMannlicher_FMJ.jobString>
+  
+  <!-- EN: make 8x50mmR Mannlicher (AP-HE) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_HE.label>TODO</MakeAmmo_8x50mmRMannlicher_HE.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (AP-HE) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_HE.description>TODO</MakeAmmo_8x50mmRMannlicher_HE.description>
+  <!-- EN: Making 8x50mmR Mannlicher (AP-HE) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_HE.jobString>TODO</MakeAmmo_8x50mmRMannlicher_HE.jobString>
+  
+  <!-- EN: make 8x50mmR Mannlicher (HP) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_HP.label>TODO</MakeAmmo_8x50mmRMannlicher_HP.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (HP) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_HP.description>TODO</MakeAmmo_8x50mmRMannlicher_HP.description>
+  <!-- EN: Making 8x50mmR Mannlicher (HP) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_HP.jobString>TODO</MakeAmmo_8x50mmRMannlicher_HP.jobString>
+  
+  <!-- EN: make 8x50mmR Mannlicher (AP-I) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_Incendiary.label>TODO</MakeAmmo_8x50mmRMannlicher_Incendiary.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (AP-I) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_Incendiary.description>TODO</MakeAmmo_8x50mmRMannlicher_Incendiary.description>
+  <!-- EN: Making 8x50mmR Mannlicher (AP-I) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_Incendiary.jobString>TODO</MakeAmmo_8x50mmRMannlicher_Incendiary.jobString>
+  
+  <!-- EN: make 8x50mmR Mannlicher (Sabot) cartridge x500 -->
+  <MakeAmmo_8x50mmRMannlicher_Sabot.label>TODO</MakeAmmo_8x50mmRMannlicher_Sabot.label>
+  <!-- EN: Craft 500 8x50mmR Mannlicher (Sabot) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_Sabot.description>TODO</MakeAmmo_8x50mmRMannlicher_Sabot.description>
+  <!-- EN: Making 8x50mmR Mannlicher (Sabot) cartridges. -->
+  <MakeAmmo_8x50mmRMannlicher_Sabot.jobString>TODO</MakeAmmo_8x50mmRMannlicher_Sabot.jobString>
+  
+</LanguageData>

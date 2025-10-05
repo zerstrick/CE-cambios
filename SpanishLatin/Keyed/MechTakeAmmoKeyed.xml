@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Mag count: -->
+  <MTA_MagCount>TODO</MTA_MagCount>
+	<!-- EN: shot -->
+  <MTA_Shot>TODO</MTA_Shot>
+	<!-- EN: Set mag count -->
+  <MTA_SetMagCount>TODO</MTA_SetMagCount>
+	<!-- EN: Take ammo now -->
+  <MTA_TakeAmmoNow>TODO</MTA_TakeAmmoNow>
+	<!-- EN: No need to resupply ammunition -->
+  <MTA_NoNeedAmmo>TODO</MTA_NoNeedAmmo>
+	<!-- EN: Each unit is one magazine, {0} rounds. -->
+  <MTA_MagazinePrefix>TODO</MTA_MagazinePrefix>
+	<!-- EN: Unable to set loadout for mechanoids with different weapons. Try multi-selecting similar mechanoids. -->
+  <MTA_CannotSetLoadoutForMultipleEquipment>TODO</MTA_CannotSetLoadoutForMultipleEquipment>
+</LanguageData>

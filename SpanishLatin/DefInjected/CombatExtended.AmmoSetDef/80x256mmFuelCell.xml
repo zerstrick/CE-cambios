@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_80x256mmFuel.label>80x256mm Fuel Cell</AmmoSet_80x256mmFuel.label>
-
-
+  
+  <!-- EN: 80x256mm Fuel Cell -->
+  <AmmoSet_80x256mmFuel.label>TODO</AmmoSet_80x256mmFuel.label>
+  
 </LanguageData>

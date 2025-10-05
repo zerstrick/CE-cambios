@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make Mech Charged cartridge x500 -->
+  <MakeAmmo_Mech_Charged.label>TODO</MakeAmmo_Mech_Charged.label>
+  <!-- EN: Craft 500 Mech Charged cartridges. -->
+  <MakeAmmo_Mech_Charged.description>TODO</MakeAmmo_Mech_Charged.description>
+  <!-- EN: Making Mech Charged cartridges. -->
+  <MakeAmmo_Mech_Charged.jobString>TODO</MakeAmmo_Mech_Charged.jobString>
+  
+  <!-- EN: make Mech Shell (Demo) x5 -->
+  <MakeAmmo_MechShell_Demo.label>TODO</MakeAmmo_MechShell_Demo.label>
+  <!-- EN: Craft 5 Mech Shells (Demo). -->
+  <MakeAmmo_MechShell_Demo.description>TODO</MakeAmmo_MechShell_Demo.description>
+  <!-- EN: Making Mech Shells (Demo). -->
+  <MakeAmmo_MechShell_Demo.jobString>TODO</MakeAmmo_MechShell_Demo.jobString>
+  
+  <!-- EN: make Mech Shell (Incendiary) x5 -->
+  <MakeAmmo_MechShell_Incendiary.label>TODO</MakeAmmo_MechShell_Incendiary.label>
+  <!-- EN: Craft 5 Mech Shells (Incendiary). -->
+  <MakeAmmo_MechShell_Incendiary.description>TODO</MakeAmmo_MechShell_Incendiary.description>
+  <!-- EN: Making Mech Shells (Incendiary). -->
+  <MakeAmmo_MechShell_Incendiary.jobString>TODO</MakeAmmo_MechShell_Incendiary.jobString>
+  
+</LanguageData>

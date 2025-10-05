@@ -1,31 +1,40 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_8x35mmCharged.label>8x35mm Charged cartridge</Ammo_8x35mmCharged.label>
-  <Ammo_8x35mmCharged.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged.description>
-
-  <Ammo_8x35mmCharged_AP.label>8x35mm Charged cartridge (Conc.)</Ammo_8x35mmCharged_AP.label>
-  <Ammo_8x35mmCharged_AP.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_AP.description>
-
-  <Ammo_8x35mmCharged_Ion.label>8x35mm Charged cartridge (Ion)</Ammo_8x35mmCharged_Ion.label>
-  <Ammo_8x35mmCharged_Ion.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_Ion.description>
-
-
-  <!-- normal charged bullets -->
-
-  <Bullet_8x35mmCharged.label>8x35mm Charged bullet</Bullet_8x35mmCharged.label>
-
-
-  <!-- concentrated bullets -->
-
-  <Bullet_8x35mmCharged_AP.label>8x35mm Charged bullet (Conc.)</Bullet_8x35mmCharged_AP.label>
-
-
-  <!-- ion bullets -->
-
-  <Bullet_8x35mmCharged_Ion.label>8x35mm Charged bullet (Ion)</Bullet_8x35mmCharged_Ion.label>
-
-
+  
+  <!-- EN: 8x35mm Charged -->
+  <Ammo_8x35mmCharged.label>TODO</Ammo_8x35mmCharged.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs.
+\n\nCharge:
+\nThe charged particle coating disrupts armor and tissue in equal measure.
+\n\nUșèð þý: -->
+  <Ammo_8x35mmCharged.description>TODO</Ammo_8x35mmCharged.description>
+  
+  <!-- EN: 8x35mm Charged (Conc.) -->
+  <Ammo_8x35mmCharged_AP.label>TODO</Ammo_8x35mmCharged_AP.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs.
+\n\nConcentrated charge:
+\nFocuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power.
+\n\nUșèð þý: -->
+  <Ammo_8x35mmCharged_AP.description>TODO</Ammo_8x35mmCharged_AP.description>
+  
+  <!-- EN: 8x35mm Charged (Ion) -->
+  <Ammo_8x35mmCharged_Ion.label>TODO</Ammo_8x35mmCharged_Ion.label>
+  <!-- EN: Charged shot ammo used by advanced assault rifle designs.
+\n\nIon charge:
+\nDesigned to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily.
+\n\nUșèð þý: -->
+  <Ammo_8x35mmCharged_Ion.description>TODO</Ammo_8x35mmCharged_Ion.description>
+  
+  <!-- EN: 8x35mm Charged bullet -->
+  <Bullet_8x35mmCharged.label>TODO</Bullet_8x35mmCharged.label>
+  
+  <!-- EN: 8x35mm Charged bullet (Conc.) -->
+  <Bullet_8x35mmCharged_AP.label>TODO</Bullet_8x35mmCharged_AP.label>
+  
+  <!-- EN: 8x35mm Charged bullet (Ion) -->
+  <Bullet_8x35mmCharged_Ion.label>TODO</Bullet_8x35mmCharged_Ion.label>
+  
+  <!-- EN: 8x35mm Charged bullet -->
+  <Bullet_8x35mmChargedCIWS.label>TODO</Bullet_8x35mmChargedCIWS.label>
+  
 </LanguageData>

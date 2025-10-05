@@ -1,8 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <FilthPrometheum.label>Prometheum puddle</FilthPrometheum.label>
-  <FilthPrometheum.description>A puddle of pyrophoric Prometheum.</FilthPrometheum.description>
-
-
+  
+  <!-- EN: scattered herbs -->
+  <Filth_StabilizeMedicineHerbal.label>TODO</Filth_StabilizeMedicineHerbal.label>
+  <!-- EN: Trash from administering first aid. -->
+  <Filth_StabilizeMedicineHerbal.description>TODO</Filth_StabilizeMedicineHerbal.description>
+  
+  <!-- EN: used medkits -->
+  <Filth_StabilizeMedicineIndustrial.label>TODO</Filth_StabilizeMedicineIndustrial.label>
+  <!-- EN: Trash from administering first aid. -->
+  <Filth_StabilizeMedicineIndustrial.description>TODO</Filth_StabilizeMedicineIndustrial.description>
+  
+  <!-- EN: prometheum puddle -->
+  <FilthPrometheum.label>TODO</FilthPrometheum.label>
+  <!-- EN: A puddle of pyrophoric Prometheum. -->
+  <FilthPrometheum.description>TODO</FilthPrometheum.description>
+  
 </LanguageData>

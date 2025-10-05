@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .22 Hornet (AP) -->
+  <Ammo_22Hornet_AP.label>TODO</Ammo_22Hornet_AP.label>
+  <!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+  <Ammo_22Hornet_AP.description>TODO</Ammo_22Hornet_AP.description>
+  
+  <!-- EN: .22 Hornet (FMJ) -->
+  <Ammo_22Hornet_FMJ.label>TODO</Ammo_22Hornet_FMJ.label>
+  <!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+  <Ammo_22Hornet_FMJ.description>TODO</Ammo_22Hornet_FMJ.description>
+  
+  <!-- EN: .22 Hornet (HP) -->
+  <Ammo_22Hornet_HP.label>TODO</Ammo_22Hornet_HP.label>
+  <!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+  <Ammo_22Hornet_HP.description>TODO</Ammo_22Hornet_HP.description>
+  
+  <!-- EN: .22 Hornet bullet (AP) -->
+  <Bullet_22Hornet_AP.label>TODO</Bullet_22Hornet_AP.label>
+  
+  <!-- EN: .22 Hornet bullet (FMJ) -->
+  <Bullet_22Hornet_FMJ.label>TODO</Bullet_22Hornet_FMJ.label>
+  
+  <!-- EN: .22 Hornet bullet (HP) -->
+  <Bullet_22Hornet_HP.label>TODO</Bullet_22Hornet_HP.label>
+  
+</LanguageData>

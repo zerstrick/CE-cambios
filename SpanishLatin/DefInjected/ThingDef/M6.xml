@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_M6_HEAT.label>M6 Rocket (HEAT)</Ammo_M6_HEAT.label>
-  <Ammo_M6_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M1 Bazooka.</Ammo_M6_HEAT.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_M6_HEAT.label>M6 rocket (HEAT)</Bullet_M6_HEAT.label>
-
-
+  
+  <!-- EN: M6 Rocket (HEAT) -->
+  <Ammo_M6_HEAT.label>TODO</Ammo_M6_HEAT.label>
+  <!-- EN: Outdated 60mm rocket-propelled grenade designed for the M1 Bazooka. -->
+  <Ammo_M6_HEAT.description>TODO</Ammo_M6_HEAT.description>
+  
+  <!-- EN: M6 rocket (HEAT) -->
+  <Bullet_M6_HEAT.label>TODO</Bullet_M6_HEAT.label>
+  
 </LanguageData>

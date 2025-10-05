@@ -1,27 +1,59 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_145x114mm_FMJ.label>14.5x114mm cartridge (FMJ)</Ammo_145x114mm_FMJ.label>
-  <Ammo_145x114mm_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_FMJ.description>
-
-  <Ammo_145x114mm_Incendiary.label>14.5x114mm cartridge (AP-I)</Ammo_145x114mm_Incendiary.label>
-  <Ammo_145x114mm_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Incendiary.description>
-
-  <Ammo_145x114mm_HE.label>14.5x114mm cartridge (HE)</Ammo_145x114mm_HE.label>
-  <Ammo_145x114mm_HE.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_HE.description>
-
-  <Ammo_145x114mm_Sabot.label>14.5x114mm cartridge (Sabot)</Ammo_145x114mm_Sabot.label>
-  <Ammo_145x114mm_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.</Ammo_145x114mm_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_145x114mm_FMJ.label>14.5x114mm bullet (FMJ)</Bullet_145x114mm_FMJ.label>
-  <Bullet_145x114mm_Incendiary.label>14.5x114mm bullet (AP-I)</Bullet_145x114mm_Incendiary.label>
-  <Bullet_145x114mm_HE.label>14.5x114mm bullet (HE)</Bullet_145x114mm_HE.label>
-  <Bullet_145x114mm_Sabot.label>14.5x114mm bullet (Sabot)</Bullet_145x114mm_Sabot.label>
-
-
+  
+  <!-- EN: 14.5x114mm (AP) -->
+  <Ammo_145x114mm_AP.label>TODO</Ammo_145x114mm_AP.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.
+\n\nArmor-piercing:
+\nFeatures a hardened steel penetrator core for increased armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_145x114mm_AP.description>TODO</Ammo_145x114mm_AP.description>
+  
+  <!-- EN: 14.5x114mm (FMJ) -->
+  <Ammo_145x114mm_FMJ.label>TODO</Ammo_145x114mm_FMJ.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.
+\n\nFull metal jacket:
+\nThe soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_145x114mm_FMJ.description>TODO</Ammo_145x114mm_FMJ.description>
+  
+  <!-- EN: 14.5x114mm (AP-HE) -->
+  <Ammo_145x114mm_HE.label>TODO</Ammo_145x114mm_HE.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.
+\n\nArmor-piercing high-explosive:
+\nFilled with high-explosives that detonate on impact for additional damage.
+\n\nUșèð þý: -->
+  <Ammo_145x114mm_HE.description>TODO</Ammo_145x114mm_HE.description>
+  
+  <!-- EN: 14.5x114mm (AP-I) -->
+  <Ammo_145x114mm_Incendiary.label>TODO</Ammo_145x114mm_Incendiary.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.
+\n\nArmor-piercing incendiary:
+\nFilled with an incendiary compound that ignites on impact, doing additional damage and increasing armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_145x114mm_Incendiary.description>TODO</Ammo_145x114mm_Incendiary.description>
+  
+  <!-- EN: 14.5x114mm (Sabot) -->
+  <Ammo_145x114mm_Sabot.label>TODO</Ammo_145x114mm_Sabot.label>
+  <!-- EN: Old-school anti-tank cartridge originally designed for AT rifles, it is also used by a number of heavy machine guns.
+\n\nArmor-piercing discarding sabot:
+\nUses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_145x114mm_Sabot.description>TODO</Ammo_145x114mm_Sabot.description>
+  
+  <!-- EN: 14.5x114mm bullet (AP) -->
+  <Bullet_145x114mm_AP.label>TODO</Bullet_145x114mm_AP.label>
+  
+  <!-- EN: 14.5x114mm bullet (FMJ) -->
+  <Bullet_145x114mm_FMJ.label>TODO</Bullet_145x114mm_FMJ.label>
+  
+  <!-- EN: 14.5x114mm bullet (AP-HE) -->
+  <Bullet_145x114mm_HE.label>TODO</Bullet_145x114mm_HE.label>
+  
+  <!-- EN: 14.5x114mm bullet (AP-I) -->
+  <Bullet_145x114mm_Incendiary.label>TODO</Bullet_145x114mm_Incendiary.label>
+  
+  <!-- EN: 14.5x114mm bullet (Sabot) -->
+  <Bullet_145x114mm_Sabot.label>TODO</Bullet_145x114mm_Sabot.label>
+  
 </LanguageData>

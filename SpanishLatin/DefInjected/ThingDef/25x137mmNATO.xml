@@ -1,27 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_25x137mmNATO_FMJ.label>25x137mm NATO cartridge (FMJ)</Ammo_25x137mmNATO_FMJ.label>
-  <Ammo_25x137mmNATO_FMJ.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_FMJ.description>
-
-  <Ammo_25x137mmNATO_Incendiary.label>25x137mm NATO cartridge (AP-I)</Ammo_25x137mmNATO_Incendiary.label>
-  <Ammo_25x137mmNATO_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Incendiary.description>
-
-  <Ammo_25x137mmNATO_HE.label>25x137mm NATO cartridge (HE)</Ammo_25x137mmNATO_HE.label>
-  <Ammo_25x137mmNATO_HE.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_HE.description>
-
-  <Ammo_25x137mmNATO_Sabot.label>25x137mm NATO cartridge (Sabot)</Ammo_25x137mmNATO_Sabot.label>
-  <Ammo_25x137mmNATO_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_25x137mmNATO_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_25x137mmNATO_FMJ.label>25x137mm NATO bullet (FMJ)</Bullet_25x137mmNATO_FMJ.label>
-  <Bullet_25x137mmNATO_Incendiary.label>25x137mm NATO bullet (AP-I)</Bullet_25x137mmNATO_Incendiary.label>
-  <Bullet_25x137mmNATO_HE.label>25x137mm NATO bullet (HE)</Bullet_25x137mmNATO_HE.label>
-  <Bullet_25x137mmNATO_Sabot.label>25x137mm NATO bullet (Sabot)</Bullet_25x137mmNATO_Sabot.label>
-
-
+  
+  <!-- EN: 25x137mm NATO (AP) -->
+  <Ammo_25x137mmNATO_AP.label>TODO</Ammo_25x137mmNATO_AP.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_25x137mmNATO_AP.description>TODO</Ammo_25x137mmNATO_AP.description>
+  
+  <!-- EN: 25x137mm NATO (AP-HE) -->
+  <Ammo_25x137mmNATO_HE.label>TODO</Ammo_25x137mmNATO_HE.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_25x137mmNATO_HE.description>TODO</Ammo_25x137mmNATO_HE.description>
+  
+  <!-- EN: 25x137mm NATO (AP-I) -->
+  <Ammo_25x137mmNATO_Incendiary.label>TODO</Ammo_25x137mmNATO_Incendiary.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_25x137mmNATO_Incendiary.description>TODO</Ammo_25x137mmNATO_Incendiary.description>
+  
+  <!-- EN: 25x137mm NATO (Sabot) -->
+  <Ammo_25x137mmNATO_Sabot.label>TODO</Ammo_25x137mmNATO_Sabot.label>
+  <!-- EN: Large caliber cartridge used by autocannons. -->
+  <Ammo_25x137mmNATO_Sabot.description>TODO</Ammo_25x137mmNATO_Sabot.description>
+  
+  <!-- EN: 25x137mm NATO bullet (AP) -->
+  <Bullet_25x137mmNATO_AP.label>TODO</Bullet_25x137mmNATO_AP.label>
+  
+  <!-- EN: 25x137mm NATO bullet (AP-HE) -->
+  <Bullet_25x137mmNATO_HE.label>TODO</Bullet_25x137mmNATO_HE.label>
+  
+  <!-- EN: 25x137mm NATO bullet (AP-I) -->
+  <Bullet_25x137mmNATO_Incendiary.label>TODO</Bullet_25x137mmNATO_Incendiary.label>
+  
+  <!-- EN: 25x137mm NATO bullet (Sabot) -->
+  <Bullet_25x137mmNATO_Sabot.label>TODO</Bullet_25x137mmNATO_Sabot.label>
+  
 </LanguageData>

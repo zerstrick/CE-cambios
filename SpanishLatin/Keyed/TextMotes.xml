@@ -1,9 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CE_TextMote_Riposted>Riposted!</CE_TextMote_Riposted>
-  <CE_TextMote_Parried>Parried!</CE_TextMote_Parried>
-  <CE_TextMote_Knockdown>Knockdown!</CE_TextMote_Knockdown>
-  <CE_TextMote_CriticalHit>Critical hit!</CE_TextMote_CriticalHit>
+	<!-- EN: Riposted! -->
+  <CE_TextMote_Riposted>TODO</CE_TextMote_Riposted>
+	<!-- EN: Blocked! -->
+  <CE_TextMote_Blocked>TODO</CE_TextMote_Blocked>
+	<!-- EN: Parried! -->
+  <CE_TextMote_Parried>TODO</CE_TextMote_Parried>
+	<!-- EN: Knockdown! -->
+  <CE_TextMote_Knockdown>TODO</CE_TextMote_Knockdown>
+	<!-- EN: Critical hit! -->
+  <CE_TextMote_CriticalHit>TODO</CE_TextMote_CriticalHit>
 
 </LanguageData>

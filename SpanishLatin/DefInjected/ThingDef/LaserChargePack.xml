@@ -1,10 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_LaserChargePack.label>laser charge pack</Ammo_LaserChargePack.label>
-  <Ammo_LaserChargePack.description>A universal charge pack for various laser weapns.</Ammo_LaserChargePack.description>
-
-
+  
+  <!-- EN: laser charge pack -->
+  <Ammo_LaserChargePack.label>TODO</Ammo_LaserChargePack.label>
+  <!-- EN: A universal charge pack for various laser weapons.
+\n\nLaser:
+\nA concentrated beam or bolt of radiation, imparting disruptive energy into the target.
+\n\nUșèð þý: -->
+  <Ammo_LaserChargePack.description>TODO</Ammo_LaserChargePack.description>
+  
+  <!-- EN: mechanoid laser pack -->
+  <Ammo_LaserChargePack_Mech.label>TODO</Ammo_LaserChargePack_Mech.label>
+  <!-- EN: A mechanoid manufactured charge pack for laser weapons.
+\n\nLaser (mech):
+\nA concentrated beam or bolt of radiation, imparting disruptive energy into the target.
+\n\nUșèð þý: -->
+  <Ammo_LaserChargePack_Mech.description>TODO</Ammo_LaserChargePack_Mech.description>
+  
 </LanguageData>

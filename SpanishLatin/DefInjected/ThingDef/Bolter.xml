@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .75 cal bolter shell (Inferno) -->
+  <Ammo_Bolter75_Inferno.label>TODO</Ammo_Bolter75_Inferno.label>
+  <!-- EN: A .75 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter75_Inferno.description>TODO</Ammo_Bolter75_Inferno.description>
+  
+  <!-- EN: .75 cal bolter shell (Kraken) -->
+  <Ammo_Bolter75_Kraken.label>TODO</Ammo_Bolter75_Kraken.label>
+  <!-- EN: A .75 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter75_Kraken.description>TODO</Ammo_Bolter75_Kraken.description>
+  
+  <!-- EN: .75 cal bolter shell (Metal Storm) -->
+  <Ammo_Bolter75_MetalStorm.label>TODO</Ammo_Bolter75_MetalStorm.label>
+  <!-- EN: A .75 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter75_MetalStorm.description>TODO</Ammo_Bolter75_MetalStorm.description>
+  
+  <!-- EN: .75 cal bolter shell (Standard) -->
+  <Ammo_Bolter75_Standard.label>TODO</Ammo_Bolter75_Standard.label>
+  <!-- EN: A .75 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter75_Standard.description>TODO</Ammo_Bolter75_Standard.description>
+  
+  <!-- EN: .75 cal bolter shell (Tempest) -->
+  <Ammo_Bolter75_Tempest.label>TODO</Ammo_Bolter75_Tempest.label>
+  <!-- EN: A .75 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter75_Tempest.description>TODO</Ammo_Bolter75_Tempest.description>
+  
+  <!-- EN: .75 cal bolt (inferno) -->
+  <Bullet_Bolter75_Inferno.label>TODO</Bullet_Bolter75_Inferno.label>
+  
+  <!-- EN: .75 cal bolt (inferno) -->
+  <Bullet_Bolter75_Inferno_Relic.label>TODO</Bullet_Bolter75_Inferno_Relic.label>
+  
+  <!-- EN: .75 cal bolt (kraken) -->
+  <Bullet_Bolter75_Kraken.label>TODO</Bullet_Bolter75_Kraken.label>
+  
+  <!-- EN: .75 cal bolt (kraken) -->
+  <Bullet_Bolter75_Kraken_Relic.label>TODO</Bullet_Bolter75_Kraken_Relic.label>
+  
+  <!-- EN: .75 cal bolt (metal storm) -->
+  <Bullet_Bolter75_MetalStorm.label>TODO</Bullet_Bolter75_MetalStorm.label>
+  
+  <!-- EN: .75 cal bolt (metal storm) -->
+  <Bullet_Bolter75_MetalStorm_Relic.label>TODO</Bullet_Bolter75_MetalStorm_Relic.label>
+  
+  <!-- EN: .75 cal bolt (standard) -->
+  <Bullet_Bolter75_Standard.label>TODO</Bullet_Bolter75_Standard.label>
+  
+  <!-- EN: .75 cal bolt (standard) -->
+  <Bullet_Bolter75_Standard_Relic.label>TODO</Bullet_Bolter75_Standard_Relic.label>
+  
+  <!-- EN: .75 cal bolt (tempest) -->
+  <Bullet_Bolter75_Tempest.label>TODO</Bullet_Bolter75_Tempest.label>
+  
+  <!-- EN: .75 cal bolt (tempest) -->
+  <Bullet_Bolter75_Tempest_Relic.label>TODO</Bullet_Bolter75_Tempest_Relic.label>
+  
+</LanguageData>

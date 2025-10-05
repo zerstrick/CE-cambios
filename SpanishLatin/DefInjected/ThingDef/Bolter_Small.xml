@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .50 cal bolter shell (Inferno) -->
+  <Ammo_Bolter50_Inferno.label>TODO</Ammo_Bolter50_Inferno.label>
+  <!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter50_Inferno.description>TODO</Ammo_Bolter50_Inferno.description>
+  
+  <!-- EN: .50 cal bolter shell (Kraken) -->
+  <Ammo_Bolter50_Kraken.label>TODO</Ammo_Bolter50_Kraken.label>
+  <!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter50_Kraken.description>TODO</Ammo_Bolter50_Kraken.description>
+  
+  <!-- EN: .50 cal bolter shell (Standard) -->
+  <Ammo_Bolter50_Standard.label>TODO</Ammo_Bolter50_Standard.label>
+  <!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter50_Standard.description>TODO</Ammo_Bolter50_Standard.description>
+  
+  <!-- EN: .50 cal bolter shell (Tempest) -->
+  <Ammo_Bolter50_Tempest.label>TODO</Ammo_Bolter50_Tempest.label>
+  <!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+  <Ammo_Bolter50_Tempest.description>TODO</Ammo_Bolter50_Tempest.description>
+  
+  <!-- EN: .50 cal bolt (inferno) -->
+  <Bullet_Bolter50_Inferno.label>TODO</Bullet_Bolter50_Inferno.label>
+  
+  <!-- EN: .50 cal bolt (kraken) -->
+  <Bullet_Bolter50_Kraken.label>TODO</Bullet_Bolter50_Kraken.label>
+  
+  <!-- EN: .50 cal bolt (standard) -->
+  <Bullet_Bolter50_Standard.label>TODO</Bullet_Bolter50_Standard.label>
+  
+  <!-- EN: .50 cal bolt (tempest) -->
+  <Bullet_Bolter50_Tempest.label>TODO</Bullet_Bolter50_Tempest.label>
+  
+</LanguageData>

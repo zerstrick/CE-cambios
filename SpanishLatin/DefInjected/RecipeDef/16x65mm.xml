@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 16x65mm (HE) cartridge x100 -->
+  <MakeAmmo_16x65mm_HE.label>TODO</MakeAmmo_16x65mm_HE.label>
+  <!-- EN: Craft 100 16x65mm (HE) cartridges. -->
+  <MakeAmmo_16x65mm_HE.description>TODO</MakeAmmo_16x65mm_HE.description>
+  <!-- EN: Making 16x65mm (HE) cartridges. -->
+  <MakeAmmo_16x65mm_HE.jobString>TODO</MakeAmmo_16x65mm_HE.jobString>
+  
+</LanguageData>

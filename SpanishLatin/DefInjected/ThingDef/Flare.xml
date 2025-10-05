@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: flare round -->
+  <Ammo_Flare.label>TODO</Ammo_Flare.label>
+  <!-- EN: A flare round for illumination.
+\n\nFlare:
+\nSpecial round based around a brightly-burning incendiary element, used for signaling and illumination.
+\n\nUșèð þý: -->
+  <Ammo_Flare.description>TODO</Ammo_Flare.description>
+  
+  <!-- EN: bioferrite flare round -->
+  <Ammo_FlareBioferrite.label>TODO</Ammo_FlareBioferrite.label>
+  <!-- EN: A flare round for illumination.
+\n\nDisruptor flare:
+\nA capsule of bioferrite encased in shotgun shell used to create a local psychic disruption. This stuns psychically sensitive creatures and reveals those that are invisible.
+\n\nUșèð þý: -->
+  <Ammo_FlareBioferrite.description>TODO</Ammo_FlareBioferrite.description>
+  
+  <!-- EN: flare -->
+  <Bullet_Flare.label>TODO</Bullet_Flare.label>
+  
+  <!-- EN: bioferrite flare -->
+  <Bullet_FlareBioferrite.label>TODO</Bullet_FlareBioferrite.label>
+  
+  <!-- EN: disruptor flare -->
+  <CE_DisruptorFlareSmall.label>TODO</CE_DisruptorFlareSmall.label>
+  
+  <!-- EN: Flare -->
+  <Flare.label>TODO</Flare.label>
+  
+</LanguageData>

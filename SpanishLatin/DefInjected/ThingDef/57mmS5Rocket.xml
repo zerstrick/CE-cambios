@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 57mm rocket (HE) -->
+  <Ammo_57mmRocket_HE.label>TODO</Ammo_57mmRocket_HE.label>
+  <!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+  <Ammo_57mmRocket_HE.description>TODO</Ammo_57mmRocket_HE.description>
+  
+  <!-- EN: 57mm rocket (HEAT) -->
+  <Ammo_57mmRocket_HEAT.label>TODO</Ammo_57mmRocket_HEAT.label>
+  <!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+  <Ammo_57mmRocket_HEAT.description>TODO</Ammo_57mmRocket_HEAT.description>
+  
+  <!-- EN: 57mm rocket (Thermobaric) -->
+  <Ammo_57mmRocket_Thermobaric.label>TODO</Ammo_57mmRocket_Thermobaric.label>
+  <!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+  <Ammo_57mmRocket_Thermobaric.description>TODO</Ammo_57mmRocket_Thermobaric.description>
+  
+  <!-- EN: 57mm Rocket (HE) -->
+  <Bullet_57mmRocket_HE.label>TODO</Bullet_57mmRocket_HE.label>
+  
+  <!-- EN: 57mm Rocket (HE) -->
+  <Bullet_57mmRocket_HE_indirect.label>TODO</Bullet_57mmRocket_HE_indirect.label>
+  
+  <!-- EN: 57mm Rocket (HEAT) -->
+  <Bullet_57mmRocket_HEAT.label>TODO</Bullet_57mmRocket_HEAT.label>
+  
+  <!-- EN: 57mm Rocket (HEAT) -->
+  <Bullet_57mmRocket_HEAT_indirect.label>TODO</Bullet_57mmRocket_HEAT_indirect.label>
+  
+  <!-- EN: 57mm Rocket (Thermobaric) -->
+  <Bullet_57mmRocket_Thermobaric.label>TODO</Bullet_57mmRocket_Thermobaric.label>
+  
+  <!-- EN: 57mm Rocket (Thermobaric) -->
+  <Bullet_57mmRocket_Thermobaric_indirect.label>TODO</Bullet_57mmRocket_Thermobaric_indirect.label>
+  
+</LanguageData>

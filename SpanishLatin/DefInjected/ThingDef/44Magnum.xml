@@ -1,23 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_44Magnum_FMJ.label>.44 Magnum cartridge (FMJ)</Ammo_44Magnum_FMJ.label>
-  <Ammo_44Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_FMJ.description>
-
-  <Ammo_44Magnum_AP.label>.44 Magnum cartridge (AP)</Ammo_44Magnum_AP.label>
-  <Ammo_44Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_AP.description>
-
-  <Ammo_44Magnum_HP.label>.44 Magnum cartridge (HP)</Ammo_44Magnum_HP.label>
-  <Ammo_44Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_HP.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_44Magnum_FMJ.label>.44 Magnum bullet (FMJ)</Bullet_44Magnum_FMJ.label>
-  <Bullet_44Magnum_AP.label>.44 Magnum bullet (AP)</Bullet_44Magnum_AP.label>
-  <Bullet_44Magnum_HP.label>.44 Magnum bullet (HP)</Bullet_44Magnum_HP.label>
-
-
+  
+  <!-- EN: .44 Magnum (AP) -->
+  <Ammo_44Magnum_AP.label>TODO</Ammo_44Magnum_AP.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers.
+\n\nArmor-piercing:
+\nFeatures a hardened steel penetrator core for increased armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_44Magnum_AP.description>TODO</Ammo_44Magnum_AP.description>
+  
+  <!-- EN: .44 Magnum (FMJ) -->
+  <Ammo_44Magnum_FMJ.label>TODO</Ammo_44Magnum_FMJ.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers.
+\n\nFull metal jacket:
+\nThe soft lead core is encased in a harder metal coating, combining a medium amount of stopping power and armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_44Magnum_FMJ.description>TODO</Ammo_44Magnum_FMJ.description>
+  
+  <!-- EN: .44 Magnum (HP) -->
+  <Ammo_44Magnum_HP.label>TODO</Ammo_44Magnum_HP.label>
+  <!-- EN: Ancient pistol cartridge originally designed for revolvers.
+\n\nHollow point:
+\nA hollowed out tip causes the bullet to expand on impact, increasing tissue damage at the cost of armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_44Magnum_HP.description>TODO</Ammo_44Magnum_HP.description>
+  
+  <!-- EN: .44 Magnum bullet (AP) -->
+  <Bullet_44Magnum_AP.label>TODO</Bullet_44Magnum_AP.label>
+  
+  <!-- EN: .44 Magnum bullet (FMJ) -->
+  <Bullet_44Magnum_FMJ.label>TODO</Bullet_44Magnum_FMJ.label>
+  
+  <!-- EN: .44 Magnum bullet (HP) -->
+  <Bullet_44Magnum_HP.label>TODO</Bullet_44Magnum_HP.label>
+  
+  <!-- EN: .44 Magnum bullet (AP) -->
+  <Bullet_44Magnum_HV_AP.label>TODO</Bullet_44Magnum_HV_AP.label>
+  
+  <!-- EN: .44 Magnum bullet (FMJ) -->
+  <Bullet_44Magnum_HV_FMJ.label>TODO</Bullet_44Magnum_HV_FMJ.label>
+  
+  <!-- EN: .44 Magnum bullet (HP) -->
+  <Bullet_44Magnum_HV_HP.label>TODO</Bullet_44Magnum_HV_HP.label>
+  
 </LanguageData>

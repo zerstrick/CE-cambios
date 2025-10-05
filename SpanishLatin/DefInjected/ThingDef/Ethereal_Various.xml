@@ -1,13 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- <ThingDef Abstract="True" Name="EtherealThingBase">
-		<category>Ethereal</category>
-		<useHitPoints>false</useHitPoints>
-		<drawerType>None</drawerType>
-	</ThingDef> -->
-
-  <ExplosionCE.label>explosion</ExplosionCE.label>
-
-
+  
+  <!-- EN: explosion -->
+  <ExplosionCE.label>TODO</ExplosionCE.label>
+  
 </LanguageData>

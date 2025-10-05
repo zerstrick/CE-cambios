@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: magnum rifle cartridge (AP) -->
+  <Ammo_RifleMagnum_AP.label>TODO</Ammo_RifleMagnum_AP.label>
+  <!-- EN: High power rifle ammunition, used mainly by long range sniper rifles. -->
+  <Ammo_RifleMagnum_AP.description>TODO</Ammo_RifleMagnum_AP.description>
+  
+  <!-- EN: magnum rifle cartridge (FMJ) -->
+  <Ammo_RifleMagnum_FMJ.label>TODO</Ammo_RifleMagnum_FMJ.label>
+  <!-- EN: High power rifle ammunition, used mainly by long range sniper rifles. -->
+  <Ammo_RifleMagnum_FMJ.description>TODO</Ammo_RifleMagnum_FMJ.description>
+  
+  <!-- EN: magnum rifle cartridge (AP-HE) -->
+  <Ammo_RifleMagnum_HE.label>TODO</Ammo_RifleMagnum_HE.label>
+  <!-- EN: High power rifle ammunition, used mainly by long range sniper rifles. -->
+  <Ammo_RifleMagnum_HE.description>TODO</Ammo_RifleMagnum_HE.description>
+  
+  <!-- EN: magnum rifle cartridge (AP-I) -->
+  <Ammo_RifleMagnum_Incendiary.label>TODO</Ammo_RifleMagnum_Incendiary.label>
+  <!-- EN: High power rifle ammunition, used mainly by long range sniper rifles. -->
+  <Ammo_RifleMagnum_Incendiary.description>TODO</Ammo_RifleMagnum_Incendiary.description>
+  
+  <!-- EN: magnum rifle cartridge (Sabot) -->
+  <Ammo_RifleMagnum_Sabot.label>TODO</Ammo_RifleMagnum_Sabot.label>
+  <!-- EN: High power rifle ammunition, used mainly by long range sniper rifles. -->
+  <Ammo_RifleMagnum_Sabot.description>TODO</Ammo_RifleMagnum_Sabot.description>
+  
+</LanguageData>

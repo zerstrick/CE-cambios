@@ -1,20 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_MusketBall.label>musket ball</Ammo_MusketBall.label>
-  <Ammo_MusketBall.description>A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms.</Ammo_MusketBall.description>
-
-
-  <!-- Projectiles (High Velocity) -->
-
-  <Bullet_FastMusketBall.label>musket ball</Bullet_FastMusketBall.label>
-
-
-  <!-- Projectiles (Low Velocity) -->
-
-  <Bullet_SlowMusketBall.label>musket ball</Bullet_SlowMusketBall.label>
-
-
+  
+  <!-- EN: musket ball -->
+  <Ammo_MusketBall.label>TODO</Ammo_MusketBall.label>
+  <!-- EN: A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms. -->
+  <Ammo_MusketBall.description>TODO</Ammo_MusketBall.description>
+  
+  <!-- EN: musket ball -->
+  <Bullet_FastMusketBall.label>TODO</Bullet_FastMusketBall.label>
+  
+  <!-- EN: musket ball -->
+  <Bullet_SlowMusketBall.label>TODO</Bullet_SlowMusketBall.label>
+  
 </LanguageData>

@@ -1,23 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_8x22mmNambu_FMJ.label>8x22mm Nambu cartridge (FMJ)</Ammo_8x22mmNambu_FMJ.label>
-  <Ammo_8x22mmNambu_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_FMJ.description>
-
-  <Ammo_8x22mmNambu_AP.label>8x22mm Nambu cartridge (AP)</Ammo_8x22mmNambu_AP.label>
-  <Ammo_8x22mmNambu_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_AP.description>
-
-  <Ammo_8x22mmNambu_HP.label>8x22mm Nambu cartridge (HP)</Ammo_8x22mmNambu_HP.label>
-  <Ammo_8x22mmNambu_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_HP.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_8x22mmNambu_FMJ.label>8mm Nambu bullet (FMJ)</Bullet_8x22mmNambu_FMJ.label>
-  <Bullet_8x22mmNambu_AP.label>8x22mm Nambu bullet (AP)</Bullet_8x22mmNambu_AP.label>
-  <Bullet_8x22mmNambu_HP.label>8x22mm Nambu bullet (HP)</Bullet_8x22mmNambu_HP.label>
-
-
+  
+  <!-- EN: 8x22mm Nambu (AP) -->
+  <Ammo_8x22mmNambu_AP.label>TODO</Ammo_8x22mmNambu_AP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_8x22mmNambu_AP.description>TODO</Ammo_8x22mmNambu_AP.description>
+  
+  <!-- EN: 8x22mm Nambu (FMJ) -->
+  <Ammo_8x22mmNambu_FMJ.label>TODO</Ammo_8x22mmNambu_FMJ.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_8x22mmNambu_FMJ.description>TODO</Ammo_8x22mmNambu_FMJ.description>
+  
+  <!-- EN: 8x22mm Nambu (HP) -->
+  <Ammo_8x22mmNambu_HP.label>TODO</Ammo_8x22mmNambu_HP.label>
+  <!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+  <Ammo_8x22mmNambu_HP.description>TODO</Ammo_8x22mmNambu_HP.description>
+  
+  <!-- EN: 8x22mm Nambu bullet (AP) -->
+  <Bullet_8x22mmNambu_AP.label>TODO</Bullet_8x22mmNambu_AP.label>
+  
+  <!-- EN: 8mm Nambu bullet (FMJ) -->
+  <Bullet_8x22mmNambu_FMJ.label>TODO</Bullet_8x22mmNambu_FMJ.label>
+  
+  <!-- EN: 8x22mm Nambu bullet (HP) -->
+  <Bullet_8x22mmNambu_HP.label>TODO</Bullet_8x22mmNambu_HP.label>
+  
 </LanguageData>

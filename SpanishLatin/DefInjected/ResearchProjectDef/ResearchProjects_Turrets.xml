@@ -1,31 +1,44 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <CE_TurretHeavyWeapons.label>heavy weapons</CE_TurretHeavyWeapons.label>
-  <CE_TurretHeavyWeapons.description>Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery.</CE_TurretHeavyWeapons.description>
-
-
-  <!-- <ResearchProjectDef>
-    <defName>CE_TurretAI</defName>
-    <label>automated turrets</label>
-    <description>Learn to construct and program basic auto-turrets.</description>
-    <baseCost>2000</baseCost>
-    <techLevel>Industrial</techLevel>
-    <prerequisites>
-      <li>Machining</li>
-      <li>MicroelectronicsBasics</li>
-    </prerequisites>
-    <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
-    <requiredResearchFacilities>
-      <li>MultiAnalyzer</li>
-    </requiredResearchFacilities>
-  </ResearchProjectDef> -->
-
-  <CE_ChargeTurret.label>charge blaster turrets</CE_ChargeTurret.label>
-  <CE_ChargeTurret.description>Learn to construct charge blaster turrets.</CE_ChargeTurret.description>
-
-  <CE_HeavyTurret.label>heavy auto turrets</CE_HeavyTurret.label>
-  <CE_HeavyTurret.description>Learn to construct heavy auto-turrets.</CE_HeavyTurret.description>
-
-
+  
+  <!-- EN: charge blaster turrets -->
+  <CE_ChargeTurret.label>TODO</CE_ChargeTurret.label>
+  <!-- EN: Learn to construct charge blaster turrets. -->
+  <CE_ChargeTurret.description>TODO</CE_ChargeTurret.description>
+  <!-- EN:
+    <li>subject->charge turrets</li>
+    <li>subject_story->created denser power units for higher draw</li>
+    <li>subject_story->explored the remnants of a toxic world battlefield</li>
+    <li>subject_story->took part in a doomed assault against a mechanoid stronghold</li>
+    <li>subject_gerund->building charged-shot turrets</li>
+  -->
+  <CE_ChargeTurret.generalRules.rulesStrings>TODO</CE_ChargeTurret.generalRules.rulesStrings>
+  
+  <!-- EN: heavy auto turrets -->
+  <CE_HeavyTurret.label>TODO</CE_HeavyTurret.label>
+  <!-- EN: Learn to construct heavy auto-turrets. -->
+  <CE_HeavyTurret.description>TODO</CE_HeavyTurret.description>
+  <!-- EN:
+    <li>subject->heavy autoturrets</li>
+    <li>subject_story->optimized automated fire-control systems for long range engagements</li>
+    <li>subject_story->developed improved electronic IFF protocols</li>
+    <li>subject_story->worked for an urbworld firm that produced mechanoid sensory systems</li>
+    <li>subject_gerund->automating heavy emplacements</li>
+  -->
+  <CE_HeavyTurret.generalRules.rulesStrings>TODO</CE_HeavyTurret.generalRules.rulesStrings>
+  
+  <!-- EN: heavy weapons -->
+  <CE_TurretHeavyWeapons.label>TODO</CE_TurretHeavyWeapons.label>
+  <!-- EN: Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery. -->
+  <CE_TurretHeavyWeapons.description>TODO</CE_TurretHeavyWeapons.description>
+  <!-- EN:
+    <li>subject->heavy-duty barrels</li>
+    <li>subject->high-caliber emplacements</li>
+    <li>subject_story->hardened components to withstand enormously high pressures</li>
+    <li>subject_story->survived a years-long siege on a war-world</li>
+    <li>subject_story->worked in a factory that manufactured artillery barrels</li>
+    <li>subject_gerund->building heavy emplacements</li>
+  -->
+  <CE_TurretHeavyWeapons.generalRules.rulesStrings>TODO</CE_TurretHeavyWeapons.generalRules.rulesStrings>
+  
 </LanguageData>

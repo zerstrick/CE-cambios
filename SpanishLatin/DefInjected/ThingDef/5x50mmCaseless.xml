@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 5x50mm Caseless (Sabot) -->
+  <Ammo_5x50mmCaseless_Sabot.label>TODO</Ammo_5x50mmCaseless_Sabot.label>
+  <!-- EN: A long caseless cartridge with a solid propellant enveloping the slim projectile.
+\n\nArmor-piercing discarding sabot:
+\nUses a discarding sabot to fire an undersized projectile at higher muzzle velocities, greatly improving armor penetration.
+\n\nUșèð þý: -->
+  <Ammo_5x50mmCaseless_Sabot.description>TODO</Ammo_5x50mmCaseless_Sabot.description>
+  
+  <!-- EN: 5x50mm Caseless bullet (Sabot) -->
+  <Bullet_5x50mmCaseless_Sabot.label>TODO</Bullet_5x50mmCaseless_Sabot.label>
+  
+  <!-- EN: 5x50mm Caseless bullet (Sabot) -->
+  <Bullet_5x50mmCaseless_Sabot_HV.label>TODO</Bullet_5x50mmCaseless_Sabot_HV.label>
+  
+  <!-- EN: 5x50mm Caseless bullet (Sabot) -->
+  <Bullet_5x50mmCaseless_Sabot_LV.label>TODO</Bullet_5x50mmCaseless_Sabot_LV.label>
+  
+  <!-- EN: 5x50mm Caseless bullet (Toxic) -->
+  <Bullet_5x50mmCaseless_Toxic.label>TODO</Bullet_5x50mmCaseless_Toxic.label>
+  
+</LanguageData>

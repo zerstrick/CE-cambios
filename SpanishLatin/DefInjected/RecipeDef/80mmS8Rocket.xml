@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 80mm S8 (HE) rockets x5 -->
+  <MakeAmmo_80mmRocket_HE.label>TODO</MakeAmmo_80mmRocket_HE.label>
+  <!-- EN: Craft 5 80mm S8 (HE) rockets. -->
+  <MakeAmmo_80mmRocket_HE.description>TODO</MakeAmmo_80mmRocket_HE.description>
+  <!-- EN: Making 80mm S8 (HE) rockets. -->
+  <MakeAmmo_80mmRocket_HE.jobString>TODO</MakeAmmo_80mmRocket_HE.jobString>
+  
+  <!-- EN: make 80mm S8 (HEAT) rockets x5 -->
+  <MakeAmmo_80mmRocket_HEAT.label>TODO</MakeAmmo_80mmRocket_HEAT.label>
+  <!-- EN: Craft 5 80mm S8 (HEAT) rockets. -->
+  <MakeAmmo_80mmRocket_HEAT.description>TODO</MakeAmmo_80mmRocket_HEAT.description>
+  <!-- EN: Making 80mm S8 (HEAT) rockets. -->
+  <MakeAmmo_80mmRocket_HEAT.jobString>TODO</MakeAmmo_80mmRocket_HEAT.jobString>
+  
+  <!-- EN: make 80mm S8 (Thermobaric) rockets x5 -->
+  <MakeAmmo_80mmRocket_Thermobaric.label>TODO</MakeAmmo_80mmRocket_Thermobaric.label>
+  <!-- EN: Craft 5 80mm S8 (Thermobaric) rockets. -->
+  <MakeAmmo_80mmRocket_Thermobaric.description>TODO</MakeAmmo_80mmRocket_Thermobaric.description>
+  <!-- EN: Making 80mm S8 (Thermobaric) rockets. -->
+  <MakeAmmo_80mmRocket_Thermobaric.jobString>TODO</MakeAmmo_80mmRocket_Thermobaric.jobString>
+  
+</LanguageData>

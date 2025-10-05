@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 120mm mortar shell (EMP) -->
+  <Bullet_120mmMortarShell_EMP.label>TODO</Bullet_120mmMortarShell_EMP.label>
+  
+  <!-- EN: 120mm mortar shell (Foam) -->
+  <Bullet_120mmMortarShell_Firefoam.label>TODO</Bullet_120mmMortarShell_Firefoam.label>
+  
+  <!-- EN: 120mm mortar shell (HE) -->
+  <Bullet_120mmMortarShell_HE.label>TODO</Bullet_120mmMortarShell_HE.label>
+  
+  <!-- EN: 120mm mortar shell (Airburst) -->
+  <Bullet_120mmMortarShell_HE_HFuzed.label>TODO</Bullet_120mmMortarShell_HE_HFuzed.label>
+  <!-- EN: mortar shell (Airburst) -->
+  <Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>TODO</Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>
+  
+  <!-- EN: 120mm mortar shell (Incendiary) -->
+  <Bullet_120mmMortarShell_Incendiary.label>TODO</Bullet_120mmMortarShell_Incendiary.label>
+  
+  <!-- EN: 120mm mortar shell (Smoke) -->
+  <Bullet_120mmMortarShell_Smoke.label>TODO</Bullet_120mmMortarShell_Smoke.label>
+  
+  <!-- EN: 120mm mortar shell (EMP) -->
+  <Shell_120mmMortar_EMP.label>TODO</Shell_120mmMortar_EMP.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_EMP.description>TODO</Shell_120mmMortar_EMP.description>
+  
+  <!-- EN: 120mm mortar shell (Foam) -->
+  <Shell_120mmMortar_Firefoam.label>TODO</Shell_120mmMortar_Firefoam.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_Firefoam.description>TODO</Shell_120mmMortar_Firefoam.description>
+  
+  <!-- EN: 120mm mortar shell (HE) -->
+  <Shell_120mmMortar_HE.label>TODO</Shell_120mmMortar_HE.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_HE.description>TODO</Shell_120mmMortar_HE.description>
+  
+  <!-- EN: 120mm mortar shell (Airburst) -->
+  <Shell_120mmMortar_HE_HFuzed.label>TODO</Shell_120mmMortar_HE_HFuzed.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_HE_HFuzed.description>TODO</Shell_120mmMortar_HE_HFuzed.description>
+  
+  <!-- EN: 120mm mortar shell (Incendiary) -->
+  <Shell_120mmMortar_Incendiary.label>TODO</Shell_120mmMortar_Incendiary.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_Incendiary.description>TODO</Shell_120mmMortar_Incendiary.description>
+  
+  <!-- EN: 120mm mortar shell (Smoke) -->
+  <Shell_120mmMortar_Smoke.label>TODO</Shell_120mmMortar_Smoke.label>
+  <!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+  <Shell_120mmMortar_Smoke.description>TODO</Shell_120mmMortar_Smoke.description>
+  
+</LanguageData>

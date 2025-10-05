@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioferrite flame -->
+  <BioferriteFlame.label>TODO</BioferriteFlame.label>
+  <!-- EN: {0} has burned to death. -->
+  <BioferriteFlame.deathMessage>TODO</BioferriteFlame.deathMessage>
+  
+  <!-- EN: scratch -->
+  <DemolishScratch.label>TODO</DemolishScratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <DemolishScratch.deathMessage>TODO</DemolishScratch.deathMessage>
+  
+  <!-- EN: nerve -->
+  <NerveBioferrite.label>TODO</NerveBioferrite.label>
+  <!-- EN: {0} has been killed by nerve shock. -->
+  <NerveBioferrite.deathMessage>TODO</NerveBioferrite.deathMessage>
+  
+</LanguageData>

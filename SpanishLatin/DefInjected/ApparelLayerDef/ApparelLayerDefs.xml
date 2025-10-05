@@ -1,12 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Webbing.label>webbing</Webbing.label>
-  <Backpack.label>backpack</Backpack.label>
-  <Shield.label>shield</Shield.label>
-  <OnHead.label>skin (head)</OnHead.label>
-  <StrappedHead.label>strapped (head)</StrappedHead.label>
-  <MiddleHead.label>middle (head)</MiddleHead.label>
-
-
+  
+  <!-- EN: backpack -->
+  <Backpack.label>mochila</Backpack.label>
+  
+  <!-- EN: skin (head) -->
+  <OnHead.label>piel (cabeza)</OnHead.label>
+  
+  <!-- EN: shield -->
+  <Shield.label>escudo</Shield.label>
+  
+  <!-- EN: strapped (head) -->
+  <StrappedHead.label>ajustado (cabeza)</StrappedHead.label>
+  
+  <!-- EN: webbing -->
+  <Webbing.label>cinta</Webbing.label>
+  
 </LanguageData>

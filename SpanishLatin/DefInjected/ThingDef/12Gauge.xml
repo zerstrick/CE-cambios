@@ -1,34 +1,60 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_12Gauge_Buck.label>12 gauge shell (Buck)</Ammo_12Gauge_Buck.label>
-  <Ammo_12Gauge_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Buck.description>
-
-
-  <!-- </ThingDef> -->
-
-  <Ammo_12Gauge_Slug.label>12 gauge shell (Slug)</Ammo_12Gauge_Slug.label>
-  <Ammo_12Gauge_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Slug.description>
-
-  <Ammo_12Gauge_Beanbag.label>12 gauge shell (Bean)</Ammo_12Gauge_Beanbag.label>
-  <Ammo_12Gauge_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Beanbag.description>
-
-  <Ammo_12Gauge_ElectroSlug.label>12 gauge shell (EMP)</Ammo_12Gauge_ElectroSlug.label>
-  <Ammo_12Gauge_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_ElectroSlug.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_12Gauge_Buck.label>buckshot pellet</Bullet_12Gauge_Buck.label>
-
-
-  <!-- </ThingDef> -->
-
-  <Bullet_12Gauge_Slug.label>shotgun slug</Bullet_12Gauge_Slug.label>
-  <Bullet_12Gauge_Beanbag.label>beanbag</Bullet_12Gauge_Beanbag.label>
-  <Bullet_12Gauge_ElectroSlug.label>EMP slug</Bullet_12Gauge_ElectroSlug.label>
-
-
+  
+  <!-- EN: 12 gauge shell (Bean) -->
+  <Ammo_12Gauge_Beanbag.label>TODO</Ammo_12Gauge_Beanbag.label>
+  <!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.
+\n\nBeanbag:
+\nNon-lethal rubber round originally designed for riot control. Accurate over short ranges only. Designed to temporarily incapacitate a target, it does not cause bleeding or damage to internal organs.
+\n\nUșèð þý: -->
+  <Ammo_12Gauge_Beanbag.description>TODO</Ammo_12Gauge_Beanbag.description>
+  
+  <!-- EN: 12 gauge shell (Buck) -->
+  <Ammo_12Gauge_Buck.label>TODO</Ammo_12Gauge_Buck.label>
+  <!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.
+\n\nBuckshot:
+\nFilled with several buckshot pellets which spread in a tight pattern.
+\n\nUșèð þý: -->
+  <Ammo_12Gauge_Buck.description>TODO</Ammo_12Gauge_Buck.description>
+  
+  <!-- EN: 12 gauge shell (EMP) -->
+  <Ammo_12Gauge_ElectroSlug.label>TODO</Ammo_12Gauge_ElectroSlug.label>
+  <!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.
+\n\nEMP:
+\nDesigned to combat mechanoids, the projectile is accurate over short range only and delivers an electro-magnetic pulse on impact, temporarily disabling electronics.
+\n\nUșèð þý: -->
+  <Ammo_12Gauge_ElectroSlug.description>TODO</Ammo_12Gauge_ElectroSlug.description>
+  
+  <!-- EN: 12 gauge shell (Slug) -->
+  <Ammo_12Gauge_Slug.label>TODO</Ammo_12Gauge_Slug.label>
+  <!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.
+\n\nSlug:
+\nThe single large projectile offers better damage potential and armor penetration compared to regular shot but is inaccurate over large distances.
+\n\nUșèð þý: -->
+  <Ammo_12Gauge_Slug.description>TODO</Ammo_12Gauge_Slug.description>
+  
+  <!-- EN: beanbag -->
+  <Bullet_12Gauge_Beanbag.label>TODO</Bullet_12Gauge_Beanbag.label>
+  
+  <!-- EN: beanbag -->
+  <Bullet_12Gauge_Beanbag_SB.label>TODO</Bullet_12Gauge_Beanbag_SB.label>
+  
+  <!-- EN: buckshot pellet -->
+  <Bullet_12Gauge_Buck.label>TODO</Bullet_12Gauge_Buck.label>
+  
+  <!-- EN: buckshot pellet -->
+  <Bullet_12Gauge_Buck_SB.label>TODO</Bullet_12Gauge_Buck_SB.label>
+  
+  <!-- EN: EMP slug -->
+  <Bullet_12Gauge_ElectroSlug.label>TODO</Bullet_12Gauge_ElectroSlug.label>
+  
+  <!-- EN: EMP slug -->
+  <Bullet_12Gauge_ElectroSlug_SB.label>TODO</Bullet_12Gauge_ElectroSlug_SB.label>
+  
+  <!-- EN: shotgun slug -->
+  <Bullet_12Gauge_Slug.label>TODO</Bullet_12Gauge_Slug.label>
+  
+  <!-- EN: shotgun slug -->
+  <Bullet_12Gauge_Slug_SB.label>TODO</Bullet_12Gauge_Slug_SB.label>
+  
 </LanguageData>

@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_60x225mmGamma_Standard.label>60x225mm Gamma Shell (Standard)</Ammo_60x225mmGamma_Standard.label>
-  <Ammo_60x225mmGamma_Standard.description>Shell containing large amounts of ionising gamma radiation.</Ammo_60x225mmGamma_Standard.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_60x225mmGamma_Standard.label>radiation cannon shell</Bullet_60x225mmGamma_Standard.label>
-
-
+  
+  <!-- EN: 60x225mm gamma shell (Standard) -->
+  <Ammo_60x225mmGamma_Standard.label>TODO</Ammo_60x225mmGamma_Standard.label>
+  <!-- EN: Shell containing large amounts of ionising gamma radiation. -->
+  <Ammo_60x225mmGamma_Standard.description>TODO</Ammo_60x225mmGamma_Standard.description>
+  
+  <!-- EN: radiation cannon shell -->
+  <Bullet_60x225mmGamma_Standard.label>TODO</Bullet_60x225mmGamma_Standard.label>
+  
 </LanguageData>

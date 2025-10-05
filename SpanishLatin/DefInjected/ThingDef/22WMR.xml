@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .22 WMR (AP) -->
+  <Ammo_22WMR_AP.label>TODO</Ammo_22WMR_AP.label>
+  <!-- EN: Common rimfire cartridge with noticebly more power than other .22 rimfire rounds. -->
+  <Ammo_22WMR_AP.description>TODO</Ammo_22WMR_AP.description>
+  
+  <!-- EN: .22 WMR (FMJ) -->
+  <Ammo_22WMR_FMJ.label>TODO</Ammo_22WMR_FMJ.label>
+  <!-- EN: Common rimfire cartridge with noticebly more power than other .22 rimfire rounds. -->
+  <Ammo_22WMR_FMJ.description>TODO</Ammo_22WMR_FMJ.description>
+  
+  <!-- EN: .22 WMR (HP) -->
+  <Ammo_22WMR_HP.label>TODO</Ammo_22WMR_HP.label>
+  <!-- EN: Common rimfire cartridge with noticebly more power than other .22 rimfire rounds. -->
+  <Ammo_22WMR_HP.description>TODO</Ammo_22WMR_HP.description>
+  
+  <!-- EN: .22 WMR bullet (AP) -->
+  <Bullet_22WMR_AP.label>TODO</Bullet_22WMR_AP.label>
+  
+  <!-- EN: .22 WMR bullet (FMJ) -->
+  <Bullet_22WMR_FMJ.label>TODO</Bullet_22WMR_FMJ.label>
+  
+  <!-- EN: .22 WMR bullet (HP) -->
+  <Bullet_22WMR_HP.label>TODO</Bullet_22WMR_HP.label>
+  
+</LanguageData>

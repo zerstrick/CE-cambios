@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo resources -->
-
-  <Prometheum.label>prometheum</Prometheum.label>
-  <Prometheum.description>Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds.</Prometheum.description>
-
-  <FSX.label>FSX</FSX.label>
-  <FSX.description>High-explosive chemical extracted from Boomalope sacks, it is used in a variety of industrial and military applications.</FSX.description>
-
-
+  
+  <!-- EN: FSX -->
+  <FSX.label>TODO</FSX.label>
+  <!-- EN: High-explosive chemical extracted from Boomalope sacks and synthesized from chemfuel, it is used in a variety of industrial and military applications. -->
+  <FSX.description>TODO</FSX.description>
+  
+  <!-- EN: prometheum -->
+  <Prometheum.label>TODO</Prometheum.label>
+  <!-- EN: Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds. -->
+  <Prometheum.description>TODO</Prometheum.description>
+  
 </LanguageData>

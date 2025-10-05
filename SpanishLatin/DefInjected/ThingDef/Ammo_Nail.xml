@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: nail -->
+  <Ammo_Nail.label>TODO</Ammo_Nail.label>
+  <!-- EN: A pointed carpentry nail a few inches long. Not suitable for combat when used with conventional tools. -->
+  <Ammo_Nail.description>TODO</Ammo_Nail.description>
+  
+  <!-- EN: nail -->
+  <Bullet_Nail.label>TODO</Bullet_Nail.label>
+  
+  <!-- EN: nail -->
+  <Bullet_Nail_HV.label>TODO</Bullet_Nail_HV.label>
+  
+</LanguageData>

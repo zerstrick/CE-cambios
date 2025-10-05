@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 105mm (EMP) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_EMP.label>TODO</MakeAmmo_105mmHowitzerShell_EMP.label>
+  <!-- EN: Craft 2 105mm (EMP) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_EMP.description>TODO</MakeAmmo_105mmHowitzerShell_EMP.description>
+  <!-- EN: Making 105mm (EMP) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_EMP.jobString>TODO</MakeAmmo_105mmHowitzerShell_EMP.jobString>
+  
+  <!-- EN: make 105mm (HE) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_HE.label>TODO</MakeAmmo_105mmHowitzerShell_HE.label>
+  <!-- EN: Craft 2 105mm (HE) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HE.description>TODO</MakeAmmo_105mmHowitzerShell_HE.description>
+  <!-- EN: Making 105mm (HE) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HE.jobString>TODO</MakeAmmo_105mmHowitzerShell_HE.jobString>
+  
+  <!-- EN: make 105mm (Airburst) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_HE_HFuzed.label>TODO</MakeAmmo_105mmHowitzerShell_HE_HFuzed.label>
+  <!-- EN: Craft 2 105mm (Airburst) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HE_HFuzed.description>TODO</MakeAmmo_105mmHowitzerShell_HE_HFuzed.description>
+  <!-- EN: Making 105mm (Airburst) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HE_HFuzed.jobString>TODO</MakeAmmo_105mmHowitzerShell_HE_HFuzed.jobString>
+  
+  <!-- EN: make 105mm (HEAT) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_HEAT.label>TODO</MakeAmmo_105mmHowitzerShell_HEAT.label>
+  <!-- EN: Craft 2 105mm (HEAT) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HEAT.description>TODO</MakeAmmo_105mmHowitzerShell_HEAT.description>
+  <!-- EN: Making 105mm (HEAT) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_HEAT.jobString>TODO</MakeAmmo_105mmHowitzerShell_HEAT.jobString>
+  
+  <!-- EN: make 105mm (Incendiary) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_Incendiary.label>TODO</MakeAmmo_105mmHowitzerShell_Incendiary.label>
+  <!-- EN: Craft 2 105mm (Incendiary) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_Incendiary.description>TODO</MakeAmmo_105mmHowitzerShell_Incendiary.description>
+  <!-- EN: Making 105mm (Incendiary) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_Incendiary.jobString>TODO</MakeAmmo_105mmHowitzerShell_Incendiary.jobString>
+  
+  <!-- EN: make 105mm (Smoke) howitzer shells x2 -->
+  <MakeAmmo_105mmHowitzerShell_Smoke.label>TODO</MakeAmmo_105mmHowitzerShell_Smoke.label>
+  <!-- EN: Craft 2 105mm (Smoke) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_Smoke.description>TODO</MakeAmmo_105mmHowitzerShell_Smoke.description>
+  <!-- EN: Making 105mm (Smoke) howitzer shells. -->
+  <MakeAmmo_105mmHowitzerShell_Smoke.jobString>TODO</MakeAmmo_105mmHowitzerShell_Smoke.jobString>
+  
+</LanguageData>

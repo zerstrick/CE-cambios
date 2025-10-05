@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make 105x607mmR (HE) shells x2 -->
+  <MakeAmmo_105x607mmRShell_HE.label>TODO</MakeAmmo_105x607mmRShell_HE.label>
+  <!-- EN: Craft 2 105x607mmR (HE) shells. -->
+  <MakeAmmo_105x607mmRShell_HE.description>TODO</MakeAmmo_105x607mmRShell_HE.description>
+  <!-- EN: Making 105x607mmR (HE) shells. -->
+  <MakeAmmo_105x607mmRShell_HE.jobString>TODO</MakeAmmo_105x607mmRShell_HE.jobString>
+  
+  <!-- EN: make 105x607mmR (HEAT) shells x2 -->
+  <MakeAmmo_105x607mmRShell_HEAT.label>TODO</MakeAmmo_105x607mmRShell_HEAT.label>
+  <!-- EN: Craft 2 105x607mmR (HEAT) shells. -->
+  <MakeAmmo_105x607mmRShell_HEAT.description>TODO</MakeAmmo_105x607mmRShell_HEAT.description>
+  <!-- EN: Making 105x607mmR (HEAT) shells. -->
+  <MakeAmmo_105x607mmRShell_HEAT.jobString>TODO</MakeAmmo_105x607mmRShell_HEAT.jobString>
+  
+</LanguageData>

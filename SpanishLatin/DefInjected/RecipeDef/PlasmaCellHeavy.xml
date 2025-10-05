@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_PlasmaCellHeavy.label>make Plasma Heavy Power Cells</MakeAmmo_PlasmaCellHeavy.label>
-  <MakeAmmo_PlasmaCellHeavy.description>Craft 75 shots' worth of Plasma Heavy Power Cells.</MakeAmmo_PlasmaCellHeavy.description>
-  <MakeAmmo_PlasmaCellHeavy.jobString>Making Plasma Heavy Power Cells.</MakeAmmo_PlasmaCellHeavy.jobString>
-
-
+  
+  <!-- EN: make Plasma Heavy Power Cells -->
+  <MakeAmmo_PlasmaCellHeavy.label>TODO</MakeAmmo_PlasmaCellHeavy.label>
+  <!-- EN: Craft 75 shots' worth of Plasma Heavy Power Cells. -->
+  <MakeAmmo_PlasmaCellHeavy.description>TODO</MakeAmmo_PlasmaCellHeavy.description>
+  <!-- EN: Making Plasma Heavy Power Cells. -->
+  <MakeAmmo_PlasmaCellHeavy.jobString>TODO</MakeAmmo_PlasmaCellHeavy.jobString>
+  
 </LanguageData>

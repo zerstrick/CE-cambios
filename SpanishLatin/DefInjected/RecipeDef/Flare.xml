@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make flare x200 -->
+  <MakeAmmo_Flare.label>TODO</MakeAmmo_Flare.label>
+  <!-- EN: Craft 200 flare shells. -->
+  <MakeAmmo_Flare.description>TODO</MakeAmmo_Flare.description>
+  <!-- EN: Making flare shells. -->
+  <MakeAmmo_Flare.jobString>TODO</MakeAmmo_Flare.jobString>
+  
+  <!-- EN: make bioferrite flare x200 -->
+  <MakeAmmo_FlareBioferrite.label>TODO</MakeAmmo_FlareBioferrite.label>
+  <!-- EN: Craft 200 bioferrite flare shells. -->
+  <MakeAmmo_FlareBioferrite.description>TODO</MakeAmmo_FlareBioferrite.description>
+  <!-- EN: Making bioferrite flare shells. -->
+  <MakeAmmo_FlareBioferrite.jobString>TODO</MakeAmmo_FlareBioferrite.jobString>
+  
+</LanguageData>

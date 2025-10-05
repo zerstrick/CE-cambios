@@ -1,15 +1,72 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <CE_DescDamage>Damage</CE_DescDamage>
-  <CE_DescBaseDamage>Base damage</CE_DescBaseDamage>
-  <CE_DescExplosionRadius>Explosion radius</CE_DescExplosionRadius>
-  <CE_DescSecondaryExplosion>Secondary explosion</CE_DescSecondaryExplosion>
-  <CE_DescArmorPenetration>Armor penetration</CE_DescArmorPenetration>
-  <CE_DescSharpPenetration>Sharp penetration</CE_DescSharpPenetration>
-  <CE_DescBluntPenetration>Blunt penetration</CE_DescBluntPenetration>
-  <CE_DescPelletCount>Pellet count</CE_DescPelletCount>
-  <CE_DescSpreadMult>Spread factor</CE_DescSpreadMult>
-  <CE_DescFragments>Fragments</CE_DescFragments>
+	<!-- EN: Damage -->
+  <CE_DescDamage>TODO</CE_DescDamage>
+	<!-- EN: Base damage -->
+  <CE_DescBaseDamage>TODO</CE_DescBaseDamage>
+	<!-- EN: Explosion radius -->
+  <CE_DescExplosionRadius>TODO</CE_DescExplosionRadius>
+	<!-- EN: Secondary explosion -->
+  <CE_DescSecondaryExplosion>TODO</CE_DescSecondaryExplosion>
+	<!-- EN: Armor penetration -->
+  <CE_DescArmorPenetration>TODO</CE_DescArmorPenetration>
+	<!-- EN: Sharp penetration -->
+  <CE_DescSharpPenetration>TODO</CE_DescSharpPenetration>
+	<!-- EN: Blunt penetration -->
+  <CE_DescBluntPenetration>TODO</CE_DescBluntPenetration>
+	<!-- EN: Armor reduction -->
+  <CE_DescAmbientPenetration>TODO</CE_DescAmbientPenetration>
+	<!-- EN: Pellet count -->
+  <CE_DescPelletCount>TODO</CE_DescPelletCount>
+	<!-- EN: Spread factor -->
+  <CE_DescSpreadMult>TODO</CE_DescSpreadMult>
+	<!-- EN: Recoil factor -->
+  <CE_DescRecoilMult>TODO</CE_DescRecoilMult>
+	<!-- EN: Recoil offset -->
+  <CE_DescRecoilOffset>TODO</CE_DescRecoilOffset>
+	<!-- EN: Effective range factor -->
+  <CE_DescEffectiveRangeMult>TODO</CE_DescEffectiveRangeMult>
+	<!-- EN: Effective range offset -->
+  <CE_DescEffectiveRangeOffset>TODO</CE_DescEffectiveRangeOffset>
+	<!-- EN: Warmup time factor -->
+  <CE_DescWarmupMult>TODO</CE_DescWarmupMult>
+	<!-- EN: Warmup time offset -->
+  <CE_DescWarmupOffset>TODO</CE_DescWarmupOffset>
+	<!-- EN: Muzzle flash scale factor -->
+  <CE_DescMuzzleFlasMult>TODO</CE_DescMuzzleFlasMult>
+	<!-- EN: Muzzle flash scale offset -->
+  <CE_DescMuzzleFlashOffset>TODO</CE_DescMuzzleFlashOffset>
+	<!-- EN: Fragments -->
+  <CE_DescFragments>TODO</CE_DescFragments>
+
+	<!-- EN: Launched from {0} ({1}) to {2} ({3}) -->
+  <CE_TravelingShell_Description>TODO</CE_TravelingShell_Description>
+	<!-- EN: Enemy influenced -->
+  <CE_EnemyInfluenced>TODO</CE_EnemyInfluenced>
+	<!-- EN: Effects: -->
+  <CE_FactionRecord_Explanation_Effects>TODO</CE_FactionRecord_Explanation_Effects>
+	<!-- EN: Raids prevented for {0} days -->
+  <CE_FactionRecord_Explanation_RaidEmbargo>TODO</CE_FactionRecord_Explanation_RaidEmbargo>
+	<!-- EN: Strength affected by x{0} for {1} days -->
+  <CE_FactionRecord_Explanation_Strength>TODO</CE_FactionRecord_Explanation_Strength>
+	<!-- EN: Multiplier: -->
+  <CE_Multiplier>TODO</CE_Multiplier>
+	<!-- EN: Value: -->
+  <CE_SetValPartial>TODO</CE_SetValPartial>
+
+	<!-- EN: {0} was influenced by an unknown cause -->
+  <CE_FactionRecord_Explanation_None>TODO</CE_FactionRecord_Explanation_None>
+	<!-- EN: {0} leader died in a major blow -->
+  <CE_FactionRecord_Explanation_LeaderKilled>TODO</CE_FactionRecord_Explanation_LeaderKilled>
+	<!-- EN: Settlement belonging to {0} was destroyed -->
+  <CE_FactionRecord_Explanation_SettlementDestroyed>TODO</CE_FactionRecord_Explanation_SettlementDestroyed>
+	<!-- EN: Site belonging to {0} was destroyed -->
+  <CE_FactionRecord_Explanation_SiteDestroyed>TODO</CE_FactionRecord_Explanation_SiteDestroyed>
+	<!-- EN: Strengthened after an enemy of {0} was weakened -->
+  <CE_FactionRecord_Explanation_EnemyWeakened>TODO</CE_FactionRecord_Explanation_EnemyWeakened>
+
+	<!-- EN: Whether or not this item can be used to spot for artillery fire between maps. -->
+  <CE_Long_Range_Radio_Desc>TODO</CE_Long_Range_Radio_Desc>
 
 </LanguageData>

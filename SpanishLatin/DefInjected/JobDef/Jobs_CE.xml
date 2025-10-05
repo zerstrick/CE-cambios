@@ -1,15 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- General -->
-
-  <ReloadWeapon.reportString>Reloading FlagSource TargetB with AmmoType.</ReloadWeapon.reportString>
-  <RunForCover.reportString>Running for cover.</RunForCover.reportString>
-  <HunkerDown.reportString>Hunkering down.</HunkerDown.reportString>
-  <WaitKnockdown.reportString>Knocked down.</WaitKnockdown.reportString>
-  <ReloadTurret.reportString>Reloading TurretType TargetA with TargetB.</ReloadTurret.reportString>
-  <Stabilize.reportString>Stabilizing.</Stabilize.reportString>
-  <TakeFromOther.reportString>FlagC TargetA from TargetB.</TakeFromOther.reportString>
-
-
+  
+  <!-- EN: equipping TargetA. -->
+  <EquipFromInventory.reportString>TODO</EquipFromInventory.reportString>
+  
+  <!-- EN: Giving TargetB to TargetA. -->
+  <GiveAmmo.reportString>TODO</GiveAmmo.reportString>
+  
+  <!-- EN: Hunkering down. -->
+  <HunkerDown.reportString>TODO</HunkerDown.reportString>
+  
+  <!-- EN: Applying modifications TargetB at TargetA. -->
+  <ModifyWeapon.reportString>TODO</ModifyWeapon.reportString>
+  
+  <!-- EN: attacking TargetC using TargetA. -->
+  <OpportunisticAttack.reportString>TODO</OpportunisticAttack.reportString>
+  
+  <!-- EN: Reloading TargetA with TargetB. -->
+  <ReloadAutoLoader.reportString>TODO</ReloadAutoLoader.reportString>
+  
+  <!-- EN: Reloading TurretType TargetA with TargetB. -->
+  <ReloadTurret.reportString>TODO</ReloadTurret.reportString>
+  
+  <!-- EN: Reloading FlagSource TargetB with AmmoType. -->
+  <ReloadWeapon.reportString>TODO</ReloadWeapon.reportString>
+  
+  <!-- EN: Fixing TargetA's natural armor. -->
+  <RepairNaturalArmor.reportString>TODO</RepairNaturalArmor.reportString>
+  
+  <!-- EN: Running for cover. -->
+  <RunForCover.reportString>TODO</RunForCover.reportString>
+  
+  <!-- EN: Stabilizing. -->
+  <Stabilize.reportString>TODO</Stabilize.reportString>
+  
+  <!-- EN: FlagC TargetA from TargetB. -->
+  <TakeFromOther.reportString>TODO</TakeFromOther.reportString>
+  
+  <!-- EN: tending to TargetA. -->
+  <TendSelf.reportString>TODO</TendSelf.reportString>
+  
+  <!-- EN: Knocked down. -->
+  <WaitKnockdown.reportString>TODO</WaitKnockdown.reportString>
+  
 </LanguageData>

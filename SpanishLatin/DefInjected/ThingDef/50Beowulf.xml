@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: .50 Beowulf (AP) -->
+  <Ammo_50Beowulf_AP.label>TODO</Ammo_50Beowulf_AP.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_AP.description>TODO</Ammo_50Beowulf_AP.description>
+  
+  <!-- EN: .50 Beowulf (FMJ) -->
+  <Ammo_50Beowulf_FMJ.label>TODO</Ammo_50Beowulf_FMJ.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_FMJ.description>TODO</Ammo_50Beowulf_FMJ.description>
+  
+  <!-- EN: .50 Beowulf (AP-HE) -->
+  <Ammo_50Beowulf_HE.label>TODO</Ammo_50Beowulf_HE.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_HE.description>TODO</Ammo_50Beowulf_HE.description>
+  
+  <!-- EN: .50 Beowulf (HP) -->
+  <Ammo_50Beowulf_HP.label>TODO</Ammo_50Beowulf_HP.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_HP.description>TODO</Ammo_50Beowulf_HP.description>
+  
+  <!-- EN: .50 Beowulf (AP-I) -->
+  <Ammo_50Beowulf_Incendiary.label>TODO</Ammo_50Beowulf_Incendiary.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_Incendiary.description>TODO</Ammo_50Beowulf_Incendiary.description>
+  
+  <!-- EN: .50 Beowulf (Sabot) -->
+  <Ammo_50Beowulf_Sabot.label>TODO</Ammo_50Beowulf_Sabot.label>
+  <!-- EN: A powerful cartridge with heavy bullets designed to bring high stopping power to intermediate semi-automatic rifles. -->
+  <Ammo_50Beowulf_Sabot.description>TODO</Ammo_50Beowulf_Sabot.description>
+  
+  <!-- EN: .50 Beowulf bullet (AP) -->
+  <Bullet_50Beowulf_AP.label>TODO</Bullet_50Beowulf_AP.label>
+  
+  <!-- EN: .50 Beowulf bullet (FMJ) -->
+  <Bullet_50Beowulf_FMJ.label>TODO</Bullet_50Beowulf_FMJ.label>
+  
+  <!-- EN: .50 Beowulf bullet (AP-HE) -->
+  <Bullet_50Beowulf_HE.label>TODO</Bullet_50Beowulf_HE.label>
+  
+  <!-- EN: .50 Beowulf bullet (HP) -->
+  <Bullet_50Beowulf_HP.label>TODO</Bullet_50Beowulf_HP.label>
+  
+  <!-- EN: .50 Beowulf bullet (AP-I) -->
+  <Bullet_50Beowulf_Incendiary.label>TODO</Bullet_50Beowulf_Incendiary.label>
+  
+  <!-- EN: .50 Beowulf bullet (Sabot) -->
+  <Bullet_50Beowulf_Sabot.label>TODO</Bullet_50Beowulf_Sabot.label>
+  
+</LanguageData>

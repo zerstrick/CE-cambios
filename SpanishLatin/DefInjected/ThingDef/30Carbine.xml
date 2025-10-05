@@ -1,35 +1,70 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_30Carbine_FMJ.label>.30 Carbine cartridge (FMJ)</Ammo_30Carbine_FMJ.label>
-  <Ammo_30Carbine_FMJ.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_FMJ.description>
-
-  <Ammo_30Carbine_AP.label>.30 Carbine cartridge (AP)</Ammo_30Carbine_AP.label>
-  <Ammo_30Carbine_AP.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_AP.description>
-
-  <Ammo_30Carbine_HP.label>.30 Carbine cartridge (HP)</Ammo_30Carbine_HP.label>
-  <Ammo_30Carbine_HP.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_HP.description>
-
-  <Ammo_30Carbine_Incendiary.label>.30 Carbine cartridge (AP-I)</Ammo_30Carbine_Incendiary.label>
-  <Ammo_30Carbine_Incendiary.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_Incendiary.description>
-
-  <Ammo_30Carbine_HE.label>.30 Carbine cartridge (HE)</Ammo_30Carbine_HE.label>
-  <Ammo_30Carbine_HE.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_HE.description>
-
-  <Ammo_30Carbine_Sabot.label>.30 Carbine cartridge (Sabot)</Ammo_30Carbine_Sabot.label>
-  <Ammo_30Carbine_Sabot.description>Small, light rifle cartridge most commonly found in carbines.</Ammo_30Carbine_Sabot.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_30Carbine_FMJ.label>.30 Carbine bullet (FMJ)</Bullet_30Carbine_FMJ.label>
-  <Bullet_30Carbine_AP.label>.30 Carbine bullet (AP)</Bullet_30Carbine_AP.label>
-  <Bullet_30Carbine_HP.label>.30 Carbine bullet (HP)</Bullet_30Carbine_HP.label>
-  <Bullet_30Carbine_Incendiary.label>.30 Carbine bullet (AP-I)</Bullet_30Carbine_Incendiary.label>
-  <Bullet_30Carbine_HE.label>.30 Carbine bullet (HE)</Bullet_30Carbine_HE.label>
-  <Bullet_30Carbine_Sabot.label>.30 Carbine bullet (Sabot)</Bullet_30Carbine_Sabot.label>
-
-
+  
+  <!-- EN: .30 Carbine (AP) -->
+  <Ammo_30Carbine_AP.label>TODO</Ammo_30Carbine_AP.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_AP.description>TODO</Ammo_30Carbine_AP.description>
+  
+  <!-- EN: .30 Carbine (FMJ) -->
+  <Ammo_30Carbine_FMJ.label>TODO</Ammo_30Carbine_FMJ.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_FMJ.description>TODO</Ammo_30Carbine_FMJ.description>
+  
+  <!-- EN: .30 Carbine (AP-HE) -->
+  <Ammo_30Carbine_HE.label>TODO</Ammo_30Carbine_HE.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_HE.description>TODO</Ammo_30Carbine_HE.description>
+  
+  <!-- EN: .30 Carbine (HP) -->
+  <Ammo_30Carbine_HP.label>TODO</Ammo_30Carbine_HP.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_HP.description>TODO</Ammo_30Carbine_HP.description>
+  
+  <!-- EN: .30 Carbine (AP-I) -->
+  <Ammo_30Carbine_Incendiary.label>TODO</Ammo_30Carbine_Incendiary.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_Incendiary.description>TODO</Ammo_30Carbine_Incendiary.description>
+  
+  <!-- EN: .30 Carbine (Sabot) -->
+  <Ammo_30Carbine_Sabot.label>TODO</Ammo_30Carbine_Sabot.label>
+  <!-- EN: Small, light rifle cartridge most commonly found in carbines. -->
+  <Ammo_30Carbine_Sabot.description>TODO</Ammo_30Carbine_Sabot.description>
+  
+  <!-- EN: .30 Carbine bullet (AP) -->
+  <Bullet_30Carbine_AP.label>TODO</Bullet_30Carbine_AP.label>
+  
+  <!-- EN: .30 Carbine bullet (AP) -->
+  <Bullet_30Carbine_AP_SB.label>TODO</Bullet_30Carbine_AP_SB.label>
+  
+  <!-- EN: .30 Carbine bullet (FMJ) -->
+  <Bullet_30Carbine_FMJ.label>TODO</Bullet_30Carbine_FMJ.label>
+  
+  <!-- EN: .30 Carbine bullet (FMJ) -->
+  <Bullet_30Carbine_FMJ_SB.label>TODO</Bullet_30Carbine_FMJ_SB.label>
+  
+  <!-- EN: .30 Carbine bullet (AP-HE) -->
+  <Bullet_30Carbine_HE.label>TODO</Bullet_30Carbine_HE.label>
+  
+  <!-- EN: .30 Carbine bullet (AP-HE) -->
+  <Bullet_30Carbine_HE_SB.label>TODO</Bullet_30Carbine_HE_SB.label>
+  
+  <!-- EN: .30 Carbine bullet (HP) -->
+  <Bullet_30Carbine_HP.label>TODO</Bullet_30Carbine_HP.label>
+  
+  <!-- EN: .30 Carbine bullet (HP) -->
+  <Bullet_30Carbine_HP_SB.label>TODO</Bullet_30Carbine_HP_SB.label>
+  
+  <!-- EN: .30 Carbine bullet (AP-I) -->
+  <Bullet_30Carbine_Incendiary.label>TODO</Bullet_30Carbine_Incendiary.label>
+  
+  <!-- EN: .30 Carbine bullet (AP-I) -->
+  <Bullet_30Carbine_Incendiary_SB.label>TODO</Bullet_30Carbine_Incendiary_SB.label>
+  
+  <!-- EN: .30 Carbine bullet (Sabot) -->
+  <Bullet_30Carbine_Sabot.label>TODO</Bullet_30Carbine_Sabot.label>
+  
+  <!-- EN: .30 Carbine bullet (Sabot) -->
+  <Bullet_30Carbine_Sabot_SB.label>TODO</Bullet_30Carbine_Sabot_SB.label>
+  
 </LanguageData>

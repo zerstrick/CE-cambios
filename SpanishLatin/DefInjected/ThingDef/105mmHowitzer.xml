@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 105mm Howitzer shell (EMP) -->
+  <Ammo_105mmHowitzerShell_EMP.label>TODO</Ammo_105mmHowitzerShell_EMP.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_EMP.description>TODO</Ammo_105mmHowitzerShell_EMP.description>
+  
+  <!-- EN: 105mm Howitzer shell (HE) -->
+  <Ammo_105mmHowitzerShell_HE.label>TODO</Ammo_105mmHowitzerShell_HE.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_HE.description>TODO</Ammo_105mmHowitzerShell_HE.description>
+  
+  <!-- EN: 105mm Howitzer shell (Airburst) -->
+  <Ammo_105mmHowitzerShell_HE_HFuzed.label>TODO</Ammo_105mmHowitzerShell_HE_HFuzed.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_HE_HFuzed.description>TODO</Ammo_105mmHowitzerShell_HE_HFuzed.description>
+  
+  <!-- EN: 105mm Howitzer shell (HEAT) -->
+  <Ammo_105mmHowitzerShell_HEAT.label>TODO</Ammo_105mmHowitzerShell_HEAT.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_HEAT.description>TODO</Ammo_105mmHowitzerShell_HEAT.description>
+  
+  <!-- EN: 105mm Howitzer shell (Incendiary) -->
+  <Ammo_105mmHowitzerShell_Incendiary.label>TODO</Ammo_105mmHowitzerShell_Incendiary.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_Incendiary.description>TODO</Ammo_105mmHowitzerShell_Incendiary.description>
+  
+  <!-- EN: 105mm Howitzer shell (Smoke) -->
+  <Ammo_105mmHowitzerShell_Smoke.label>TODO</Ammo_105mmHowitzerShell_Smoke.label>
+  <!-- EN: Large cannon shell used by howitzers. -->
+  <Ammo_105mmHowitzerShell_Smoke.description>TODO</Ammo_105mmHowitzerShell_Smoke.description>
+  
+  <!-- EN: 105mm Howitzer shell (EMP) -->
+  <Bullet_105mmHowitzerShell_EMP.label>TODO</Bullet_105mmHowitzerShell_EMP.label>
+  
+  <!-- EN: 105mm Howitzer shell (EMP) -->
+  <Bullet_105mmHowitzerShell_EMP_directfire.label>TODO</Bullet_105mmHowitzerShell_EMP_directfire.label>
+  
+  <!-- EN: 105mm Howitzer shell (HE) -->
+  <Bullet_105mmHowitzerShell_HE.label>TODO</Bullet_105mmHowitzerShell_HE.label>
+  
+  <!-- EN: 105mm Howitzer shell (HE) -->
+  <Bullet_105mmHowitzerShell_HE_directfire.label>TODO</Bullet_105mmHowitzerShell_HE_directfire.label>
+  
+  <!-- EN: 105mm Howitzer shell (Airburst) -->
+  <Bullet_105mmHowitzerShell_HE_HFuzed.label>TODO</Bullet_105mmHowitzerShell_HE_HFuzed.label>
+  
+  <!-- EN: 105mm cannon shell (HEAT) -->
+  <Bullet_105mmHowitzerShell_HEAT_directfire.label>TODO</Bullet_105mmHowitzerShell_HEAT_directfire.label>
+  
+  <!-- EN: 105mm Howitzer shell (Incendiary) -->
+  <Bullet_105mmHowitzerShell_Incendiary.label>TODO</Bullet_105mmHowitzerShell_Incendiary.label>
+  
+  <!-- EN: 105mm Howitzer shell (Incendiary) -->
+  <Bullet_105mmHowitzerShell_Incendiary_directfire.label>TODO</Bullet_105mmHowitzerShell_Incendiary_directfire.label>
+  
+  <!-- EN: 105mm Howitzer shell (Smoke) -->
+  <Bullet_105mmHowitzerShell_Smoke.label>TODO</Bullet_105mmHowitzerShell_Smoke.label>
+  
+  <!-- EN: 105mm Howitzer shell (Smoke) -->
+  <Bullet_105mmHowitzerShell_Smoke_directfire.label>TODO</Bullet_105mmHowitzerShell_Smoke_directfire.label>
+  
+</LanguageData>

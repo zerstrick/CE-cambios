@@ -1,50 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_338Norma_FMJ.label>make .338 Norma Magnum (FMJ) cartridge x200</MakeAmmo_338Norma_FMJ.label>
-  <MakeAmmo_338Norma_FMJ.description>Craft 200 .338 Norma Magnum (FMJ) cartridges.</MakeAmmo_338Norma_FMJ.description>
-  <MakeAmmo_338Norma_FMJ.jobString>Making .338 Norma Magnum (FMJ) cartridges.</MakeAmmo_338Norma_FMJ.jobString>
-
-
-  <!-- <RecipeDef ParentName="AmmoRecipeBase">
-    <defName>MakeAmmo_338Norma_HP</defName>
-    <label>make .338 Norma Magnum (HP) cartridge x350</label>
-    <description>Craft 350 .338 Norma Magnum (HP) cartridges.</description>
-    <jobString>Making .338 Norma Magnum (HP) cartridges.</jobString>
-    <ingredients>
-      <li>
-        <filter>
-          <thingDefs>
-            <li>Steel</li>
-          </thingDefs>
-        </filter>
-        <count>22</count>
-      </li>
-    </ingredients>
-    <fixedIngredientFilter>
-      <thingDefs>
-        <li>Steel</li>
-      </thingDefs>
-    </fixedIngredientFilter>
-    <products>
-      <Ammo_338Norma_HP>350</Ammo_338Norma_HP>
-    </products>
-    <workAmount>9750</workAmount>
-  </RecipeDef> -->
-
-  <MakeAmmo_338Norma_Incendiary.label>make .338 Norma Magnum (AP-I) cartridge x200</MakeAmmo_338Norma_Incendiary.label>
-  <MakeAmmo_338Norma_Incendiary.description>Craft 200 .338 Norma Magnum (AP-I) cartridges.</MakeAmmo_338Norma_Incendiary.description>
-  <MakeAmmo_338Norma_Incendiary.jobString>Making .338 Norma Magnum (AP-I) cartridges.</MakeAmmo_338Norma_Incendiary.jobString>
-
-  <MakeAmmo_338Norma_HE.label>make .338 Norma Magnum (HE) cartridge x200</MakeAmmo_338Norma_HE.label>
-  <MakeAmmo_338Norma_HE.description>Craft 200 .338 Norma Magnum (HE) cartridges.</MakeAmmo_338Norma_HE.description>
-  <MakeAmmo_338Norma_HE.jobString>Making .338 Norma Magnum (HE) cartridges.</MakeAmmo_338Norma_HE.jobString>
-
-  <MakeAmmo_338Norma_Sabot.label>make .338 Norma Magnum (Sabot) cartridge x200</MakeAmmo_338Norma_Sabot.label>
-  <MakeAmmo_338Norma_Sabot.description>Craft 200 .338 Norma Magnum (Sabot) cartridges.</MakeAmmo_338Norma_Sabot.description>
-  <MakeAmmo_338Norma_Sabot.jobString>Making .338 Norma Magnum (Sabot) cartridges.</MakeAmmo_338Norma_Sabot.jobString>
-
-
+  
+  <!-- EN: make .338 Norma Magnum (AP) cartridge x200 -->
+  <MakeAmmo_338Norma_AP.label>TODO</MakeAmmo_338Norma_AP.label>
+  <!-- EN: Craft 200 .338 Norma Magnum (AP) cartridges. -->
+  <MakeAmmo_338Norma_AP.description>TODO</MakeAmmo_338Norma_AP.description>
+  <!-- EN: Making .338 Norma Magnum (AP) cartridges. -->
+  <MakeAmmo_338Norma_AP.jobString>TODO</MakeAmmo_338Norma_AP.jobString>
+  
+  <!-- EN: make .338 Norma Magnum (FMJ) cartridge x200 -->
+  <MakeAmmo_338Norma_FMJ.label>TODO</MakeAmmo_338Norma_FMJ.label>
+  <!-- EN: Craft 200 .338 Norma Magnum (FMJ) cartridges. -->
+  <MakeAmmo_338Norma_FMJ.description>TODO</MakeAmmo_338Norma_FMJ.description>
+  <!-- EN: Making .338 Norma Magnum (FMJ) cartridges. -->
+  <MakeAmmo_338Norma_FMJ.jobString>TODO</MakeAmmo_338Norma_FMJ.jobString>
+  
+  <!-- EN: make .338 Norma Magnum (AP-HE) cartridge x200 -->
+  <MakeAmmo_338Norma_HE.label>TODO</MakeAmmo_338Norma_HE.label>
+  <!-- EN: Craft 200 .338 Norma Magnum (AP-HE) cartridges. -->
+  <MakeAmmo_338Norma_HE.description>TODO</MakeAmmo_338Norma_HE.description>
+  <!-- EN: Making .338 Norma Magnum (AP-HE) cartridges. -->
+  <MakeAmmo_338Norma_HE.jobString>TODO</MakeAmmo_338Norma_HE.jobString>
+  
+  <!-- EN: make .338 Norma Magnum (AP-I) cartridge x200 -->
+  <MakeAmmo_338Norma_Incendiary.label>TODO</MakeAmmo_338Norma_Incendiary.label>
+  <!-- EN: Craft 200 .338 Norma Magnum (AP-I) cartridges. -->
+  <MakeAmmo_338Norma_Incendiary.description>TODO</MakeAmmo_338Norma_Incendiary.description>
+  <!-- EN: Making .338 Norma Magnum (AP-I) cartridges. -->
+  <MakeAmmo_338Norma_Incendiary.jobString>TODO</MakeAmmo_338Norma_Incendiary.jobString>
+  
+  <!-- EN: make .338 Norma Magnum (Sabot) cartridge x200 -->
+  <MakeAmmo_338Norma_Sabot.label>TODO</MakeAmmo_338Norma_Sabot.label>
+  <!-- EN: Craft 200 .338 Norma Magnum (Sabot) cartridges. -->
+  <MakeAmmo_338Norma_Sabot.description>TODO</MakeAmmo_338Norma_Sabot.description>
+  <!-- EN: Making .338 Norma Magnum (Sabot) cartridges. -->
+  <MakeAmmo_338Norma_Sabot.jobString>TODO</MakeAmmo_338Norma_Sabot.jobString>
+  
 </LanguageData>

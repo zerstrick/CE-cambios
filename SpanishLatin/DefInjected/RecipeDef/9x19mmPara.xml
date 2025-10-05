@@ -1,19 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_9x19mmPara_FMJ.label>make 9x19mm Parabellum (FMJ) cartridge x500</MakeAmmo_9x19mmPara_FMJ.label>
-  <MakeAmmo_9x19mmPara_FMJ.description>Craft 500 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ.description>
-  <MakeAmmo_9x19mmPara_FMJ.jobString>Making 9x19mm Parabellum (FMJ) cartridges.</MakeAmmo_9x19mmPara_FMJ.jobString>
-
-  <MakeAmmo_9x19mmPara_AP.label>make 9x19mm Parabellum (AP) cartridge x500</MakeAmmo_9x19mmPara_AP.label>
-  <MakeAmmo_9x19mmPara_AP.description>Craft 500 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP.description>
-  <MakeAmmo_9x19mmPara_AP.jobString>Making 9x19mm Parabellum (AP) cartridges.</MakeAmmo_9x19mmPara_AP.jobString>
-
-  <MakeAmmo_9x19mmPara_HP.label>make 9x19mm Parabellum (HP) cartridge x500</MakeAmmo_9x19mmPara_HP.label>
-  <MakeAmmo_9x19mmPara_HP.description>Craft 500 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP.description>
-  <MakeAmmo_9x19mmPara_HP.jobString>Making 9x19mm Parabellum (HP) cartridges.</MakeAmmo_9x19mmPara_HP.jobString>
-
-
+  
+  <!-- EN: make 9x19mm Parabellum (AP) cartridge x500 -->
+  <MakeAmmo_9x19mmPara_AP.label>TODO</MakeAmmo_9x19mmPara_AP.label>
+  <!-- EN: Craft 500 9x19mm Parabellum (AP) cartridges. -->
+  <MakeAmmo_9x19mmPara_AP.description>TODO</MakeAmmo_9x19mmPara_AP.description>
+  <!-- EN: Making 9x19mm Parabellum (AP) cartridges. -->
+  <MakeAmmo_9x19mmPara_AP.jobString>TODO</MakeAmmo_9x19mmPara_AP.jobString>
+  
+  <!-- EN: make 9x19mm Parabellum (FMJ) cartridge x500 -->
+  <MakeAmmo_9x19mmPara_FMJ.label>TODO</MakeAmmo_9x19mmPara_FMJ.label>
+  <!-- EN: Craft 500 9x19mm Parabellum (FMJ) cartridges. -->
+  <MakeAmmo_9x19mmPara_FMJ.description>TODO</MakeAmmo_9x19mmPara_FMJ.description>
+  <!-- EN: Making 9x19mm Parabellum (FMJ) cartridges. -->
+  <MakeAmmo_9x19mmPara_FMJ.jobString>TODO</MakeAmmo_9x19mmPara_FMJ.jobString>
+  
+  <!-- EN: make 9x19mm Parabellum (HP) cartridge x500 -->
+  <MakeAmmo_9x19mmPara_HP.label>TODO</MakeAmmo_9x19mmPara_HP.label>
+  <!-- EN: Craft 500 9x19mm Parabellum (HP) cartridges. -->
+  <MakeAmmo_9x19mmPara_HP.description>TODO</MakeAmmo_9x19mmPara_HP.description>
+  <!-- EN: Making 9x19mm Parabellum (HP) cartridges. -->
+  <MakeAmmo_9x19mmPara_HP.jobString>TODO</MakeAmmo_9x19mmPara_HP.jobString>
+  
 </LanguageData>

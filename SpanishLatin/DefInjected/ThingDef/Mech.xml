@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mech Charged cartridge -->
+  <Ammo_Mech_Charged.label>TODO</Ammo_Mech_Charged.label>
+  <!-- EN: Charged shot ammo used by mechanoid weaponry. -->
+  <Ammo_Mech_Charged.description>TODO</Ammo_Mech_Charged.description>
+  
+  <!-- EN: mech shell (Demo) -->
+  <Ammo_MechShell_Demo.label>TODO</Ammo_MechShell_Demo.label>
+  <!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
+  <Ammo_MechShell_Demo.description>TODO</Ammo_MechShell_Demo.description>
+  
+  <!-- EN: mech shell (Incendiary) -->
+  <Ammo_MechShell_Incendiary.label>TODO</Ammo_MechShell_Incendiary.label>
+  <!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
+  <Ammo_MechShell_Incendiary.description>TODO</Ammo_MechShell_Incendiary.description>
+  
+</LanguageData>

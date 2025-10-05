@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Recipes -->
-
-  <MakeAmmo_TomahawkLAM.label>make Tomahawk Missile</MakeAmmo_TomahawkLAM.label>
-  <MakeAmmo_TomahawkLAM.description>Craft a single Tomahawk Missile.</MakeAmmo_TomahawkLAM.description>
-  <MakeAmmo_TomahawkLAM.jobString>Making Tomahawk Missile.</MakeAmmo_TomahawkLAM.jobString>
-
-
+  
+  <!-- EN: make Tomahawk Missile -->
+  <MakeAmmo_TomahawkLAM.label>TODO</MakeAmmo_TomahawkLAM.label>
+  <!-- EN: Craft a single Tomahawk Missile. -->
+  <MakeAmmo_TomahawkLAM.description>TODO</MakeAmmo_TomahawkLAM.description>
+  <!-- EN: Making Tomahawk Missile. -->
+  <MakeAmmo_TomahawkLAM.jobString>TODO</MakeAmmo_TomahawkLAM.jobString>
+  
 </LanguageData>

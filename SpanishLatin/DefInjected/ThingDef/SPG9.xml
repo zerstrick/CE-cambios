@@ -1,19 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Ammo_SPG9Grenade_HEAT.label>
-  <Ammo_SPG9Grenade_HEAT.description>Rocket-assisted projectile for use with the SPG-9 launcher.</Ammo_SPG9Grenade_HEAT.description>
-
-  <Ammo_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Ammo_SPG9Grenade_Frag.label>
-  <Ammo_SPG9Grenade_Frag.description>Rocket-assisted projectile for use with the SPG-9 launcher.</Ammo_SPG9Grenade_Frag.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_SPG9Grenade_HEAT.label>SPG-9 grenade (HEAT)</Bullet_SPG9Grenade_HEAT.label>
-  <Bullet_SPG9Grenade_Frag.label>SPG-9 grenade (Frag)</Bullet_SPG9Grenade_Frag.label>
-
-
+  
+  <!-- EN: SPG-9 Rocket (EMP) -->
+  <Ammo_SPG9Rocket_EMP.label>TODO</Ammo_SPG9Rocket_EMP.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_SPG9Rocket_EMP.description>TODO</Ammo_SPG9Rocket_EMP.description>
+  
+  <!-- EN: SPG-9 Rocket (HE) -->
+  <Ammo_SPG9Rocket_Frag.label>TODO</Ammo_SPG9Rocket_Frag.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_SPG9Rocket_Frag.description>TODO</Ammo_SPG9Rocket_Frag.description>
+  
+  <!-- EN: SPG9 Rocket (HEAT) -->
+  <Ammo_SPG9Rocket_HEAT.label>TODO</Ammo_SPG9Rocket_HEAT.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_SPG9Rocket_HEAT.description>TODO</Ammo_SPG9Rocket_HEAT.description>
+  
+  <!-- EN: SPG-9 Rocket (Thermobaric) -->
+  <Ammo_SPG9Rocket_Thermobaric.label>TODO</Ammo_SPG9Rocket_Thermobaric.label>
+  <!-- EN: Tube launched rocket-propelled grenade used by SPG-9 recoilless launcher and the BMP-1's 2A28 Grom cannon. After being fired, a rocket motor kicks in to propel the grenade further. -->
+  <Ammo_SPG9Rocket_Thermobaric.description>TODO</Ammo_SPG9Rocket_Thermobaric.description>
+  
+  <!-- EN: SPG-9 Rocket (EMP) -->
+  <Bullet_SPG9Rocket_EMP.label>TODO</Bullet_SPG9Rocket_EMP.label>
+  
+  <!-- EN: SPG-9 Rocket (HE) -->
+  <Bullet_SPG9Rocket_Frag.label>TODO</Bullet_SPG9Rocket_Frag.label>
+  
+  <!-- EN: SPG-9 Rocket (HEAT) -->
+  <Bullet_SPG9Rocket_HEAT.label>TODO</Bullet_SPG9Rocket_HEAT.label>
+  
+  <!-- EN: SPG-9 Rocket (Thermobaric) -->
+  <Bullet_SPG9Rocket_Thermobaric.label>TODO</Bullet_SPG9Rocket_Thermobaric.label>
+  
 </LanguageData>

@@ -1,9 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- AmmoSet -->
-
-  <AmmoSet_44Magnum.label>.44 Magnum</AmmoSet_44Magnum.label>
-
-
+  
+  <!-- EN: .44 Magnum -->
+  <AmmoSet_44Magnum.label>TODO</AmmoSet_44Magnum.label>
+  
+  <!-- EN: .44 Magnum -->
+  <AmmoSet_44Magnum_HV.label>TODO</AmmoSet_44Magnum_HV.label>
+  
+  <!-- EN: .44 Magnum/.44 Special -->
+  <AmmoSet_44Magnum_Lever.label>TODO</AmmoSet_44Magnum_Lever.label>
+  
+  <!-- EN: .44 Magnum/.44 Special -->
+  <AmmoSet_44Magnum_Revolver.label>TODO</AmmoSet_44Magnum_Revolver.label>
+  
 </LanguageData>

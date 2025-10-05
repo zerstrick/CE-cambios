@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psycho crash -->
+  <PsychoCrash.label>TODO</PsychoCrash.label>
+  <!-- EN: A very unpleasant delayed after-effect of psycho intake. -->
+  <PsychoCrash.description>TODO</PsychoCrash.description>
+  <!-- EN: a psycho crash -->
+  <PsychoCrash.labelNoun>TODO</PsychoCrash.labelNoun>
+  <!-- EN: recovering -->
+  <PsychoCrash.stages.recovering.label>TODO</PsychoCrash.stages.recovering.label>
+  <!-- EN: major -->
+  <PsychoCrash.stages.major.label>TODO</PsychoCrash.stages.major.label>
+  <!-- EN: initial -->
+  <PsychoCrash.stages.initial.label>TODO</PsychoCrash.stages.initial.label>
+  
+  <!-- EN: high on psycho -->
+  <PsychoHigh.label>TODO</PsychoHigh.label>
+  <!-- EN: Active psycho in the bloodstream. Generates a very intense euphoric high. -->
+  <PsychoHigh.description>TODO</PsychoHigh.description>
+  <!-- EN: a psycho high -->
+  <PsychoHigh.labelNoun>TODO</PsychoHigh.labelNoun>
+  
+</LanguageData>

@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- Ammo -->
-
-  <Ammo_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Ammo_28cmSpgrShell_HE.label>
-  <Ammo_28cmSpgrShell_HE.description>Very large obsolete cannon shell used in naval battleship turrets.</Ammo_28cmSpgrShell_HE.description>
-
-
-  <!-- Projectiles -->
-
-  <Bullet_28cmSpgrShell_HE.label>28cm Spgr. shell (HE)</Bullet_28cmSpgrShell_HE.label>
-
-
+  
+  <!-- EN: 28cm Spgr. cannon shell (HE) -->
+  <Ammo_28cmSpgrShell_HE.label>TODO</Ammo_28cmSpgrShell_HE.label>
+  <!-- EN: Very large obsolete cannon shell used in naval battleship turrets. -->
+  <Ammo_28cmSpgrShell_HE.description>TODO</Ammo_28cmSpgrShell_HE.description>
+  
+  <!-- EN: 28cm Spgr. cannon shell (HE) -->
+  <Bullet_28cmSpgrShell_HE.label>TODO</Bullet_28cmSpgrShell_HE.label>
+  
 </LanguageData>

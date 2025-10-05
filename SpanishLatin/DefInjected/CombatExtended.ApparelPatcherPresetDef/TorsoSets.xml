@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: preset armored jacket -->
+  <ArmorVestJacket.label>TODO</ArmorVestJacket.label>
+  
+  <!-- EN: preset leather jacket -->
+  <LeatherJacket.label>TODO</LeatherJacket.label>
+  
+  <!-- EN: preset middle clothing -->
+  <MiddleClothing.label>TODO</MiddleClothing.label>
+  
+  <!-- EN: preset pants -->
+  <PantsClothing.label>TODO</PantsClothing.label>
+  
+  <!-- EN: preset shell clothing -->
+  <ShellClothing.label>TODO</ShellClothing.label>
+  
+  <!-- EN: preset skin clothing -->
+  <SkinClothing.label>TODO</SkinClothing.label>
+  
+</LanguageData>

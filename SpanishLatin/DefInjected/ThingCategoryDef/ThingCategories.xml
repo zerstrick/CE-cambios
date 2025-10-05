@@ -1,21 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Ammo.label>ammunition</Ammo.label>
-  <AmmoAdvanced.label>advanced</AmmoAdvanced.label>
-  <AmmoGrenades.label>grenade</AmmoGrenades.label>
-  <AmmoHighCaliber.label>high caliber</AmmoHighCaliber.label>
-  <AmmoPistols.label>pistol</AmmoPistols.label>
-  <AmmoRifles.label>rifle</AmmoRifles.label>
-  <AmmoShotguns.label>shotgun</AmmoShotguns.label>
-  <AmmoRockets.label>rocket</AmmoRockets.label>
-  <AmmoMissiles.label>missile</AmmoMissiles.label>
-  <AmmoShells.label>shell</AmmoShells.label>
-  <AmmoNeolithic.label>neolithic</AmmoNeolithic.label>
-  <AmmoMedieval.label>medieval</AmmoMedieval.label>
-  <Loadout.label>loadbearing gear</Loadout.label>
-  <WeaponsTurrets.label>turrets</WeaponsTurrets.label>
-  <Shields.label>shields</Shields.label>
-
-
+  
+  <!-- EN: ammunition -->
+  <Ammo.label>TODO</Ammo.label>
+  
+  <!-- EN: advanced -->
+  <AmmoAdvanced.label>TODO</AmmoAdvanced.label>
+  
+  <!-- EN: grenade -->
+  <AmmoGrenades.label>TODO</AmmoGrenades.label>
+  
+  <!-- EN: high caliber -->
+  <AmmoHighCaliber.label>TODO</AmmoHighCaliber.label>
+  
+  <!-- EN: medieval -->
+  <AmmoMedieval.label>TODO</AmmoMedieval.label>
+  
+  <!-- EN: missile -->
+  <AmmoMissiles.label>TODO</AmmoMissiles.label>
+  
+  <!-- EN: neolithic -->
+  <AmmoNeolithic.label>TODO</AmmoNeolithic.label>
+  
+  <!-- EN: pistol -->
+  <AmmoPistols.label>TODO</AmmoPistols.label>
+  
+  <!-- EN: rifle -->
+  <AmmoRifles.label>TODO</AmmoRifles.label>
+  
+  <!-- EN: rocket -->
+  <AmmoRockets.label>TODO</AmmoRockets.label>
+  
+  <!-- EN: shell -->
+  <AmmoShells.label>TODO</AmmoShells.label>
+  
+  <!-- EN: shotgun -->
+  <AmmoShotguns.label>TODO</AmmoShotguns.label>
+  
+  <!-- EN: loadbearing gear -->
+  <Loadout.label>TODO</Loadout.label>
+  
+  <!-- EN: shields -->
+  <Shields.label>TODO</Shields.label>
+  
+  <!-- EN: turrets -->
+  <WeaponsTurrets.label>TODO</WeaponsTurrets.label>
+  
 </LanguageData>

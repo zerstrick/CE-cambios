@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 75x350mmR cannon shell (AP) -->
+  <Ammo_75x350mmR_AP.label>TODO</Ammo_75x350mmR_AP.label>
+  <!-- EN: Large caliber shell used by tank cannons. -->
+  <Ammo_75x350mmR_AP.description>TODO</Ammo_75x350mmR_AP.description>
+  
+  <!-- EN: 75x350mmR cannon shell (APCR) -->
+  <Ammo_75x350mmR_APCR.label>TODO</Ammo_75x350mmR_APCR.label>
+  <!-- EN: Large caliber shell used by tank cannons. -->
+  <Ammo_75x350mmR_APCR.description>TODO</Ammo_75x350mmR_APCR.description>
+  
+  <!-- EN: 75x350mmR cannon shell (HE) -->
+  <Ammo_75x350mmR_HE.label>TODO</Ammo_75x350mmR_HE.label>
+  <!-- EN: Large caliber shell used by tank cannons. -->
+  <Ammo_75x350mmR_HE.description>TODO</Ammo_75x350mmR_HE.description>
+  
+  <!-- EN: 75x350mmR cannon shell (AP) -->
+  <Bullet_75x350mmR_AP.label>TODO</Bullet_75x350mmR_AP.label>
+  
+  <!-- EN: 75x350mmR cannon shell (APCR) -->
+  <Bullet_75x350mmR_APCR.label>TODO</Bullet_75x350mmR_APCR.label>
+  
+  <!-- EN: 75x350mmR cannon shell (HE) -->
+  <Bullet_75x350mmR_HE.label>TODO</Bullet_75x350mmR_HE.label>
+  
+</LanguageData>

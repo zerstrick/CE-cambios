@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make bursting cannon shells x5 -->
+  <MakeAmmo_CannonBall_Bursting.label>TODO</MakeAmmo_CannonBall_Bursting.label>
+  <!-- EN: Craft 5 bursting cannon shells. -->
+  <MakeAmmo_CannonBall_Bursting.description>TODO</MakeAmmo_CannonBall_Bursting.description>
+  <!-- EN: Making bursting cannon shells. -->
+  <MakeAmmo_CannonBall_Bursting.jobString>TODO</MakeAmmo_CannonBall_Bursting.jobString>
+  
+  <!-- EN: Make grape shot cannon shells x5 -->
+  <MakeAmmo_CannonBall_Grape.label>TODO</MakeAmmo_CannonBall_Grape.label>
+  <!-- EN: Craft 5 grape shot cannon shells. -->
+  <MakeAmmo_CannonBall_Grape.description>TODO</MakeAmmo_CannonBall_Grape.description>
+  <!-- EN: Making grape shot cannon shells. -->
+  <MakeAmmo_CannonBall_Grape.jobString>TODO</MakeAmmo_CannonBall_Grape.jobString>
+  
+  <!-- EN: make incendiary cannon shells x5 -->
+  <MakeAmmo_CannonBall_Incendiary.label>TODO</MakeAmmo_CannonBall_Incendiary.label>
+  <!-- EN: Craft 5 incendiary cannon shells. -->
+  <MakeAmmo_CannonBall_Incendiary.description>TODO</MakeAmmo_CannonBall_Incendiary.description>
+  <!-- EN: Making incendiary cannon shells. -->
+  <MakeAmmo_CannonBall_Incendiary.jobString>TODO</MakeAmmo_CannonBall_Incendiary.jobString>
+  
+  <!-- EN: make round shot cannon balls x5 -->
+  <MakeAmmo_CannonBall_Round.label>TODO</MakeAmmo_CannonBall_Round.label>
+  <!-- EN: Craft 5 round shot cannon balls. -->
+  <MakeAmmo_CannonBall_Round.description>TODO</MakeAmmo_CannonBall_Round.description>
+  <!-- EN: Making round shot cannon balls. -->
+  <MakeAmmo_CannonBall_Round.jobString>TODO</MakeAmmo_CannonBall_Round.jobString>
+  
+</LanguageData>

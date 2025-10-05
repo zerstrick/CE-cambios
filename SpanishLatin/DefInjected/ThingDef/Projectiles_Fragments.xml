@@ -1,23 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Fragment_Large.label>large fragments</Fragment_Large.label>
-  <Fragment_Small.label>small fragments</Fragment_Small.label>
-
-
-  <!-- 120mm mortar shell -->
-
-  <Fragment_Shell.label>shell fragments</Fragment_Shell.label>
-
-
-  <!-- Grenade -->
-
-  <Fragment_GrenadeFrag.label>grenade fragments</Fragment_GrenadeFrag.label>
-
-
-  <!-- Rocket -->
-
-  <Fragment_RocketFrag.label>rocket fragments</Fragment_RocketFrag.label>
-
-
+  
+  <!-- EN: bomblet -->
+  <Fragment_Bomblet.label>TODO</Fragment_Bomblet.label>
+  
+  <!-- EN: large fragments -->
+  <Fragment_Large.label>TODO</Fragment_Large.label>
+  
+  <!-- EN: medium fragments -->
+  <Fragment_Medium.label>TODO</Fragment_Medium.label>
+  
+  <!-- EN: small fragments -->
+  <Fragment_Small.label>TODO</Fragment_Small.label>
+  
 </LanguageData>
