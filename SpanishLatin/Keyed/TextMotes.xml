@@ -2,14 +2,14 @@
 <LanguageData>
 
 	<!-- EN: Riposted! -->
-  <CE_TextMote_Riposted>TODO</CE_TextMote_Riposted>
+  <CE_TextMote_Riposted>¡Reposteado!</CE_TextMote_Riposted>
 	<!-- EN: Blocked! -->
-  <CE_TextMote_Blocked>TODO</CE_TextMote_Blocked>
+  <CE_TextMote_Blocked>¡Bloqueado!</CE_TextMote_Blocked>
 	<!-- EN: Parried! -->
-  <CE_TextMote_Parried>TODO</CE_TextMote_Parried>
+  <CE_TextMote_Parried>¡Parado!</CE_TextMote_Parried>
 	<!-- EN: Knockdown! -->
-  <CE_TextMote_Knockdown>TODO</CE_TextMote_Knockdown>
+  <CE_TextMote_Knockdown>¡Derribado!</CE_TextMote_Knockdown>
 	<!-- EN: Critical hit! -->
-  <CE_TextMote_CriticalHit>TODO</CE_TextMote_CriticalHit>
+  <CE_TextMote_CriticalHit>¡Golpe crítico!</CE_TextMote_CriticalHit>
 
 </LanguageData>

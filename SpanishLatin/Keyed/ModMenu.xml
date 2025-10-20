@@ -3,282 +3,284 @@
 
 	<!-- ========== Headers ========== -->
 
-	<!-- EN: General -->
-  <CE_Settings_HeaderGeneral>TODO</CE_Settings_HeaderGeneral>
+		<!-- EN: General -->
+  <CE_Settings_HeaderGeneral>General</CE_Settings_HeaderGeneral>
 	<!-- EN: Mechanics -->
-  <CE_Settings_HeaderMechanics>TODO</CE_Settings_HeaderMechanics>
+  <CE_Settings_HeaderMechanics>Mecánicas</CE_Settings_HeaderMechanics>
 	<!-- EN: Ammunition -->
-  <CE_Settings_HeaderAmmo>TODO</CE_Settings_HeaderAmmo>
+  <CE_Settings_HeaderAmmo>Munición</CE_Settings_HeaderAmmo>
 	<!-- EN: Graphic -->
-  <CE_Settings_HeaderGraphic>TODO</CE_Settings_HeaderGraphic>
+  <CE_Settings_HeaderGraphic>Gráficos</CE_Settings_HeaderGraphic>
 	<!-- EN: Misc -->
-  <CE_Settings_HeaderMisc>TODO</CE_Settings_HeaderMisc>
+  <CE_Settings_HeaderMisc>Varios</CE_Settings_HeaderMisc>
 	<!-- EN: Autopatcher -->
-  <CE_Settings_HeaderAutopatcher>TODO</CE_Settings_HeaderAutopatcher>
+  <CE_Settings_HeaderAutopatcher>Autocorrector</CE_Settings_HeaderAutopatcher>
 
 	<!-- ========== Sub Headers ========== -->
 
 	<!-- EN: Rendering settings -->
-  <CE_Settings_Rendering_Title>TODO</CE_Settings_Rendering_Title>
+  <CE_Settings_Rendering_Title>Configuración de renderizado</CE_Settings_Rendering_Title>
 	<!-- EN: Experimental settings for apparel rendering -->
-  <CE_Settings_Rendering_Desc>TODO</CE_Settings_Rendering_Desc>
+  <CE_Settings_Rendering_Desc>Configuraciones experimentales para el renderizado de ropa.</CE_Settings_Rendering_Desc>
 
 	<!-- EN: Gameplay balance -->
-  <CE_Settings_Value_Tweaks_Title>TODO</CE_Settings_Value_Tweaks_Title>
+  <CE_Settings_Value_Tweaks_Title>Equilibrio de juego</CE_Settings_Value_Tweaks_Title>
 	<!-- EN: Adjust various stats and multipliers affecting gameplay and combat balance. -->
-  <CE_Settings_Value_Tweaks_Desc>TODO</CE_Settings_Value_Tweaks_Desc>
+  <CE_Settings_Value_Tweaks_Desc>Ajusta diversos valores y multiplicadores que afectan el equilibrio del juego y el combate.</CE_Settings_Value_Tweaks_Desc>
 
 	<!-- ========== General settings ========== -->
 
 	<!-- EN: Show shell casings -->
-  <CE_Settings_ShowCasings_Title>TODO</CE_Settings_ShowCasings_Title>
+  <CE_Settings_ShowCasings_Title>Mostrar casquillos</CE_Settings_ShowCasings_Title>
 	<!-- EN: Firing weapons will display a dropped casing effect. -->
-  <CE_Settings_ShowCasings_Desc>TODO</CE_Settings_ShowCasings_Desc>
+  <CE_Settings_ShowCasings_Desc>Activa o desactiva el efecto visual de casquillos expulsados al disparar un arma.</CE_Settings_ShowCasings_Desc>
 
 	<!-- EN: Create shell casing filth -->
-  <CE_Settings_CreateCasingsFilth_Title>TODO</CE_Settings_CreateCasingsFilth_Title>
+  <CE_Settings_CreateCasingsFilth_Title>Crear suciedad de casquillos</CE_Settings_CreateCasingsFilth_Title>
 	<!-- EN: Firing weapons will create cleanable filth of dropped casings. -->
-  <CE_Settings_CreateCasingsFilth_Desc>TODO</CE_Settings_CreateCasingsFilth_Desc>
+  <CE_Settings_CreateCasingsFilth_Desc>Activa o desactiva la generación de suciedad limpiable causada por los casquillos expulsados.</CE_Settings_CreateCasingsFilth_Desc>
 
 	<!-- EN: Create impacted projectile flecks -->
-  <CE_Settings_StuckArrowsAsFlecks_Title>TODO</CE_Settings_StuckArrowsAsFlecks_Title>
+  <CE_Settings_StuckArrowsAsFlecks_Title>Crear impactos visuales de proyectiles</CE_Settings_StuckArrowsAsFlecks_Title>
 	<!-- EN: Certain projectiles, such as arrows, will create a temporary visual fleck on the ground where they impact. -->
-  <CE_Settings_StuckArrowsAsFlecks_Desc>TODO</CE_Settings_StuckArrowsAsFlecks_Desc>
+  <CE_Settings_StuckArrowsAsFlecks_Desc>Activa o desactiva los efectos visuales temporales en el suelo generados por proyectiles como las flechas.</CE_Settings_StuckArrowsAsFlecks_Desc>
 
 	<!-- EN: Show combat taunts -->
-  <CE_Settings_ShowTaunts_Title>TODO</CE_Settings_ShowTaunts_Title>
+  <CE_Settings_ShowTaunts_Title>Mostrar burlas de combate</CE_Settings_ShowTaunts_Title>
 	<!-- EN: Pawns will display text-based taunts during combat. -->
-  <CE_Settings_ShowTaunts_Desc>TODO</CE_Settings_ShowTaunts_Desc>
+  <CE_Settings_ShowTaunts_Desc>Activa o desactiva la visualización de burlas en texto durante los combates.</CE_Settings_ShowTaunts_Desc>
 
 	<!-- EN: Allow hunting with melee weapons -->
-  <CE_Settings_AllowMeleeHunting_Title>TODO</CE_Settings_AllowMeleeHunting_Title>
+  <CE_Settings_AllowMeleeHunting_Title>Permitir caza con armas cuerpo a cuerpo</CE_Settings_AllowMeleeHunting_Title>
 	<!-- EN: Hunters will still be allowed to hunt if they have a melee weapon equipped. -->
-  <CE_Settings_AllowMeleeHunting_Desc>TODO</CE_Settings_AllowMeleeHunting_Desc>
+  <CE_Settings_AllowMeleeHunting_Desc>Activa o desactiva la posibilidad de cazar usando armas cuerpo a cuerpo.</CE_Settings_AllowMeleeHunting_Desc>
 
 	<!-- EN: Toggle black smoke system -->
-  <CE_Settings_SmokeEffects_Title>TODO</CE_Settings_SmokeEffects_Title>
+  <CE_Settings_SmokeEffects_Title>Activar sistema de humo negro</CE_Settings_SmokeEffects_Title>
 	<!-- EN: Fire generates dangerous black smoke clouds, causing health complications to anyone not wearing protective gear. -->
-  <CE_Settings_SmokeEffects_Desc>TODO</CE_Settings_SmokeEffects_Desc>
-
+  <CE_Settings_SmokeEffects_Desc>Activa o desactiva la generación de nubes de humo negro que provocan complicaciones de salud en quienes no usan equipo protector.</CE_Settings_SmokeEffects_Desc>
 
 	<!-- EN: Disable shield belts while manning turrets -->
-  <CE_Settings_TurretsBreakShields_Title>TODO</CE_Settings_TurretsBreakShields_Title>
+  <CE_Settings_TurretsBreakShields_Title>Desactivar cinturones de energía al manejar torretas</CE_Settings_TurretsBreakShields_Title>
 	<!-- EN: When enabled, shield belts will deactivate while colonists are manning turrets. If disabled, shield belts will instead remain active, offering additional protection. -->
-  <CE_Settings_TurretsBreakShields_Desc>TODO</CE_Settings_TurretsBreakShields_Desc>
+  <CE_Settings_TurretsBreakShields_Desc>Activa o desactiva la desactivación automática de los cinturones de energía mientras los colonos operan torretas. Si se desactiva, los cinturones permanecerán activos y ofrecerán protección adicional.</CE_Settings_TurretsBreakShields_Desc>
 
 	<!-- EN: Show backpacks -->
-  <CE_Settings_ShowBackpacks_Title>TODO</CE_Settings_ShowBackpacks_Title>
+  <CE_Settings_ShowBackpacks_Title>Mostrar mochilas</CE_Settings_ShowBackpacks_Title>
 	<!-- EN: Enables / Disables the rendering of backpacks (all pawns) -->
-  <CE_Settings_ShowBackpacks_Desc>TODO</CE_Settings_ShowBackpacks_Desc>
+  <CE_Settings_ShowBackpacks_Desc>Activa o desactiva el renderizado de mochilas en todos los peones.</CE_Settings_ShowBackpacks_Desc>
 
 	<!-- EN: Show tactical vests -->
-  <CE_Settings_ShowWebbing_Title>TODO</CE_Settings_ShowWebbing_Title>
+  <CE_Settings_ShowWebbing_Title>Mostrar chalecos tácticos</CE_Settings_ShowWebbing_Title>
 	<!-- EN: Enables / Disables the rendering of tactical vests (all pawns) -->
-  <CE_Settings_ShowWebbing_Desc>TODO</CE_Settings_ShowWebbing_Desc>
+  <CE_Settings_ShowWebbing_Desc>Activa o desactiva el renderizado de chalecos tácticos en todos los peones.</CE_Settings_ShowWebbing_Desc>
 
 	<!-- EN: Turn on partial armor -->
-  <CE_Settings_PartialStats_Title>TODO</CE_Settings_PartialStats_Title>
+  <CE_Settings_PartialStats_Title>Activar armadura parcial</CE_Settings_PartialStats_Title>
 	<!-- EN: When turned on some armor might have different stats on different body parts -->
-  <CE_Settings_PartialStats_Desc>TODO</CE_Settings_PartialStats_Desc>
+  <CE_Settings_PartialStats_Desc>Activa o desactiva la posibilidad de que algunas armaduras tengan estadísticas diferentes según la parte del cuerpo.</CE_Settings_PartialStats_Desc>
 
 	<!-- EN: Show recoil animations -->
-  <CE_Settings_RecoilAnim_Title>TODO</CE_Settings_RecoilAnim_Title>
+  <CE_Settings_RecoilAnim_Title>Mostrar animaciones de retroceso</CE_Settings_RecoilAnim_Title>
 	<!-- EN: When enabled, ranged weapons and turrets will play recoil animations when they fire. -->
-  <CE_Settings_RecoilAnim_Desc>TODO</CE_Settings_RecoilAnim_Desc>
+  <CE_Settings_RecoilAnim_Desc>Activa o desactiva las animaciones de retroceso al disparar armas de fuego o torretas.</CE_Settings_RecoilAnim_Desc>
+
 
 	<!-- ========== Ammo settings ========== -->
 
 	<!-- EN: Enable ammunition system -->
-  <CE_Settings_EnableAmmoSystem_Title>TODO</CE_Settings_EnableAmmoSystem_Title>
+  <CE_Settings_EnableAmmoSystem_Title>Activar sistema de munición</CE_Settings_EnableAmmoSystem_Title>
 	<!-- EN: Weapons require ammunition to reload and can use various specialized ammo types.\n\nWARNING: Changing this setting on an existing colony may cause bugs and instability, do so at your own risk. -->
-  <CE_Settings_EnableAmmoSystem_Desc>TODO</CE_Settings_EnableAmmoSystem_Desc>
+  <CE_Settings_EnableAmmoSystem_Desc>Activa o desactiva el sistema de munición. Las armas requieren munición para recargarse y pueden usar diferentes tipos especializados.\n\nADVERTENCIA: Cambiar esta configuración en una colonia existente puede causar errores e inestabilidad. Hazlo bajo tu propio riesgo.</CE_Settings_EnableAmmoSystem_Desc>
 
 	<!-- EN: Use generic ammo system -->
-  <CE_Settings_GenericAmmo>TODO</CE_Settings_GenericAmmo>
+  <CE_Settings_GenericAmmo>Usar sistema de munición genérica</CE_Settings_GenericAmmo>
 	<!-- EN: Instead of using full caliber system use several generic calibers, while retaining ammo types and ammo system. (requires game reload) -->
-  <CE_Settings_GenericAmmo_Desc>TODO</CE_Settings_GenericAmmo_Desc>
+  <CE_Settings_GenericAmmo_Desc>Activa o desactiva el uso de calibres genéricos en lugar del sistema completo de calibres, manteniendo los tipos y mecánicas de munición. (requiere reiniciar el juego)</CE_Settings_GenericAmmo_Desc>
 
 	<!-- EN: Right-click ammo selection -->
-  <CE_Settings_RightClickAmmoSelect_Title>TODO</CE_Settings_RightClickAmmoSelect_Title>
+  <CE_Settings_RightClickAmmoSelect_Title>Selección de munición con clic derecho</CE_Settings_RightClickAmmoSelect_Title>
 	<!-- EN: Right-clicking the reload button brings up the ammo selection menu. -->
-  <CE_Settings_RightClickAmmoSelect_Desc>TODO</CE_Settings_RightClickAmmoSelect_Desc>
+  <CE_Settings_RightClickAmmoSelect_Desc>Activa o desactiva la posibilidad de abrir el menú de selección de munición al hacer clic derecho sobre el botón de recarga.</CE_Settings_RightClickAmmoSelect_Desc>
 
 	<!-- EN: Auto-reload on ammo select -->
-  <CE_Settings_AutoReloadOnChangeAmmo_Title>TODO</CE_Settings_AutoReloadOnChangeAmmo_Title>
+  <CE_Settings_AutoReloadOnChangeAmmo_Title>Recarga automática al cambiar de munición</CE_Settings_AutoReloadOnChangeAmmo_Title>
 	<!-- EN: Pawns will automatically reload when a new ammo type is selected. -->
-  <CE_Settings_AutoReloadOnChangeAmmo_Desc>TODO</CE_Settings_AutoReloadOnChangeAmmo_Desc>
+  <CE_Settings_AutoReloadOnChangeAmmo_Desc>Activa o desactiva la recarga automática al seleccionar un nuevo tipo de munición.</CE_Settings_AutoReloadOnChangeAmmo_Desc>
 
 	<!-- EN: Auto-equip ammo -->
-  <CE_Settings_AutoTakeAmmo_Title>TODO</CE_Settings_AutoTakeAmmo_Title>
+  <CE_Settings_AutoTakeAmmo_Title>Autoequipar munición</CE_Settings_AutoTakeAmmo_Title>
 	<!-- EN: Pawns without loadouts assigned will automatically pick up ammo for their equipped weapon. -->
-  <CE_Settings_AutoTakeAmmo_Desc>TODO</CE_Settings_AutoTakeAmmo_Desc>
+  <CE_Settings_AutoTakeAmmo_Desc>Activa o desactiva que los peones sin equipamiento asignado recojan automáticamente munición para el arma que portan.</CE_Settings_AutoTakeAmmo_Desc>
 
 	<!-- EN: Display weapon caliber -->
-  <CE_Settings_ShowCaliberOnGuns_Title>TODO</CE_Settings_ShowCaliberOnGuns_Title>
+  <CE_Settings_ShowCaliberOnGuns_Title>Mostrar calibre del arma</CE_Settings_ShowCaliberOnGuns_Title>
 	<!-- EN: Ammunition-using weapons will have their caliber appended behind their name. -->
-  <CE_Settings_ShowCaliberOnGuns_Desc>TODO</CE_Settings_ShowCaliberOnGuns_Desc>
+  <CE_Settings_ShowCaliberOnGuns_Desc>Activa o desactiva que las armas que usan munición muestren su calibre al final del nombre.</CE_Settings_ShowCaliberOnGuns_Desc>
 
 	<!-- EN: Re-use neolithic projectiles -->
-  <CE_Settings_ReuseNeolithicProjectiles_Title>TODO</CE_Settings_ReuseNeolithicProjectiles_Title>
+  <CE_Settings_ReuseNeolithicProjectiles_Title>Reutilizar proyectiles neolíticos</CE_Settings_ReuseNeolithicProjectiles_Title>
 	<!-- EN: Neolithic projectiles will have a chance to drop on the floor on impact. They are automatically forbidden. -->
-  <CE_Settings_ReuseNeolithicProjectiles_Desc>TODO</CE_Settings_ReuseNeolithicProjectiles_Desc>
+  <CE_Settings_ReuseNeolithicProjectiles_Desc>Activa o desactiva la posibilidad de que los proyectiles neolíticos caigan al suelo al impactar. Estos se marcan automáticamente como prohibidos.</CE_Settings_ReuseNeolithicProjectiles_Desc>
 
 	<!-- EN: Realistic cook-off -->
-  <CE_Settings_RealisticCookOff_Title>TODO</CE_Settings_RealisticCookOff_Title>
+  <CE_Settings_RealisticCookOff_Title>Deflagración realista</CE_Settings_RealisticCookOff_Title>
 	<!-- EN: Ammunition stacks won't spawn damaging projectiles on cooking off. -->
-  <CE_Settings_RealisticCookOff_Desc>TODO</CE_Settings_RealisticCookOff_Desc>
+  <CE_Settings_RealisticCookOff_Desc>Activa o desactiva la generación de proyectiles dañinos cuando una pila de munición detona por calor.</CE_Settings_RealisticCookOff_Desc>
 
 	<!-- EN: Enables extra tooltips for the cell under the mouse pointer (hold left-shift to view). -->
-  <CE_Settings_ShowExtraTooltips_Desc>TODO</CE_Settings_ShowExtraTooltips_Desc>
+  <CE_Settings_ShowExtraTooltips_Desc>Activa o desactiva la visualización de información adicional al mantener presionada la tecla Shift izquierda sobre una celda.</CE_Settings_ShowExtraTooltips_Desc>
 	<!-- EN: Show extra tooltips -->
-  <CE_Settings_ShowExtraTooltips_Title>TODO</CE_Settings_ShowExtraTooltips_Title>
+  <CE_Settings_ShowExtraTooltips_Title>Mostrar información adicional</CE_Settings_ShowExtraTooltips_Title>
 
 	<!-- EN: Enables extra (internal, redundant, or confusing) stats in some info cards. -->
-  <CE_Settings_ShowExtraStats_Desc>TODO</CE_Settings_ShowExtraStats_Desc>
+  <CE_Settings_ShowExtraStats_Desc>Activa o desactiva estadísticas adicionales (internas o redundantes) en algunas tarjetas de información.</CE_Settings_ShowExtraStats_Desc>
 	<!-- EN: Show extra stats -->
-  <CE_Settings_ShowExtraStats_Title>TODO</CE_Settings_ShowExtraStats_Title>
+  <CE_Settings_ShowExtraStats_Title>Mostrar estadísticas adicionales</CE_Settings_ShowExtraStats_Title>
 
 	<!-- EN: Enables extra information about parry, dodge and other attack chance modifiers in melee tooltip. -->
-  <CE_Settings_DetailedMeleeTooltip_Desc>TODO</CE_Settings_DetailedMeleeTooltip_Desc>
+  <CE_Settings_DetailedMeleeTooltip_Desc>Activa o desactiva información adicional sobre parada, esquiva y otros modificadores de ataque en las descripciones del combate cuerpo a cuerpo.</CE_Settings_DetailedMeleeTooltip_Desc>
 	<!-- EN: Show detailed melee tooltip -->
-  <CE_Settings_DetailedMeleeTooltip_Title>TODO</CE_Settings_DetailedMeleeTooltip_Title>
+  <CE_Settings_DetailedMeleeTooltip_Title>Mostrar detalles de combate cuerpo a cuerpo</CE_Settings_DetailedMeleeTooltip_Title>
 
 	<!-- EN: When enabled, damaging walls can generate fragments. -->
-  <CE_Settings_FragmentsFromWalls_Desc>TODO</CE_Settings_FragmentsFromWalls_Desc>
+  <CE_Settings_FragmentsFromWalls_Desc>Activa o desactiva la generación de fragmentos al dañar muros.</CE_Settings_FragmentsFromWalls_Desc>
 	<!-- EN: Fragments from walls -->
-  <CE_Settings_FragmentsFromWalls_Title>TODO</CE_Settings_FragmentsFromWalls_Title>
+  <CE_Settings_FragmentsFromWalls_Title>Fragmentos de muros</CE_Settings_FragmentsFromWalls_Title>
 
 	<!-- EN: When enabled, some of the fragments from walls might be reflected back at the shooter. -->
-  <CE_Settings_FragmentsFromWallsReflected_Desc>TODO</CE_Settings_FragmentsFromWallsReflected_Desc>
+  <CE_Settings_FragmentsFromWallsReflected_Desc>Activa o desactiva la posibilidad de que algunos fragmentos reboten y se dirijan hacia el tirador.</CE_Settings_FragmentsFromWallsReflected_Desc>
 	<!-- EN: Reflected fragments from walls -->
-  <CE_Settings_FragmentsFromWallsReflected_Title>TODO</CE_Settings_FragmentsFromWallsReflected_Title>
+  <CE_Settings_FragmentsFromWallsReflected_Title>Fragmentos reflejados de muros</CE_Settings_FragmentsFromWallsReflected_Title>
 
 	<!-- EN: Controls how many wall fragments will spawn and how big they will be. -->
-  <CE_Settings_FragmentsFromWallsIntensity_Desc>TODO</CE_Settings_FragmentsFromWallsIntensity_Desc>
+  <CE_Settings_FragmentsFromWallsIntensity_Desc>Controla cuántos fragmentos de muro se generan y qué tamaño tendrán.</CE_Settings_FragmentsFromWallsIntensity_Desc>
 	<!-- EN: Fragments from walls intensity -->
-  <CE_Settings_FragmentsFromWallsIntensity_Title>TODO</CE_Settings_FragmentsFromWallsIntensity_Title>
+  <CE_Settings_FragmentsFromWallsIntensity_Title>Intensidad de fragmentos de muros</CE_Settings_FragmentsFromWallsIntensity_Title>
 
 	<!-- EN: When enabled, subsequent shots at the same, or nearby, targets are faster. -->
-  <CE_Settings_FasterRepeatShots_Desc>TODO</CE_Settings_FasterRepeatShots_Desc>
+  <CE_Settings_FasterRepeatShots_Desc>Activa o desactiva la posibilidad de realizar disparos más rápidos a un mismo objetivo o a otros cercanos.</CE_Settings_FasterRepeatShots_Desc>
 	<!-- EN: Faster subsequent shots -->
-  <CE_Settings_FasterRepeatShots_Title>TODO</CE_Settings_FasterRepeatShots_Title>
+  <CE_Settings_FasterRepeatShots_Title>Disparos consecutivos más rápidos</CE_Settings_FasterRepeatShots_Title>
 
 	<!-- EN: When enabled, shooters will switch to a new target when their primary target is downed mid-burst. -->
-  <CE_Settings_MidBurstRetarget_Desc>TODO</CE_Settings_MidBurstRetarget_Desc>
+  <CE_Settings_MidBurstRetarget_Desc>Activa o desactiva el cambio automático de objetivo cuando el principal cae abatido durante una ráfaga.</CE_Settings_MidBurstRetarget_Desc>
 	<!-- EN: Retarget mid burst -->
-  <CE_Settings_MidBurstRetarget_Title>TODO</CE_Settings_MidBurstRetarget_Title>
+  <CE_Settings_MidBurstRetarget_Title>Cambiar objetivo en ráfaga</CE_Settings_MidBurstRetarget_Title>
 
 	<!-- EN: Show additional projectile visual effects -->
-  <CE_Settings_EnableExtraEffects_Title>TODO</CE_Settings_EnableExtraEffects_Title>
+  <CE_Settings_EnableExtraEffects_Title>Mostrar efectos visuales adicionales</CE_Settings_EnableExtraEffects_Title>
 	<!-- EN: Bullets and other projectiles will display additional effects, such as bullets kicking up dust or incendiaries throwing sparks. Cosmetic only, does not affect gameplay. -->
-  <CE_Settings_EnableExtraEffects_Desc>TODO</CE_Settings_EnableExtraEffects_Desc>
+  <CE_Settings_EnableExtraEffects_Desc>Activa o desactiva efectos visuales adicionales de proyectiles, como polvo levantado por balas o chispas de munición incendiaria. Solo es cosmético; no afecta la jugabilidad.</CE_Settings_EnableExtraEffects_Desc>
 
-	<!-- ========= Explosion Settings ========= -->
+
+		<!-- ========= Explosion Settings ========= -->
 
 	<!-- EN: Explosion Settings -->
-  <CE_Settings_ExplosionSettings>TODO</CE_Settings_ExplosionSettings>
+  <CE_Settings_ExplosionSettings>Configuración de explosiones</CE_Settings_ExplosionSettings>
 
 	<!-- EN: Merge explosions -->
-  <CE_Settings_MergeExplosions_Title>TODO</CE_Settings_MergeExplosions_Title>
+  <CE_Settings_MergeExplosions_Title>Combinar explosiones</CE_Settings_MergeExplosions_Title>
 	<!-- EN: Nearby explosions are merged into each other, significantly improving performance during a massive explosives cook-off. Strongly recommended to leave on. -->
-  <CE_Settings_MergeExplosions_Desc>TODO</CE_Settings_MergeExplosions_Desc>
+  <CE_Settings_MergeExplosions_Desc>Activa o desactiva la combinación de explosiones cercanas entre sí, mejorando significativamente el rendimiento durante detonaciones masivas. Se recomienda mantener activada esta opción.</CE_Settings_MergeExplosions_Desc>
 
 	<!-- EN: Explosion power multiplier -->
-  <CE_Settings_ExplosionPenMultiplier_Title>TODO</CE_Settings_ExplosionPenMultiplier_Title>
+  <CE_Settings_ExplosionPenMultiplier_Title>Multiplicador de potencia de explosión</CE_Settings_ExplosionPenMultiplier_Title>
 	<!-- EN: Scales all explosion damage and penetration by this amount -->
-  <CE_Settings_ExplosionPenMultiplier_Desc>TODO</CE_Settings_ExplosionPenMultiplier_Desc>
+  <CE_Settings_ExplosionPenMultiplier_Desc>Ajusta el daño y la penetración de todas las explosiones en función de este multiplicador.</CE_Settings_ExplosionPenMultiplier_Desc>
 
 	<!-- EN: Explosion falloff rate -->
-  <CE_Settings_ExplosionDamageFalloffFactor_Title>TODO</CE_Settings_ExplosionDamageFalloffFactor_Title>
+  <CE_Settings_ExplosionDamageFalloffFactor_Title>Tasa de atenuación de explosión</CE_Settings_ExplosionDamageFalloffFactor_Title>
 	<!-- EN: Scales explosion falloff rates. The rate is applied to the distance from epicenter before other calculations -->
-  <CE_Settings_ExplosionDamageFalloffFactor_Desc>TODO</CE_Settings_ExplosionDamageFalloffFactor_Desc>
+  <CE_Settings_ExplosionDamageFalloffFactor_Desc>Ajusta la tasa de reducción de daño por distancia desde el epicentro antes de aplicar otros cálculos.</CE_Settings_ExplosionDamageFalloffFactor_Desc>
 
 	<!-- ======== Stabilization settings ======== -->
 
 	<!-- EN: Injury Stabilize Settings -->
-  <CE_Settings_StabilizationSettings>TODO</CE_Settings_StabilizationSettings>
+  <CE_Settings_StabilizationSettings>Configuración de estabilización de heridas</CE_Settings_StabilizationSettings>
 
 	<!-- EN: Medicine search radius -->
-  <CE_Settings_MedicineSearchRadius_Title>TODO</CE_Settings_MedicineSearchRadius_Title>
+  <CE_Settings_MedicineSearchRadius_Title>Radio de búsqueda de medicinas</CE_Settings_MedicineSearchRadius_Title>
 	<!-- EN: Sets the distance that medicine will be searched for to stabilize a pawn. -->
-  <CE_Settings_MedicineSearchRadius_Desc>TODO</CE_Settings_MedicineSearchRadius_Desc>
+  <CE_Settings_MedicineSearchRadius_Desc>Define la distancia dentro de la cual se buscarán medicinas para estabilizar a un peón herido.</CE_Settings_MedicineSearchRadius_Desc>
 
 	<!-- ========== Bipod settings ========== -->
 
 	<!-- EN: Bipod settings -->
-  <CE_Settings_BipodSettings>TODO</CE_Settings_BipodSettings>
+  <CE_Settings_BipodSettings>Configuración de bípodes</CE_Settings_BipodSettings>
 
 	<!-- EN: Use bipod mechanics -->
-  <CE_Settings_BipodMechanics_Title>TODO</CE_Settings_BipodMechanics_Title>
+  <CE_Settings_BipodMechanics_Title>Usar mecánicas de bípode</CE_Settings_BipodMechanics_Title>
 	<!-- EN: Some weapons will be equipped with bipods, giving penalties when not set up and slight bonuses when set up. -->
-  <CE_Settings_BipodMechanics_Desc>TODO</CE_Settings_BipodMechanics_Desc>
+  <CE_Settings_BipodMechanics_Desc>Activa o desactiva el uso de bípodes en ciertas armas. Otorgan penalizaciones cuando no están desplegados y ligeras bonificaciones al estarlo.</CE_Settings_BipodMechanics_Desc>
 
 	<!-- EN: Toggle bipod autosetup -->
-  <CE_Settings_BipodAutoSetUp_Title>TODO</CE_Settings_BipodAutoSetUp_Title>
+  <CE_Settings_BipodAutoSetUp_Title>Activar configuración automática del bípode</CE_Settings_BipodAutoSetUp_Title>
 	<!-- EN: Weapons with bipods will automatically start setting up when not set to snapshot. -->
-  <CE_Settings_BipodAutoSetUp_Desc>TODO</CE_Settings_BipodAutoSetUp_Desc>
+  <CE_Settings_BipodAutoSetUp_Desc>Activa o desactiva la configuración automática del bípode cuando el arma no está en modo de disparo rápido.</CE_Settings_BipodAutoSetUp_Desc>
 
 	<!-- ========== Compatibility settings ========== -->
 
 	<!-- EN: Vehicle settings -->
-  <CE_Settings_Vehicles>TODO</CE_Settings_Vehicles>
+  <CE_Settings_Vehicles>Configuración de vehículos</CE_Settings_Vehicles>
 
 	<!-- EN: Use New Vehicle Armor -->
-  <CE_Settings_PatchArmorDamage_Title>TODO</CE_Settings_PatchArmorDamage_Title>
+  <CE_Settings_PatchArmorDamage_Title>Usar nueva armadura de vehículos</CE_Settings_PatchArmorDamage_Title>
 	<!-- EN: Vehicle Armor reduces damage based on relative values, but can be penetrated by high AP attacks.. -->
-  <CE_Settings_PatchArmorDamage_Desc>TODO</CE_Settings_PatchArmorDamage_Desc>
+  <CE_Settings_PatchArmorDamage_Desc>Activa o desactiva el nuevo sistema de armadura de vehículos, que reduce el daño según valores relativos, pero puede ser penetrado por ataques con alta capacidad de penetración (AP).</CE_Settings_PatchArmorDamage_Desc>
 
 	<!-- ========== Autopatcher settings ========== -->
 
 	<!-- EN: Enable autopatcher verbose logging -->
-  <CE_Settings_VerboseAutopatcher_Title>TODO</CE_Settings_VerboseAutopatcher_Title>
+  <CE_Settings_VerboseAutopatcher_Title>Activar registro detallado del autoparcheador</CE_Settings_VerboseAutopatcher_Title>
 	<!-- EN: This will enable verbose logging of the autopatcher -->
-  <CE_Settings_VerboseAutopatcher_Desc>TODO</CE_Settings_VerboseAutopatcher_Desc>
+  <CE_Settings_VerboseAutopatcher_Desc>Activa o desactiva el registro detallado de la actividad del autoparcheador.</CE_Settings_VerboseAutopatcher_Desc>
 
 	<!-- EN: Enable apparel autopatcher -->
-  <CE_Settings_ApparelAutopatcher_Title>TODO</CE_Settings_ApparelAutopatcher_Title>
+  <CE_Settings_ApparelAutopatcher_Title>Activar autoparcheador de vestimenta</CE_Settings_ApparelAutopatcher_Title>
 	<!-- EN: Attempt to apply an appropriate apparel preset to the armor values of unpatched apparel. -->
-  <CE_Settings_ApparelAutopatcher_Desc>TODO</CE_Settings_ApparelAutopatcher_Desc>
+  <CE_Settings_ApparelAutopatcher_Desc>Activa o desactiva la aplicación automática de valores de armadura adecuados a prendas que no tengan parche de compatibilidad.</CE_Settings_ApparelAutopatcher_Desc>
 
 	<!-- EN: Enable race autopatcher -->
-  <CE_Settings_RaceAutopatcher_Title>TODO</CE_Settings_RaceAutopatcher_Title>
+  <CE_Settings_RaceAutopatcher_Title>Activar autoparcheador de razas</CE_Settings_RaceAutopatcher_Title>
 	<!-- EN: The autopatcher will apply a preset to unpatched races to allow basic functionality. -->
-  <CE_Settings_RaceAutopatcher_Desc>TODO</CE_Settings_RaceAutopatcher_Desc>
+  <CE_Settings_RaceAutopatcher_Desc>Activa o desactiva la aplicación de ajustes automáticos a razas sin parches para asegurar funcionalidad básica.</CE_Settings_RaceAutopatcher_Desc>
 
 	<!-- EN: Enable weapon autopatcher -->
-  <CE_Settings_WeaponAutopatcher_Title>TODO</CE_Settings_WeaponAutopatcher_Title>
+  <CE_Settings_WeaponAutopatcher_Title>Activar autoparcheador de armas</CE_Settings_WeaponAutopatcher_Title>
 	<!-- EN: Attempt to apply an appropriate weapon preset to unpatched ranged weapons. -->
-  <CE_Settings_WeaponAutopatcher_Desc>TODO</CE_Settings_WeaponAutopatcher_Desc>
+  <CE_Settings_WeaponAutopatcher_Desc>Activa o desactiva la aplicación automática de valores adecuados a armas de fuego sin parches de compatibilidad.</CE_Settings_WeaponAutopatcher_Desc>
 
 	<!-- EN: Enable weapon toughness autopatcher -->
-  <CE_Settings_ToughnessAutopatcher_Title>TODO</CE_Settings_ToughnessAutopatcher_Title>
+  <CE_Settings_ToughnessAutopatcher_Title>Activar autoparcheador de dureza de armas</CE_Settings_ToughnessAutopatcher_Title>
 	<!-- EN: Apply an automatically calculated toughness stat to weapons, which affects how much damage they recieve when used in melee. -->
-  <CE_Settings_ToughnessAutopatcher_Desc>TODO</CE_Settings_ToughnessAutopatcher_Desc>
+  <CE_Settings_ToughnessAutopatcher_Desc>Activa o desactiva la asignación automática de un valor de dureza a las armas, afectando el daño que reciben en combate cuerpo a cuerpo.</CE_Settings_ToughnessAutopatcher_Desc>
 
 	<!-- EN: Enable pawnkind autopatcher -->
-  <CE_Settings_PawnkindAutopatcher_Title>TODO</CE_Settings_PawnkindAutopatcher_Title>
+  <CE_Settings_PawnkindAutopatcher_Title>Activar autoparcheador de tipos de peones</CE_Settings_PawnkindAutopatcher_Title>
 	<!-- EN: Give unpatched pawnkinds equipped with a patched ranged weapon a small amount of ammunition. -->
-  <CE_Settings_PawnkindAutopatcher_Desc>TODO</CE_Settings_PawnkindAutopatcher_Desc>
+  <CE_Settings_PawnkindAutopatcher_Desc>Activa o desactiva que los tipos de peones sin parche reciban automáticamente una pequeña cantidad de munición si portan un arma de fuego parcheada.</CE_Settings_PawnkindAutopatcher_Desc>
 
 	<!-- ========== Pop-up window ========== -->
 
 	<!-- EN: Toggling generic ammo mode requires a full restart to apply.\n\nWould you like to restart now? -->
-  <CE_Settings_GenericRestartPopup>TODO</CE_Settings_GenericRestartPopup>
+  <CE_Settings_GenericRestartPopup>Cambiar al modo de munición genérica requiere reiniciar completamente el juego.\n\n¿Deseas reiniciar ahora?</CE_Settings_GenericRestartPopup>
 	<!-- EN: Restart now -->
-  <CE_Settings_AcceptRestart>TODO</CE_Settings_AcceptRestart>
+  <CE_Settings_AcceptRestart>Reiniciar ahora</CE_Settings_AcceptRestart>
 	<!-- EN: Continue -->
-  <CE_Settings_DeclineRestart>TODO</CE_Settings_DeclineRestart>
+  <CE_Settings_DeclineRestart>Continuar</CE_Settings_DeclineRestart>
 	<!-- EN: Generic ammo setting has changed -->
-  <CE_Settings_RestartTitle>TODO</CE_Settings_RestartTitle>
+  <CE_Settings_RestartTitle>La configuración de munición genérica ha cambiado</CE_Settings_RestartTitle>
 
 	<!-- ========== CIWS ========== -->
 	<!-- EN: Enable CIWS -->
-  <CE_Settings_EnableCIWS>TODO</CE_Settings_EnableCIWS>
+  <CE_Settings_EnableCIWS>Activar CIWS</CE_Settings_EnableCIWS>
 	<!-- EN: Allows some turrets to function as Close-In Weapon Systems, capable of intercepting incoming hostile projectiles and/or drop pods. -->
-  <CE_Settings_EnableCIWS_Desc>TODO</CE_Settings_EnableCIWS_Desc>
+  <CE_Settings_EnableCIWS_Desc>Activa o desactiva la funcionalidad de algunos cañones automáticos para operar como sistemas CIWS (Close-In Weapon System), capaces de interceptar proyectiles enemigos o cápsulas de aterrizaje.</CE_Settings_EnableCIWS_Desc>
 
 	<!-- ========= Reset to Default ========= -->
 	<!-- EN: Reset Page to Default -->
-  <CE_ResetToDefault>TODO</CE_ResetToDefault>
+  <CE_ResetToDefault>Restablecer página a valores predeterminados</CE_ResetToDefault>
+
 
 </LanguageData>

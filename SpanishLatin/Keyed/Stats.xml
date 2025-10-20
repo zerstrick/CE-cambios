@@ -3,22 +3,23 @@
 
 	<!-- Partial armor statworker -->
 	<!-- EN: General value: -->
-  <CE_StatWorker_ArmorGeneral>TODO</CE_StatWorker_ArmorGeneral>
+  <CE_StatWorker_ArmorGeneral>Valor general:</CE_StatWorker_ArmorGeneral>
 	<!-- EN: Special value for bodyparts: -->
-  <CE_StatWorker_ArmorSpecific>TODO</CE_StatWorker_ArmorSpecific>
+  <CE_StatWorker_ArmorSpecific>Valor especial para partes del cuerpo:</CE_StatWorker_ArmorSpecific>
 	<!-- EN: Carried bulk: -->
-  <CE_BulkEffect>TODO</CE_BulkEffect>
+  <CE_BulkEffect>Volumen transportado:</CE_BulkEffect>
 	<!-- EN: Carried weight: -->
-  <CE_MassEffect>TODO</CE_MassEffect>
+  <CE_MassEffect>Peso transportado:</CE_MassEffect>
 	<!-- EN: Additional material toughness multiplier: -->
-  <CE_StatsReport_WeaponToughness_StuffEffect>TODO</CE_StatsReport_WeaponToughness_StuffEffect>
+  <CE_StatsReport_WeaponToughness_StuffEffect>Multiplicador adicional de dureza del material:</CE_StatsReport_WeaponToughness_StuffEffect>
 	<!-- EN: Wielder skill effect: -->
-  <CE_StatsReport_WeaponToughness_HolderEffect>TODO</CE_StatsReport_WeaponToughness_HolderEffect>
+  <CE_StatsReport_WeaponToughness_HolderEffect>Efecto de la habilidad del portador:</CE_StatsReport_WeaponToughness_HolderEffect>
 	<!-- EN: Long range radio -->
-  <CE_Long_Range_Radio>TODO</CE_Long_Range_Radio>
+  <CE_Long_Range_Radio>Radio de largo alcance</CE_Long_Range_Radio>
 	<!-- EN: Picks the lowest value of available -->
-  <CE_StatPart_MinimaExplanation>TODO</CE_StatPart_MinimaExplanation>
+  <CE_StatPart_MinimaExplanation>Toma el valor más bajo disponible</CE_StatPart_MinimaExplanation>
 	<!-- EN: Picks the highest value of available -->
-  <CE_StatPart_MaximaExplanation>TODO</CE_StatPart_MaximaExplanation>
+  <CE_StatPart_MaximaExplanation>Toma el valor más alto disponible</CE_StatPart_MaximaExplanation>
+
 
 </LanguageData>
