@@ -3,12 +3,13 @@
 
 	<!-- Partial armor statworker -->
 	<!-- EN: Armor durability:  -->
-  <CE_ArmorDurability>TODO</CE_ArmorDurability>
+  <CE_ArmorDurability>Durabilidad de la armadura:</CE_ArmorDurability>
 	<!-- EN: Repair armor -->
-  <CE_RepairArmorDurability>TODO</CE_RepairArmorDurability>
+  <CE_RepairArmorDurability>Reparar armadura</CE_RepairArmorDurability>
 	<!-- EN: Can't repair natural armor, armor is undamaged -->
-  <CE_ArmorDurability_CannotRepairUndamaged>TODO</CE_ArmorDurability_CannotRepairUndamaged>
+  <CE_ArmorDurability_CannotRepairUndamaged>No se puede reparar la armadura natural: la armadura no está dañada</CE_ArmorDurability_CannotRepairUndamaged>
 	<!-- EN: Can't repair natural armor, no resources -->
-  <CE_ArmorDurability_CannonRepairNoResource>TODO</CE_ArmorDurability_CannonRepairNoResource>
+  <CE_ArmorDurability_CannonRepairNoResource>No se puede reparar la armadura natural: no hay recursos disponibles</CE_ArmorDurability_CannonRepairNoResource>
+
 
 </LanguageData>

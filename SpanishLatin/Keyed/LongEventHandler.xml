@@ -2,20 +2,21 @@
 <LanguageData>
 
 	<!-- EN: Preparing CombatExtended loadout generators -->
-  <CE_LongEvent_LoadoutProperties>TODO</CE_LongEvent_LoadoutProperties>
+  <CE_LongEvent_LoadoutProperties>Preparando generadores de equipamiento de CombatExtended</CE_LongEvent_LoadoutProperties>
 	<!-- EN: Generalizing ammunition -->
-  <CE_LongEvent_AmmoGeneralizer>TODO</CE_LongEvent_AmmoGeneralizer>
+  <CE_LongEvent_AmmoGeneralizer>Generalizando la munición</CE_LongEvent_AmmoGeneralizer>
 	<!-- EN: Injecting ammunition -->
-  <CE_LongEvent_AmmoInjector>TODO</CE_LongEvent_AmmoInjector>
+  <CE_LongEvent_AmmoInjector>Inyectando munición</CE_LongEvent_AmmoInjector>
 	<!-- EN: Generating CombatExtended bounding boxes -->
-  <CE_LongEvent_BoundingBoxes>TODO</CE_LongEvent_BoundingBoxes>
+  <CE_LongEvent_BoundingBoxes>Generando cajas delimitadoras de CombatExtended</CE_LongEvent_BoundingBoxes>
 	<!-- EN: Caching def data -->
-  <CE_LongEvent_DefUtility>TODO</CE_LongEvent_DefUtility>
+  <CE_LongEvent_DefUtility>Almacenando en caché los datos de definiciones</CE_LongEvent_DefUtility>
 	<!-- EN: Loading tutorial pop-up -->
-  <CE_LongEvent_TutorialPopup>TODO</CE_LongEvent_TutorialPopup>
+  <CE_LongEvent_TutorialPopup>Cargando ventana emergente del tutorial</CE_LongEvent_TutorialPopup>
 	<!-- EN: Applying compatibility patches -->
-  <CE_LongEvent_CompatibilityPatches>TODO</CE_LongEvent_CompatibilityPatches>
+  <CE_LongEvent_CompatibilityPatches>Aplicando parches de compatibilidad</CE_LongEvent_CompatibilityPatches>
 	<!-- EN: Translating menu -->
-  <CE_LongEvent_CE_InitTabs>TODO</CE_LongEvent_CE_InitTabs>
+  <CE_LongEvent_CE_InitTabs>Traduciendo el menú</CE_LongEvent_CE_InitTabs>
+
 
 </LanguageData>

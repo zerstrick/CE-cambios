@@ -2,40 +2,41 @@
 <LanguageData>
 
 	<!-- EN: Unload contents -->
-  <CE_AutoLoader_DropAmmo>TODO</CE_AutoLoader_DropAmmo>
+  <CE_AutoLoader_DropAmmo>Descargar contenido</CE_AutoLoader_DropAmmo>
 	<!-- EN: Unload this autoloader's contents onto the floor. -->
-  <CE_AutoLoader_DropAmmoDesc>TODO</CE_AutoLoader_DropAmmoDesc>
+  <CE_AutoLoader_DropAmmoDesc>Descarga el contenido de este cargador automático en el suelo.</CE_AutoLoader_DropAmmoDesc>
 
 	<!-- EN: Reload turrets -->
-  <CE_AutoLoader_ForceReload>TODO</CE_AutoLoader_ForceReload>
+  <CE_AutoLoader_ForceReload>Recargar torretas</CE_AutoLoader_ForceReload>
 	<!-- EN: Reload adjacent turrets immediately. Forbidden turrets and currently firing turrets will be ignored. -->
-  <CE_AutoLoader_ForceReloadDesc>TODO</CE_AutoLoader_ForceReloadDesc>
+  <CE_AutoLoader_ForceReloadDesc>Recarga inmediatamente las torretas adyacentes. Las torretas prohibidas y las que estén disparando serán ignoradas.</CE_AutoLoader_ForceReloadDesc>
 
 	<!-- EN: {0} needs to be manned by an operator to function. -->
-  <CE_AutoLoader_Unmanned>TODO</CE_AutoLoader_Unmanned>
+  <CE_AutoLoader_Unmanned>{0} necesita ser operado por un operador para funcionar.</CE_AutoLoader_Unmanned>
 	<!-- EN: {0} needs power to function. -->
-  <CE_AutoLoader_Unpowered>TODO</CE_AutoLoader_Unpowered>
+  <CE_AutoLoader_Unpowered>{0} necesita energía para funcionar.</CE_AutoLoader_Unpowered>
 	<!-- EN: {0} cannot find any adjacent available {1} turrets. -->
-  <CE_AutoLoader_NoTurretToReload>TODO</CE_AutoLoader_NoTurretToReload>
+  <CE_AutoLoader_NoTurretToReload>{0} no puede encontrar ninguna torreta {1} disponible adyacente.</CE_AutoLoader_NoTurretToReload>
 
 	<!-- EN: Ammo replacement: on -->
-  <CE_AutoLoader_ToggleReplaceOn>TODO</CE_AutoLoader_ToggleReplaceOn>
+  <CE_AutoLoader_ToggleReplaceOn>Reemplazo de munición: activado</CE_AutoLoader_ToggleReplaceOn>
 	<!-- EN: The autoloader will replace turret's current ammo with the ammo type in the loader. -->
-  <CE_AutoLoader_ToggleReplaceDescOn>TODO</CE_AutoLoader_ToggleReplaceDescOn>
+  <CE_AutoLoader_ToggleReplaceDescOn>El cargador automático reemplazará la munición actual de la torreta con el tipo de munición que contiene.</CE_AutoLoader_ToggleReplaceDescOn>
 
 	<!-- EN: Ammo replacement: off -->
-  <CE_AutoLoader_ToggleReplaceOff>TODO</CE_AutoLoader_ToggleReplaceOff>
+  <CE_AutoLoader_ToggleReplaceOff>Reemplazo de munición: desactivado</CE_AutoLoader_ToggleReplaceOff>
 	<!-- EN: The autoloader will only reload turret with the same ammo type in the loader. -->
-  <CE_AutoLoader_ToggleReplaceDescOff>TODO</CE_AutoLoader_ToggleReplaceDescOff>
+  <CE_AutoLoader_ToggleReplaceDescOff>El cargador automático solo recargará la torreta con el mismo tipo de munición que contiene.</CE_AutoLoader_ToggleReplaceDescOff>
 
 	<!-- EN: Require manning to operate -->
-  <CE_AutoLoader_ManningRequired>TODO</CE_AutoLoader_ManningRequired>
+  <CE_AutoLoader_ManningRequired>Requiere ser operado para funcionar</CE_AutoLoader_ManningRequired>
 	<!-- EN: Reload time remaining: {0} seconds -->
-  <CE_AutoLoader_ReloadTime>TODO</CE_AutoLoader_ReloadTime>
+  <CE_AutoLoader_ReloadTime>Tiempo de recarga restante: {0} segundos</CE_AutoLoader_ReloadTime>
 	<!-- EN: Ammo type replacement: {0} -->
-  <CE_AutoLoader_ShouldReplace>TODO</CE_AutoLoader_ShouldReplace>
+  <CE_AutoLoader_ShouldReplace>Reemplazo del tipo de munición: {0}</CE_AutoLoader_ShouldReplace>
 
 	<!-- EN: Autoloader is reloading or being reloaded. -->
-  <CE_AutoLoaderBusy>TODO</CE_AutoLoaderBusy>
+  <CE_AutoLoaderBusy>El cargador automático se está recargando o está siendo recargado.</CE_AutoLoaderBusy>
+
 
 </LanguageData>

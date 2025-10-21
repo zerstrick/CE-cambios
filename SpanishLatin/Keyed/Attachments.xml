@@ -1,56 +1,57 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Attachments -->
-  <CE_Attachments>TODO</CE_Attachments>
+  <CE_Attachments>Accesorios</CE_Attachments>
 	<!-- EN: Queued additions -->
-  <CE_AttachmentsAdditions>TODO</CE_AttachmentsAdditions>
+  <CE_AttachmentsAdditions>Adiciones en cola</CE_AttachmentsAdditions>
 	<!-- EN: Queued removals -->
-  <CE_AttachmentsRemovals>TODO</CE_AttachmentsRemovals>
+  <CE_AttachmentsRemovals>Eliminaciones en cola</CE_AttachmentsRemovals>
 	<!-- EN: Queued removals -->
-  <CE_AttachmentsAvailable>TODO</CE_AttachmentsAvailable>
+  <CE_AttachmentsAvailable>Accesorios disponibles</CE_AttachmentsAvailable>
 	<!-- EN: Edit profile -->
-  <CE_AttachmentsEdit>TODO</CE_AttachmentsEdit>
+  <CE_AttachmentsEdit>Editar perfil</CE_AttachmentsEdit>
 	<!-- EN: Edit attachments loadout -->
-  <CE_AttachmentsEditLoadout>TODO</CE_AttachmentsEditLoadout>
+  <CE_AttachmentsEditLoadout>Editar equipamiento de accesorios</CE_AttachmentsEditLoadout>
 	<!-- EN: Clear attachments loadout -->
-  <CE_AttachmentsClearLoadout>TODO</CE_AttachmentsClearLoadout>
+  <CE_AttachmentsClearLoadout>Vaciar equipamiento de accesorios</CE_AttachmentsClearLoadout>
 	<!-- EN: Information -->
-  <CE_Attachments_Information>TODO</CE_Attachments_Information>
+  <CE_Attachments_Information>Información</CE_Attachments_Information>
 	<!-- EN: Here you can view general Information related to your current configuration. -->
-  <CE_Attachments_Information_Tip>TODO</CE_Attachments_Information_Tip>
+  <CE_Attachments_Information_Tip>Aquí puedes ver información general relacionada con tu configuración actual.</CE_Attachments_Information_Tip>
 	<!-- EN: Cost -->
-  <CE_Attachments_Cost>TODO</CE_Attachments_Cost>
+  <CE_Attachments_Cost>Costo</CE_Attachments_Cost>
 	<!-- EN: The cost of the current changes -->
-  <CE_Attachments_Cost_Tip>TODO</CE_Attachments_Cost_Tip>
+  <CE_Attachments_Cost_Tip>El costo de los cambios actuales.</CE_Attachments_Cost_Tip>
 	<!-- EN: Options -->
-  <CE_Attachments_Options>TODO</CE_Attachments_Options>
+  <CE_Attachments_Options>Opciones</CE_Attachments_Options>
 	<!-- EN: Here you can select what attachments you want this weapon to have. -->
-  <CE_Attachments_Options_Tip>TODO</CE_Attachments_Options_Tip>
+  <CE_Attachments_Options_Tip>Aquí puedes seleccionar qué accesorios quieres que tenga esta arma.</CE_Attachments_Options_Tip>
 	<!-- EN: Optics -->
-  <CE_AttachmentSlot_Sight>TODO</CE_AttachmentSlot_Sight>
+  <CE_AttachmentSlot_Sight>Óptica</CE_AttachmentSlot_Sight>
 	<!-- EN: Muzzle -->
-  <CE_AttachmentSlot_Muzzle>TODO</CE_AttachmentSlot_Muzzle>
+  <CE_AttachmentSlot_Muzzle>Bocacha</CE_AttachmentSlot_Muzzle>
 	<!-- EN: Stock -->
-  <CE_AttachmentSlot_Stock>TODO</CE_AttachmentSlot_Stock>
+  <CE_AttachmentSlot_Stock>Culata</CE_AttachmentSlot_Stock>
 	<!-- EN: Underbarrel -->
-  <CE_AttachmentSlot_Underbarrel>TODO</CE_AttachmentSlot_Underbarrel>
+  <CE_AttachmentSlot_Underbarrel>Accesorio inferior</CE_AttachmentSlot_Underbarrel>
 	<!-- EN: Close -->
-  <CE_Close>TODO</CE_Close>
+  <CE_Close>Cerrar</CE_Close>
 	<!-- EN: Apply -->
-  <CE_Apply>TODO</CE_Apply>
+  <CE_Apply>Aplicar</CE_Apply>
 	<!-- EN: Edit Attachments -->
-  <CE_EditAttachments>TODO</CE_EditAttachments>
+  <CE_EditAttachments>Editar accesorios</CE_EditAttachments>
 	<!-- EN: Statistics -->
-  <CE_EditAttachmentsStats>TODO</CE_EditAttachmentsStats>
+  <CE_EditAttachmentsStats>Estadísticas</CE_EditAttachmentsStats>
 	<!-- EN: Cost -->
-  <CE_EditAttachmentsCost>TODO</CE_EditAttachmentsCost>
+  <CE_EditAttachmentsCost>Costo</CE_EditAttachmentsCost>
 
 	<!-- EN: Switch to under barrel -->
-  <CE_SwitchAmmmoSetToUnderBarrel>TODO</CE_SwitchAmmmoSetToUnderBarrel>
+  <CE_SwitchAmmmoSetToUnderBarrel>Cambiar al accesorio inferior</CE_SwitchAmmmoSetToUnderBarrel>
 	<!-- EN: Switch to standard weapon -->
-  <CE_SwitchAmmmoSetToNormalRifle>TODO</CE_SwitchAmmmoSetToNormalRifle>
+  <CE_SwitchAmmmoSetToNormalRifle>Cambiar al arma estándar</CE_SwitchAmmmoSetToNormalRifle>
 	<!-- EN: Under barrel weapon stats: -->
-  <CE_UBGLStats>TODO</CE_UBGLStats>
+  <CE_UBGLStats>Estadísticas del accesorio inferior:</CE_UBGLStats>
 	<!-- EN: Click or hover over -->
-  <CE_UBGLStats_Title>TODO</CE_UBGLStats_Title>
+  <CE_UBGLStats_Title>Haz clic o pasa el cursor</CE_UBGLStats_Title>
+
 </LanguageData>

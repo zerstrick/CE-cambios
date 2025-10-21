@@ -1,17 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	<!-- EN: Mag count: -->
-  <MTA_MagCount>TODO</MTA_MagCount>
+  <MTA_MagCount>Cantidad de cargadores:</MTA_MagCount>
 	<!-- EN: shot -->
-  <MTA_Shot>TODO</MTA_Shot>
+  <MTA_Shot>disparo</MTA_Shot>
 	<!-- EN: Set mag count -->
-  <MTA_SetMagCount>TODO</MTA_SetMagCount>
+  <MTA_SetMagCount>Establecer cantidad de cargadores</MTA_SetMagCount>
 	<!-- EN: Take ammo now -->
-  <MTA_TakeAmmoNow>TODO</MTA_TakeAmmoNow>
+  <MTA_TakeAmmoNow>Tomar munición ahora</MTA_TakeAmmoNow>
 	<!-- EN: No need to resupply ammunition -->
-  <MTA_NoNeedAmmo>TODO</MTA_NoNeedAmmo>
+  <MTA_NoNeedAmmo>No es necesario reabastecer la munición</MTA_NoNeedAmmo>
 	<!-- EN: Each unit is one magazine, {0} rounds. -->
-  <MTA_MagazinePrefix>TODO</MTA_MagazinePrefix>
+  <MTA_MagazinePrefix>Cada unidad es un cargador con {0} balas.</MTA_MagazinePrefix>
 	<!-- EN: Unable to set loadout for mechanoids with different weapons. Try multi-selecting similar mechanoids. -->
-  <MTA_CannotSetLoadoutForMultipleEquipment>TODO</MTA_CannotSetLoadoutForMultipleEquipment>
+  <MTA_CannotSetLoadoutForMultipleEquipment>No se puede establecer el equipamiento para mecanoides con armas diferentes. Intenta seleccionar varios mecanoides similares.</MTA_CannotSetLoadoutForMultipleEquipment>
+
 </LanguageData>

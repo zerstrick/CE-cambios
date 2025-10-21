@@ -2,26 +2,27 @@
 <LanguageData>
 
 	<!-- EN: Ready to resupply turrets -->
-  <DormantCompAmmoBeacon>TODO</DormantCompAmmoBeacon>
+  <DormantCompAmmoBeacon>Listo para reabastecer torretas</DormantCompAmmoBeacon>
 	<!-- EN: Targeted bodypart: -->
-  <CE_MeleeTargetting_CurPart>TODO</CE_MeleeTargetting_CurPart>
+  <CE_MeleeTargetting_CurPart>Parte del cuerpo objetivo:</CE_MeleeTargetting_CurPart>
 	<!-- EN: Melee attacked area -->
-  <CE_MeleeTargetting_CurHeight>TODO</CE_MeleeTargetting_CurHeight>
+  <CE_MeleeTargetting_CurHeight>Área atacada CaC</CE_MeleeTargetting_CurHeight>
 	<!-- EN: None -->
-  <CE_NoBP>TODO</CE_NoBP>
+  <CE_NoBP>Ninguna</CE_NoBP>
 	<!-- EN: Yes -->
-  <CE_Yes>TODO</CE_Yes>
+  <CE_Yes>Sí</CE_Yes>
 	<!-- EN: No -->
-  <CE_No>TODO</CE_No>
+  <CE_No>No</CE_No>
 	<!-- EN: Give ammo to {0} -->
-  <CE_GiveAmmoToThing>TODO</CE_GiveAmmoToThing>
+  <CE_GiveAmmoToThing>Dar munición a {0}</CE_GiveAmmoToThing>
 	<!-- EN: Give -->
-  <CE_Give>TODO</CE_Give>
+  <CE_Give>Dar</CE_Give>
 	<!-- EN: No compatible ammo -->
-  <CE_NoAmmoToGive>TODO</CE_NoAmmoToGive>
+  <CE_NoAmmoToGive>No hay munición compatible</CE_NoAmmoToGive>
 	<!-- EN: Amount of ammo to give: -->
-  <CE_AmmoAmount>TODO</CE_AmmoAmount>
+  <CE_AmmoAmount>Cantidad de munición a entregar:</CE_AmmoAmount>
 	<!-- EN: Target pawn's inventory is full -->
-  <CE_TargetInventoryFull>TODO</CE_TargetInventoryFull>
+  <CE_TargetInventoryFull>El inventario del peón objetivo está lleno</CE_TargetInventoryFull>
+
 
 </LanguageData>

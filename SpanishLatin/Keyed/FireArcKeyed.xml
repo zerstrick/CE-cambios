@@ -2,44 +2,45 @@
 <LanguageData>
 
 	<!-- EN: Adjust arc of fire -->
-  <CE_ArcOfFireAdjLabel>TODO</CE_ArcOfFireAdjLabel>
+  <CE_ArcOfFireAdjLabel>Ajustar arco de fuego</CE_ArcOfFireAdjLabel>
 	<!-- EN: Adjust the allowed arc of fire of this turret. \n\nRight-click to save changes\nLeft-click to cancel changes\nMiddle-click to edit the span of AOF\nHold {0} during setting to show actual targetable tiles. -->
-  <CE_ArcOfFireAdjDesc>TODO</CE_ArcOfFireAdjDesc>
+  <CE_ArcOfFireAdjDesc>Ajusta el arco de fuego permitido de esta torreta.\n\nHaz clic derecho para guardar los cambios.\nHaz clic izquierdo para cancelar los cambios.\nHaz clic con el botón central para editar el rango del arco de fuego.\nMantén presionado {0} durante el ajuste para mostrar las celdas realmente alcanzables.</CE_ArcOfFireAdjDesc>
 
 	<!-- EN: Hold {0} and click to temporarily unrestrict this turret's firing arc. -->
-  <CE_ArcOfFireToggle>TODO</CE_ArcOfFireToggle>
+  <CE_ArcOfFireToggle>Mantén presionado {0} y haz clic para quitar temporalmente la restricción del arco de fuego de esta torreta.</CE_ArcOfFireToggle>
 	<!-- EN: Hold {0} and click to reset firing arc settings for this turret. -->
-  <CE_ArcOfFireReset>TODO</CE_ArcOfFireReset>
+  <CE_ArcOfFireReset>Mantén presionado {0} y haz clic para restablecer la configuración del arco de fuego de esta torreta.</CE_ArcOfFireReset>
 
 	<!-- EN: Copy arc of fire setting -->
-  <CE_ArcOfFireCopyLabel>TODO</CE_ArcOfFireCopyLabel>
+  <CE_ArcOfFireCopyLabel>Copiar configuración de arco de fuego</CE_ArcOfFireCopyLabel>
 	<!-- EN: Copy the arc of fire setting from this turret. -->
-  <CE_ArcOfFireCopyDesc>TODO</CE_ArcOfFireCopyDesc>
+  <CE_ArcOfFireCopyDesc>Copia la configuración del arco de fuego de esta torreta.</CE_ArcOfFireCopyDesc>
 
 	<!-- EN: Paste arc of fire setting -->
-  <CE_ArcOfFirePasteLabel>TODO</CE_ArcOfFirePasteLabel>
+  <CE_ArcOfFirePasteLabel>Pegar configuración de arco de fuego</CE_ArcOfFirePasteLabel>
 	<!-- EN: Paste the arc of fire setting to this turret. If the pasted setting is out of bounds of this turret, it will be clamped. -->
-  <CE_ArcOfFirePasteDesc>TODO</CE_ArcOfFirePasteDesc>
+  <CE_ArcOfFirePasteDesc>Pega la configuración del arco de fuego en esta torreta. Si la configuración pegada excede los límites de la torreta, se ajustará automáticamente.</CE_ArcOfFirePasteDesc>
 
 	<!-- EN: Arc of fire:{0}~{1} -->
-  <CE_ArcOfFire>TODO</CE_ArcOfFire>
+  <CE_ArcOfFire>Arco de fuego: {0}~{1}</CE_ArcOfFire>
 
 	<!-- EN: Turret traverse speed -->
-  <CE_NonSnapTurretSpeed>TODO</CE_NonSnapTurretSpeed>
+  <CE_NonSnapTurretSpeed>Velocidad de giro de la torreta</CE_NonSnapTurretSpeed>
 
 	<!-- EN: Free arc of fire span -->
-  <CE_MaxArcOfFireSpan>TODO</CE_MaxArcOfFireSpan>
+  <CE_MaxArcOfFireSpan>Rango libre del arco de fuego</CE_MaxArcOfFireSpan>
 	<!-- EN: The maximal and minimal arc of fire from a given center line. -->
-  <CE_MaxArcOfFireSpanDesc>TODO</CE_MaxArcOfFireSpanDesc>	
+  <CE_MaxArcOfFireSpanDesc>El arco de fuego máximo y mínimo medido desde una línea central determinada.</CE_MaxArcOfFireSpanDesc>	
 
 	<!-- EN: Maximal arc of fire -->
-  <CE_MaxArcOfFireDeviation>TODO</CE_MaxArcOfFireDeviation>
+  <CE_MaxArcOfFireDeviation>Arco de fuego máximo</CE_MaxArcOfFireDeviation>
 	<!-- EN: The maximal arc of fire from the facing of the turret. -->
-  <CE_MaxArcOfFireDeviationDesc>TODO</CE_MaxArcOfFireDeviationDesc>
+  <CE_MaxArcOfFireDeviationDesc>El arco de fuego máximo desde la orientación de la torreta.</CE_MaxArcOfFireDeviationDesc>
 
 	<!-- EN: Turret traverse and arc of fire -->
-  <CE_Settings_EnableArcOfFire_Title>TODO</CE_Settings_EnableArcOfFire_Title>
+  <CE_Settings_EnableArcOfFire_Title>Giro de torreta y arco de fuego</CE_Settings_EnableArcOfFire_Title>
 	<!-- EN: When enabled, turret firing arcs are player-adjustable. Some turret may have limited maximal arc of fire.\nTurrets will also traverse instead of instantly snapping to their target. -->
-  <CE_Settings_EnableArcOfFire_Desc>TODO</CE_Settings_EnableArcOfFire_Desc>
+  <CE_Settings_EnableArcOfFire_Desc>Cuando está activado, los arcos de fuego de las torretas pueden ajustarse manualmente. Algunas torretas pueden tener un arco de fuego máximo limitado.\nLas torretas también girarán en lugar de apuntar instantáneamente a su objetivo.</CE_Settings_EnableArcOfFire_Desc>
+
 
 </LanguageData>

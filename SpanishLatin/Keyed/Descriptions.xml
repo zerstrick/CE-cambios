@@ -2,71 +2,72 @@
 <LanguageData>
 
 	<!-- EN: Damage -->
-  <CE_DescDamage>TODO</CE_DescDamage>
+  <CE_DescDamage>Daño</CE_DescDamage>
 	<!-- EN: Base damage -->
-  <CE_DescBaseDamage>TODO</CE_DescBaseDamage>
+  <CE_DescBaseDamage>Daño base</CE_DescBaseDamage>
 	<!-- EN: Explosion radius -->
-  <CE_DescExplosionRadius>TODO</CE_DescExplosionRadius>
+  <CE_DescExplosionRadius>Radio de explosión</CE_DescExplosionRadius>
 	<!-- EN: Secondary explosion -->
-  <CE_DescSecondaryExplosion>TODO</CE_DescSecondaryExplosion>
+  <CE_DescSecondaryExplosion>Explosión secundaria</CE_DescSecondaryExplosion>
 	<!-- EN: Armor penetration -->
-  <CE_DescArmorPenetration>TODO</CE_DescArmorPenetration>
+  <CE_DescArmorPenetration>Penetración de armadura</CE_DescArmorPenetration>
 	<!-- EN: Sharp penetration -->
-  <CE_DescSharpPenetration>TODO</CE_DescSharpPenetration>
+  <CE_DescSharpPenetration>Penetración cortante</CE_DescSharpPenetration>
 	<!-- EN: Blunt penetration -->
-  <CE_DescBluntPenetration>TODO</CE_DescBluntPenetration>
+  <CE_DescBluntPenetration>Penetración contundente</CE_DescBluntPenetration>
 	<!-- EN: Armor reduction -->
-  <CE_DescAmbientPenetration>TODO</CE_DescAmbientPenetration>
+  <CE_DescAmbientPenetration>Reducción de armadura</CE_DescAmbientPenetration>
 	<!-- EN: Pellet count -->
-  <CE_DescPelletCount>TODO</CE_DescPelletCount>
+  <CE_DescPelletCount>Cantidad de proyectiles</CE_DescPelletCount>
 	<!-- EN: Spread factor -->
-  <CE_DescSpreadMult>TODO</CE_DescSpreadMult>
+  <CE_DescSpreadMult>Factor de dispersión</CE_DescSpreadMult>
 	<!-- EN: Recoil factor -->
-  <CE_DescRecoilMult>TODO</CE_DescRecoilMult>
+  <CE_DescRecoilMult>Factor de retroceso</CE_DescRecoilMult>
 	<!-- EN: Recoil offset -->
-  <CE_DescRecoilOffset>TODO</CE_DescRecoilOffset>
+  <CE_DescRecoilOffset>Desplazamiento del retroceso</CE_DescRecoilOffset>
 	<!-- EN: Effective range factor -->
-  <CE_DescEffectiveRangeMult>TODO</CE_DescEffectiveRangeMult>
+  <CE_DescEffectiveRangeMult>Factor de alcance efectivo</CE_DescEffectiveRangeMult>
 	<!-- EN: Effective range offset -->
-  <CE_DescEffectiveRangeOffset>TODO</CE_DescEffectiveRangeOffset>
+  <CE_DescEffectiveRangeOffset>Desplazamiento del alcance efectivo</CE_DescEffectiveRangeOffset>
 	<!-- EN: Warmup time factor -->
-  <CE_DescWarmupMult>TODO</CE_DescWarmupMult>
+  <CE_DescWarmupMult>Factor de tiempo de preparación</CE_DescWarmupMult>
 	<!-- EN: Warmup time offset -->
-  <CE_DescWarmupOffset>TODO</CE_DescWarmupOffset>
+  <CE_DescWarmupOffset>Desplazamiento del tiempo de preparación</CE_DescWarmupOffset>
 	<!-- EN: Muzzle flash scale factor -->
-  <CE_DescMuzzleFlasMult>TODO</CE_DescMuzzleFlasMult>
+  <CE_DescMuzzleFlasMult>Factor de escala del fogonazo</CE_DescMuzzleFlasMult>
 	<!-- EN: Muzzle flash scale offset -->
-  <CE_DescMuzzleFlashOffset>TODO</CE_DescMuzzleFlashOffset>
+  <CE_DescMuzzleFlashOffset>Desplazamiento de la escala del fogonazo</CE_DescMuzzleFlashOffset>
 	<!-- EN: Fragments -->
-  <CE_DescFragments>TODO</CE_DescFragments>
+  <CE_DescFragments>Fragmentos</CE_DescFragments>
 
 	<!-- EN: Launched from {0} ({1}) to {2} ({3}) -->
-  <CE_TravelingShell_Description>TODO</CE_TravelingShell_Description>
+  <CE_TravelingShell_Description>Lanzado desde {0} ({1}) hacia {2} ({3})</CE_TravelingShell_Description>
 	<!-- EN: Enemy influenced -->
-  <CE_EnemyInfluenced>TODO</CE_EnemyInfluenced>
+  <CE_EnemyInfluenced>Influenciado por el enemigo</CE_EnemyInfluenced>
 	<!-- EN: Effects: -->
-  <CE_FactionRecord_Explanation_Effects>TODO</CE_FactionRecord_Explanation_Effects>
+  <CE_FactionRecord_Explanation_Effects>Efectos:</CE_FactionRecord_Explanation_Effects>
 	<!-- EN: Raids prevented for {0} days -->
-  <CE_FactionRecord_Explanation_RaidEmbargo>TODO</CE_FactionRecord_Explanation_RaidEmbargo>
+  <CE_FactionRecord_Explanation_RaidEmbargo>Incursiones evitadas durante {0} días</CE_FactionRecord_Explanation_RaidEmbargo>
 	<!-- EN: Strength affected by x{0} for {1} days -->
-  <CE_FactionRecord_Explanation_Strength>TODO</CE_FactionRecord_Explanation_Strength>
+  <CE_FactionRecord_Explanation_Strength>Fuerza afectada por x{0} durante {1} días</CE_FactionRecord_Explanation_Strength>
 	<!-- EN: Multiplier: -->
-  <CE_Multiplier>TODO</CE_Multiplier>
+  <CE_Multiplier>Multiplicador:</CE_Multiplier>
 	<!-- EN: Value: -->
-  <CE_SetValPartial>TODO</CE_SetValPartial>
+  <CE_SetValPartial>Valor:</CE_SetValPartial>
 
 	<!-- EN: {0} was influenced by an unknown cause -->
-  <CE_FactionRecord_Explanation_None>TODO</CE_FactionRecord_Explanation_None>
+  <CE_FactionRecord_Explanation_None>{0} fue influenciado por una causa desconocida</CE_FactionRecord_Explanation_None>
 	<!-- EN: {0} leader died in a major blow -->
-  <CE_FactionRecord_Explanation_LeaderKilled>TODO</CE_FactionRecord_Explanation_LeaderKilled>
+  <CE_FactionRecord_Explanation_LeaderKilled>El líder de {0} murió en un golpe decisivo</CE_FactionRecord_Explanation_LeaderKilled>
 	<!-- EN: Settlement belonging to {0} was destroyed -->
-  <CE_FactionRecord_Explanation_SettlementDestroyed>TODO</CE_FactionRecord_Explanation_SettlementDestroyed>
+  <CE_FactionRecord_Explanation_SettlementDestroyed>Un asentamiento perteneciente a {0} fue destruido</CE_FactionRecord_Explanation_SettlementDestroyed>
 	<!-- EN: Site belonging to {0} was destroyed -->
-  <CE_FactionRecord_Explanation_SiteDestroyed>TODO</CE_FactionRecord_Explanation_SiteDestroyed>
+  <CE_FactionRecord_Explanation_SiteDestroyed>Un sitio perteneciente a {0} fue destruido</CE_FactionRecord_Explanation_SiteDestroyed>
 	<!-- EN: Strengthened after an enemy of {0} was weakened -->
-  <CE_FactionRecord_Explanation_EnemyWeakened>TODO</CE_FactionRecord_Explanation_EnemyWeakened>
+  <CE_FactionRecord_Explanation_EnemyWeakened>Se fortaleció después de que un enemigo de {0} fuera debilitado</CE_FactionRecord_Explanation_EnemyWeakened>
 
 	<!-- EN: Whether or not this item can be used to spot for artillery fire between maps. -->
-  <CE_Long_Range_Radio_Desc>TODO</CE_Long_Range_Radio_Desc>
+  <CE_Long_Range_Radio_Desc>Indica si este objeto puede usarse o no para dirigir fuego de artillería entre distintos mapas.</CE_Long_Range_Radio_Desc>
+
 
 </LanguageData>
