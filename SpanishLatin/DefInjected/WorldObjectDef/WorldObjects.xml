@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: Artillery Shell -->
-  <TravelingShell.label>TODO</TravelingShell.label>
+  <TravelingShell.label>Proyectil de artillería</TravelingShell.label>
   <!-- EN: An artillery projectile. -->
-  <TravelingShell.description>TODO</TravelingShell.description>
-  
+  <TravelingShell.description>Un proyectil de artillería.</TravelingShell.description>
+
 </LanguageData>

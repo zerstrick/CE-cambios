@@ -2,31 +2,32 @@
 <LanguageData>
   
   <!-- EN: make ammo -->
-  <DoBillsAmmoBench.label>TODO</DoBillsAmmoBench.label>
+  <DoBillsAmmoBench.label>fabricar munición</DoBillsAmmoBench.label>
   <!-- EN: producing ammo at -->
-  <DoBillsAmmoBench.gerund>TODO</DoBillsAmmoBench.gerund>
+  <DoBillsAmmoBench.gerund>produciendo munición en</DoBillsAmmoBench.gerund>
   <!-- EN: produce ammo -->
-  <DoBillsAmmoBench.verb>TODO</DoBillsAmmoBench.verb>
+  <DoBillsAmmoBench.verb>producir munición</DoBillsAmmoBench.verb>
   
   <!-- EN: modify weapons -->
-  <ModifyWeapons.label>TODO</ModifyWeapons.label>
+  <ModifyWeapons.label>modificar armas</ModifyWeapons.label>
   <!-- EN: applying modifications at -->
-  <ModifyWeapons.gerund>TODO</ModifyWeapons.gerund>
+  <ModifyWeapons.gerund>aplicando modificaciones en</ModifyWeapons.gerund>
   <!-- EN: attach attachments -->
-  <ModifyWeapons.verb>TODO</ModifyWeapons.verb>
+  <ModifyWeapons.verb>instalar accesorios</ModifyWeapons.verb>
   
   <!-- EN: reload ammo container -->
-  <ReloadAutoLoader.label>TODO</ReloadAutoLoader.label>
+  <ReloadAutoLoader.label>recargar contenedor de munición</ReloadAutoLoader.label>
   <!-- EN: reloading -->
-  <ReloadAutoLoader.gerund>TODO</ReloadAutoLoader.gerund>
+  <ReloadAutoLoader.gerund>recargando</ReloadAutoLoader.gerund>
   <!-- EN: reload -->
-  <ReloadAutoLoader.verb>TODO</ReloadAutoLoader.verb>
+  <ReloadAutoLoader.verb>recargar</ReloadAutoLoader.verb>
   
   <!-- EN: reload turrets -->
-  <ReloadTurrets.label>TODO</ReloadTurrets.label>
+  <ReloadTurrets.label>recargar torretas</ReloadTurrets.label>
   <!-- EN: reloading -->
-  <ReloadTurrets.gerund>TODO</ReloadTurrets.gerund>
+  <ReloadTurrets.gerund>recargando</ReloadTurrets.gerund>
   <!-- EN: reload -->
-  <ReloadTurrets.verb>TODO</ReloadTurrets.verb>
+  <ReloadTurrets.verb>recargar</ReloadTurrets.verb>
+
   
 </LanguageData>

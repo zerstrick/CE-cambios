@@ -2,18 +2,19 @@
 <LanguageData>
   
   <!-- EN: flamethrower -->
-  <CE_FlamethrowerTrait.label>TODO</CE_FlamethrowerTrait.label>
+  <CE_FlamethrowerTrait.label>lanzallamas</CE_FlamethrowerTrait.label>
   <!-- EN: This weapon has a flamethrower unit. The burner generates a blast of flame from a pressurized fuel tank. -->
-  <CE_FlamethrowerTrait.description>TODO</CE_FlamethrowerTrait.description>
+  <CE_FlamethrowerTrait.description>Esta arma tiene un módulo lanzallamas. El quemador genera una ráfaga de fuego desde un tanque de combustible presurizado.</CE_FlamethrowerTrait.description>
   <!-- EN: fiery -->
-  <CE_FlamethrowerTrait.traitAdjectives.0>TODO</CE_FlamethrowerTrait.traitAdjectives.0>
+  <CE_FlamethrowerTrait.traitAdjectives.0>ígneo</CE_FlamethrowerTrait.traitAdjectives.0>
   <!-- EN: flame -->
-  <CE_FlamethrowerTrait.traitAdjectives.1>TODO</CE_FlamethrowerTrait.traitAdjectives.1>
+  <CE_FlamethrowerTrait.traitAdjectives.1>llama</CE_FlamethrowerTrait.traitAdjectives.1>
   <!-- EN: flaming -->
-  <CE_FlamethrowerTrait.traitAdjectives.2>TODO</CE_FlamethrowerTrait.traitAdjectives.2>
+  <CE_FlamethrowerTrait.traitAdjectives.2>llameante</CE_FlamethrowerTrait.traitAdjectives.2>
   <!-- EN: burning -->
-  <CE_FlamethrowerTrait.traitAdjectives.3>TODO</CE_FlamethrowerTrait.traitAdjectives.3>
+  <CE_FlamethrowerTrait.traitAdjectives.3>ardiente</CE_FlamethrowerTrait.traitAdjectives.3>
   <!-- EN: switch to flamethrower -->
-  <CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>TODO</CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>
+  <CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>cambiar a lanzallamas</CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>
+
   
 </LanguageData>

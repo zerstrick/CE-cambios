@@ -2,16 +2,21 @@
 <LanguageData>
   
   <!-- EN: cowardly -->
-  <Bravery.degreeDatas.cowardly.label>TODO</Bravery.degreeDatas.cowardly.label>
+  <Bravery.degreeDatas.cowardly.label>cobarde</Bravery.degreeDatas.cowardly.label>
   <!-- EN: [PAWN_nameDef] always shies away from danger. [PAWN_pronoun] is usually the first to flee from battle. -->
-  <Bravery.degreeDatas.cowardly.description>TODO</Bravery.degreeDatas.cowardly.description>
+  <Bravery.degreeDatas.cowardly.description>{PAWN_nameDef} siempre se aparta del peligro. Suele ser {PAWN_gender ? el primero : la primera} en huir del combate.</Bravery.degreeDatas.cowardly.description>
+
   <!-- EN: brave -->
-  <Bravery.degreeDatas.brave.label>TODO</Bravery.degreeDatas.brave.label>
+  <Bravery.degreeDatas.brave.label>valiente</Bravery.degreeDatas.brave.label>
   <!-- EN: Few things scare [PAWN_nameDef]. In battle [PAWN_pronoun] stands unfazed where others panic and flee. -->
-  <Bravery.degreeDatas.brave.description>TODO</Bravery.degreeDatas.brave.description>
+  <Bravery.degreeDatas.brave.description>Pocas cosas asustan a {PAWN_nameDef}. En combate, permanece impasible donde otros entran en pánico y huyen.</Bravery.degreeDatas.brave.description>
+  
+
   <!-- EN: fearless -->
-  <Bravery.degreeDatas.fearless.label>TODO</Bravery.degreeDatas.fearless.label>
+  <Bravery.degreeDatas.fearless.label>intrépido</Bravery.degreeDatas.fearless.label>
   <!-- EN: [PAWN_nameDef] laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, [PAWN_nameDef] seems to lack any sense of self-preservation and will never flee from a threatening situation. -->
-  <Bravery.degreeDatas.fearless.description>TODO</Bravery.degreeDatas.fearless.description>
+  <Bravery.degreeDatas.fearless.description>{PAWN_nameDef} se ríe en la cara del peligro. Algunos lo atribuyen a la valentía, otros a la estupidez. Sea como sea, {PAWN_nameDef} parece carecer de todo instinto de conservación y nunca huirá de una situación amenazante.</Bravery.degreeDatas.fearless.description>
+  <Bravery.degreeDatas.fearless.labelFemale>intrépida</Bravery.degreeDatas.fearless.labelFemale>
+
   
 </LanguageData>
